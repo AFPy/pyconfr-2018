@@ -20,7 +20,7 @@ grand plaisir que nous serons accueilli dans les locaux de
 Telecom-Bretagne du 13 au 16 octobre 2016.
 
 
-`Voir la carte </pages/venir.html#carte>`_
+`Voir la carte <pages/venir.html#carte>`_
 
 
 Qu'est-ce que PyCon-fr ?

@@ -13,6 +13,12 @@ from pelicanconf import *  # NoQA
 SITEURL = 'http://afpy.github.io/pyconfr_2016'
 RELATIVE_URLS = True
 
+SOCIAL = (
+    ('envelope', 'mailto:pycon-fr@trunat.fr'),
+    ('rss', SITEURL + '/feeds/all.atom.xml'),
+    ('github', 'https://github.com/AFPy/pyconfr_2016'),
+)
+
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 

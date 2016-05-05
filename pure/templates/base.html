@@ -28,7 +28,7 @@
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ main_siteurl }}/theme/css/pure.css">
+    <link rel="stylesheet" href="{{ FEED_DOMAIN }}/theme/css/pure.css">
     {% block head_css %}{% endblock %}
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -63,7 +63,7 @@
         });
     </script>
     {% include 'analytics.html' %}
-  <script src="{{ main_siteurl }}/theme/js/instantclick.min.js" data-no-instant></script>
+  <script src="{{ FEED_DOMAIN }}/theme/js/instantclick.min.js" data-no-instant></script>
   <script data-no-instant>InstantClick.init();</script>
   <!-- Piwik -->
   <script type="text/javascript">
@@ -73,12 +73,12 @@
     (function() {
       var u="//piwik.notmyidea.org/";
       _paq.push(['setTrackerUrl', u+'piwik.php']);
-      _paq.push(['setSiteId', 4]);
+      _paq.push(['setSiteId', 5]);
       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
       g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
     })();
   </script>
-  <noscript><p><img src="//piwik.notmyidea.org/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
+  <noscript><p><img src="//piwik.notmyidea.org/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
   <!-- End Piwik Code -->
 
 </body>
