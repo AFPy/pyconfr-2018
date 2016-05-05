@@ -42,3 +42,5 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['post_stats']
 RESPONSIVE_IMAGES = True
+
+RELATIVE_URLS = True

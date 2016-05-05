@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # NoQA
 
-SITEURL = 'http://2016.pycon.fr/'
-RELATIVE_URLS = False
+SITEURL = 'http://afpy.github.io/pyconfr_2016'
+RELATIVE_URLS = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
