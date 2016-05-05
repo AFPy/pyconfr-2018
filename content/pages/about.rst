@@ -4,6 +4,7 @@
 :slug: a-propos
 :lang: fr
 :url: a-propos
+:save_as: index.html
 
 Cette année la PyCon-FR 2016 à lieu à Rennes sur le campus de Beaulieu
 dans les locaux de Telecom Bretagne du 13 au 16 octobre 2016.

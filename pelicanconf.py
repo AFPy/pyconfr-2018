@@ -21,6 +21,7 @@ SOCIAL = (('Github', 'https://github.com/AFPy/pyconfr_2016'),)
 DEFAULT_PAGINATION = False
 
 THEME = "pure"
+INDEX_SAVE_AS = 'nouvelles.html'
 
 COVER_IMG_URL = '/theme/sidebar.jpg'
 
@@ -31,10 +32,10 @@ SOCIAL = (
 )
 
 MENUITEMS = (
+    (u'À propos', 'index.html'),
     ('Nouvelles', 'archives.html'),
     (u'Venir', 'pages/venir.html'),
     (u'Se loger', 'pages/se-loger.html'),
-    (u'À propos', 'pages/a-propos.html'),
 )
 STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
