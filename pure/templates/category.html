@@ -1,0 +1,3 @@
+{% extends 'index.html' %}
+{% block title %}{{ category|striptags }} catégorie // {{ super() }}{% endblock title %}
+{% block pagetitle %}Articles de '{{ category }}'{% endblock pagetitle %}

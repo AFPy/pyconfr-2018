@@ -1,0 +1,82 @@
+Lancement des festivités
+########################
+
+:slug: ouverture-site-internet
+:date: 2016-05-05
+:summary: PyCon-fr 2016 aura lieu à Rennes du 13 au 16 octobre dans les locaux de Telecom-Bretagne.
+
+
+.. image:: {filename}/images/incubateur-telecom-bretagne.jpg
+    :alt: Entrée de l'incubateur tout neuf de Telecom-Bretagne à Rennes
+    :align: center
+
+
+Une date et un lieu
+===================
+
+Nous avions commencé il y a quelques mois à visiter de nombreux lieux
+pour trouver où organiser la PyCon-fr 2016 à Rennes et c'est avec
+grand plaisir que nous serons accueilli dans les locaux de
+Telecom-Bretagne du 13 au 16 octobre 2016.
+
+
+`Voir la carte </pages/venir.html#carte>`_
+
+
+Qu'est-ce que PyCon-fr ?
+========================
+
+PyCon-fr c'est le grand rassemblement annuel des développeurs Python
+francophones. Organisée chaque année depuis 10 ans par `l'AFPy`_ cette
+conférence regroupe professionnels, chercheurs, étudiants et amateurs
+autour d'une même passion pour le langage de programmation Python_.
+
+.. _`l'AFPy`: http://www.afpy.org/
+.. _Python: http://www.python.org/
+
+
+Tous acteurs de la fête
+=======================
+
+PyCon-fr c'est l'ocassion de se rencontrer de partager, d'apprendre et
+de collaborer dans la joie et la bonne humeur.
+
+Vous êtes toutes et tous les bienvenues et nous comptons sur vous pour
+nous présenter vos découvertes, vos retours d'expériences, les
+techniques et briques libres que vous utilisez mais aussi les projets
+que vous réalisez avec ce merveilleux langage.
+
+
+Le respect et l'ouverture au cœur de l'événement
+================================================
+
+Afin que nous puissions tous profiter et nous sentir à l'aise durant
+l'événement vous demanderons de respecter `la charte de l'AFPy`_
+durant l'événement. Une équipe sera également en place pour gérer les
+incidents et faire en sorte que la charte soit respecter.
+
+Nous ferons tout notre possible pour que chaque participant puisse se
+sentir chez lui et en sécurité durant l'événement.
+
+.. _`la charte de l'AFPy`: http://www.afpy.org/doc/afpy/charte.html
+
+
+Proposez un sprint ou une conférence
+====================================
+
+Cette conférence est la vôtre et vous avez toutes et tous une
+expérience à partager et ce quelque soit votre niveau.
+
+Les années précédentes les expériences de débutants ont été très
+enrichissante notamment pour permettre d'améliorer les supports et
+tutoriaux.
+
+Nous ouvrions dans quelques semaines l'appel à conférenciers et un
+rescencement des sprints que vous souhaitez proposer.
+
+D'ici là nous comptons sur vous pour réfléchir sérieusement à ce que
+vous aimeriez présenter.
+
+Une équipe a été monté pour aider les personnes qui souhaiterait de
+l'aide pour préparer leur conférence ou pour répéter et recevoir des
+retours alors vraiment n'hésitez pas.
