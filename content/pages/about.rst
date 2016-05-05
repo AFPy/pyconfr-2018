@@ -6,8 +6,8 @@
 :url: a-propos
 :save_as: index.html
 
-Cette année la PyCon-FR 2016 à lieu à Rennes sur le campus de Beaulieu
-dans les locaux de Telecom Bretagne du 13 au 16 octobre 2016.
+Cette année la PyCon-FR 2016 a lieu à Rennes sur le campus de Beaulieu
+dans les locaux de Télécom Bretagne du 13 au 16 octobre 2016.
 
 `Telecom Bretagne <http://www.telecom-bretagne.eu/ecole/campus_de_rennes/>`_
 2, rue de la Châtaigneraie
@@ -54,9 +54,8 @@ d'idées…
 
 Les deux premiers jours sont reservés à des sprints :
 
-Les développeurs de différents projets open-source se rejoignent avec
-pour objectif de coder ensemble un maximum. Et ceux-ci sont bien sur
-ouverts aux nouveaux venus.
+Les développeurs de différents projets open-source se rejoignent 
+pour coder ensemble. Tout le monde est le bienvenu pour contribuer et les nouveaux aussi.
 
 Participez au développement de votre projet préféré ! Nous fournissons
 l'espace et le matériel nécessaire à l'organisation (tables, chaises,
