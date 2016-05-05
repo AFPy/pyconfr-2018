@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # NoQA
 
-SITEURL = 'http://afpy.github.io/pyconfr_2016'
-RELATIVE_URLS = True
+SITEURL = 'http://2016.pycon.fr'
+RELATIVE_URLS = False
 
 SOCIAL = (
     ('envelope', 'mailto:pycon-fr@trunat.fr'),
