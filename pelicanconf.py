@@ -26,7 +26,7 @@ INDEX_SAVE_AS = 'nouvelles.html'
 COVER_IMG_URL = '/theme/sidebar.jpg'
 
 SOCIAL = (
-    ('envelope', 'mailto:pycon-fr@trunat.fr'),
+    ('envelope', 'mailto:contact@pycon.fr'),
     ('rss', SITEURL + '/feeds/all.atom.xml'),
     ('github', 'https://github.com/AFPy/pyconfr_2016'),
 )

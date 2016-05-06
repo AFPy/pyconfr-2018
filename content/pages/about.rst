@@ -71,4 +71,4 @@ Informations complémentaires
 Vous trouverez sur ce site toutes les informations relatives à
 l'organisation de votre venue, des sprints et des conférences.
 
-- **Email pour l'évènement :** `pycon-fr@trunat.fr <pycon-fr@trunat.fr>`_
+- **Email pour l'évènement :** `contact@pycon.fr <contact@pycon.fr>`_

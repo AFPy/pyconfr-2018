@@ -14,7 +14,7 @@ SITEURL = 'http://2016.pycon.fr'
 RELATIVE_URLS = False
 
 SOCIAL = (
-    ('envelope', 'mailto:pycon-fr@trunat.fr'),
+    ('envelope', 'mailto:contact@pycon.fr'),
     ('rss', SITEURL + '/feeds/all.atom.xml'),
     ('github', 'https://github.com/AFPy/pyconfr_2016'),
 )
