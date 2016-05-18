@@ -516,6 +516,15 @@ h1, h2, h3, h4 {
   font-family: "aleo";
 }
 
+.sponsors th, .sponsors td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.sponsors th:first-of-type, .sponsors td:first-of-type {
+  text-align: left;
+}
+
 @media (min-width: 100em) {
   .content {
     font-size: 1.2em;

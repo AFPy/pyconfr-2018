@@ -36,6 +36,7 @@ MENUITEMS = (
     ('Nouvelles', 'archives.html'),
     (u'Venir', 'pages/venir.html'),
     (u'Se loger', 'pages/se-loger.html'),
+    (u'Sponsoring', 'pages/sponsoring.html'),
     (u'Code de conduite', 'pages/code-de-conduite.html'),
 )
 STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
