@@ -43,7 +43,7 @@ Champ d’application
 
 Ces bonnes pratiques s’appliquent dans le cadre de tout événement (co-)organisé par l’AFPy de manière directe ou indirecte à savoir:
 
-- les conférences (PyConFr, événement à la cantine et autre)
+- les conférences (PyCon-fr, événement à la cantine et autre)
 - les canaux IRC ou XMPP ou autre messagerie instantanée
 - planète python
 - le blog
@@ -80,4 +80,3 @@ Signaler
 Si vous êtes harcelé(e) ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) participant(e-s), ou si vous craignez la survenue d’un incident, contactez sans attendre un membre organisateur (dans le cas d’un événement) ou un membre du comité directeur de l’AFPy.
 
 Contact: diversite at afpy dot org
-
