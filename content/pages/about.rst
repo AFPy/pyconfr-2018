@@ -9,14 +9,14 @@
 Cette année la PyCon-FR 2016 a lieu à Rennes sur le campus de Beaulieu
 dans les locaux de Télécom Bretagne du 13 au 16 octobre 2016.
 
-`Telecom Bretagne <http://www.telecom-bretagne.eu/ecole/campus_de_rennes/>`_
+`Télécom Bretagne <http://www.telecom-bretagne.eu/ecole/campus_de_rennes/>`_
 2, rue de la Châtaigneraie
 35576 Cesson Sévigné
 
 **Coordonnées GPS :** 48.1206 - 01.6278
 
 .. image:: ../images/incubateur-telecom-bretagne-entree.jpg
-    :alt: Entrée de l'incubateur tout neuf de Telecom-Bretagne à Rennes
+    :alt: Entrée de l'incubateur tout neuf de Télécom Bretagne à Rennes
     :align: center
 
 
@@ -54,7 +54,7 @@ d'idées…
 
 Les deux premiers jours sont reservés à des sprints :
 
-Les développeurs de différents projets open-source se rejoignent 
+Les développeurs de différents projets open-source se rejoignent
 pour coder ensemble. Tout le monde est le bienvenu pour contribuer et les nouveaux aussi.
 
 Participez au développement de votre projet préféré ! Nous fournissons
