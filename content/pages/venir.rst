@@ -8,7 +8,7 @@ Venir à PyCon-fr
 
 Rennes se trouve à l'entrée de la Bretagne à 2h15 de Paris en TGV.
 
-PyCon-fr 2016 sera hébergée par `Telecom Bretagne
+PyCon-fr 2016 sera hébergée par `Télécom Bretagne
 <http://www.telecom-bretagne.eu/ecole/campus_de_rennes/>`_
 
  2, rue de la Châtaigneraie 35576 Cesson Sévigné
@@ -32,17 +32,14 @@ Les bus circulent de de 5h20 à 0h35 en semaine, 6h le samedi et 8h le
 dimanche jusqu'à 1h35 le week-end.  En moyenne, il y a un bus toutes les 8
 minutes.
 
-La ligne la plus directe est la ligne C4 en descendant à l'un des arrêt
-IUT / Beaulieu Restau U / Beaulieu INSA / Beaulieu Chimie.
+La ligne la plus directe est la ligne C4 en descendant à l'arrêt
+Beaulieu INSA.
 
 
-.. image:: ../images/plan-arrivee-bus.png
-    :alt: Plan d'arrivée à Telecom Bretagne en Bus
-    :align: center
+.. html::
+    <iframe id="carte" width="100%" height="650px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&datalayers=198023#14/48.1123/-1.6435"></iframe>
+    <p><a href="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009#15/48.1192/-1.6250">Voir en plein écran</a></p>
 
-
-Marcher vers le campanile / AST 35, traverser vers l'est, vous
-appercevrez les bureaux d'Orange, c'est juste derrière.
 
 Pour plus d'informations sur les horaires des bus et métros
 `consultez le site du Réseau Bus+Métro de Rennes`_.
@@ -74,7 +71,7 @@ Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 
 `Plus d'information disponibles sur le site de l'aéroport <http://www.rennes.aeroport.fr/>`_
 
-L'aéroport est tout prêt, prenez le bus 57 jusqu'à République puis le C4 (voir ci-dessus)
+L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le C4 (voir ci-dessus)
 
 
 Atterrir à Nantes
@@ -90,7 +87,7 @@ Depuis Charles de Gaule
 +++++++++++++++++++++++
 
 Si vous venez de très loin, il y a un TGV direct depuis CDG deux fois
-par jours qui mets environ 3h.
+par jour qui met environ 3h.
 
 - Départ de CDG à 10h16, 14h49, 18h47
 - Départ de Rennes à 6h10, 7h10, 10h05, 10h59, 16h05

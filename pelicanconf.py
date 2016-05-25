@@ -42,7 +42,7 @@ STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['post_stats']
+PLUGINS = ['post_stats', 'html_rst_directive']
 RESPONSIVE_IMAGES = True
 
 RELATIVE_URLS = True
