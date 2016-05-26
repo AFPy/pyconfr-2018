@@ -11,8 +11,8 @@ Sur le Campus
 
 Nous sommes à deux pas de Cesson-Sévigné.
 
-- `Rechercher un AirBNB`_ 
-- Les locaux de Telecom-Bretagne se situe à mi-chemin entre `Le Campanile de Rennes Atalante`_ et `L'Ibis de Rennes Beaulieu`_
+- `Rechercher un AirBNB`_
+- Les locaux de Télécom Bretagne se situent à mi-chemin entre `Le Campanile de Rennes Atalante`_ et `L'Ibis de Rennes Beaulieu`_
 
 .. _`Rechercher un AirBNB`: https://www.airbnb.fr/s/Rue-de-la-Ch%C3%A2taigneraie--Cesson~S%C3%A9vign%C3%A9?checkin=13%2F10%2F2016&checkout=16%2F10%2F2016
 

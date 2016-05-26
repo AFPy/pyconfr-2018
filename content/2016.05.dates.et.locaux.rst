@@ -3,11 +3,11 @@ Lancement des festivités
 
 :slug: ouverture-site-internet
 :date: 2016-05-05
-:summary: PyCon-fr 2016 aura lieu à Rennes du 13 au 16 octobre dans les locaux de Telecom-Bretagne.
+:summary: PyCon-fr 2016 aura lieu à Rennes du 13 au 16 octobre dans les locaux de Télécom Bretagne.
 
 
 .. image:: {filename}/images/incubateur-telecom-bretagne.jpg
-    :alt: Entrée de l'incubateur tout neuf de Telecom-Bretagne à Rennes
+    :alt: Entrée de l'incubateur tout neuf de Télécom Bretagne à Rennes
     :align: center
 
 
@@ -17,7 +17,7 @@ Une date et un lieu
 Nous avions commencé il y a quelques mois à visiter de nombreux lieux
 pour trouver où organiser la PyCon-fr 2016 à Rennes et c'est avec
 grand plaisir que nous serons accueilli dans les locaux de
-Telecom-Bretagne du 13 au 16 octobre 2016.
+Télécom Bretagne du 13 au 16 octobre 2016.
 
 
 `Voir la carte <pages/venir.html#carte>`_
