@@ -36,6 +36,7 @@ MENUITEMS = (
     ('Nouvelles', 'archives.html'),
     (u'Venir', 'pages/venir.html'),
     (u'Se loger', 'pages/se-loger.html'),
+    (u'Miam !', 'pages/se-restaurer.html'),
     (u'Soutiens', 'pages/soutiens.html'),
     (u'Code de conduite', 'pages/code-de-conduite.html'),
 )
