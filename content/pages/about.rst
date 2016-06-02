@@ -26,7 +26,7 @@ Qu'est-ce que PyCon-fr ?
 PyCon-fr c'est **le rassemblement annuel de la communauté Python
 francophone**.
 
-Organisée chaque année depuis 10 ans par `l'AFPy`_ cette conférence
+Organisée chaque année depuis 10 ans par `l'AFPy`_, cette conférence
 est gratuite, entièrement organisée par des bénévoles et regroupe
 professionnels, chercheurs, étudiants et amateurs autour d'une même
 passion pour le langage de programmation Python_.
@@ -44,15 +44,10 @@ de Beaulieu dans les locaux de Télécom Bretagne :
 - deux jours de conférences les 15 et 16 octobre
 
 
-Conférences et Ateliers
+Ateliers ("Sprints")
 =======================
 
-Durant ces deux jours, vous aurez l'occasion de participer à des
-présentations sur des sujets variés, autour du langage Python, de ses
-usages, des bonnes pratiques, des retours d'expériences, des partages
-d'idées…
-
-Les deux premiers jours sont reservés à des sprints :
+Les deux premiers jours sont reservés à des sprints.
 
 Les développeurs de différents projets open-source se rejoignent
 pour coder ensemble. Tout le monde est le bienvenu pour contribuer et les nouveaux aussi.
@@ -61,8 +56,15 @@ Participez au développement de votre projet préféré ! Nous fournissons
 l'espace et le matériel nécessaire à l'organisation (tables, chaises,
 connexion internet… et café !)
 
-Si vous souhaitez organiser un sprint, contactez nous et nous
-ajouterons votre projet au programme des sprints.
+
+Conférences
+===========
+
+Durant ces deux jours, vous aurez l'occasion de participer à des
+présentations sur des sujets variés, autour du langage Python, de ses
+usages, des bonnes pratiques, des retours d'expériences, des partages
+d'idées…
+
 
 
 Informations complémentaires

@@ -33,11 +33,13 @@ SOCIAL = (
 
 MENUITEMS = (
     (u'À propos', 'index.html'),
-    ('Nouvelles', 'archives.html'),
+    (u'Nouvelles', 'archives.html'),
+    (u'Programme', 'pages/programme.html'),
     (u'Venir', 'pages/venir.html'),
     (u'Se loger', 'pages/se-loger.html'),
     (u'Miam !', 'pages/se-restaurer.html'),
     (u'Soutiens', 'pages/soutiens.html'),
+    (u'Nous contacter', 'pages/nous-contacter.html'),
     (u'Code de conduite', 'pages/code-de-conduite.html'),
 )
 STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
