@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block title %}Nouvelles{% endblock title %}
+
+{% block content %}
+  <h1>Nouvelles</h1>
+  {% for article in dates %}
+    <section>
+      <h2><a class="post-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+      <p>{{ article.summary }}</p>
+    </section>
+  {% endfor %}
+{% endblock %}

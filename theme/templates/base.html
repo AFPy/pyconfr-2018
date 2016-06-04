@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  {% block head %}
+    <title>{{ SITENAME }} - {% block title %}{% endblock title %}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% assets filters="sass,cssmin", output="css/style.min.css", "css/style.sass" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+  {% endblock head %}
+</head>
+
+<body id="{{ output_file.split('/')[-1].split('.')[0] }}">
+  <header>
+    <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+    {% block header %}{% endblock header %}
+  </header>
+
+  <nav id="menu">
+    <ul>
+      {% for title, link in MENUITEMS %}
+        <li{% if link == '/' + output_file %} class="active"{% endif %}>
+          <a href="{{ link }}">{{ title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {% block content %}{% endblock %}
+
+  <footer>
+    <ul>
+      {% for title, link in SOCIAL %}
+        <li>
+          <a class="{{ title | lower }}" href="{{ link }}">{{ title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <p>
+      © {{ SITENAME }}
+    </p>
+    <p>
+      Développé avec <a href="http://blog.getpelican.com/">Pelican</a>.
+    </p>
+  </footer>
+</body>
+</html>
