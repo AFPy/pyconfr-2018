@@ -3,3 +3,4 @@ beautifulsoup4
 ghp-import
 Pillow
 markdown
+webassets
