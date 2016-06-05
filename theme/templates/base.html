@@ -5,7 +5,7 @@
     <title>{{ SITENAME }} - {% block title %}{% endblock title %}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% assets filters="sass,cssmin", output="css/style.min.css", "css/style.sass" %}
+    {% assets filters="libsass,cssmin", output="css/style.min.css", "css/style.sass" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
