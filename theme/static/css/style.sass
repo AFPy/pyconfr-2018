@@ -1,5 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Hind:400,300,500,600,700)
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900)
+
 html
+  color: #7c7c7c
   display: flex
+  font-family: Merriweather
   min-height: 100%
   min-width: 100%
 
@@ -9,6 +14,11 @@ body
   margin: 0
   min-height: 100%
   min-width: 100%
+
+  h1, h2, h3, nav
+    color: #000
+    font-family: Hind
+    text-transform: uppercase
 
   > *
     margin: 0 auto
@@ -25,7 +35,7 @@ body
     padding: 0
 
   > nav, > footer
-    background: grey
+    /*background: grey*/
     display: flex
 
     ul
@@ -79,6 +89,24 @@ body
     ul
       margin-left: 130px
 
+      li
+        a
+          color: #000
+          font-weight: 600
+          text-decoration: none
+
+        &.active
+          border-bottom: 1px solid #218ce0
+          border-top: 1px solid #218ce0
+
+          a
+            color: #218ce0
+
+        &:hover
+          a
+            color: #218ce0
+
+
   > footer
     border-top: 2em solid transparent
     background-clip: content-box
@@ -98,12 +126,15 @@ body
     margin: 0 auto
     max-width: none
 
+    h2
+      font-size: 2em
+
+
     > *
       max-width: 1200px
       margin: 1em auto
 
   header
-    background: grey
     order: -2
     position: static
 
@@ -122,7 +153,8 @@ body
       margin-left: 0
 
   section:first-of-type
-    background: lightgrey
+    background: #218ce0
+    color: #fff
     margin-left: 0
     margin-right: 0
     order: -1
@@ -132,8 +164,29 @@ body
     > *
       max-width: 800px
 
+    h2
+      color: #004D8A
+      font-size: 2em
+      font-weight: 600
+      text-transform: uppercase
+
+    p
+      font-size: 1.1em
+      line-height: 1.8em
+
+    a
+      color: #004D8A
+      text-decoration: none
+      transition: 0.5s
+
+      &:hover
+        color: darken(#004D8A, 25%)
+
     &:before
       content: 'Rennes, 13-16 octobre 2016'
       display: block
+      font-family: Hind
       font-size: 2em
+      font-weight: 700
       text-align: center
+      text-transform: uppercase
