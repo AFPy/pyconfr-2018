@@ -2,11 +2,43 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900)
 
 html
-  color: #7c7c7c
+  color: #5a5a5a
   display: flex
   font-family: Merriweather
   min-height: 100%
   min-width: 100%
+
+body:not(#index)
+  a
+    color: #218ce0
+    text-decoration: none
+    font-weight: 600
+
+    &:hover
+      color: #004d8a
+
+  .section, section
+    &:nth-child(odd)
+      background: #f5f5f5
+
+    table
+      border: 1px solid #acacac
+      border-collapse: collapse
+      margin: 0 auto
+
+      thead
+        vertical-align: middle
+
+      tbody
+        text-align: center
+        td
+          padding: 1em
+
+        tr:nth-child(odd)
+          background: #f5f5f5
+
+    ul
+      line-height: 2em;
 
 body
   display: flex
@@ -15,7 +47,10 @@ body
   min-height: 100%
   min-width: 100%
 
-  h1, h2, h3, nav
+  p
+    line-height: 1.5em
+
+  h1, h2, h3, h4, nav
     color: #000
     font-family: Hind
     text-transform: uppercase
@@ -35,7 +70,6 @@ body
     padding: 0
 
   > nav, > footer
-    /*background: grey*/
     display: flex
 
     ul
@@ -65,6 +99,7 @@ body
         height: 100px
         font-size: 0
         padding: 0 2em
+        position: absolute
         width: 130px
 
         &:before
@@ -77,7 +112,7 @@ body
           height: 100%
           width: 100%
 
-  > nav
+  #menu
     align-items: center
     box-sizing: border-box
     margin-left: 0
@@ -126,7 +161,6 @@ body
         color: #004D8A
 
     p
-
       padding: 0.5em 1em
 
 #index
@@ -139,7 +173,6 @@ body
 
     h2
       font-size: 2em
-
 
     > *
       max-width: 1200px
@@ -155,6 +188,7 @@ body
       a
         height: 300px
         margin: auto
+        position: initial
         width: 500px
 
   nav
