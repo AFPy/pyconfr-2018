@@ -167,6 +167,13 @@ body
   h1
     display: none
 
+    &:after
+      content: url(../images/houses.svg)
+      display: block
+      margin: 0 auto -0.5em
+      max-width: 1200px
+      z-index: 10
+
   > section
     margin: 0 auto
     max-width: none
@@ -179,6 +186,7 @@ body
       margin: 1em auto
 
   header
+    background: #B6DFFF
     order: -2
     position: static
 
@@ -203,8 +211,10 @@ body
     margin-left: 0
     margin-right: 0
     order: -1
-    padding: 2em
+    padding: 2em 0 0 0
     text-align: center
+    z-index: -10
+    width: auto
 
     > *
       max-width: 800px
@@ -235,6 +245,13 @@ body
       font-weight: 700
       text-align: center
       text-transform: uppercase
+
+    &:after
+      background: url(../images/houses-shadow.svg) repeat-x
+      content: ''
+      display: block
+      height: 50px
+      width: 100%
 
   section:nth-of-type(2)
     display: flex
