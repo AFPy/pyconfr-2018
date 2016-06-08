@@ -9,20 +9,27 @@ html
   min-width: 100%
 
 body:not(#index)
-  a
-    color: #218ce0
-    text-decoration: none
+  .reference.external
+    color: #F26C2F
     font-weight: 600
+    text-decoration: none
 
     &:hover
-      color: #004d8a
+      color: darken(#F26C2F, 10%)
+      border-bottom-color: darken(#F26C2F, 10%)
 
   .section, section
-    &:nth-child(odd)
-      background: #f5f5f5
+    a
+      color: #F26C2F
+      font-weight: 600
+      text-decoration: none
+
+      &:hover
+        color: darken(#F26C2F, 10%)
+        border-bottom-color: darken(#F26C2F, 10%)
 
     table
-      border: 1px solid #acacac
+      border: 1px solid #BDC6CA
       border-collapse: collapse
       margin: 0 auto
 
@@ -35,12 +42,28 @@ body:not(#index)
           padding: 1em
 
         tr:nth-child(odd)
-          background: #f5f5f5
+          background: darken(#f6f9fa, 5%)
 
     ul
-      line-height: 2em;
+      line-height: 2em
+
+  #menu
+    background: #218ce0
+
+    ul li
+      a
+        color: #fff
+        transition: color 0.3s
+
+      &.active
+        a
+          border-bottom: 1px solid #fff
+
+      &:hover a
+        color: darken(#218ce0, 35%)
 
 body
+  background: #F6F9FA
   display: flex
   flex-direction: column
   margin: 0
@@ -51,7 +74,7 @@ body
     line-height: 1.5em
 
   h1, h2, h3, h4, nav
-    color: #000
+    color: #218ce0
     font-family: Hind
     text-transform: uppercase
 
@@ -163,6 +186,9 @@ body
     p
       padding: 0.5em 1em
 
+      a
+        color: #fff
+
 #index
   h1
     display: none
@@ -262,7 +288,7 @@ body
 
     figure
       a
-        background: #218ce0
+        background: #F26C2F
         color: #fff
         display: block
         font-family: Hind
@@ -272,7 +298,7 @@ body
         width: 20%
 
         &:hover
-          background: #004D8A
+          background: darken(#F26C2F, 10%)
 
     ul
       display: flex
@@ -285,14 +311,14 @@ body
         background: #dadada
 
   section:last-of-type
-    background: #f5f5f5
+    background: #e2e7e9
     text-align: center
 
     a
-      background: #218ce0
+      background: #F26C2F
+      color: #fff
       display: block
       padding: 0.5em
-      color: #fff
       text-decoration: none
       font-size: 1.5em
       font-family: Hind
@@ -301,4 +327,4 @@ body
       transition: 0.5s
 
       &:hover
-        background: #004D8A
+        background: darken(#F26C2F, 10%)

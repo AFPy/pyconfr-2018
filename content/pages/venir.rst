@@ -69,7 +69,7 @@ Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 - Paris
 - Toulouse
 
-`Plus d'information disponibles sur le site de l'aéroport <http://www.rennes.aeroport.fr/>`_
+`Plus d'informations disponibles sur le site de l'aéroport <http://www.rennes.aeroport.fr/>`_
 
 L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le C4 (voir ci-dessus)
 

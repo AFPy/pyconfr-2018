@@ -23,7 +23,7 @@ Pendant les sprints, nous allons proposer des plateaux repas chez `Wagaya`_ pour
 
 Alternative vegan : un cake équilibré plein de saveurs aux légumes, salade et pommes fuji
 
-.. _`Wagaya`: http://wwww.wagaya.fr
+.. _`Wagaya`: http://www.wagaya.fr
 
 
 15 octobre (conférences)
