@@ -15,8 +15,8 @@ body:not(#index)
     text-decoration: none
 
     &:hover
-      color: darken(#F26C2F, 10%)
       border-bottom-color: darken(#F26C2F, 10%)
+      color: darken(#F26C2F, 10%)
 
   .section, section
     a
@@ -38,6 +38,7 @@ body:not(#index)
 
       tbody
         text-align: center
+
         td
           padding: 1em
 
@@ -155,7 +156,6 @@ body
 
         &.active
           border-bottom: 1px solid #218ce0
-          border-top: 1px solid #218ce0
 
           a
             color: #218ce0
@@ -196,7 +196,7 @@ body
     &:after
       content: url(../images/houses.svg)
       display: block
-      margin: 0 auto -0.5em
+      margin: 0 auto -0.6em
       max-width: 1200px
 
   > section
@@ -240,7 +240,7 @@ body
     text-align: center
 
     > *
-      max-width: 800px
+      max-width: 950px
 
     h2
       color: #004D8A
@@ -278,7 +278,7 @@ body
 
   section:nth-of-type(2)
     display: flex
-    flex-wrap: wrap
+    flex-direction: column
 
     h2, p
       flex: 1 100%
@@ -300,12 +300,20 @@ body
     ul
       display: flex
       list-style: none
+      padding-left: 0
+
+      li
+        color: #fff
+        font-family: Hind
+        font-size: 1.3em
+        font-weight: 600
+        padding: 2em
 
       li:first-of-type
-        background: #eee
+        background: #218ce0
 
       li:nth-of-type(2)
-        background: #dadada
+        background: #004d8a
 
   section:last-of-type
     background: #e2e7e9
