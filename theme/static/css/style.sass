@@ -48,7 +48,7 @@ body:not(#index)
     ul
       line-height: 2em
 
-  #menu
+  nav
     background: #218ce0
 
     ul li
@@ -83,6 +83,9 @@ body
     border: 0
     height: 30em
     width: 100%
+
+  img
+    max-width: 100%
 
   > *
     box-sizing: border-box
@@ -142,7 +145,7 @@ body
           height: 100%
           width: 100%
 
-  #menu
+  nav
     align-items: center
     box-sizing: border-box
     margin-left: 0
@@ -228,6 +231,7 @@ body
       a
         height: 300px
         margin: auto
+        max-width: 100%
         position: initial
         width: 500px
 
@@ -244,7 +248,7 @@ body
     margin-left: 0
     margin-right: 0
     order: -1
-    padding: 2em 0 0 0
+    padding: 2em 1em 0
     text-align: center
 
     > *
@@ -300,7 +304,7 @@ body
         padding: 0.5em 1em
         text-decoration: none
         transition: 0.5s
-        width: 20%
+        margin-right: auto
 
         &:hover
           background: darken(#F26C2F, 10%)
@@ -327,17 +331,31 @@ body
     background: #e2e7e9
     text-align: center
 
+    strong
+      display: block
+
     a
       background: #F26C2F
       color: #fff
-      display: block
+      display: inline-block
       padding: 0.5em
       text-decoration: none
       font-size: 1.5em
       font-family: Hind
-      width: 20%
       margin: 0.8em auto
       transition: 0.5s
 
       &:hover
         background: darken(#F26C2F, 10%)
+
+@media screen and (max-width: 640px)
+  body
+    footer
+      flex-direction: column
+      align-items: center
+
+      > *
+        margin: 0
+
+    nav ul
+      margin: 100px 0 0 0
