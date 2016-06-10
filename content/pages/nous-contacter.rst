@@ -14,7 +14,14 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
 
 .. list-table::
 
-   * - .. image:: ../images/mgoessens.jpg
+   * - .. image:: ../images/pcosquer.png
+           :alt: Pierre Cosquer
+           :align: left
+           :width: 200
+
+       Pierre Cosquer
+
+     - .. image:: ../images/mgoessens.jpg
            :alt: Mathieu Goessens
            :align: left
            :width: 200
@@ -41,3 +48,5 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
            :width: 200
 
        Alexis Métaireau (`@ametaireau <https://twitter.com/ametaireau>`_)
+
+     -

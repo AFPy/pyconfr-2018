@@ -21,4 +21,4 @@ L'appel à orateurs est ouvert jusqu'au dimanche 17 juillet.
 
 Vous pouvez proposer une conférence `sur le formulaire suivant`_.
 
-.. _`sur le formulaire suivant`: https://www.fourmilieres.net/#/
+.. _`sur le formulaire suivant`: https://www.fourmilieres.net/#/form/cae778e834c645b9

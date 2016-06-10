@@ -37,7 +37,7 @@ MENUITEMS = (
     (u'Programme', '/pages/programme.html'),
     (u'Venir', '/pages/venir.html'),
     (u'Se loger', '/pages/se-loger.html'),
-    (u'Se nourrir', '/pages/se-restaurer.html'),
+    (u'Se nourrir', '/pages/se-nourrir.html'),
     (u'Soutiens', '/pages/soutiens.html'),
     (u'Nous contacter', '/pages/nous-contacter.html'),
     (u'Code de conduite', '/pages/code-de-conduite.html'),
