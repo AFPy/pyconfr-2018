@@ -1,0 +1,364 @@
+@import url(https://fonts.googleapis.com/css?family=Hind:400,300,500,600,700)
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900)
+
+html
+  color: #5a5a5a
+  display: flex
+  font-family: Merriweather
+  min-height: 100%
+  min-width: 100%
+
+body:not(#index)
+  .reference.external
+    color: #F26C2F
+    font-weight: 600
+    text-decoration: none
+
+    &:hover
+      border-bottom-color: darken(#F26C2F, 10%)
+      color: darken(#F26C2F, 10%)
+
+  .section, section
+    a
+      color: #F26C2F
+      font-weight: 600
+      text-decoration: none
+
+      &:hover
+        color: darken(#F26C2F, 10%)
+        border-bottom-color: darken(#F26C2F, 10%)
+
+    table
+      border: 1px solid #BDC6CA
+      border-collapse: collapse
+      margin: 0 auto
+
+      thead
+        vertical-align: middle
+
+      tbody
+        text-align: center
+
+        td
+          padding: 1em
+
+        tr:nth-child(odd)
+          background: darken(#f6f9fa, 5%)
+
+    ul
+      line-height: 2em
+
+    footer.post-info
+      margin-bottom: 1em
+
+  nav
+    background: #218ce0
+
+    ul li
+      a
+        color: #fff
+        transition: color 0.3s
+
+      &.active
+        a
+          border-bottom: 1px solid #fff
+
+      &:hover a
+        color: darken(#218ce0, 35%)
+
+body
+  background: #F6F9FA
+  display: flex
+  flex-direction: column
+  margin: 0
+  min-height: 100%
+  min-width: 100%
+
+  p
+    line-height: 1.5em
+
+  h1, h2, h3, h4, nav
+    color: #218ce0
+    font-family: Hind
+    text-transform: uppercase
+
+  iframe
+    border: 0
+    height: 30em
+    width: 100%
+
+  img
+    max-width: 100%
+
+  > *
+    box-sizing: border-box
+    margin: 0 auto
+    max-width: 1200px
+    padding: 0.5em 2%
+    width: 100%
+
+  > h1
+    margin-top: 1em
+
+  > header, > nav, > footer
+    flex-grow: 0
+    max-width: none
+    padding: 0
+
+  > nav, > footer
+    display: flex
+
+    ul
+      display: flex
+      flex-wrap: wrap
+      padding: 0
+
+      li
+        display: block
+
+        a
+          display: block
+          padding: 0.5em 1em
+
+  > header
+    left: 0
+    margin-left: 0
+    margin-right: 0
+    position: absolute
+    top: 0
+
+    h1
+      margin: 0
+
+      a
+        display: block
+        height: 100px
+        font-size: 0
+        padding: 0 2em
+        position: absolute
+        width: 130px
+
+        &:before
+          background-image: url(../images/logo.svg)
+          background-position: 50% 50%
+          background-size: contain
+          background-repeat: no-repeat
+          content: ''
+          display: block
+          height: 100%
+          width: 100%
+
+  nav
+    align-items: center
+    box-sizing: border-box
+    margin-left: 0
+    margin-right: 0
+    min-height: 100px
+    padding: 0.5em 1em
+    width: auto
+
+    ul
+      margin-left: 130px
+
+      li
+        a
+          color: #000
+          font-weight: 600
+          text-decoration: none
+
+        &.active
+          border-bottom: 1px solid #218ce0
+
+          a
+            color: #218ce0
+
+        &:hover
+          a
+            color: #218ce0
+
+
+  > footer
+    background: #218ce0
+    background-clip: content-box
+    color: #fff
+    font-family: Hind
+    justify-content: center
+    margin-left: 0
+    margin-right: 0
+    margin-top: auto
+
+    a
+      color: #fff
+      font-weight: 600
+      text-decoration: none
+
+      &:hover
+        color: #004D8A
+
+    p
+      padding: 0.5em 1em
+
+      a
+        color: #fff
+
+#index
+  h1
+    display: none
+
+    &:not(.catchline):after
+      content: url(../images/houses.svg)
+      display: block
+      margin: 0 auto -0.6em
+      max-width: 1200px
+
+  h1.catchline
+    display: block
+    margin-top: 0
+    color: white
+    font-family: Hind
+    font-size: 2em
+    font-weight: 700
+    text-align: center
+    text-transform: uppercase
+
+  > section
+    box-sizing: border-box
+    margin: 0 auto
+    max-width: none
+
+    h2
+      font-size: 2em
+
+    > *
+      max-width: 1200px
+      margin: 1em auto
+
+  header
+    background: #B6DFFF
+    order: -2
+    position: static
+
+    h1
+      display: block
+
+      a
+        height: 300px
+        margin: auto
+        max-width: 100%
+        position: initial
+        width: 500px
+
+  nav
+    justify-content: center
+
+    ul
+      justify-content: center
+      margin-left: 0
+
+  section:first-of-type
+    background: #218ce0
+    color: #fff
+    margin-left: 0
+    margin-right: 0
+    order: -1
+    padding: 2em 1em 0
+    text-align: center
+
+    > *
+      max-width: 950px
+
+    h2
+      color: #0F3041
+      font-size: 2em
+      font-weight: 600
+      text-transform: uppercase
+
+    p
+      font-size: 1.1em
+      line-height: 1.8em
+
+    a
+      color: #0F3041
+      text-decoration: none
+      transition: 0.5s
+
+      &:hover
+        color: #004D8A
+
+    &:after
+      background: url(../images/houses-shadow.svg) repeat-x
+      content: ''
+      display: block
+      height: 50px
+      width: 100%
+
+  section:nth-of-type(2)
+    display: flex
+    flex-direction: column
+    align-items: center
+
+    h2, p
+      flex: 1 100%
+
+    figure
+      p.telecom
+        font-size: 14pt
+
+        a
+          color: #0F3041
+          text-decoration: none
+          transition: 0.5s
+
+          &:hover
+            color: #218ce0
+
+    ul
+      display: flex
+      list-style: none
+      padding-left: 0
+
+      li
+        color: #fff
+        font-family: Hind
+        font-size: 1.3em
+        font-weight: 600
+        padding: 2em
+
+      li:first-of-type
+        background: #218ce0
+
+      li:nth-of-type(2)
+        background: #004d8a
+
+  section:last-of-type
+    background: #e2e7e9
+    text-align: center
+
+    strong
+      display: block
+
+    a
+      background: #F26C2F
+      color: #fff
+      display: inline-block
+      padding: 0.5em
+      text-decoration: none
+      font-size: 1.5em
+      font-family: Hind
+      margin: 0.8em auto
+      transition: 0.5s
+
+      &:hover
+        background: darken(#F26C2F, 10%)
+
+@media screen and (max-width: 640px)
+  body
+    footer
+      flex-direction: column
+      align-items: center
+
+      > *
+        margin: 0
+
+    nav ul
+      margin: 100px 0 0 0

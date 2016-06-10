@@ -3,3 +3,6 @@ beautifulsoup4
 ghp-import
 Pillow
 markdown
+webassets
+cssmin
+libsass<0.10 # See https://github.com/miracle2k/webassets/issues/438

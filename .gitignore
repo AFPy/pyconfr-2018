@@ -4,3 +4,4 @@ output/
 cache/
 .venv
 *.swp
+.DS_Store

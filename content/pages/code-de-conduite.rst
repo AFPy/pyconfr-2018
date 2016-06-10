@@ -79,4 +79,6 @@ Signaler
 
 Si vous êtes harcelé(e) ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) participant(e-s), ou si vous craignez la survenue d’un incident, contactez sans attendre un membre organisateur (dans le cas d’un événement) ou un membre du comité directeur de l’AFPy.
 
-Contact: diversite at afpy dot org
+Contact: `diversite@afpy.org`_
+
+.. _`diversite@afpy.org`: mailto:diversite@afpy.org
