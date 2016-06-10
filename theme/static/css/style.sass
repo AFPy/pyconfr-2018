@@ -202,11 +202,21 @@ body
   h1
     display: none
 
-    &:after
+    &:not(.catchline):after
       content: url(../images/houses.svg)
       display: block
       margin: 0 auto -0.6em
       max-width: 1200px
+
+  h1.catchline
+    display: block
+    margin-top: 0
+    color: white
+    font-family: Hind
+    font-size: 2em
+    font-weight: 700
+    text-align: center
+    text-transform: uppercase
 
   > section
     box-sizing: border-box
@@ -271,15 +281,6 @@ body
 
       &:hover
         color: darken(#004D8A, 25%)
-
-    &:before
-      content: 'Rennes, 13-16 octobre 2016'
-      display: block
-      font-family: Hind
-      font-size: 2em
-      font-weight: 700
-      text-align: center
-      text-transform: uppercase
 
     &:after
       background: url(../images/houses-shadow.svg) repeat-x
