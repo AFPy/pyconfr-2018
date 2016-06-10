@@ -1,9 +1,9 @@
-Miam !
-########
+Se nourrir
+##########
 
-:slug: se-restaurer
+:slug: se-nourrir
 :lang: fr
-:url: se-restaurer
+:url: se-nourrir
 
 La restauration n'est pas offerte avec PyCon-fr, mais nous avons des
 suggestions pour manger ensemble et étendre la convivialité de l'événement aux
