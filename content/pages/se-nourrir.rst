@@ -42,7 +42,7 @@ Carte des restaurants :
     <p><a href="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009#15/48.1192/-1.6250">Voir en plein écran</a></p>
 
 
-15 octobre (conférences)
+16 octobre (conférences)
 ========================
 
 Pour le midi, nous allons faire venir des "Food Trucks" sur site.
