@@ -26,12 +26,12 @@ Alternative vegan : un cake équilibré plein de saveurs aux légumes, salade et
 .. _`Wagaya`: http://www.wagaya.fr
 
 
-15 octobre (conférences)
-========================
+15 et 16 octobre (conférences)
+==============================
 
-Pour le midi, nous allons faire venir des "Food Trucks" sur site.
+Samedi et dimanche midi, des "Food Trucks" seront présents sur le site.
 
-Pour le soir, un tableau sera présent dans le hall, vous pourrez vous y inscrire
+Le samedi soir, un tableau sera présent dans le hall, vous pourrez vous y inscrire
 en vous répartissant dans une douzaine de restaurants ; nous ferons les réservations
 en cours de journée.
 
@@ -41,8 +41,3 @@ Carte des restaurants :
     <iframe id="carte" width="100%" height="650px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false&datalayers=208561#14/48.1123/-1.6435"></iframe>
     <p><a href="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009#15/48.1192/-1.6250">Voir en plein écran</a></p>
 
-
-16 octobre (conférences)
-========================
-
-Pour le midi, nous allons faire venir des "Food Trucks" sur site.
