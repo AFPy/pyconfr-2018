@@ -17,7 +17,7 @@ ajouterons votre projet au programme des sprints.
 Conférences
 ===========
 
-L'appel à orateurs est ouvert jusqu'au dimanche 17 juillet.
+L'appel à orat·rices·eurs est ouvert jusqu'au dimanche 17 juillet.
 
 Vous pouvez proposer une conférence `sur le formulaire suivant`_.
 
