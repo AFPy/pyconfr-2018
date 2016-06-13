@@ -8,6 +8,9 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_BRANCH=gh-pages
 
+AFPY_OUTPUTDIR=$(BASEDIR)/output/
+AFPY_PUBLISH_URL=pyconfr@py.afpy.org:/home/pyconfr/pyconfr-2016/
+
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
 VIRTUALENV = virtualenv
 INSTALL_STAMP = $(VENV)/.install.stamp
@@ -56,4 +59,7 @@ github: publish
 	$(VENV)/bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH) --force
 
-.PHONY: html clean serve devserver github publish
+afpy: publish
+	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
+
+.PHONY: html clean serve devserver github publish afpy
