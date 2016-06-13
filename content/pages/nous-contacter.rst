@@ -5,12 +5,13 @@ Nous contacter
 :lang: fr
 :url: nous-contacter
 
-L'équipe d'orga est disponible pour répondre à vos questions sur l'événement à l'adresse `contact@pycon.fr <contact@pycon.fr>`_.
+L'équipe locale est disponible pour répondre à vos questions sur l'événement
+à l'adresse `contact@pycon.fr <contact@pycon.fr>`_.
 
 Equipe locale
 =============
 
-Pour mettre un nom et un visage sur vos serviteurs :-)
+Pour mettre un nom et un visage sur certains de vos serviteurs :-)
 
 .. list-table::
 
@@ -20,13 +21,6 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
            :width: 200
 
        Pierre Cosquer
-
-     - .. image:: ../images/mgoessens.jpg
-           :alt: Mathieu Goessens
-           :align: left
-           :width: 200
-
-       Mathieu Goessens
 
      - .. image:: ../images/ygravrand.jpg
            :alt: Yann Gravrand
@@ -47,6 +41,4 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
            :align: left
            :width: 200
 
-       Alexis Métaireau (`@ametaireau <https://twitter.com/ametaireau>`_)
-
-     -
+       Alexis Métaireau (`@ametaireau <https://blog.notmyidea.org>`_)
