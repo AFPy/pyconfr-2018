@@ -31,6 +31,6 @@ and to publish it::
 
     make publish
 
-Publish to gh-pages::
+Publish to afpy server::
 
-    make github
+    make afpy
