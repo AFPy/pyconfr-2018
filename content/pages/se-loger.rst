@@ -5,11 +5,15 @@ Se loger
 :lang: fr
 :url: se-loger
 
+Le campus où se déroulent les conférences et sprints est situé à deux pas de la
+ville de Cesson-Sévigné, et est accessible depuis Rennes en transports en
+commun assez facilement.
+
+Il est donc possible de trouver un hebergement sur Cesson Sevigné ou dans la
+ville de Rennes.
 
 Sur le Campus
 =============
-
-Nous sommes à deux pas de Cesson-Sévigné.
 
 - `Rechercher un AirBNB`_
 - Les locaux de Télécom Bretagne se situent à mi-chemin entre `Le Campanile de Rennes Atalante`_ et `L'Ibis de Rennes Beaulieu`_
