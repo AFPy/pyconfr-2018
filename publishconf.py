@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # NoQA
 
-SITEURL = 'http://2016.pycon.fr'
+SITEURL = 'https://2016.pycon.fr'
 RELATIVE_URLS = False
 
 SOCIAL = (
