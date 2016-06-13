@@ -11,7 +11,7 @@ L'équipe locale est disponible pour répondre à vos questions sur l'événemen
 Equipe locale
 =============
 
-Pour mettre un nom et un visage sur vos serviteurs :-)
+Pour mettre un nom et un visage sur certains de vos serviteurs :-)
 
 .. list-table::
 
@@ -42,5 +42,3 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
            :width: 200
 
        Alexis Métaireau (`@ametaireau <https://blog.notmyidea.org>`_)
-
-     -

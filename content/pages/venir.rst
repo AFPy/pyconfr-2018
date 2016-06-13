@@ -46,7 +46,7 @@ Beaulieu INSA.
 Pour plus d'informations sur les horaires des bus et métros vous pouvez
 consulter `le site du Réseau Bus+Métro de Rennes`_.
 
-.. _`consultez le site du Réseau Bus+Métro de Rennes`: http://www.star.fr/se-deplacer/fiches-horaires-et-plans/?tx_pnfstarod_searchdocument%5Baction%5D=search&tx_pnfstarod_searchdocument%5Bcontroller%5D=SearchLines&cHash=2bdb192917b9dd2b387895b85238c8ed
+.. _`le site du Réseau Bus+Métro de Rennes`: http://www.star.fr/se-deplacer/fiches-horaires-et-plans/?tx_pnfstarod_searchdocument%5Baction%5D=search&tx_pnfstarod_searchdocument%5Bcontroller%5D=SearchLines&cHash=2bdb192917b9dd2b387895b85238c8ed
 
 
 En train
