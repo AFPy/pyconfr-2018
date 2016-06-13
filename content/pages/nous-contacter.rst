@@ -22,13 +22,6 @@ Pour mettre un nom et un visage sur vos serviteurs :-)
 
        Pierre Cosquer
 
-     - .. image:: ../images/mgoessens.jpg
-           :alt: Mathieu Goessens
-           :align: left
-           :width: 200
-
-       Mathieu Goessens
-
      - .. image:: ../images/ygravrand.jpg
            :alt: Yann Gravrand
            :align: left
