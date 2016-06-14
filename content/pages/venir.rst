@@ -44,12 +44,12 @@ consulter `le site du Réseau Bus+Métro de Rennes`_.
 
 
 Vélo libre service
-++++++++++++++++++++++
+++++++++++++++++++
 
 Rennes dispose d'un système de vélos en libre service complémentaire des transports en commun : `vélostar <https://www.levelostar.fr/fr/>`_
 
 Venir à Rennes en voiture
-============================
+=========================
 
 Si vous souhaitez venir en voiture, nous vous invitons à partager votre trajet
 avec d'autres personnes. Nous mettons à votre disposition `un espace de
@@ -60,21 +60,21 @@ Vous pouvez `calculer votre itinéraire avec Open Street Map <http://www.openstr
 
 
 Venir à Rennes en train
-==========================
+=======================
 
 Le TGV vous dépose à la gare de Rennes en plein centre ville, prenez le métro
 jusqu'à République puis prennez la ligne de bus C4 (voir :ref:`ci-dessus <campus>`.).
 
 Venir à Rennes en bus
-========================
+=====================
 
 Ouibus, par exemple, propose plusieurs liaisons quotidiennes Paris-Rennes en 5 heures.
 
 Venir à Rennes en avion
-=========================
+=======================
 
 Atterrir à Rennes (RNS)
-++++++++++++++++++++++++
++++++++++++++++++++++++
 
 Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 
@@ -100,7 +100,7 @@ de TGV.
 
 
 Atterrir à Paris-Charles-de-Gaule (CDG)
-++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++
 
 Si vous venez de très loin, il y a un TGV direct depuis CDG deux fois
 par jour qui met environ 3h.
