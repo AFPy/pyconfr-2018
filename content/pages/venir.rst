@@ -19,19 +19,13 @@ PyCon-fr 2016 sera hébergée à `Télécom Bretagne
     <p><a href="https://umap.openstreetmap.fr/fr/map/pyconfr_2016_campus_84009#15/48.1192/-1.6250">Voir en plein écran</a></p>
 
 
-En voiture
-==========
+.. _campus:
 
-Si vous souhaitez venir en voiture, nous vous invitons à partager votre trajet
-avec d'autres personnes. Nous mettons à votre disposition `un espace de
-covoiturage <https://pad.notmyidea.org/p/covoiturage-pyconfr>`_ ou vous pouvez indiquer votre trajet et vos contacts, si vous le
-souhaitez.
+Rejoindre le campus
+===================
 
-Vous pouvez `calculer votre itinéraire avec Open Street Map <http://www.openstreetmap.org/directions#map=9/47.9531/-1.8196>`_
-
-
-Rejoindre le campus en Bus
-==========================
+en Bus
+++++++
 
 Le campus de Télécom Bretagne est desservi par de nombreuses lignes :
 C4, 31, 32, 35, 40 express, 41 express.
@@ -49,17 +43,38 @@ consulter `le site du Réseau Bus+Métro de Rennes`_.
 .. _`le site du Réseau Bus+Métro de Rennes`: http://www.star.fr/se-deplacer/fiches-horaires-et-plans/?tx_pnfstarod_searchdocument%5Baction%5D=search&tx_pnfstarod_searchdocument%5Bcontroller%5D=SearchLines&cHash=2bdb192917b9dd2b387895b85238c8ed
 
 
-En train
-========
+Vélo libre service
+++++++++++++++++++++++
+
+Rennes dispose d'un système de vélos en libre service complémentaire des transports en commun : `vélostar <https://www.levelostar.fr/fr/>`_
+
+Venir à Rennes en voiture
+============================
+
+Si vous souhaitez venir en voiture, nous vous invitons à partager votre trajet
+avec d'autres personnes. Nous mettons à votre disposition `un espace de
+covoiturage <https://pad.notmyidea.org/p/covoiturage-pyconfr>`_ ou vous pouvez indiquer votre trajet et vos contacts, si vous le
+souhaitez.
+
+Vous pouvez `calculer votre itinéraire avec Open Street Map <http://www.openstreetmap.org/directions#map=9/47.9531/-1.8196>`_
+
+
+Venir à Rennes en train
+==========================
 
 Le TGV vous dépose à la gare de Rennes en plein centre ville, prenez le métro
-jusqu'à République puis prennez la ligne de bus C4 (voir ci-dessus).
+jusqu'à République puis prennez la ligne de bus C4 (voir :ref:`ci-dessus <campus>`.).
 
-En avion
-========
+Venir à Rennes en bus
+========================
 
-Atterrir à Rennes
-+++++++++++++++++
+Ouibus, par exemple, propose plusieurs liaisons quotidiennes Paris-Rennes en 5 heures.
+
+Venir à Rennes en avion
+=========================
+
+Atterrir à Rennes (RNS)
+++++++++++++++++++++++++
 
 Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 
@@ -73,11 +88,10 @@ Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 
 `Plus d'informations disponibles sur le site de l'aéroport <http://www.rennes.aeroport.fr/>`_
 
-L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le bus C4 (voir ci-dessus)
+L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le bus C4 (voir :ref:`ci-dessus <campus>`).
 
-
-Atterrir à Nantes
-+++++++++++++++++
+Atterrir à Nantes-Atlantique (NTE)
+++++++++++++++++++++++++++++++++++
 
 C'est possible bien que pas forcément très pratique.
 
@@ -85,11 +99,11 @@ Depuis l'aéroport vous aurez 1h15 de route pour atteindre Rennes ou 1h
 de TGV.
 
 
-Depuis Charles de Gaule
-+++++++++++++++++++++++
+Atterrir à Paris-Charles-de-Gaule (CDG)
+++++++++++++++++++++++++++++++++++++++++
 
 Si vous venez de très loin, il y a un TGV direct depuis CDG deux fois
 par jour qui met environ 3h.
 
-- Départ de CDG à 10h16, 14h49, 18h47
-- Départ de Rennes à 6h10, 7h10, 10h05, 10h59, 16h05
+- Départ de CDG-TGV à 10h16, 14h49, 18h47
+- Départ de Rennes-Gare à 6h10, 7h10, 10h05, 10h59, 16h05
