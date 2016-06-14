@@ -9,7 +9,7 @@ Le campus où se déroulent les conférences et sprints est situé à deux pas d
 ville de Cesson-Sévigné, et est accessible depuis Rennes en transports en
 commun assez facilement.
 
-Il est donc possible de trouver un hebergement sur Cesson Sevigné ou dans la
+Il est donc possible de trouver un hébergement sur Cesson Sevigné ou dans la
 ville de Rennes.
 
 Sur le Campus
