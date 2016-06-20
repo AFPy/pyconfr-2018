@@ -42,3 +42,17 @@ Pour mettre un nom et un visage sur certains de vos serviteurs :-)
            :width: 200
 
        Alexis Métaireau (`@ametaireau <https://blog.notmyidea.org>`_)
+
+   * - .. image:: ../images/mlaurent.jpg
+           :alt: Marianne Laurent
+           :align: left
+           :width: 200
+
+       Marianne Laurent (`@IncubateurTB <https://twitter.com/IncubateurTB>`_)
+
+     - .. image:: ../images/mgoessens.png
+           :alt: Mathieu Goessens
+           :align: left
+           :width: 200
+
+       Mathieu Goessens
