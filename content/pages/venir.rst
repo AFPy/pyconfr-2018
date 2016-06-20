@@ -64,7 +64,7 @@ Venir à Rennes en train
 =======================
 
 Le TGV vous dépose à la gare de Rennes en plein centre ville, prenez le métro
-jusqu'à République puis prennez la ligne de bus C4 (voir `ci-dessus <campus>`_.).
+jusqu'à République puis prennez la ligne de bus C4 (voir `ci-dessus <#campus>`_.).
 
 
 Venir à Rennes en bus
@@ -91,7 +91,7 @@ Il y a un aéroport à Rennes avec au moins un vol par jour au départ de :
 
 `Plus d'informations disponibles sur le site de l'aéroport <http://www.rennes.aeroport.fr/>`_
 
-L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le bus C4 (voir `ci-dessus <campus>`_).
+L'aéroport est tout près, prenez le bus 57 jusqu'à République puis le bus C4 (voir `ci-dessus <#campus>`_).
 
 
 Atterrir à Nantes-Atlantique (NTE)
