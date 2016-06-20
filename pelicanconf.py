@@ -35,6 +35,7 @@ MENUITEMS = (
     (u'À propos', '/index.html'),
     (u'Nouvelles', '/archives.html'),
     (u'Programme', '/pages/programme.html'),
+    (u'Sponsor', '/pages/sponsor.html'),
     (u'Venir', '/pages/venir.html'),
     (u'Se loger', '/pages/se-loger.html'),
     (u'Se nourrir', '/pages/se-nourrir.html'),

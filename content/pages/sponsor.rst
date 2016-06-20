@@ -1,0 +1,71 @@
+Appel à sponsor
+###############
+
+:slug: sponsor
+:lang: fr
+:url: sponsor
+
+
+Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
+pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
+au cours d'ateliers, de conférences et de rencontres.
+
+Venir découvrir
+===============
+
+La `PyCon-fr`_
+est le meilleur moyen de découvrir le langage Python,
+d'aller plus loin dans son utilisation,
+de rencontrer les auteurs de bibliothèques que vous utilisez peut-être tous les jours...
+et tout simplement de se retrouver le temps d'un week-end.
+La `PyCon-fr`_, c'est 300 visiteurs en moyenne chaque jour, et pas moins de 70 conférences et ateliers :
+
+- Les conférences, de tous niveaux, permettent de découvrir différents usages de Python,
+- Les "sprints" (ateliers auto-organisés de programmation) permettent de faire avancer des projets libres et Open Source.
+
+A titre d'exemple, l'an dernier, les associations Bibliothèque Sans-Frontières et PauLLA ont pu bénéficier de l'aide de
+codeurs débutants et chevronnés.
+
+Cette année, nous serons toutes et tous réunis à Rennes, dans les locaux de Télécom Bretagne, du 13 au 16 octobre 2016.
+Les sprints auront lieu les **jeudi 13** et **vendredi 14**.
+Les conférences et ateliers se dérouleront **samedi 15** et **dimanche 16**.
+
+Venir aider
+===========
+
+Vous avez une expérience autour de Python à partager ?
+Vous souhaitez présenter votre dernier projet à la communauté ?
+Demander de l'aide et/ou exposer vos doutes ? C'est le bon moment.
+L'appel à oratrices et orateurs est ouvert jusqu'au 31 juillet !
+
+Voici quelques suggestions de thèmes issus des éditions précédentes :
+
+- Python dans l'éducation : trucs et astuces pour débuter ou enseigner avec Python
+- Internet, le Web, la montée en charge et Python
+- Clguba et la crypto : chiffrement et vie privée
+- Python scientifique : calcul scientifique et statistique, machine Learning
+- Au cœur de Python : packaging, librairies, tests, profiling, bindings
+- Autour de Python : Provisioning, Bases de données, Framework Javascript
+- Python dans le réel : Fabrication numérique (impression 3D, CNC, IoT, ...)
+- Python dans le futur : Pypy, Python3 et asyncio
+- Le libre avec Python: vos créations
+- Et surtout, toutes les propositions ne rentrant pas dans ces cases ;)
+
+Que vous soyez une utilisatrice chevronnée ou simplement à la découverte de Python, n'hésitez pas à proposer
+un sujet : `PyCon-fr`_, c'est avant tout vous :)
+
+Nous acceptons des présentations longues (45mn) et courtes (25mn) et
+des ateliers (à vous de nous préciser leur durée en fonction du besoin).
+Lien pour nous faire vos propositions : `fourmiliere.net`_.
+
+Attention, la date limite est fixée au **17 juillet** !
+
+En espérant crouler sous les propositions,
+
+L'équipe d'organisation
+
+**Pierre, Mathieu, Yann, Alexis et Rémy**
+
+.. _`Pycon-fr`: http://www.pycon.fr/
+
+.. _`fourmiliere.net`: https://www.fourmilieres.net/#/form/cae778e834c645b9
