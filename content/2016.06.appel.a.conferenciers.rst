@@ -5,8 +5,10 @@ Appel à conférences et ateliers
 :lang: fr
 :date: 2016-06-20
 
+tl;dr: L'appel à conférences et ateliers est maintenant ouvert, n'hésitez pas
+à `proposer quelque chose <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
 
-Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
+Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Pythonse retrouvent le temps de quelques jours
 pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
 au cours d'ateliers, de conférences et de rencontres.
 
@@ -29,12 +31,12 @@ débutants et chevronnés.
 
 Cette année, nous serons toutes et tous réunis à Rennes, dans les locaux de Télécom Bretagne, du 13 au 16 octobre 2016.
 
-Les sprints auront lieu les **jeudi 13** et **vendredi 14**.
+Les sprints auront lieu les **jeudi 13** et **vendredi 14** Octobre.
 
-Les conférences et ateliers se dérouleront **samedi 15** et **dimanche 16**.
+Les conférences et ateliers se dérouleront **samedi 15** et **dimanche 16** Octobre.
 
-Venir aider
-===========
+Votre conférence
+================
 
 Vous avez une expérience autour de Python à partager ?
 
@@ -63,7 +65,7 @@ c'est avant tout vous :)
 
 Nous acceptons des présentations longues (45mn) et courtes (25mn) et
 des ateliers (à vous de nous préciser leur durée en fonction du
-besoin).  Lien pour nous faire vos propositions : `fourmiliere.net`_.
+besoin).  Lien pour nous `faire vos propositions de talks / ateliers`_.
 
 Attention, la date limite est fixée au **31 juillet** !
 
@@ -75,4 +77,4 @@ L'équipe d'organisation
 
 .. _`Pycon-fr`: https://2016.pycon.fr/
 
-.. _`fourmiliere.net`: https://www.fourmilieres.net/#/form/cae778e834c645b9
+.. _`faire vos propositions de talks / ateliers`: https://www.fourmilieres.net/#/form/cae778e834c645b9
