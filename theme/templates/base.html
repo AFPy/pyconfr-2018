@@ -1,10 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ DEFAULT_LANG }}">
+<html lang="{{ DEFAULT_LANG }}" prefix="og: http://ogp.me/ns#">
 <head>
   {% block head %}
     <title>{{ SITENAME }} - {% block title %}{% endblock title %}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if page is defined %}
+    {% if page.og_url %}<meta property="og:url" content="{{ page.og_url}}" />{% endif %}
+    {% if page.og_type %}<meta property="og:type" content="{{ page.og_type}}" />{% endif %}
+    {% if page.og_title %}<meta property="og:title" content="{{ page.og_title}}" />{% endif %}
+    {% if page.og_description %}<meta property="og:description" content="{{ page.og_description}}" />{% endif %}
+    {% if page.og_image %}<meta property="og:image" content="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/{{ page.og_image}}" />{% endif %}
+    {% endif %}
+
     {% assets filters="libsass,cssmin", output="css/style.min.css", "css/style.sass" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
