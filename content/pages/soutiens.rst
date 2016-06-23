@@ -1,32 +1,62 @@
-Nous soutenir
-#############
+Nos soutiens
+############
 
 :slug: soutiens
 :lang: fr
 :url: soutiens
 
-Nous aider avant et pendant l'évènement
-=======================================
+Partenaires
+===========
 
-Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
-l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
+`Telecom Bretagne <http://www.telecom-bretagne.eu/>`_
+-----------------------------------------------------
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+.. image:: ../images/telecom-bretagne.gif
+   :height: 100px
+   :width: 100px
+   :alt: logo de telecom bretagne
+   :target: http://www.telecom-bretagne.eu/
 
-Parrainer PyCon-fr
-==================
+Télécom Bretagne héberge PyConFr 2016.
 
-Le mécénat d'entreprises et d'organisations permet chaque année aux
-organisateurs de couvrir certains frais (sécurité) et de proposer
-rafraîchissements et cafés à notre public.
+`Kabu Creative <http://kabucreative.com/>`_
+-------------------------------------------
 
-PyCon-fr est organisé par des bénévoles de la communauté Python francophone et
-permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
-année.
+.. image:: ../images/kabu-creative.png
+   :height: 100px
+   :width: 100px
+   :alt: logo de Kabu Creative
+   :target: http://kabucreative.com/
 
-Si vous souhaitez nous soutenir financièrement, vous pouvez contacter Arthur
-Vuillard, le tresorier de l'Afpy afin de discuter des détails.
+Kabu Creative a créé le logo de PyConFr 2016.
 
-Contact : Arthur Vuillard `tresorier@afpy.org`_
+`Kozea <https://www.kozea.fr/>`_
+--------------------------------
 
-.. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
+.. image:: ../images/kozea-logo.svg
+   :height: 100px
+   :width: 100px
+   :alt: logo de Kozea
+   :target: https://www.kozea.fr/
+
+Kozea a conçu et intégré le design du site web de PyConFr 2016
+
+Platine
+=======
+
+`Devenez notre premier soutien "Platine" </pages/nous-soutenir.html>`_
+
+Or
+==
+
+`Devenez notre premier soutien "Or" </pages/nous-soutenir.html>`_
+
+Bronze
+======
+
+`Devenez notre premier soutien "Bronze" </pages/nous-soutenir.html>`_
+
+Cœur
+====
+
+`Devenez notre premier soutien "Cœur" </pages/nous-soutenir.html>`_

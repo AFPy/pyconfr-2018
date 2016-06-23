@@ -333,7 +333,7 @@ body
       li:nth-of-type(2)
         background: #004d8a
 
-  section:last-of-type
+  section:nth-last-of-type(2)
     background: #e2e7e9
     text-align: center
 
@@ -353,6 +353,42 @@ body
 
       &:hover
         background: darken(#F26C2F, 10%)
+
+  section:last-of-type
+    text-align: center
+
+    h2
+      a
+        color: #218ce0
+        text-decoration: none
+
+    ul
+      list-style: none
+
+    li
+      display: inline-block
+
+    .soutien
+      background: darken(#F26C2F, 10%)
+      color: #fff
+      display: inline-block
+      padding: 0.5em
+      text-decoration: none
+      font-size: 1.5em
+      font-family: Hind
+      margin: 0.8em auto
+      transition: 0.5s
+
+      &:hover
+        background: #F26C2F
+
+#soutiens
+  #partenaires
+    .section
+      width: 300px
+      float: left
+      margin-right: 25px
+      text-align: center
 
 @media screen and (max-width: 640px)
   body
