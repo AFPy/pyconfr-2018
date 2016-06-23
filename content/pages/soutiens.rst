@@ -15,7 +15,6 @@ Partenaires
    :height: 100px
    :width: 100px
    :alt: logo de telecom bretagne
-   :align: right
    :target: http://www.telecom-bretagne.eu/
 
 Télécom Bretagne héberge PyConFr 2016.
@@ -27,7 +26,6 @@ Télécom Bretagne héberge PyConFr 2016.
    :height: 100px
    :width: 100px
    :alt: logo de Kabu Creative
-   :align: right
    :target: http://kabucreative.com/
 
 Kabu Creative a créé le logo de PyConFr 2016.
@@ -39,7 +37,6 @@ Kabu Creative a créé le logo de PyConFr 2016.
    :height: 100px
    :width: 100px
    :alt: logo de Kozea
-   :align: right
    :target: https://www.kozea.fr/
 
 Kozea a conçu et intégré le design du site web de PyConFr 2016
