@@ -35,7 +35,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
    :class: sponsors
 
    * - Bénéfice
-     - Cœur <500€
+     - Cœur (montant libre)
      - Bronze 500€
      - Or 1000€
      - Platine 2000€
