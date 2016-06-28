@@ -54,7 +54,18 @@ Or
 Bronze
 ======
 
-`Devenez notre premier soutien "Bronze" </pages/nous-soutenir.html>`_
+`Yaal <https://www.yaal.fr/>`_
+--------------------------------
+
+.. image:: ../images/yaal.png
+   :height: 100px
+   :width: 100px
+   :alt: logo de Yaal
+   :target: https://www.yaal.fr/
+
+Yaal s'adresse aux créateurs de startups qui cherchent à concrétiser leur projet par la conception d’une solution web ou mobile. Nous nous engageons à leurs côtés en apportant notre expérience de la création d’entreprise, en partageant le risque financier et en prenant en charge la direction technique pour faire de leur idée un projet unique et durable.
+
+`Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
 ====
