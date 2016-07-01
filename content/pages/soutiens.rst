@@ -39,12 +39,25 @@ Kabu Creative a créé le logo de PyConFr 2016.
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
-Kozea a conçu et intégré le design du site web de PyConFr 2016
+Kozea a conçu et intégré le design du site web de PyConFr 2016.
 
 Platine
 =======
 
-`Devenez notre premier soutien "Platine" </pages/nous-soutenir.html>`_
+`Python Software Foundation <https://www.python.org/psf/>`_
+-----------------------------------------------------------
+
+.. image:: ../images/psf-logo-narrow-256x84-alpha.png
+   :height: 84px
+   :width: 256px
+   :alt: Python Software Foundation
+   :target: https://www.python.org/psf/
+
+The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. The majority of the PSF's work is focused on empowering and supporting people within the Python community. The PSF has active grant programs that support sprints, conferences, meetups, user groups, and Python development efforts all over the world. In addition, the PSF underwrites and runs PyCon US, the primary Python community conference. Being part of the PSF means being part of the Python community. Recently we changed the PSF to an open membership organization, so that everyone who uses and supports Python can join. To learn more, visit https://www.python.org/psf/membership.
+
+
+`Devenez un soutien "Platine" </pages/nous-soutenir.html>`_
+
 
 Or
 ==
