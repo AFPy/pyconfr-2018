@@ -5,8 +5,8 @@ Programme
 :lang: fr
 :url: programme
 
-Le programme n'est pour l'instant pas encore défini, mais l'appel
-à propositions est ouvert ! 
+Le programme n'est pour l'instant pas encore défini, mais
+`l'appel à propositions est ouvert <https://2016.pycon.fr/appel-a-conferences-et-ateliers.html>`_ !
 
 Conférences
 ===========
