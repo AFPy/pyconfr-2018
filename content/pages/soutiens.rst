@@ -53,8 +53,7 @@ Platine
    :alt: Python Software Foundation
    :target: https://www.python.org/psf/
 
-The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. The majority of the PSF's work is focused on empowering and supporting people within the Python community. The PSF has active grant programs that support sprints, conferences, meetups, user groups, and Python development efforts all over the world. In addition, the PSF underwrites and runs PyCon US, the primary Python community conference. Being part of the PSF means being part of the Python community. Recently we changed the PSF to an open membership organization, so that everyone who uses and supports Python can join. To learn more, visit https://www.python.org/psf/membership.
-
+La mission de la Python Software Foundation est de promouvoir, protéger et faire progresser le langage de programmation Python, et de supporter et faciliter l'accroissement d'une communauté diverse et internationale de développeu·r·se·s. La majorité du travail de la PSF est consacré à donner les moyens et à encourager les personnes au sein de la communauté Python. La PSF met en place des programmes de subventions pour organiser des ateliers, des conférences, des rencontres, des groupes d'utilisateurs, et le développement de Python partout dans le monde. De plus, la PSF organise PyCon US, la principale conférence de la communauté Python. Récemment, nous avons changé la PSF pour devenir une organisation ouverte à tou·te·s, de manière à ce que chacun·e puisse la rejoindre. Pour en savoir plus, rendez vous sur https://www.python.org/psf/membership.
 
 `Devenez un soutien "Platine" </pages/nous-soutenir.html>`_
 
