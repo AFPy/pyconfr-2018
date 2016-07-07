@@ -78,6 +78,29 @@ Bronze
 
 Yaal s'adresse aux créateurs de startups qui cherchent à concrétiser leur projet par la conception d’une solution web ou mobile. Nous nous engageons à leurs côtés en apportant notre expérience de la création d’entreprise, en partageant le risque financier et en prenant en charge la direction technique pour faire de leur idée un projet unique et durable.
 
+`Net-ng <http://www.net-ng.com/>`_
+----------------------------------
+
+.. image:: ../images/netng.svg
+   :height: 100px
+   :width: 100px
+   :alt: logo de Net ng
+   :target: http://www.net-ng.com/
+
+Net-ng est une entreprise de conseil et développement de plate-forme numérique sur-mesure, en utilisant des technologies Open Source, et Python.
+
+Nous accompagnons les startups et les grands comptes dans leur projet de mise en oeuvre d’outils numériques.
+Organisme de formation, nous avons un catalogue complet de formation Python pour faire de vos équipes des professionnels en Python.
+
+Nous avons également une activité d’édition de solutions Open Source :
+
+- Kansha, Outil collaboratif de gestion de tâches (Trello like), totalement développé en Python avec le framework Nagare (http://www.kansha.org)
+
+- Nagare, framework Web Open-Source sous license BSD, entièrement dédié au développement d'applications Web en Python (http://www.nagare.org)
+
+C’est un vrai plaisir d’accompagner la PyCon FR dans cet évènement et de partager ce moment avec des passionnés.
+
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
