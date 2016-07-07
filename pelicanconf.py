@@ -39,6 +39,7 @@ MENUITEMS = (
     (u'Venir', '/pages/venir.html'),
     (u'Se loger', '/pages/se-loger.html'),
     (u'Se nourrir', '/pages/se-nourrir.html'),
+    (u'Demander une bourse', '/pages/bourse.html'),
     (u'Nous soutenir', '/pages/nous-soutenir.html'),
     (u'Nous contacter', '/pages/nous-contacter.html'),
     (u'Code de conduite', '/pages/code-de-conduite.html'),
