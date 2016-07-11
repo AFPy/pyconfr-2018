@@ -41,17 +41,6 @@ Kabu Creative a créé le logo de PyCon-fr 2016.
 
 Kozea a conçu et intégré le design du site web de PyCon-fr 2016.
 
-`Labfab EESAB <http://www.eesab.fr/rennes/labfab>`_
----------------------------------------------------
-
-.. image:: ../images/logo_LabfabEESAB.png
-   :height: 100px
-   :width: 100px
-   :alt: logo du LabFab EESAB
-   :target: http://www.eesab.fr/rennes/labfab
-
-Le LabFab realise les goodies pour la PyCon-fr
-
 `La Cantine Brestoise <http://www.lacantine-brest.net/>`_
 ---------------------------------------------------------
 
@@ -62,6 +51,17 @@ Le LabFab realise les goodies pour la PyCon-fr
    :target: http://www.lacantine-brest.net/
 
 La Cantine Brestoise — Partenaire relais de la conférence en Bretagne.
+
+`Labfab EESAB <http://www.eesab.fr/rennes/labfab>`_
+---------------------------------------------------
+
+.. image:: ../images/logo_LabfabEESAB.png
+   :height: 100px
+   :width: 100px
+   :alt: logo du LabFab EESAB
+   :target: http://www.eesab.fr/rennes/labfab
+
+Le LabFab realise les goodies pour la PyCon-fr
 
 
 Platine
