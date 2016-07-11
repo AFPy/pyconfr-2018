@@ -41,6 +41,18 @@ Kabu Creative a créé le logo de PyConFr 2016.
 
 Kozea a conçu et intégré le design du site web de PyConFr 2016.
 
+`La Cantine Brestoise <http://www.lacantine-brest.net/>`_
+---------------------------------------------------------
+
+.. image:: ../images/logo-cantine-brest.png
+   :height: 100px
+   :width: 100px
+   :alt: logo de La Cantine Brestoise
+   :target: http://www.lacantine-brest.net/
+
+La Cantine Brestoise — Partenaire relais de la conférence en Bretagne.
+
+
 Platine
 =======
 
