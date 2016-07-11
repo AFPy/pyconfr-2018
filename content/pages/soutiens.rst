@@ -17,7 +17,7 @@ Partenaires
    :alt: logo de telecom bretagne
    :target: http://www.telecom-bretagne.eu/
 
-Télécom Bretagne héberge PyConFr 2016.
+Télécom Bretagne héberge PyCon-fr 2016.
 
 `Kabu Creative <http://kabucreative.com/>`_
 -------------------------------------------
@@ -28,7 +28,7 @@ Télécom Bretagne héberge PyConFr 2016.
    :alt: logo de Kabu Creative
    :target: http://kabucreative.com/
 
-Kabu Creative a créé le logo de PyConFr 2016.
+Kabu Creative a créé le logo de PyCon-fr 2016.
 
 `Kozea <https://www.kozea.fr/>`_
 --------------------------------
@@ -39,7 +39,7 @@ Kabu Creative a créé le logo de PyConFr 2016.
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
-Kozea a conçu et intégré le design du site web de PyConFr 2016.
+Kozea a conçu et intégré le design du site web de PyCon-fr 2016.
 
 `La Cantine Brestoise <http://www.lacantine-brest.net/>`_
 ---------------------------------------------------------
@@ -51,6 +51,17 @@ Kozea a conçu et intégré le design du site web de PyConFr 2016.
    :target: http://www.lacantine-brest.net/
 
 La Cantine Brestoise — Partenaire relais de la conférence en Bretagne.
+
+`Labfab EESAB <http://www.eesab.fr/rennes/labfab>`_
+---------------------------------------------------
+
+.. image:: ../images/logo_LabfabEESAB.png
+   :height: 100px
+   :width: 100px
+   :alt: logo du LabFab EESAB
+   :target: http://www.eesab.fr/rennes/labfab
+
+Le LabFab realise les goodies pour la PyCon-fr
 
 
 Platine
