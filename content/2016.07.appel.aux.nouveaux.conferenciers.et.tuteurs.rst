@@ -1,14 +1,14 @@
 Appel aux *nouveaux* conférenciers et tuteurs
 #############################################
 
-:slut: appel-aux-nouveaux-conferenciers-et-tuteurs
+:slug: appel-aux-nouveaux-conferenciers-et-tuteurs
 :lang: fr
 :date: 2016-07-10
 
 
-La PyCon-fr est ouverte aux conférencier-e-s de tout niveau. Si vous le souhaitez, vous pouvez demander l'aide d'un-e tuteur-trice qui vous aidera à préparer votre conférence ou atelier.
+La PyCon-fr est ouverte aux conférencier-e-s de toute expérience. Si vous le souhaitez, vous pouvez demander l'aide d'un-e tuteur-trice qui vous aidera à préparer votre conférence ou atelier.
 
-La date limite approchant, n'hésitez pas à remplir dès maintenant le `formulaire de propositioni <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
+La date limite approchant, n'hésitez pas à remplir dès maintenant le `formulaire de propositions <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
 
 
 Comment demander ou proposer de l'aide ?
