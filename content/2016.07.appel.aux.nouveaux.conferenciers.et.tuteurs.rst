@@ -1,41 +1,42 @@
-Appel aux *nouveaux* conférenciers et tuteurs
-#############################################
+On vous aide à travailler sur vos conférences et/ou ateliers
+#############################################################
 
-:slug: appel-aux-nouveaux-conferenciers-et-tuteurs
+:slug: aide-pour-travailler-sur-vos-conferences
 :lang: fr
-:date: 2016-07-10
+:date: 2016-07-12
 
 
-La PyCon-fr est ouverte aux conférencier-e-s de toute expérience. Si vous le souhaitez, vous pouvez demander l'aide d'un-e tuteur-trice qui vous aidera à préparer votre conférence ou atelier.
+La PyCon-fr est ouverte aux conférencier-e-s de toute expérience.
 
-La date limite approchant, n'hésitez pas à remplir dès maintenant le `formulaire de propositions <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
+Il n'est pas toujours facile de préparer un atelier ou une conférence et cela peut sembler intimidant.
+Nous souhaitons faire en sorte que quiconque soit prêt à franchir le cap.
+Ainsi, vous pouvez demander l'aide d'un-e tuteur-trice pour la préparation de votre conférence et/ou atelier.
 
+Le tuteur vous aidera à :
 
-Comment demander ou proposer de l'aide ?
-========================================
+- rédiger le plan et la proposition
+- écrire les diapos et le texte qui sera dit
+- répéter la présentation, la calibrer en longueur
 
+Outre quelques surprises offertes le jour J, présenter un atelier ou une conférence vous permettra de :
 
-Plusieurs moyens s'offrent à vous :
+- partager votre bibliothèque ou projet préféré
+- recueillir des idées
+- échanger sur un thème qui vous tient à cœur
 
-- un mail à contact@pycon.fr
-- pour les membres de l'AFPy, la liste de diffusion des membres
-- sur IRC : freenode, canal #afpy (`interface web <https://www.afpy.org/doc/afpy/clavardage.html>`_)
-- via Twitter: `@pyconfr <https://twitter.com/pyconfr>`_ ou `@alain_afpy <https://twitter.com/alain_afpy>`_
+La date limite approchant (c'est le 31 juillet), n'hésitez pas à remplir dès maintenant le `formulaire de propositions <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
+Pour demander de l'aide ou obtenir plus d'informations, il suffit d'envoyer un mail à contact@pycon.fr.
 
+----
 
-Qu'est-ce qu'on attend d'un tuteur ?
-====================================
+Envie d'aider ?
 
-
-- une aide pour effectuer les étapes clés, sous la forme :
-        
- - d'une motivation « où en es-tu ? »
- - d'une relecture / écoute quand c'est possible
- - d'une assistance technique si nécessaire et possible
-
-- les étapes clés étant, a priori
-        
- - rédiger le plan et la proposition
- - écrire les diapos et le texte qui sera dit
- - répéter la présentation, la calibrer en longueur
+Si vous souhaitez devenir un-e tuteur-trice, vous pouvez envoyez un mail
+à contact@afpy.org.
+   
+On attend d'un tuteur une aide sous la forme :
+    
+- d'une motivation « où en es-tu ? »
+- d'une relecture / écoute quand c'est possible
+- d'une assistance technique si nécessaire et possible
 
