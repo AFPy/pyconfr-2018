@@ -122,6 +122,27 @@ Nous avons également une activité d’édition de solutions Open Source :
 
 C’est un vrai plaisir d’accompagner la PyCon FR dans cet évènement et de partager ce moment avec des passionnés.
 
+`Planet-Work <https://www.planet-work.com/>`_
+---------------------------------------------
+
+.. image:: ../images/planet-work.svg
+   :height: 100px
+   :width: 100px
+   :alt: logo de planet work
+   :target: https://www.planet-work.com/
+
+Depuis 1999, Planet-Work s’est spécialisé dans l'hébergement d'applications Web et est ainsi devenu un acteur à valeur ajoutée, reconnu pour la qualité de ses services, notamment en matière d'infogérance système (Linux), de gestion des problématiques de montée en charge et de haute disponibilité.
+
+Chez Planet-Work vous bénéficiez :
+
+- de plus de 15 ans d'expérience en infogérance système et applicative.
+- d'un interlocuteur technique privilégié, qui vous écoute, vous conseille et vous suit au gré de vos besoins.
+- d'une infogérance totale, illimitée et « gratuite » (pas de facturation supplémentaire).
+- d'un support technique efficace et réactif (réponse sous 1h en journée, astreinte soir et week-end).
+
+D'année en année, nous hébergeons de plus en plus de sites, d'applications et de solutions de messagerie aux problématiques diverses et variées.
+
+Répondre aux attentes de nos clients est pour nous primordial. Leur confiance est d’ailleurs notre première récompense ! 
 
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
