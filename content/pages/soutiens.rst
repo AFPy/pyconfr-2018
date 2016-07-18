@@ -63,6 +63,17 @@ La Cantine Brestoise — Partenaire relais de la conférence en Bretagne.
 
 Le LabFab realise les goodies pour la PyCon-fr
 
+`ActivDesign <http://www.activdesign.eu/>`_
+-------------------------------------------
+
+.. image:: ../images/logo-ActivDesign.png
+   :height: 100px
+   :width: 100px
+   :alt: logo d'ActivDesign
+   :target: http://www.activdesign.eu/
+
+ActivDesign realise les PDF de communication autour de l'événement.
+
 
 Platine
 =======
