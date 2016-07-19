@@ -138,7 +138,7 @@ C’est un vrai plaisir d’accompagner la PyCon FR dans cet évènement et de p
 
 .. image:: ../images/planet-work.svg
    :height: 100px
-   :width: 100px
+   :width: 300px
    :alt: logo de planet work
    :target: https://www.planet-work.com/
 
