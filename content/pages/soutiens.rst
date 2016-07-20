@@ -155,6 +155,25 @@ D'année en année, nous hébergeons de plus en plus de sites, d'applications et
 
 Répondre aux attentes de nos clients est pour nous primordial. Leur confiance est d’ailleurs notre première récompense ! 
 
+`Algoo <http://algoo.fr/>`_
+---------------------------
+
+.. image:: ../images/algoo.png
+   :height: 100px
+   :width: 200px
+   :alt: logo d'algoo
+   :target: http://algoo.fr/
+
+Algoo développe et gère vos applications web sur mesure.
+
+Nous accompagnons les entreprises qui souhaitent développer des applications web complexes : plateformes web (eCommerce, social, ...), logiciels SAAS, logiciels métier internes. Nous intervenons en fonction des besoins identifiés, sur l'architecture, la conception logiciel, le développement et l'exploitation.
+
+Nous sommes une petite équipe de passionnés, nous contribuons au libre et aux ecosystème associés - `LinuxFR <http://linuxfr.org/users/lebouquetin>`_, Soutien Afpy ; nous produisons du logiciel libre à travers `Tracim <http://tracim.fr>`_ et des contributions sur (entre autres) Flask et Trubogears ; nous sommes également à l'initiative de la plateforme d'agrégation d'offres d'emploi spécialisée python : `pyjobs <http://pyjobs.fr>`_.
+
+Nous allons au delà de la prestation purement technique en accompagnant nos clients sur les aspects collaboratifs, sur la compréhension du web et des implications métier. Nous fournissons des prestations et une collaboration de qualité.
+
+Nous travaillons principalement sur les technologies Python ; il est donc naturel que nous soutenions l'AFPy pour l'organisation de Pycon FR.
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
