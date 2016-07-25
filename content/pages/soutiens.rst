@@ -174,6 +174,21 @@ Nous allons au delà de la prestation purement technique en accompagnant nos cli
 
 Nous travaillons principalement sur les technologies Python ; il est donc naturel que nous soutenions l'AFPy pour l'organisation de Pycon FR.
 
+`Logilab <https://www.logilab.fr/>`_
+------------------------------------
+
+.. image:: ../images/logilab.svg
+   :height: 100px
+   :width: 200px
+   :alt: logo de logilab
+   :target: https://www.logilab.fr/
+
+Logilab **développe** des **logiciels**, et propose du **conseil** et des **formations** de haut niveau dans les domaines de l'`informatique scientifique <https://www.logilab.fr/informatique-scientifique>`_ et du `web sémantique <https://www.logilab.fr/web-semantique>`_, en utilisant des `outils et méthodes agiles <https://www.logilab.fr/outils-methodes-agiles>`_.
+
+Spécialiste de Python depuis sa création en 2000, Logilab œuvre à sa promotion dans les milieux professionnels et soutient activement la communauté, par exemple en sponsorisant les évènements PyDataFR ou PyConFR.
+
+Logilab cherche à renforcer ses équipes de développement : vous soutenez le logiciel libre, vous aimez coder et réaliser de beaux produits, Python est votre animal préféré... consultez au plus vite nos offres d'emploi !
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
