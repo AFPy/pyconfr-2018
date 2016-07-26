@@ -83,7 +83,7 @@ ActivDesign réalise les PDF de communication autour de l'événement.
    :alt: logo de Digital Saint-Malo
    :target: http://digital-saint-malo.com/
 
-Réseau des professionnels du numérique du pays de St Malo, relais local de la conférence.
+Réseau des professionnels du numérique du pays de Saint Malo, relais local de la conférence.
 
 Platine
 =======
