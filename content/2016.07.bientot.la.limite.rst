@@ -31,4 +31,4 @@ Nous tenons aussi à le rappeler : si vous n'avez jamais fait de présentation e
 
 Et nul besoin non plus d'être un·e expert·e en Python pour faire une proposition : nous avons besoins de présentations pour tous les niveaux, et surtout pour les débutant·e·s. Alors si vous avez déjà travaillé avec une librairie, un framework, un outil, etc.., vous êtes déjà suffisament qualifié·e pour le présenter !
 
-Si vous êtes maintenant convaincu, rendez vous sur `notre formulaire de proposition <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
+Si vous êtes maintenant convaincu·e·s, rendez vous sur `notre formulaire de proposition <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
