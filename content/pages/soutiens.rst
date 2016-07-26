@@ -74,6 +74,16 @@ Le LabFab réalise les goodies pour la PyCon-fr
 
 ActivDesign réalise les PDF de communication autour de l'événement.
 
+`Digital Saint-Malo <http://digital-saint-malo.com/>`_
+------------------------------------------------------
+
+.. image:: ../images/DSM_carre.png
+   :height: 100px
+   :width: 100px
+   :alt: logo de Digital Saint-Malo
+   :target: http://digital-saint-malo.com/
+
+Réseau des professionnels du numérique du pays de Saint Malo, relais local de la conférence.
 
 Platine
 =======
