@@ -99,6 +99,25 @@ Platine
 
 La mission de la Python Software Foundation est de promouvoir, protéger et faire progresser le langage de programmation Python, et de supporter et faciliter l'accroissement d'une communauté diverse et internationale de développeu·r·se·s. La majorité du travail de la PSF est consacré à donner les moyens et à encourager les personnes au sein de la communauté Python. La PSF met en place des programmes de subventions pour organiser des ateliers, des conférences, des rencontres, des groupes d'utilisateurs, et le développement de Python partout dans le monde. De plus, la PSF organise PyCon US, la principale conférence de la communauté Python. Récemment, nous avons changé la PSF pour devenir une organisation ouverte à tou·te·s, de manière à ce que chacun·e puisse la rejoindre. Pour en savoir plus, rendez vous sur https://www.python.org/psf/membership.
 
+
+`Mozilla <https://www.mozilla.org/fr/mission/>`_
+------------------------------------------------
+
+.. image:: ../images/mozilla.png
+   :height: 84px
+   :width: 256px
+   :alt: Mozilla
+   :target: https://www.mozilla.org/
+
+
+Mozilla est une communauté mondiale de technophiles, de penseurs et
+d’artisans travaillant ensemble afin de conserver un Internet intact
+et accessible à tous pour que chacun soit en mesure de l’utiliser
+pleinement et de l’enrichir. Nous croyons que collaborer ensemble sur
+une plateforme ouverte est fondamental, tant au niveau de
+l’épanouissement individuel que du bien collectif.
+
+
 `Devenez un soutien "Platine" </pages/nous-soutenir.html>`_
 
 
