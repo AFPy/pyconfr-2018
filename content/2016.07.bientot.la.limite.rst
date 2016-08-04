@@ -10,6 +10,8 @@ Bientôt la limite pour proposer une conférence ou un atelier
 :og_description:  L'appel à conférences et ateliers a été lancé il y a déjà un peu plus d'un mois et reste ouvert jusqu'au 31 juillet.
 :og_image: images/og_image.png
 
+Édition du 04 août 2016 : l'appel à conférences et ateliers est désormais fermé, nous avons supprimé le lien vers le formulaire.
+
 L'`appel à conférences et ateliers <https://2016.pycon.fr/appel-a-conferences-et-ateliers.html>`_ a été lancé il y a déjà un peu plus d'un mois et reste ouvert jusqu'au 31 juillet.
 
 À ce jour, nous avons déjà eu 32 propositions réparties sur les thèmes proposés de la manière suivante :
@@ -31,4 +33,4 @@ Nous tenons aussi à le rappeler : si vous n'avez jamais fait de présentation e
 
 Et nul besoin non plus d'être un·e expert·e en Python pour faire une proposition : nous avons besoins de présentations pour tous les niveaux, et surtout pour les débutant·e·s. Alors si vous avez déjà travaillé avec une librairie, un framework, un outil, etc.., vous êtes déjà suffisament qualifié·e pour le présenter !
 
-Si vous êtes maintenant convaincu·e·s, rendez vous sur `notre formulaire de proposition <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
+Si vous êtes maintenant convaincu·e·s, rendez vous sur `notre formulaire de proposition (lien supprimé) <#>`_ !

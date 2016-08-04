@@ -5,6 +5,7 @@ On vous aide à travailler sur vos conférences et/ou ateliers
 :lang: fr
 :date: 2016-07-12
 
+Édition du 04 août 2016 : l'appel à conférences et ateliers est désormais fermé, nous avons supprimé le lien vers le formulaire.
 
 La PyCon-fr est ouverte aux conférencier-e-s de toute expérience.
 
@@ -28,7 +29,7 @@ une conférence vous permettra de :
 - recueillir des idées
 - échanger sur un thème qui vous tient à cœur
 
-La date limite approchant (c'est le 31 juillet), n'hésitez pas à remplir dès maintenant le `formulaire de propositions <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
+La date limite approchant (c'est le 31 juillet), n'hésitez pas à remplir dès maintenant le `formulaire de propositions (lien supprimé) <#>`_ .
 
 Pour demander de l'aide ou obtenir plus d'informations, il suffit
 d'envoyer un mail à contact@pycon.fr.
