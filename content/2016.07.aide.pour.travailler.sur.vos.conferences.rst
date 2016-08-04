@@ -28,7 +28,7 @@ une conférence vous permettra de :
 - recueillir des idées
 - échanger sur un thème qui vous tient à cœur
 
-La date limite approchant (c'est le 31 juillet), n'hésitez pas à remplir dès maintenant le `formulaire de propositions <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ .
+La date limite du 31 juillet est maintenant dépassée.
 
 Pour demander de l'aide ou obtenir plus d'informations, il suffit
 d'envoyer un mail à contact@pycon.fr.

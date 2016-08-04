@@ -5,8 +5,7 @@ Appel à conférences et ateliers
 :lang: fr
 :date: 2016-06-20
 
-tl;dr [#]_: L'appel à conférences et ateliers est maintenant ouvert, n'hésitez pas
-à `proposer quelque chose <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
+tl;dr [#]_: L'appel à conférences et ateliers ouvert, est maintenant fermé !
 
 Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
 pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
@@ -67,7 +66,7 @@ Nous acceptons des présentations longues (45mn) et courtes (25mn) et
 des ateliers (à vous de nous préciser leur durée en fonction du
 besoin).
 
-`Faites-nous vos propositions de talks / ateliers <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_
+Faites-nous vos propositions de talks / ateliers
 
 Attention, la date limite est fixée au **31 juillet** !
 

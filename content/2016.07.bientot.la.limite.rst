@@ -30,5 +30,3 @@ Nous savons que la plupart des orat·eurs·rices attend le dernier moment pour f
 Nous tenons aussi à le rappeler : si vous n'avez jamais fait de présentation en public, `nous pouvons vous mettre en relation avec un tut·eur·rice <https://2016.pycon.fr/aide-pour-travailler-sur-vos-conferences.html>`_ ! Si c'est votre cas, nous pouvons vous trouver votre tut·eur·rice avant que vous ne rédigiez votre proposition. Si vous êtes intéressé·e pour bénéficier d'un tutorat, ou pour tutorer quelqu'un, envoyez un email à contact@pycon.fr.
 
 Et nul besoin non plus d'être un·e expert·e en Python pour faire une proposition : nous avons besoins de présentations pour tous les niveaux, et surtout pour les débutant·e·s. Alors si vous avez déjà travaillé avec une librairie, un framework, un outil, etc.., vous êtes déjà suffisament qualifié·e pour le présenter !
-
-Si vous êtes maintenant convaincu·e·s, rendez vous sur `notre formulaire de proposition <https://www.fourmilieres.net/#/form/cae778e834c645b9>`_ !
