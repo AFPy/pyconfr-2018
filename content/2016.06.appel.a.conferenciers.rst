@@ -5,7 +5,7 @@ Appel à conférences et ateliers
 :lang: fr
 :date: 2016-06-20
 
-tl;dr [#]_: L'appel à conférences et ateliers ouvert, est maintenant fermé !
+tl;dr [#]_: L'appel à conférences et ateliers est maintenant fermé !
 
 Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
 pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
