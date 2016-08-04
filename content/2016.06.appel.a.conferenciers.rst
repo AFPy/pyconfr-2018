@@ -80,5 +80,5 @@ L'équipe d'organisation
 **Pierre, Mathieu, Yann, Alexis et Rémy**
 
 .. _`Pycon-fr`: https://2016.pycon.fr/
-.. [#] too long, didn't reads
+.. [#] too long, didn't read
 
