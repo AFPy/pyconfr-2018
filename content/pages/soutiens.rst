@@ -19,6 +19,19 @@ Partenaires
 
 Télécom Bretagne héberge PyCon-fr 2016.
 
+
+`Association Actux <http://actux.eu.org/>`_
+-------------------------------------------
+
+.. image:: ../images/logo-actux.png
+   :height: 100px
+   :width: 100px
+   :alt: Logo de l'association Actux
+   :target: http://actux.eu.org/
+
+L'association Actux participe à l'organisation de la conférence.
+
+
 `Kabu Creative <http://kabucreative.com/>`_
 -------------------------------------------
 
@@ -84,6 +97,7 @@ ActivDesign réalise les PDF de communication autour de l'événement.
    :target: http://digital-saint-malo.com/
 
 Réseau des professionnels du numérique du pays de Saint Malo, relais local de la conférence.
+
 
 Platine
 =======
