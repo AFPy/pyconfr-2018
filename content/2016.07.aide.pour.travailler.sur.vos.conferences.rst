@@ -5,7 +5,7 @@ On vous aide à travailler sur vos conférences et/ou ateliers
 :lang: fr
 :date: 2016-07-12
 
- Édition du 04 août 2016 : l'appel à conférences et ateliers est désormais fermé, nous avons supprimé le lien vers le formulaire.
+Édition du 04 août 2016 : l'appel à conférences et ateliers est désormais fermé, nous avons supprimé le lien vers le formulaire.
 
 La PyCon-fr est ouverte aux conférencier-e-s de toute expérience.
 
