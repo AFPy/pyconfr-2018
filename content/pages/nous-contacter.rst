@@ -20,7 +20,7 @@ Pour mettre un nom et un visage sur certains de vos serviteurs :-)
            :align: left
            :width: 200
 
-       Pierre Cosquer
+       Pierre Cosquer (`@AssoActux <https://twitter.com/AssoActux>`_)
 
      - .. image:: ../images/ygravrand.jpg
            :alt: Yann Gravrand
@@ -55,4 +55,4 @@ Pour mettre un nom et un visage sur certains de vos serviteurs :-)
            :align: left
            :width: 200
 
-       Mathieu Goessens
+       Mathieu Goessens (`@AssoActux <https://twitter.com/AssoActux>`_)
