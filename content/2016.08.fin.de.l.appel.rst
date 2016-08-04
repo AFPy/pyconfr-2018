@@ -6,7 +6,7 @@ Fin de l'appel à conférences, ateliers et sprints
 :date: 2016-08-04
 :og_url: https://2016.pycon.fr/fin-de-l-appel-a-conferences.html
 :og_type: website
-:og_title: Plus de 93 propositions de conférences après l'appel à orateurs - PyCon-fr
+:og_title: Plus de 93 propositions de conférences après l'appel à orat·eur·rice·s - PyCon-fr
 :og_description:  L'appel à conférence lancé fin juin et maintenant terminé.
 :og_image: images/og_image.png
 
