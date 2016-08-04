@@ -23,7 +23,7 @@ Télécom Bretagne héberge PyCon-fr 2016.
 `Association Actux <http://actux.eu.org/>`_
 -------------------------------------------
 
-.. image:: ../images/logo-actux.png
+.. image:: ../images/logo-actux.jpg
    :height: 100px
    :width: 100px
    :alt: Logo de l'association Actux
