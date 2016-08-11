@@ -247,7 +247,17 @@ Lengow, c'est également une aventure professionnelle et humaine dans un environ
  
 Découvrez notre plateforme, nos métiers, notre environnement de travail à travers nos réseaux sociaux : `Instagram <https://www.instagram.com/lengow/>`_, `Facebook <https://www.facebook.com/Lengow/?fref=ts>`_ & `Twitter <https://twitter.com/lengow?lang=fr>`_. Nous sommes à la recherche de `nombreux talents <https://lengow.workable.com/>`_ pour renforcer nos équipes. Vous serez peut-être l·e·a prochain·e à nous rejoindre!
 
+`Orange <https://developer.orange.com/>`_
+-----------------------------------------
+
+.. image:: ../images/logo-orange.png
+   :height: 100px
+   :alt: logo de orange
+   :target: https://developer.orange.com/
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
+
+.. Orange ne nous a pas encore fourni de description
 
 Cœur
 ====
