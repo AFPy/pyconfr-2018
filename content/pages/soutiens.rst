@@ -232,7 +232,32 @@ Spécialiste de Python depuis sa création en 2000, Logilab œuvre à sa promoti
 
 Logilab cherche à renforcer ses équipes de développement : vous soutenez le logiciel libre, vous aimez coder et réaliser de beaux produits, Python est votre animal préféré... consultez au plus vite nos offres d'emploi !
 
+`Lengow <http://www.lengow.com/fr/>`_
+-------------------------------------
+
+.. image:: ../images/logo_lengow.png
+   :height: 100px
+   :alt: logo de lengow
+   :target: http://www.lengow.com/fr/
+
+`Lengow <http://www.lengow.com/fr/>`_ est une solution d’e-commerce automation. Intuitive et innovante, notre plateforme assure une forte visibilité et rentabilité aux catalogues produits des e-commerçants, sur tous leurs supports de diffusion : places de marché, comparateurs de prix, régies d’affiliation, display/retargeting... 
+Avec plus de 1 800 partenaires intégrés depuis 2009, nous offrons un écosystème puissant à 3 500 marchands et les accompagnons dans 45 pays à travers le monde.
+ 
+Lengow, c'est également une aventure professionnelle et humaine dans un environnement motivant, innovant et agréable. Un environnement que nous avons façonné à notre image ! Chaque salarié qui rejoint l’aventure Lengow participe au développement de l’entreprise et écrit une partie de son histoire. Cette aventure, nous la vivons tous ensemble.
+ 
+Découvrez notre plateforme, nos métiers, notre environnement de travail à travers nos réseaux sociaux : `Instagram <https://www.instagram.com/lengow/>`_, `Facebook <https://www.facebook.com/Lengow/?fref=ts>`_ & `Twitter <https://twitter.com/lengow?lang=fr>`_. Nous sommes à la recherche de `nombreux talents <https://lengow.workable.com/>`_ pour renforcer nos équipes. Vous serez peut-être l·e·a prochain·e à nous rejoindre!
+
+`Orange <https://developer.orange.com/>`_
+-----------------------------------------
+
+.. image:: ../images/logo-orange.png
+   :height: 100px
+   :alt: logo de orange
+   :target: https://developer.orange.com/
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
+
+.. Orange ne nous a pas encore fourni de description
 
 Cœur
 ====
