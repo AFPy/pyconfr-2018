@@ -138,7 +138,17 @@ l’épanouissement individuel que du bien collectif.
 Or
 ==
 
-`Devenez notre premier soutien "Or" </pages/nous-soutenir.html>`_
+`IT Link <https://www.itlink.fr/>`_
+-----------------------------------
+
+.. image:: ../images/logo_itlink.png
+   :height: 100px
+   :alt: logo d'IT Link
+   :target: https://www.itlink.fr/
+
+.. IT Link ne nous a pas encore fourni de description
+
+`Devenez un soutien "Or" </pages/nous-soutenir.html>`_
 
 Bronze
 ======
@@ -261,5 +271,7 @@ Découvrez notre plateforme, nos métiers, notre environnement de travail à tra
 
 Cœur
 ====
+
+`Hashbang <https://hashbang.fr/>`_
 
 `Devenez notre premier soutien "Cœur" </pages/nous-soutenir.html>`_
