@@ -273,5 +273,9 @@ Cœur
 ====
 
 `Hashbang <https://hashbang.fr/>`_
+----------------------------------
 
-`Devenez un soutien "Cœur" </pages/nous-soutenir.html>`_
+.. image:: ../images/logo_hashbang.png
+   :height: 100px
+   :alt: logo d'hashbang
+   :target: https://hashbang.fr
