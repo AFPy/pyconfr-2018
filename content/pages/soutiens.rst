@@ -274,4 +274,4 @@ Cœur
 
 `Hashbang <https://hashbang.fr/>`_
 
-`Devenez notre premier soutien "Cœur" </pages/nous-soutenir.html>`_
+`Devenez un soutien "Cœur" </pages/nous-soutenir.html>`_
