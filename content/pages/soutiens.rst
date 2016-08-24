@@ -98,6 +98,15 @@ ActivDesign réalise les PDF de communication autour de l'événement.
 
 Réseau des professionnels du numérique du pays de Saint Malo, relais local de la conférence.
 
+`Linux Mag (Éditions Diamond) <https://boutique.ed-diamond.com/>`_
+------------------------------------------------------------------
+
+.. image:: ../images/ed_diamond.png
+   :height: 100px
+   :alt: logo de Linux Mag (Éditions Diamond)
+   :target: https://boutique.ed-diamond.com/
+
+Le magazine de référence technique pour les Développeurs et les Administrateurs sur systèmes Open Source, partenaire presse
 
 Platine
 =======
