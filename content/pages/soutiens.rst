@@ -147,7 +147,27 @@ l’épanouissement individuel que du bien collectif.
 Or
 ==
 
-`Devenez notre premier soutien "Or" </pages/nous-soutenir.html>`_
+`IT Link <https://www.itlink.fr/>`_
+-----------------------------------
+
+.. image:: ../images/logo_itlink.png
+   :height: 100px
+   :alt: logo d'IT Link
+   :target: https://www.itlink.fr/
+
+IT Link, le spécialiste du digital industriel, conçoit pour ses clients des systèmes connectés, pour qu’ils tirent tout le bénéfice du numérique comme levier de croissance et de compétitivité. Présente dans une dizaine de régions françaises ainsi qu’à Bruxelles, l’entreprise poursuit son développement en Europe et outre-Atlantique
+
+Aéronautique, Transports, Energie, Services …: les clients d’IT Link lui confient des projets à forte valeur ajoutée pour créer leur business de demain. IT Link mobilise pour eux l’ensemble des expertises pour concevoir toutes les briques d’un système connecté, des capteurs au Système d’Information.
+
+Dans ce cadre, IT Link a développé un pôle de compétences autour de Python car ce langage présente de nombreuses qualités : multiplateformes, natif Linux/Mac, communauté importante et active, ... 
+
+IT Link propose ainsi à ses clients, et ce dans le respect des bonnes pratiques Python, d'assumer l'ensemble du développement de leur projets, du pilotage de périphériques (capteurs, moteurs, ...) à la restitution de données, en clients lourds ou léger, en système embarqué ou non.
+
+IT Link est désormais votre partenaire privilégié pour vos projets de développement logiciel Python. 
+
+Suivez dès à présent nos actualités sur les réseaux sociaux : `LinkedIn <https://fr.linkedin.com/company/groupe-it-link---it-link-system---ipsis>`__, `Twitter <https://twitter.com/nousrecrutons>`__, `Facebook <https://www.facebook.com/IT-Link-225806117434835/>`__.
+
+`Devenez un soutien "Or" </pages/nous-soutenir.html>`_
 
 Bronze
 ======
@@ -271,4 +291,10 @@ Découvrez notre plateforme, nos métiers, notre environnement de travail à tra
 Cœur
 ====
 
-`Devenez notre premier soutien "Cœur" </pages/nous-soutenir.html>`_
+`Hashbang <https://hashbang.fr/>`_
+----------------------------------
+
+.. image:: ../images/logo_hashbang.png
+   :height: 100px
+   :alt: logo d'hashbang
+   :target: https://hashbang.fr
