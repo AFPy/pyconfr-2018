@@ -284,7 +284,11 @@ Découvrez notre plateforme, nos métiers, notre environnement de travail à tra
    :alt: logo de orange
    :target: https://developer.orange.com/
 
-.. Orange ne nous a pas encore fourni de description
+Orange est l'un des principaux opérateurs de télécommunications dans le monde, avec un chiffre d'affaires de 40 milliards d'euros en 2015 et 154 000 salariés au 30 juin 2016, dont 96 000 en France. Présent dans 29 pays, le Groupe servait 250 millions de clients dans le monde au 30 juin 2016, dont 189 millions de clients mobile et 18 millions de clients haut débit fixe. Orange est également l'un des leaders mondiaux des services de télécommunications aux entreprises multinationales sous la marque Orange Business Services. En mars 2015, le Groupe a présenté son nouveau plan stratégique « Essentiels2020 » qui place l'expérience de ses clients au cœur de sa stratégie, afin que ceux-ci puissent bénéficier pleinement du monde numérique et de la puissance de ses réseaux très haut débit.
+ 
+Orange est coté sur Euronext Paris (symbole ORA) et sur le New York Stock Exchange (symbole ORAN).
+
+Pour plus d'informations (sur le web et votre mobile) : `www.orange.com <http://www.orange.com/>`_, `www.orange-business.com <http://www.orange-business.com/>`_, `www.livetv.orange.com <http://www.livetv.orange.com/>`_ ou pour nous suivre sur Twitter : `@presseorange <https://twitter.com/presseorange>`_.
 
 `Bearstech <https://bearstech.com/>`_
 -----------------------------------------
