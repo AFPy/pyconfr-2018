@@ -284,9 +284,19 @@ Découvrez notre plateforme, nos métiers, notre environnement de travail à tra
    :alt: logo de orange
    :target: https://developer.orange.com/
 
-`Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
-
 .. Orange ne nous a pas encore fourni de description
+
+`Bearstech <https://bearstech.com/>`_
+-----------------------------------------
+
+.. image:: ../images/logo_bearstech.png
+   :height: 100px
+   :alt: logo de bearstech
+   :target: https://bearstech.com/
+
+Bearstech est une jeune entreprise innovante, SCOP dʼingénieurs du libre, dont l'activité principale est l'infogérance et l'optimisation d'applications web complexes. (Services à valeur ajoutée autour de lʼhébergement dʼapplications web et leur infogérance, Organisations et outils pour les équipes de développement et de production, Développement, Hébergement, Gestion de la montée en charge, Audits).
+
+`Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
 ====
