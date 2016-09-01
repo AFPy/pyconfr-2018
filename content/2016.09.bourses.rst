@@ -1,0 +1,32 @@
+Offres de bourses
+#################
+
+:slug: offres-de-bourses
+:lang: fr
+:date: 2016-09-01
+:og_url: https://2016.pycon.fr/offres-de-bourses.html
+:og_type: website
+:og_title: Offres de bourses
+:og_description:  L'AFPy propose des bourses pour aider les personnes avec peu de moyens à venir à la conférence
+:og_image: images/og_image.png
+
+Depuis plusieurs années, l'AFPy propose une aide financière aux personnes qui souhaiteraient se rendre à PyConFr sans en avoir les moyens.
+
+En 2015, 8 personnes ont bénéficié de cette bourse, pour un montant total de 1188.27 €. Parmi ces 8 personnes, une venait d'Algérie, 4 étaient étudiant·e·s, et 3 étaient en recherche d'emploi.
+
+Cette année, notre budget nous permet de reconduire l'opération à destination en particulier des étudiant·e·s, des personnes en recherche d'emploi, et des personnes ne provenant pas d'Europe (plusieurs demandes émanant d'Afrique ont déjà été faites).
+
+Pour faire une demande, écrivez un mail au trésorier de l'AFPy (`tresorier@afpy.org`_) expliquant brièvement :
+
+- votre statut actuel (étudiant, en recherche d'emploi ...)
+- la raison pour votre participation à la conférence (assister aux conférences, présentation d'un projet, participation à un sprint, ...)
+- une estimation approximative du coût de votre participation a PyConFr (transport et hébergement).
+- toute autre information que vous jugez nécessaire
+
+Les personnes acceptées recevront un maximum de 200€ pour un trajet en Europe, ou un maximum de 400€ pour un aller retour partant hors d'Europe, correspondant au remboursement d'au maximum 75% des coûts de transports et de logement.
+
+La bourse sera réglée par virement européen SEPA ou par Paypal, sur présentation des justificatifs des dépenses (factures, billets de train, ...). 
+
+Les demandes de bourse doivent être faites à l'adresse mail `tresorier@afpy.org`_ avant le 16 septembre.
+
+.. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
