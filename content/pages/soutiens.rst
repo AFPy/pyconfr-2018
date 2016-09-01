@@ -167,6 +167,22 @@ IT Link est désormais votre partenaire privilégié pour vos projets de dévelo
 
 Suivez dès à présent nos actualités sur les réseaux sociaux : `LinkedIn <https://fr.linkedin.com/company/groupe-it-link---it-link-system---ipsis>`__, `Twitter <https://twitter.com/nousrecrutons>`__, `Facebook <https://www.facebook.com/IT-Link-225806117434835/>`__.
 
+`Lexsi <https://www.lexsi.com/fr>`_
+-----------------------------------
+
+.. image:: ../images/logo_lexsi.jpg
+   :height: 100px
+   :alt: logo de Lexsi
+   :target: https://www.lexsi.com/fr
+
+LEXSI est né pour défendre les actifs vitaux des entreprises.
+
+15 ans d’histoire ont fait de Lexsi le premier cabinet de conseil spécialisé en cybersécurité en France. Avec le plus important CERT indépendant d’Europe et une base de threat intelligence faisant référence sur le marché, Lexsi veille sur la sécurité de plus de 500 clients dans le monde.
+
+Le portfolio de Lexsi compte des services d’audit, de conseil, de réponse à incident et de formation, ainsi qu’une offre logicielle aboutie, essentiellement disponible en SaaS. Ces produits s’articulent naturellement autour d’une démarche de défense structurée faite d’anticipation et de riposte.
+
+Lexsi propose actuellement des postes de développeur·se·s Python : https://www.lexsi.com/fr/carrieres/offres-emplois/2316-dev-idf 
+
 `Devenez un soutien "Or" </pages/nous-soutenir.html>`_
 
 Bronze
