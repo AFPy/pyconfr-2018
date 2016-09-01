@@ -12,7 +12,7 @@ L'AFPy propose des bourses pour les étudiant·e·s ou les personnes dont les mo
 - une estimation approximative du coût de votre participation a PyConFr (transport et hébergement).
 - toute autre information que vous jugez nécessaire
 
-Vous ne devez pas dépasser les 400 mots dans votre demande. Les personnes acceptées recevront un maximum de 200€, correspondant au remboursement d'au maximum 75% des coûts de transports et de logement.
+Vous ne devez pas dépasser les 400 mots dans votre demande. Les personnes acceptées recevront un maximum de 200€ pour un trajet en Europe, ou un maximum de 400€ pour un aller retour partant hors d'Europe, correspondant au remboursement d'au maximum 75% des coûts de transports et de logement.
 
 La bourse sera réglée par virement européen SEPA ou par Paypal, sur présentation des justificatifs des dépenses (facture, billet de train, ...). 
 
