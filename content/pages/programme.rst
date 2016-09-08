@@ -46,8 +46,8 @@ Samedi 15 octobre
         <td class="short"><div class="title"><a href="programme.html#La programmation asynchrone avec Python.">La programmation asynchrone avec Python.</a></div><div class="person"><a href="intervenants.html#Vincent Maillol">Vincent Maillol</a></div></td>
         <td class="short"><div class="title"><a href="programme.html#Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</a></div><div class="person"><a href="intervenants.html#maha mdini">maha mdini</a></div></td>
         <td class="short"><div class="title"><a href="programme.html#Des nouvelles du Front !">Des nouvelles du Front !</a></div><div class="person"><a href="intervenants.html#Gaël Durand">Gaël Durand</a></div></td>
-        <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
-        <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Life's too short: let's patch politics">Life's too short: let's patch politics</a></div><div class="person"><a href="intervenants.html#James Pic">James Pic</a></div></td>
+        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
+        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Life's too short: let's patch politics">Life's too short: let's patch politics</a></div><div class="person"><a href="intervenants.html#James Pic">James Pic</a></div></td>
       </tr>
       <tr>
         <td class="slot">10h30-10h55</td>
@@ -144,11 +144,11 @@ Dimanche 16 octobre
       </tr>
       <tr>
         <td class="slot">9h-9h30</td>
-        <td colspan="5">Accueil / Petit déjeuner</td>
+        <td class="break" colspan="5">Accueil / Petit déjeuner</td>
       </tr>
       <tr>
         <td class="slot">9h30-10h</td>
-        <td colspan="5">Assemblée Générale AFPY</td>
+        <td class="special" colspan="5">Assemblée Générale AFPY</td>
       </tr>
       <tr>
         <td class="slot">10h-10h25</td>
@@ -233,14 +233,8 @@ Dimanche 16 octobre
        </tr>
     </table>
 
-
-Liste complète des interventions
-================================
-
-
-.. raw:: html
-
     <div class="interventions">
+        <h2>Liste complète des interventions</h2>
         <div class="title" id="Key Signing Party">Key Signing Party</div>
         <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
         L'utilisation de GPG dans la communauté a plusieurs applications, par exemple la signature de commits (supporté récemment par Github et Gitlab), la vérification de l'intégrité des paquets, l'échange des informations sensibles comme des mot de passes ou des API keys, entre autres.
@@ -258,7 +252,7 @@ Liste complète des interventions
         <div class="description">Atelier pour découvrir la programmation Python sur un petit robot mobile. Le robot MRPi1 est un robot mobile de 10 cm de diamètre basé sur une carte Raspberry pi avec de nombreux capteurs.</div>
 
         <div class="title" id="Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</div>
-        <div class="description">"Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.
+        <div class="description">Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.
         Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.</div>
 
         <div class="title" id="Evaluating Topic Models through python">Evaluating Topic Models through python</div><div class="description">Topic modeling in python is an upcoming and exciting field. With so many great open source libraries available, the natural language processing and topic modeling community is advancing rapidly and python has made it all the more easy! My summer work involved implementing the topic coherence pipeline in gensim which is a topic modeling library in python. I had to convert java code into efficient python code without sacrificing the mathematical correctness of the original algorithms.
@@ -266,18 +260,33 @@ Liste complète des interventions
         While doing the project I realized the beauty of python when I noticed the fact that what required three different modules in java could be done inside just one function in python! I also experienced python's ease of use, user-friendliness and robustness while working with it. I started off thinking that it will take me two to three months to implement this pipeline in python but I finished almost one month ahead of schedule. How? Simply because python is incredible!</div>
 
         <div class="title" id="Automatiser son déploiement en TDD avec Ansible et LXD">Automatiser son déploiement en TDD avec Ansible et LXD</div>
-        <div class="description">Au terme de cet atelier, vous saurez coder vos tests de déploiement ainsi que vos recettes de déploiement en Ansible et apprendrez à reproduire votre infra de prod en local avec des containeurs full systems.
-        Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web	Cet atelier sera l'opportunité pour apprendre comment architecturer un daemon avec AsyncIO ainsi que l'utilisation courante de l'API d'aiohttp.web, qui ressemble fort à celle de Flask, afin de faciliter les migrations.</div>
+        <div class="description">Au terme de cet atelier, vous saurez coder vos tests de déploiement ainsi que vos recettes de déploiement en Ansible et apprendrez à reproduire votre infra de prod en local avec des containeurs full systems.</div>
+
+        <div class="title" id="Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web">Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web</div><div class="description">Cet atelier sera l'opportunité pour apprendre comment architecturer un daemon avec AsyncIO ainsi que l'utilisation courante de l'API d'aiohttp.web, qui ressemble fort à celle de Flask, afin de faciliter les migrations.</div>
+
+        <div class="title" id="Créer son API avec Django REST framework">Créer son API avec Django REST framework</div>
+        <div class="description">L'atelier a pour but la construction d'API avec Django REST framework.
+        Il s'agit de découvrir Django REST framework.
+        Lors de l'atelier, différentes parties seront présentées:
+        - sérialisation des données
+        - présentation humaine des données
+        - pagination
+        - autentification / permissions
+        - filtrage
+        - gestion des relations entre les données
+        La connaissance de base de Django est un pré-requis.</div>
 
         <div class="title" id="interface graphique moderne En Qt avec python">interface graphique moderne En Qt avec python</div>
-        <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traité et le langage QML sera présenté.
-        Prototypage rapide d'applications avec Kivy	"Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'évènements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
-        Les différents widgets seront présentés, allant du simple Label, à l'utilisation des ScreenManager pour organiser l'application, en passant par les différents Layout, et l'utilisation des RecycleView pour la gestion de données à défilement potentiellement infinie.
-        Le prototypage rapide de widgets ""from scratch"" sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherché.
-        Une connaissance fonctionnelle de python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de python (par exemple sublim text ou pycharm).</div>
+        <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traité et le langage QML sera présenté.</div>
+
         <div class="title" id="Life's too short: let's patch politics">Life's too short: let's patch politics</div>
         <div class="description">L'occasion d'apprendre à contribuer au projet de mémoire politique Memopol utilisé comme outil de lobbying citoyen par la Quadrature du Net ainsi que l'EDRi. Vous apprendrez donc à développer en local sur ce projet en Django, PostgreSQL et OpenShift et qui sait, peut-être rejoindrez-vous l'équipe ?</div>
 
+        <div class="title" id="Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</div>
+        <div class="description">Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'évènements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
+        Les différents widgets seront présentés, allant du simple Label, à l'utilisation des ScreenManager pour organiser l'application, en passant par les différents Layout, et l'utilisation des RecycleView pour la gestion de données à défilement potentiellement infinie.
+        Le prototypage rapide de widgets ""from scratch"" sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherché.
+        Une connaissance fonctionnelle de python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de python (par exemple sublim text ou pycharm).</div>
 
         <div class="title" id="Warehouse - the future of PyPI">Warehouse - the future of PyPI</div>
         <div class="description">Warehouse is the next generation Python Package Repository, designed to replace the legacy code base that currently powers PyPI.
@@ -311,7 +320,7 @@ Liste complète des interventions
         retardée se retrouvent pour une petite chouille de moins de 500 lignes.</div>
 
         <div class="title" id="Import et Compagnie">Import et Compagnie</div>
-        <div class="description">et hop, ""import antigravity"", la magie de python résumé en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité ça tout le monde l'apprend à l'école. Comment marche les imports en python.
+        <div class="description">et hop, "import antigravity", la magie de python résumé en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité ça tout le monde l'apprend à l'école. Comment marche les imports en python.
         Plongeon ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique, indispensable. une fois un peu plus famillié avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?</div>
 
         <div class="title" id="Et si on réécrivait Google en Python ?">Et si on réécrivait Google en Python ?</div>
@@ -319,21 +328,6 @@ Liste complète des interventions
         Je présenterais en premier temps l'architecture classique des moteurs de recherche (du crawler au frontend) et son évolution depuis le fameux papier de recherche présentant Google en 1998.
         Je ferais ensuite un tour d'horizon des langages et projets open source les plus adaptés aujourd'hui pour chacun des composants, ainsi que les choix faits pour Common Search, un nouveau moteur de recherche open source écrit principalement en Python.
         Le but de cette présentation est d'apprendre comment fonctionne un moteur de recherche de l'intérieur, ainsi que de réfléchir aux problèmes pour lesquels Python est ou n'est pas une bonne solution.</div>
-
-        <div class="title" id="ByteCode ? Kezako ce truc ?">ByteCode ? Kezako ce truc ?</div>
-        <div class="description">Pour tout le monde, Python se limite a des fichiers avec l'extension .py,
-        cependant Python genere aussi des fichiers .pyc, qui correspondent a une version
-        compilee du code Python, et cette version est representee sous forme de ByteCode.
-        C'est ce ByteCode qui est directement execute par l'interpreteur de CPython.
-        Dans ce talk, je vous expliquerai ce que fait le byte code, comment il est interprete
-        et surtout sa signification.
-        Et comment ferons-nous cela ? a l'aide du module 'dis' qui est integre dans CPython.
-        Nous ne verrons pas toutes les valeurs du ByteCode, mais les plus basique,
-        celles qui permettent de realiser une addition ou une concatenation comme
-        par exemple BINARY_ADD, LOAD_CONST, STORE_NAME.
-        Nous verrons une partie du code de l'interpeteur qui explique comment le byte code est evalue pour donner le resultat final de votre code Python.
-        Apres ce talk, le byte code n'aura plus de secret pour vous. De plus,
-        l'etude du byte code permet de vous aider a optimiser votre code.</div>
 
         <div class="title" id="Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</div>
         <div class="description">Mapping Learning est à la fois une application et projet éducatif, et présente deux objectifs :
@@ -345,7 +339,7 @@ Liste complète des interventions
         bénéficieront, quant à eux, d’une manipulation aisée des données géographiques (images ou vectorielles) et pourront y ajouter leurs algorithmes. L’application réalise les principales étapes de
         manipulation de données (spatialisées ou non) : réduction de dimension, cross-validation, apprentissage, post-traitements. Enfin, elle livre un compte-rendu standardisé et agrémenté de
         conseils sur l'utilisation optimale des méthodes.
-        Mapping Learning réunit trois grandes librairies open-source : gdal/ogr (données géographiques), pandas et scikit-learn (machine learning). Plusieurs de nos étudiants utilisent déjà l’application,
+        Mapping Learning réunit trois  librairies open-source : gdal/ogr (données géographiques), pandas et scikit-learn (machine learning). Plusieurs de nos étudiants utilisent déjà l’application,
         dans une phase initiale de développement, sur leurs jeux de données. Notre ambition est d'assurer la pérennité de ce projet et nous conclurons en invitant toutes les personnes intéressées à nous
         rejoindre.</div>
 
@@ -366,7 +360,7 @@ Liste complète des interventions
         <div class="title" id="Comment lancer un benchmark stable">Comment lancer un benchmark stable</div>
         <div class="description">Le travail d'optimisation d'un programme est une tâche plus complexe qu'elle n'y parait au premier abord. Toute optimisation doit être mesurée pour s'assurer, qu'effectivement, elle accélère le traitement du programme. Problème : il est difficile d'obtenir des benchmarks stables.
         La stabilité d'un benchmark (mesure des performances) est essentielle pour pouvoir comparer deux versions du code et calculer la différence (plus rapide ou plus lent ?). Un benchmark instable ne sert à rien, et risque de donner un résultat faussé lors d'une comparaison de performance pouvant guider à de mauvaises décisions.
-        Je vais vous présenter le module Python ""perf"" qui aide à lancer des benchmarks mais surtout à les analyser : calcul d'une moyenne et de la déviation standard sur plusieurs exécutions, rendu d'un histogramme pour visualiser la courbe de probabilité, calcul pour estimer la stabilité du benchmark, comparaison entre plusieurs résultats, relancer un benchmark pour collecter plus de mesures, etc.
+        Je vais vous présenter le module Python "perf" qui aide à lancer des benchmarks mais surtout à les analyser : calcul d'une moyenne et de la déviation standard sur plusieurs exécutions, rendu d'un histogramme pour visualiser la courbe de probabilité, calcul pour estimer la stabilité du benchmark, comparaison entre plusieurs résultats, relancer un benchmark pour collecter plus de mesures, etc.
         Le cas d'utilisation étant de mesurer de petites optimisations isolées dans CPython et s'assurer qu'elles n'introduisent pas de régression en terme de performance.</div>
 
         <div class="title" id="Application en Python de modèles physiologiques des muscles humains">Application en Python de modèles physiologiques des muscles humains</div>
@@ -407,13 +401,13 @@ Liste complète des interventions
         This talk will be majorly focused on describing my findings and the model proposed (based on our research) to use user's 'time based behaviour' as an additional dimension of data available for making recommendations for users. The proposed model uses advanced mathematical techniques like Singular Value Decomposition (SVD) etc. I will be showcasing the working demo as well, which is built using light-weight Python framework Flask.</div>
 
         <div class="title" id="python pour le text mining (fouille de texte)">python pour le text mining (fouille de texte)</div>
-        <div class="description">cityzenmap.com est une carte qui nous permet de visualiser et de suivre l’avancement des projets d'aménagement sur toute la France, développée en python, l'application a remporté le prix national Dataconnexions dans la catégorie ""Impact administratif & territorial"".
+        <div class="description">cityzenmap.com est une carte qui nous permet de visualiser et de suivre l’avancement des projets d'aménagement sur toute la France, développée en python, l'application a remporté le prix national Dataconnexions dans la catégorie "Impact administratif & territorial".
         L'application peut en se basant sur des techniques d'apprentissage automatique et de fouille de texte et de manière automatique détecter les projets d'aménagent depuis des bases de données d’appel d'offre.
         Ma présentation sera un retour d'expérience sur comment on utilise python à Jurismarchés pour faire du texte mining (fouille de texte), comme exemples nous avons choisis CityZenMap.
         Durant la présentation nous allons commencer par introduire des notions de datamining (fouille de données) et de fouille de textes, puis des exemples d'implémentation en python de modèles de fouilles de texte (en utilisant la librairie Scikit-learn), nous présenterons aussi l'implémentation du modèle utilisé dans CityZenMap pour analyser les annonces afin de détecter les projets d’aménagement.</div>
 
         <div class="title" id="À la découverte du bytecode CPython !">À la découverte du bytecode CPython !</div>
-        <div class="description">Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers "".pyc"" une fois un code exécuté.
+        <div class="description">Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers ".pyc" une fois un code exécuté.
         Dans cette présentation, nous partirons à l'aventure au cœur de la machine virtuelle CPython
         pour découvrir ce qui l'anime tout en répondant à des questions existentielles comme :
         - d'où viennent et à quoi servent les fameux fichiers .pyc
@@ -423,9 +417,9 @@ Liste complète des interventions
         - et bien sûr à quoi tout cela peut-il bien servir dans la vrai vie ;-)</div>
 
         <div class="title" id="Interopérabilité Python/C++ pour la motion capture et l'animation faciale">Interopérabilité Python/C++ pour la motion capture et l'animation faciale</div>
-        <div class="description">Notre compagnie, ""Dynamixyz"", développe des logiciels pour les studios de
+        <div class="description">Notre compagnie, "Dynamixyz", développe des logiciels pour les studios de
         production de films, de jeux vidéos et d'effets spéciaux. Nous nous spécialisons
-        dans la ""motion capture"" faciale: capter avec précision les mouvements d'acteurs
+        dans la "motion capture" faciale: capter avec précision les mouvements d'acteurs
         réels sur des vidéos et transférer ces mouvements afin d'animer les visages de
         personnages virtuels.
         Sous le capot, on retrouve un mélange de techniques de traitement d'image, de
@@ -480,8 +474,9 @@ Liste complète des interventions
         Besides looking at how websites are put together, we will also discuss the ethics of scraping. What is legal? How can you be a friendly scraper, so that the administrator of the website you are scraping won’t try to shut you down?
         Slides: https://slides.com/manojp/introws</div>
 
-        <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.
-        Premiers pas pour assurer la qualité de vos applications	"En tant que développeur·se·s, nous sommes constamment à la chasse aux bugs, à la recherche du bon fonctionnement de notre application, en tout cas, c'est ce qu'il faut pour satisfaire nos utilisat·eurs·rices (qui sont parfois nos client·e·s).
+        <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
+
+        <div class="title" id="Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</div><div class="description">En tant que développeur·se·s, nous sommes constamment à la chasse aux bugs, à la recherche du bon fonctionnement de notre application, en tout cas, c'est ce qu'il faut pour satisfaire nos utilisat·eurs·rices (qui sont parfois nos client·e·s).
         L'écosystème Python offre tous les outils pour automatiser la vérification que notre code est correcte ou que notre application fonctionne correctement.
         Nous allons donc voir comment mettre en place ces premières vérifications autour de la qualité du code et de la validation par les tests, en allant jusqu'à l'intégration continue.</div>
 
@@ -502,12 +497,6 @@ Liste complète des interventions
         <div class="title" id="Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</div>
         <div class="description">Lors de la contruction de la plateforme de monitoring Bleemeo, nous avons fait le choix d'une API REST utilisée à la fois par notre interface web et nos clients et un frontal full JavaScript. Notre backend a été développé en Django avec Django REST Framework  et le frontal en ReactJS.
         Los de cette conférence, nous souhaitons partager notre retour d'expérience après plus d'un an de développement et de problématiques rencontrées pour mettre en place cette architecture. Nous reviendrons entre autre sur la gestion des permissions, les bonnes configurations à mettre en place pour une API publique et sur les performances.</div>
-    </div>
-
-
-.. raw:: html
-
-    <div class="interventions">
 
         <div class="title" id="Topic Modelling with Python and Gensim">Topic Modelling with Python and Gensim</div>
         <div class="description">Topic Modelling is an information retrieval technique to identify key topics in a large corpus of text documents. It is a very handy technique to model unstructured textual data, and is used heavily in both industry and in research to both understand trends in textual data and analyse new documents via their topics.
@@ -518,7 +507,7 @@ Liste complète des interventions
         <div class="title" id="Qt et Asyncio avec Quamash">Qt et Asyncio avec Quamash</div>
         <div class="description">Asyncio est un modèle asynchrone générique basé sur des event-loop. Il permet de s’interfacer avec n’importe quelle autre librairie proposant un mécanisme d’event-loop.
         Dans cette présentation, on découvrira le potentiel de asyncio via la librairie Quamash (https://github.com/harvimt/quamash).
-        Quamash est une petite librairie développée par Mark Harviston et Arve Knudsen. Elle permet d'utiliser les mots clés ""async"" et ""await"" dans des applications Qt, mettant alors fin au Callback Hell des signaux/slots ! L’intégration de la boucle d’évènement Qt dans asyncio permet aussi d’utiliser toutes les autres librairies Asyncio dans Qt, telle que aiohttp.
+        Quamash est une petite librairie développée par Mark Harviston et Arve Knudsen. Elle permet d'utiliser les mots clés "async" et "await" dans des applications Qt, mettant alors fin au Callback Hell des signaux/slots ! L’intégration de la boucle d’évènement Qt dans asyncio permet aussi d’utiliser toutes les autres librairies Asyncio dans Qt, telle que aiohttp.
         On découvrira ensemble les possibilités de cette librairie. On commencera par une utilisation basique, puis  on analysera quelques décorateurs utiles pour se simplifier la vie dans l'usage de Quamash. On mélangera ensuite Qt, asyncio, et aiohttp. Enfin, on regardera comment développer des tests fonctionnels basés sur QTest et Asyncio. Le tout agrémenté de questions/réponses...</div>
 
         <div class="title" id="Python, c'est rapide, ou c'est lent ?">Python, c'est rapide, ou c'est lent ?</div>
@@ -527,7 +516,7 @@ Liste complète des interventions
         De plus, cette conférence sera également l'opportunité de lister ce qui à disposition dans la boîte à outils de Python pour faire face aux problèmes de performances.</div>
 
         <div class="title" id="Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</div>
-        <div class="description">Il est prévu que la version stable de Python 3.6 inclue les f-strings définies dans PEP 498 (elles sont présentes dans les versions non-définitives de Python 3.6 depuis alpha 1). Les f-strings sont la quatrième forme de ""mise en forme composite"" (string interpolation) après %-format, str.format(), et string.Template.
+        <div class="description">Il est prévu que la version stable de Python 3.6 inclue les f-strings définies dans PEP 498 (elles sont présentes dans les versions non-définitives de Python 3.6 depuis alpha 1). Les f-strings sont la quatrième forme de "mise en forme composite" (string interpolation) après %-format, str.format(), et string.Template.
         Cette nouvelle façon de construire des chaînes améliore souvent la lisibilité du code. Je propose de passer en revue ce que sont les f-strings, leurs particularités et certains détails de leur implémentation dans CPython. </div>
 
         <div class="title" id="L'Enfer du packaging Python">L'Enfer du packaging Python</div>
@@ -545,7 +534,7 @@ Liste complète des interventions
 
 
           <div class="title" id="Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</div><div class="description">Afin d'aider la communauté à gérer proprement ses packages, la PSF, à travers la PEP427, à instauré en 2012/2013 le format de packaging Wheel.
-          La particularité de ce format tient dans le fait qu'il s'agit, en résumant sommairement, de dézipper directement dans le dossier ""site-package"" la version du package correspondant à la distribution utilisée. Ainsi plus de soucis de compilation possible.
+          La particularité de ce format tient dans le fait qu'il s'agit, en résumant sommairement, de dézipper directement dans le dossier "site-package" la version du package correspondant à la distribution utilisée. Ainsi plus de soucis de compilation possible.
           Cette présentation vise à présenter ce nouveau format, et par extension, à introduire l'installation et l'utilisation basique de Devpi.
           Cet outil permet de disposer en interne d'un serveur similaire à Pypi. Il permet ainsi de gérer ses propres paquets Python correctement et d'y avoir accès aisément via pip.
           L'association du format wheel et de Devpi permet ainsi de standardiser la gestion de paquets Python, quels qu'ils soient.</div>
@@ -559,13 +548,6 @@ Liste complète des interventions
           Le bidouilleur que je suis avait envie de détourner son matériel pour reproduire ce type d’outil de création…
           Après une introduction au MIDI et aux principes d’un séquenceur, nous verrons comment nous pouvons, avec Python et la librairie mido, « hacker » un certain synthétiseur hardware pour en faire un séquenceur pas à pas, à l’aide d’une boucle d’événements. Nous essaierons même de l’interfacer avec Ableton Live pour contrôler non plus les sons du synthétiseur, mais des samples !
           Disclaimer : bien que pratiquant la M.A.O depuis longtemps, je ne suis pas expert en séquenceurs mais plutôt bidouilleur et pythoniste… Ainsi je laisserai une bonne place aux échanges avec vous pendant l’intervention !</div>
-
-          <div class="title" id="La programmation asynchrone avec Python.">La programmation asynchrone avec Python.</div>
-          <div class="description">Coroutine, boucle d'événement, entrés sorties non-blocantes ...
-          Besoin de faire le tri ?
-          Depuis plusieurs années de plus en plus d'outils facilitent la programmation asynchrone. Un monde qui peut paraitre étrange dans lequel des serveurs gèrent des millier de connections simultanément sans utiliser de threads.
-          Cette présentation explique les différents concepts de la programmation asynchrone et l'évolution de celle-ci avec l'arrivée des nouveaux mots clé async et await dans python 3.5.
-          Nous verrons comment utiliser la librairie Asyncio, qui est à python ce que NodeJS est à JavaScript, puis nous découvrirons comment faire du web asynchrone grâce au framework Tornado et comment faire un pont entre Asyncio et Tornado.</div>
 
           <div class="title" id="Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</div>
           <div class="description">Ansible est un outil de déploiement d'un genre un peu spécial, qui fonctionne sans avoir besoin d'un agent sur la machine distante. Pour cela, il copie
@@ -587,6 +569,150 @@ Liste complète des interventions
           <div class="description">Pourquoi apprendrais-je le Python alors qu'on ne developpe pas avec dans ma boîte ?
           Un programme n'est pas forcément destiné à être livré à un client. L'essence de la programmation est de permettre à ceux qui la maîtrise d'automatiser des tâches pénibles.
           Cette présentation donnera quelques exemples d'utilisation de Python pour simplifier notre vie de bureau. Nous verrons également ce que l'automatisation peut révéler sur nos organisations.</div>
+
+        <div class="title" id="Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</div>
+        <div class="description">Avec quelques exemples du monde réel, je vais vous expliquer l'intérêt du modèle asynchrone et quand il est intéressant de l'utiliser. De plus, je vais vous montrer pourquoi l'inclusion de async / await + AsyncIO dans le cœur de Python est un choix judicieux, d'un point de vue technique et politique. Enfin, je vais vous présenter quelques bibliothèques dans la boîte à outils d'AsyncIO.</div>
+
+
+        <div class="title" id="Des nouvelles du Front !">Des nouvelles du Front !</div>
+        <div class="description">Pouvons-nous imaginer un monde sans Javascript dans notre navigateur ? Allons plus loin, pouvons-nous imaginer un monde avec la puissance et la facilité de Python dans notre navigateur ?
+        Après s'être imposé sur la partie Backend avec des technologies comme Flask et Django, est-ce que Python peut désormais devenir le langage du Frontend ?
+        Dans cette conférence, nous allons faire le point sur les solutions actuelles pour coder les applications et les sites web en Python (Brython, Rapydscript, Pyjs, PyPy.js, Web Assembly...). </div>
+
+
+        <div class="title" id="Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</div>
+        <div class="description">Django REST framework est une librairie populaire permettant de mettre en place des APIs rapidement.
+        Construite au dessus de Django et en reprenant de nombreux concepts.
+        Cette présentation se concentre sur les mécanismes d'autentification et d'autorisation avec Django REST framework.
+        Nous aborderons les spécificités par rapport aux applications web "classiques", en particulier les échanges entre systèmes d'informations.
+        Nous verrons également comment intégrer son propre système d'autentification et de permissions au sein de Django REST framework.
+        Enfin, nous ferons un tour des solutions existantes.</div>
+
+
+        <div class="title" id="Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</div>
+        <div class="description"># Tests Tout Terrain
+        Je fais des tests, mais:
+        - Stubs, mock, fake je suis un peu paumé...
+        - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.
+        - ca met 40 plombes!
+        - Je débute, et franchement je ne sais pas par ou commencer.
+        - legacy!
+                def test_la_conf_TTT():
+                    #Arrange
+                    participants = genere_des_participants(2,100) #au moins 2 orgas!
+                    #Act
+                    participants.viens_a_la_conf_TTT()
+                    #Assert
+                    for participant in participants:
+                        assert participant.a_appris_un_truc_sur_les_tests</div>
+
+
+        <div class="title" id="Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</div>
+        <div class="description">Présentation de l'environnement projets ("forge logicielle") mis en place à Net-ng pour le développement de nos projets Python. Cet environnement, entièrement revu en 2015, est exclusivement constitué de projets open-source et hébergé en local. Il est utilisé au quotidien par une vingtaine de développeurs.
+        Il intègre les outils de gestion de la relation clients en méthodologie Agile, le référentiel des sources, une intégration continue basée sur Docker, un PAAS Docker dédié pour le déploiement continu, un référentiel privé de packages Python et d'hébergement de la documentation. Il assure aussi la collaboration dans et entre nos équipes au travers d'une messagerie instantanée en mode "ChatOps" et de dashboards interactifs.</div>
+
+        <div class="title" id="La programmation asynchrone avec Python.">La programmation asynchrone avec Python.</div>
+        <div class="description">Coroutine, boucle d'événement, entrés sorties non-blocantes ...
+        Besoin de faire le tri ?
+        Depuis plusieurs années de plus en plus d'outils facilitent la programmation asynchrone. Un monde qui peut paraitre étrange dans lequel des serveurs gèrent des millier de connections simultanément sans utiliser de threads.
+        Cette présentation explique les différents concepts de la programmation asynchrone et l'évolution de celle-ci avec l'arrivée des nouveaux mots clé async et await dans python 3.5.
+        Nous verrons comment utiliser la librairie Asyncio, qui est à python ce que NodeJS est à JavaScript, puis nous découvrirons comment faire du web asynchrone grâce au framework Tornado et comment faire un pont entre Asyncio et Tornado.</div>
+
+        <div class="title" id="Enseignement d'informatique en classes préparatoires scientifiques & Python dans les Grandes Écoles">Enseignement d'informatique en classes préparatoires scientifiques / Python dans les Grandes Écoles</div>
+        <div class="description">L'enseignement de l'informatique a été profondément modifié il y a 3 ans dans les classes préparatoires, et les nouveaux programmes prévoient un enseignement utilisant le langage python. Ce court exposé présentera ce programme, les modalités d'enseignement, les attendus de ces enseignements.
+        Le partage d’expérience et les problématiques d’enseignement de Python dans les Grandes Écoles spécialisées. Comment convaincre d’intégrer Python dans les projets pédagogiques ? Utilisation des logiciels phares (type Blender ) dans l’enseignement 3D des filières des jeux vidéos et leur efficacité. Les astuces pour rendre Python attractif pour les étudiants. Des projets en Python en direction des entreprises et des étudiants (type Elicthus). La création d’une passerelle entre le monde de l’enseignement spécialisé et les futurs employeurs. Les problématiques et les difficultés d’enseignement de Python dans le cadre d’un enseignement par alternance. Un appel aux idées pour rendre Python plus étudiés dans les Grandes Écoles.</div>
+
+
+        <div class="title" id="Python et la sécurité : de l'interpréteur au déploiement">Python et la sécurité : de l'interpréteur au déploiement</div>
+        <div class="description">Le langage Python est un langage très simple d'utilisation et très accessible. Il est aussi très facile de faire des erreurs et notamment des erreurs qui peuvent compromettre la sécu
+        rité du programme. Nous verrons dans cette conférence quel peut être le niveau de sécurité de nos programmes en Python en commençant pas analyser les vulnérabilités de l'interpréteur en lui même. Nous regarderons ensuite le code Python et
+        nous analyserons les comportements dangereux du développeur tout en essayant de trouver les meilleures solutions pour s'affranchir au maximum des vulnérabilités. Nous regarderons enfin le cycle de vie de nos applications ; du choix de l'ou
+        tillage jusqu'au déploiement de l'application pour filtrer et stopper les dernières vulnérabilités</div>
+
+
+        <div class="title" id="Introduction au notebook Jupyter">Introduction au notebook Jupyter</div>
+        <div class="description">Présentation du spectre fonctionnel couvert par IPython et le notebook Jupyter. Du shell Python évolué au visualiseur de données scientifiques, en passant par l'outil exploratoire intéractif, de collaboration et de partage.</div>
+
+
+        <div class="title" id="Libération du calculateur des impôts">Libération du calculateur des impôts</div>
+        <div class="description">Le code source du calculateur des impôts français [disponible ici](https://forum.openfisca.fr/t/acceder-au-code-source-de-la-calculette-impots/37) depuis le 1er avril 2016, est utilisé par la Direction générale des Finances publiques (DGFiP) pour simuler le calcul de l'impôt, pré-remplir les déclarations et produire les avis d'imposition de 37 millions de foyers fiscaux.
+        Développé dans un langage spécifique, le [langage M](https://forum.openfisca.fr/t/presentation-du-code-source-en-langage-m/52), le calculateur a été converti en arbre syntaxique abstrait (AST) puis compilé en Python.
+        Des travaux en cours visent à le fusionner avec le projet [OpenFisca](http://www.openfisca.fr/en).
+        OpenFisca est un moteur ouvert de micro-simulation du système socio-fiscal. Il a été créé en 2011 sous forme de logiciel libre en langage Python. Il permet entre autres de calculer un grand nombre de prestations sociales et d'impôts payés par les ménages, et de simuler l'impact de réformes sur leur budget.
+        Il s'agit d'un outil à vocation pédagogique pour aider les citoyens à mieux comprendre le système socio-fiscal.</div>
+
+
+        <div class="title" id="PyPy">PyPy</div>
+        <div class="description">PyPy est un interpréteur alternatif pour Python, rapide et hautement compatible avec CPython, l'implémentation de référence. Son compilateur à la volée, combiné avec un garbage collector performant, lui permet d'exécuter du code Python en moyenne 7 fois plus rapidement que CPython 2.7.
+        Cette présentation va faire un tour d'horizon des fonctionnalités de PyPy, et plus particulièrement de ses évolutions récentes :
+        * cpyext, la couche d'émulation pour l'API C de CPython, est en redéveloppement pour permettre bientôt une totale compatibilité avec les extensions en C.
+        * Le support de Python 3 est en amélioration constante, avec une version compatible 3.3 sortie récemment et le support de 3.5 en cours de développement.</div>
+
+
+        <div class="title" id="Lire & Écrire la Doc">Lire & Écrire la Doc</div>
+        <div class="description">La documentation est un domaine très vaste, qui couvre autant les fichiers README.txt que les spécifications techniques, en passant par les schémas, les plans, les livres, les commentaires, et bien d'autres formats - qu'il soit sous notre contrôle ou mis en commun.
+        Je souhaite aborder la question de la lecture de la documentation, de notre façon d'aborder les problèmes dans notre métier, et des sources d'informations à notre disposition. C'est un tour autant chez les lecteurs de documentation, que chez les auteurs.
+        Ce sera l'occasion de parler de man, de StackOverflow, de la doc de Python, et de ce que nous pouvons, au quotidien, faire pour améliorer la situation - pour améliorer notre propre situation.</div>
+
+
+        <div class="title" id="Ma première appli en 30 minutes (et un peu de courage)">Ma première appli en 30 minutes (et un peu de courage)</div>
+        <div class="description">Vous aimeriez bien créer l'application de vos rêves, mais au moment de vous lancer, vous avez comme un doute… Rien qu'en imaginant les fonctionnalités géniales de votre future création, vous vous rendez à l'évidence : c'est beaucoup trop compliqué, c'est beaucoup trop de travail, autant remettre ça à plus tard, non ?
+        Pourtant, c'est peut-être plus facile que ça en a l'air. En moins de 100 lignes de Python, on peut avoir une petite application fonctionnelle toute mignonne. Vous avez une trentaine de minutes devant vous ? Alors c'est parti !</div>
+
+
+        <div class="title" id="Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?">Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?</div>
+        <div class="description">Tout le monde sait qu'IPv6 c'est l'avenir du réseau, mais peu le déploient et l'utilisent si bien que les réseaux IPv6 ne sont toujours pas aujourd'hui une réalité. Or IPv6 est une opportunité pour changer notre façon de penser le réseau en revenant à des principes simples (et stupides) qui ont fait le succès d'Internet. Cette conférence a pour objectif de démontrer cette simplicité, notamment dans la gestion du réseau au sein du code d'une application.</div>
+
+
+        <div class="title" id="Voyage au centre du monde CPython">Voyage au centre du monde CPython</div>
+        <div class="description">Vous desirez contribuer a CPython et vous ne savez pas comment ? Alors ce talk est fait pour vous!
+        En 2014, lors du PyCon US 2014 a Montreal, j'ai commence a contribuer a CPython via un sprint,
+        c'est ainsi que j'ai pu decouvrir les joies du dev de notre interpreteur favori.
+        A partir d'un exemple de code Python, nous allons decomposer l'interpreteur et voir ce
+        qu'il se passe dans ses entrailles.
+        De la simple expression "x = 2 + 2" executee sur la ligne de commande, nous voyagerons a travers le parser, et l'interpreteur.
+        Nous aurons le plaisir de rencontrer notre ami le compilateur qui transforme le code Python en ByteCode,
+        et ensuite la machine virtuelle qui execute le bytecode pour execute votre expression Python.
+        De plus, une section specifique sera presentee pour vous expliquer comment discuter et proposer
+        vos idees sur les contributions futures que vous pourrez apporter a CPython, tout en suivant
+        le workflow des Core Dev CPython.
+        Ce voyage interessant, permettra a toute personne de demarrer comme contributeur CPython
+        et d'apporter enfin une reponse a l'expression x = 2 + 2
+        Venez me rejoindre dans CPython.
+        Presente a EuroPython, PyCon IE, PyCon UK, PythonFOSDEM</div>
+
+
+        <div class="title" id="Deep learning : votre propre cerveau artificiel avec Python">Deep learning : votre propre cerveau artificiel avec Python</div>
+        <div class="description">Le deep learning (ou "apprentissage profond") est une méthode d'apprentissage automatique dont la popularité a explosé en quelques années. Reposant sur les réseaux de neurones artificiels, le deep learning est dorénavant utilisé une quantité invraisemblable de systèmes intelligents : AlphaGo, mais aussi la reconnaissance vocale, les voitures autonomes, le sous-titrage automatique, les outils de détection d'objets, ...
+        Dans cette présentation, on présentera brièvement le minimum requis de théorie derrière les réseaux de neurones pour comprendre comment tout fonctionne, mais s'intéressera surtout aux outils existants en Python pour travailler avec le deep learning. Au travers plusieurs exemples, on apprendra ensemble à construire ses propres outils intelligents en quelques lignes de code pour classer des images et générer du texte.</div>
+
+
+        <div class="title" id="Traduction de la doc de Python et l'internationalisation">Traduction de la doc de Python et l'internationalisation</div>
+        <div class="description">La traduction en français de la documentation officielle de Python est, au sein de l'AFPy, un projet qui date mais qui ne s'est jamais porté mieux !
+        Nous vous proposons de découvrir son histoire, son état actuel et où nous voulons l'emmener.
+        Nous vous apprendrons aussi comment nous aider à porter ce projet à son terme.
+        Traduire de la doc c'est bien, mais traduire une application, ce serait pas utile aussi ?
+        Laissez vous guider : nous allons vous montrer comment appliquer les mêmes méthodes sur un code pour permettre à vos utilisateurs et contributeurs de fournir votre application dans plusieurs langues.
+         Nous vous présenterons les outils de base et comment les appliquer à Python, de la modification de votre code aux outils des traducteurs.
+
+         ...avec le retour d'expérience fait sur la traduction de la doc.</div>
+
+
+        <div class="title" id="Scalable decentralised communication with Matrix.org and Twisted">Scalable decentralised communication with Matrix.org and Twisted</div>
+        <div class="description">Matrix.org is an open source project that creates a new ecosystem for interoperable decentralised communication.  Matrix publishes open standard HTTP APIs for synchronising arbitrary real-time data (chat messages, VoIP calls, IoT data etc) with no central point of control, maintaining cryptographic integrity by storing conversation history in Merkle DAGs and using state-of-the-art end-to-end encryption via the Olm cryptographic ratchet.  The aim of Matrix is to defragment online communication and make interoperable messaging/VoIP/IoT as simple and ubiquitous as sending an email. As well as the standard itself, Matrix.org releases Apache-licensed reference implementations of Matrix servers, bridges, bots, clients etc.
+        Our primary reference server implementation of Matrix is Synapse (https://github.com/matrix-org/synapse), which is built entirely in Python/Twisted.  Since our initial release in September 2014, Synapse has grown to ~50KLOC and scales to ~300K users on the matrix.org server deployment and has hundreds of active deployments on the public internet.  In this talk we’ll introduce Matrix and dig into both the good and bad sides of working with Twisted, the scalability challenges we’ve faced, how we fixed them and what we learned along the way!</div>
+
+
+        <div class="title" id="Gestion Avancée de la Mémoire dans Pandas">Gestion Avancée de la Mémoire dans Pandas</div>
+        <div class="description">Dans le monde la transformation de données Pandas est aujourd'hui une des librariries référente dans le domaine. Derrière une apparente simplicité d'utilisation se cache des optimisation mémoires très avancés.Or de plus en plus nous confrontés a des volumes de données importants qui demandent de plus en plus de connaitre ces optimisations afin de pouvoir les utiliser au mieux sans faire d'erreur, sachant que les erreurs dans le monde de la donnée sont parfois difficiles à detecter et que dans le cadre du travail on ne prend pas forcement le temps d'aller au fond de la compréhension des mecanismes avancés.
+        Je propose donc d'expliquer ces subtilités de gestion de la mémoire dans Pandas ainsi que de donner des astuces qui permettent d'ecrire des programmes performants en mémoire avec cette librairie.</div>
+
+
+        <div class="title" id="Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</div>
+        <div class="description">ØMQ ou zeromq est une une boite à outils réseau extrêmement légère, flexible et performante permettant à des acteurs distribués d'échanger un grand nombre de messages en utilisant des mécanismes de transport variés (in-process, inter-process, TCP, multicast). A la base conçue et optimisée pour le backend d'un système de trading en ligne, cette bibliothèque est aujourd'hui une solution générique et multi-langage et elle est utilisée par un large spectre d'applications: ipyparallel utilise zeromq pour la communication entre ses composants, les notebooks Jupyter l'utilisent pour s'entretenir avec les différents kernels, et de nombreux (micro)services web l'utilisent pour l'échange de messages et du RPC au sein de leur backend, comme entre autres chez Spotify (python, Zeromq, protobuf et gevent). A l'institut ChemTech (Haute Ecole d'Ingénierie et d'Architecture de Fribourg), on utilise cette technologie pour la communication en temps réel entre microservices qui monitorent, analysent, optimisent et contrôlent une halle de production chimique. Cette présentation propose de vous introduire aux patterns d'utilisation pythoniques de zeromq qui ont beaucoup évolués depuis Python 3.4 et l'arrivée de asyncio, aux possibilités de cette bibliothèque en terme d'architectures de communication et de sécurité, et de faire un état des lieux des forces, faiblesses et alternatives.</div>
+
+
+        <div class="title" id="Monkey-Patcher Python en production">Monkey-Patcher Python en production</div><div class="description">Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendues en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.</div>
 
 
 
