@@ -46,8 +46,8 @@ Samedi 15 octobre
         <td class="short"><div class="title"><a href="programme.html#La programmation asynchrone avec Python.">La programmation asynchrone avec Python.</a></div><div class="person"><a href="intervenants.html#Vincent Maillol">Vincent Maillol</a></div></td>
         <td class="short"><div class="title"><a href="programme.html#Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</a></div><div class="person"><a href="intervenants.html#maha mdini">maha mdini</a></div></td>
         <td class="short"><div class="title"><a href="programme.html#GAST, daou naer - AST pour Python 2 et 3">GAST, daou naer - AST pour Python 2 et 3</a></div><div class="person"><a href="intervenants.html#Serge « sans paille » Guelton">Serge « sans paille » Guelton</a></div></td>
+        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</a></div><div class="person"><a href="intervenants.html#Romuald Texier-Marcadé">Romuald Texier-Marcadé</a></div></td>
         <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
-        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Life's too short: let's patch politics">Life's too short: let's patch politics</a></div><div class="person"><a href="intervenants.html#James Pic">James Pic</a></div></td>
       </tr>
       <tr>
         <td class="slot">10h30-10h55</td>
@@ -158,7 +158,7 @@ Dimanche 16 octobre
         <td class="short"><div class="title"><a href="programme.html#Des nouvelles du Front !">Des nouvelles du Front !</a></div><div class="person"><a href="intervenants.html#Gaël Durand">Gaël Durand</a></div></td>
 
         <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web">Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</a></div><div class="person"><a href="intervenants.html#Romuald Texier-Marcadé">Romuald Texier-Marcadé</a></div></td>
+        <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Life's too short: let's patch politics">Life's too short: let's patch politics</a></div><div class="person"><a href="intervenants.html#James Pic">James Pic</a></div></td>
       </tr>
       <tr>
         <td class="slot">10h30-10h55</td>
