@@ -163,7 +163,7 @@ Dimanche 16 octobre
       <tr>
         <td class="slot">10h30-10h55</td>
         <td class="short double-short"><div class="title"><a href="programme.html#Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</a></div><div class="person"><a href="intervenants.html#Arthur Vuillard">Arthur Vuillard</a></div></td>
-        <td class="short double-short"><div class="title"><a href="programme.html#Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</a></div><div class="person"><a href="intervenants.html#François Varas">François Varas</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python et secondes intercalaires">Python et secondes intercalaires</a></div><div class="person"><a href="intervenants.html#Claire Revillet">Claire Revillet</a></div></td>
         <td class="short double-short"><div class="title"><a href="programme.html#WebPush notifications What? Why? How?">WebPush notifications What? Why? How?</a></div><div class="person"><a href="intervenants.html#Ipsha Bhidonia">Ipsha Bhidonia</a></div></td>
         </tr>
       <tr>
@@ -221,7 +221,7 @@ Dimanche 16 octobre
         <td class="slot">16h15-16h40</td>
         <td class="short double-short"><div class="title"><a href="programme.html#Écrire des tests en Python">Écrire des tests en Python</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
         <td class="short double-short"><div class="title"><a href="programme.html#Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</a></div><div class="person"><a href="intervenants.html#Pierre Haessig">Pierre Haessig</a></div></td>
-        <td class="short double-short"><div class="title"><a href="programme.html#Python et secondes intercalaires">Python et secondes intercalaires</a></div><div class="person"><a href="intervenants.html#Claire Revillet">Claire Revillet</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</a></div><div class="person"><a href="intervenants.html#François Varas">François Varas</a></div></td>
       </tr>
       <tr>
         <td class="slot">16h45-17h10</td>
