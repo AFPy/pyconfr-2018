@@ -427,13 +427,19 @@ body
     background-color: #004d8a
   .workshop
     width: 15%
-    background-color: #F26C2F
+    background-color: #e2e7e9
+    a
+      color: black !important
+    a:hover
+      color: gray !important
+  .workshop + .workshop
+    border-left: 1px solid white
   .special
-    color: black
+    color: white
     font-size: 1.2em
     text-transform: uppercase
-    background-color: #e2e7e9
     vertical-align: middle
+    background-color: #A5C330
   .title
     text-transform: uppercase
     font-size: 1.2em
@@ -442,6 +448,8 @@ body
   a
     color: white !important
     font-weight: 400 !important
+  a:hover
+    color: #e2e7e9 !important
 
 .interventions
   max-width: 800px
