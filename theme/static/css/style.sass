@@ -403,39 +403,80 @@ body
       text-align: center
 
 .programme
-  td
+  th:nth-child(odd)
+    background: darken(#f6f9fa, 5%)
+  th, th:nth-child(1)
+    background: #f6f9fa
+  td, th
     width: 20%
+    font-family: Hind
+    vertical-align: top
+    padding: 0.8em
   .slot
-      width: 10%
+    width: 10%
   .break
     color: black
-    background-color: #7fb8e4
+    font-size: 1.2em
+    text-transform: uppercase
+    vertical-align: middle
   .short
-    background-color: #fff2cc
+    background-color: #218ce0
+  .double-short
+    border-top: 1px solid #004d8a
   .long
-    background-color: #d9ead3
+    background-color: #004d8a
   .workshop
     width: 15%
-    background-color: #fdc992
-  .special
-    color: black
-    background-color: #ddc9e2
-  .title
-    font-weight: bold
-  .person
-    font-weight: normal
-    font-size: 0.8em
+    background-color: #e2e7e9
     a
       color: black !important
+    a:hover
+      color: gray !important
+  .workshop + .workshop
+    border-left: 1px solid white
+  .special
+    color: white
+    font-size: 1.2em
+    text-transform: uppercase
+    vertical-align: middle
+    background-color: #A5C330
+  .title
+    text-transform: uppercase
+    font-size: 1.2em
+  .person
+    font-size: 0.8em
+  a
+    color: white !important
+    font-weight: 400 !important
+  a:hover
+    color: #e2e7e9 !important
+
 .interventions
   max-width: 800px
   margin: 0 auto
   .title
-    font-weight: bold
-    margin-top: 30px
+    width: 100%
+    color: white
+    margin-top: 40px
+    font-family: Hind
+    background-color: #218ce0
+    text-transform: uppercase
+    font-size: 1.2em
+    padding: 0.8em
   .description
     margin-top: 10px
     white-space: pre-line
+  .description:after
+    content: ''
+    background: url(../images/separateur_pyconfr.svg)
+    background-position: 50% 50%
+    background-size: contain
+    background-repeat: no-repeat
+    height: 34px
+    display: block
+    width: 100%
+    margin-top: 30px
+    margin-bottom: 40px
 
 @media screen and (max-width: 640px)
   body

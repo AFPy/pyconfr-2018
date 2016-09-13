@@ -51,9 +51,9 @@ Samedi 15 octobre
       </tr>
       <tr>
         <td class="slot">10h30-10h55</td>
-        <td class="short"><div class="title"><a href="programme.html#Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#WebPush notifications What? Why? How?">WebPush notifications What? Why? How?</a></div><div class="person"><a href="intervenants.html#Ipsha Bhidonia">Ipsha Bhidonia</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#WebPush notifications What? Why? How?">WebPush notifications What? Why? How?</a></div><div class="person"><a href="intervenants.html#Ipsha Bhidonia">Ipsha Bhidonia</a></div></td>
       </tr>
       <tr>
         <td class="slot">11h-11h45</td>
@@ -75,9 +75,9 @@ Samedi 15 octobre
 
       <tr>
         <td class="slot">13h45-14h30</td>
-        <td class="short"><div class="title"><a href="programme.html#Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Deep learning : votre propre cerveau artificiel avec Python">Deep learning : votre propre cerveau artificiel avec Python</a></div><div class="person"><a href="intervenants.html#Nicolas Audebert">Nicolas Audebert</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?">Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?</a></div><div class="person"><a href="intervenants.html#Bruno STEVANT">Bruno STEVANT</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Deep learning : votre propre cerveau artificiel avec Python">Deep learning : votre propre cerveau artificiel avec Python</a></div><div class="person"><a href="intervenants.html#Nicolas Audebert">Nicolas Audebert</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?">Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?</a></div><div class="person"><a href="intervenants.html#Bruno STEVANT">Bruno STEVANT</a></div></td>
         <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
         <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
       </tr>
@@ -89,9 +89,9 @@ Samedi 15 octobre
       </tr>
       <tr>
         <td class="slot">15h05-15h45</td>
-        <td class="short"><div class="title"><a href="programme.html#Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</a></div><div class="person"><a href="intervenants.html#François Varas">François Varas</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</a></div><div class="person"><a href="intervenants.html#Manoj Pandey">Manoj Pandey</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</a></div><div class="person"><a href="intervenants.html#François Varas">François Varas</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</a></div><div class="person"><a href="intervenants.html#Manoj Pandey">Manoj Pandey</a></div></td>
       </tr>
 
       <tr>
@@ -115,15 +115,15 @@ Samedi 15 octobre
       </tr>
       <tr>
         <td class="slot">17h05-17h30</td>
-        <td class="short"><div class="title"><a href="programme.html#Python, c'est rapide, ou c'est lent ?">Python, c'est rapide, ou c'est lent ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Designing a location based Multi-Criteria Recommendation System">Designing a location based Multi-Criteria Recommendation System</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</a></div><div class="person"><a href="intervenants.html#Georges Bossert">Georges Bossert</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python, c'est rapide, ou c'est lent ?">Python, c'est rapide, ou c'est lent ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Designing a location based Multi-Criteria Recommendation System">Designing a location based Multi-Criteria Recommendation System</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</a></div><div class="person"><a href="intervenants.html#Georges Bossert">Georges Bossert</a></div></td>
       </tr>
       <tr>
         <td class="slot">17h35-18h</td>
-        <td class="short"><div class="title"><a href="programme.html#Comment lancer un benchmark stable">Comment lancer un benchmark stable</a></div><div class="person"><a href="intervenants.html#Victor Stinner">Victor Stinner</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#python pour le text mining (fouille de texte)">python pour le text mining (fouille de texte)</a></div><div class="person"><a href="intervenants.html#Oussama Ahmia">Oussama Ahmia</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Python et secondes intercalaires">Python et secondes intercalaires</a></div><div class="person"><a href="intervenants.html#Claire Revillet">Claire Revillet</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Comment lancer un benchmark stable">Comment lancer un benchmark stable</a></div><div class="person"><a href="intervenants.html#Victor Stinner">Victor Stinner</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#python pour le text mining (fouille de texte)">python pour le text mining (fouille de texte)</a></div><div class="person"><a href="intervenants.html#Oussama Ahmia">Oussama Ahmia</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python et secondes intercalaires">Python et secondes intercalaires</a></div><div class="person"><a href="intervenants.html#Claire Revillet">Claire Revillet</a></div></td>
        </tr>
     </table>
 
@@ -160,9 +160,9 @@ Dimanche 16 octobre
       </tr>
       <tr>
         <td class="slot">10h30-10h55</td>
-        <td class="short"><div class="title"><a href="programme.html#Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</a></div><div class="person"><a href="intervenants.html#Arthur Vuillard">Arthur Vuillard</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</a></div><div class="person"><a href="intervenants.html#Rémy Hubscher et Arthur Vuillard">Rémy Hubscher et Arthur Vuillard</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</a></div><div class="person"><a href="intervenants.html#Ludovic VAUGEOIS">Ludovic VAUGEOIS</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</a></div><div class="person"><a href="intervenants.html#Arthur Vuillard">Arthur Vuillard</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</a></div><div class="person"><a href="intervenants.html#Rémy Hubscher et Arthur Vuillard">Rémy Hubscher et Arthur Vuillard</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</a></div><div class="person"><a href="intervenants.html#Ludovic VAUGEOIS">Ludovic VAUGEOIS</a></div></td>
       </tr>
       <tr>
         <td class="slot">11h-11h45</td>
@@ -184,9 +184,9 @@ Dimanche 16 octobre
 
       <tr>
         <td class="slot">13h45-14h30</td>
-        <td class="short"><div class="title"><a href="programme.html#Lire & Écrire la Doc">Lire & Écrire la Doc</a></div><div class="person"><a href="intervenants.html#Florian Strzelecki">Florian Strzelecki</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Libération du calculateur des impôts">Libération du calculateur des impôts</a></div><div class="person"><a href="intervenants.html#Christophe Benz">Christophe Benz</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Voyage au centre du monde CPython">Voyage au centre du monde CPython</a></div><div class="person"><a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Lire & Écrire la Doc">Lire & Écrire la Doc</a></div><div class="person"><a href="intervenants.html#Florian Strzelecki">Florian Strzelecki</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Libération du calculateur des impôts">Libération du calculateur des impôts</a></div><div class="person"><a href="intervenants.html#Christophe Benz">Christophe Benz</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Voyage au centre du monde CPython">Voyage au centre du monde CPython</a></div><div class="person"><a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a></div></td>
         <td class="special" rowspan="3" colspan="2">Lightning Talks</td>
       </tr>
       <tr>
@@ -197,9 +197,9 @@ Dimanche 16 octobre
       </tr>
       <tr>
         <td class="slot">15h05-15h45</td>
-        <td class="short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</a></div><div class="person"><a href="intervenants.html#Michael Scherer">Michael Scherer</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</a></div><div class="person"><a href="intervenants.html#Michael Scherer">Michael Scherer</a></div></td>
       </tr>
 
       <tr>
@@ -217,15 +217,15 @@ Dimanche 16 octobre
       </tr>
       <tr>
         <td class="slot">16h15-16h40</td>
-        <td class="short"><div class="title"><a href="programme.html#Écrire des tests en Python">Écrire des tests en Python</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</a></div><div class="person"><a href="intervenants.html#Pierre Haessig">Pierre Haessig</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</a></div><div class="person"><a href="intervenants.html#GALODE Alexandre et VITEL Pierre-Antoine">GALODE Alexandre et VITEL Pierre-Antoine</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Écrire des tests en Python">Écrire des tests en Python</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</a></div><div class="person"><a href="intervenants.html#Pierre Haessig">Pierre Haessig</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</a></div><div class="person"><a href="intervenants.html#GALODE Alexandre et VITEL Pierre-Antoine">GALODE Alexandre et VITEL Pierre-Antoine</a></div></td>
       </tr>
       <tr>
         <td class="slot">16h45-17h10</td>
-        <td class="short"><div class="title"><a href="programme.html#Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés">Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Pyduino : portage du langage Arduino en Python">Pyduino : portage du langage Arduino en Python</a></div><div class="person"><a href="intervenants.html#Xavier HINAULT">Xavier HINAULT</a></div></td>
-        <td class="short"><div class="title"><a href="programme.html#Warehouse - the future of PyPI">Warehouse - the future of PyPI</a></div><div class="person"><a href="intervenants.html#Nicole Harris">Nicole Harris</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés">Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Pyduino : portage du langage Arduino en Python">Pyduino : portage du langage Arduino en Python</a></div><div class="person"><a href="intervenants.html#Xavier HINAULT">Xavier HINAULT</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Warehouse - the future of PyPI">Warehouse - the future of PyPI</a></div><div class="person"><a href="intervenants.html#Nicole Harris">Nicole Harris</a></div></td>
       </tr>
       <tr>
         <td class="slot">17h15-17h30</td>
@@ -252,8 +252,7 @@ Dimanche 16 octobre
         <div class="description">Atelier pour découvrir la programmation Python sur un petit robot mobile. Le robot MRPi1 est un robot mobile de 10 cm de diamètre basé sur une carte Raspberry pi avec de nombreux capteurs.</div>
 
         <div class="title" id="Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</div>
-        <div class="description">Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.
-        Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.</div>
+        <div class="description">Principes de l'apprentissage machine, présentation de scikit-learn, démonstrations.</div>
 
         <div class="title" id="Evaluating Topic Models through python">Evaluating Topic Models through python</div><div class="description">Topic modeling in python is an upcoming and exciting field. With so many great open source libraries available, the natural language processing and topic modeling community is advancing rapidly and python has made it all the more easy! My summer work involved implementing the topic coherence pipeline in gensim which is a topic modeling library in python. I had to convert java code into efficient python code without sacrificing the mathematical correctness of the original algorithms.
         Topic coherence quantifies human interpretability of topics outputted by topic models by mimicking what a human would think on reading those topics. After all what is the use of a topic model which spits out incomprehensible topics? Coherence measures have a large number of applications such as improving automatic web page translations or even improving advertising by selecting advertising links that  maximize  coherence  of  the  union  of  the  web page's word set with descriptive words of the respective ad.
