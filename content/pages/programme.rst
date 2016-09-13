@@ -169,7 +169,7 @@ Dimanche 16 octobre
       <tr>
         <td class="slot">11h-11h45</td>
         <td class="long"><div class="title"><a href="programme.html#Ma première appli en 30 minutes (et un peu de courage)">Ma première appli en 30 minutes (et un peu de courage)</a></div><div class="person"><a href="intervenants.html#Guillaume Ayoub">Guillaume Ayoub</a></div></td>
-        <td class="long"><div class="title"><a href="programme.html#Traduction de la doc de Python et l'internationalisation">Traduction de la doc de Python et l'internationalisation</a></div><div class="person"><a href="intervenants.html#Julien Palard & Claire Revillet">Julien Palard & Claire Revillet</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Libération du calculateur des impôts">Libération du calculateur des impôts</a></div><div class="person"><a href="intervenants.html#Christophe Benz">Christophe Benz</a></div></td>
         <td class="long"><div class="title"><a href="programme.html#Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?">Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?</a></div><div class="person"><a href="intervenants.html#Bruno STEVANT">Bruno STEVANT</a></div></td>
       </tr>
       <tr>
@@ -187,7 +187,7 @@ Dimanche 16 octobre
       <tr>
         <td class="slot">13h45-14h30</td>
         <td class="long"><div class="title"><a href="programme.html#Python et la sécurité : de l'interpréteur au déploiement">Python et la sécurité : de l'interpréteur au déploiement</a></div><div class="person"><a href="intervenants.html#Thomas Duval">Thomas Duval</a></div></td>
-        <td class="long"><div class="title"><a href="programme.html#Libération du calculateur des impôts">Libération du calculateur des impôts</a></div><div class="person"><a href="intervenants.html#Christophe Benz">Christophe Benz</a></div></td>
+        <td class="long"><div class="title"><a href="programme.html#Traduction de la doc de Python et l'internationalisation">Traduction de la doc de Python et l'internationalisation</a></div><div class="person"><a href="intervenants.html#Julien Palard & Claire Revillet">Julien Palard & Claire Revillet</a></div></td>
         <td class="long"><div class="title"><a href="programme.html#Monkey-Patcher Python en production">Monkey-Patcher Python en production</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
         <td class="special" rowspan="3" colspan="2">Lightning Talks</td>
       </tr>
