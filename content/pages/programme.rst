@@ -219,15 +219,14 @@ Dimanche 16 octobre
       </tr>
       <tr>
         <td class="slot">16h15-16h40</td>
-        <td class="short double-short"><div class="title"><a href="programme.html#Écrire des tests en Python">Écrire des tests en Python</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
-        <td class="short double-short"><div class="title"><a href="programme.html#Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</a></div><div class="person"><a href="intervenants.html#Pierre Haessig">Pierre Haessig</a></div></td>
         <td class="short double-short"><div class="title"><a href="programme.html#Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</a></div><div class="person"><a href="intervenants.html#François Varas">François Varas</a></div></td>
+        <td class="short double-short"><div class="title"><a href="programme.html#Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</a></div><div class="person"><a href="intervenants.html#Pierre Haessig">Pierre Haessig</a></div></td>
+        <td class="workshop" rowspan="2"><div class="title"><a href="programme.html#Écrire des tests en Python">Écrire des tests en Python</a></div><div class="person"><a href="intervenants.html#Boris FELD">Boris FELD</a></div></td>
       </tr>
       <tr>
         <td class="slot">16h45-17h10</td>
         <td class="short double-short"><div class="title"><a href="programme.html#Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés">Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
         <td class="short double-short"><div class="title"><a href="programme.html#Pyduino : portage du langage Arduino en Python">Pyduino : portage du langage Arduino en Python</a></div><div class="person"><a href="intervenants.html#Xavier HINAULT">Xavier HINAULT</a></div></td>
-        <td class="short double-short"></td>
       </tr>
       <tr>
         <td class="slot">17h15-17h30</td>
