@@ -316,6 +316,21 @@ Pour plus d'informations (sur le web et votre mobile) : `www.orange.com <http://
 
 Bearstech est une jeune entreprise innovante, SCOP dʼingénieurs du libre, dont l'activité principale est l'infogérance et l'optimisation d'applications web complexes. (Services à valeur ajoutée autour de lʼhébergement dʼapplications web et leur infogérance, Organisations et outils pour les équipes de développement et de production, Développement, Hébergement, Gestion de la montée en charge, Audits).
 
+`People Doc <http://www.people-doc.fr/>`_
+-----------------------------------------
+
+.. image:: ../images/people_doc.png
+   :height: 100px
+   :alt: logo de people doc
+   :target: http://www.people-doc.fr/
+
+
+"Top-Notch HR Services to Employees. Faster."
+
+PeopleDoc développe une application en SaaS pour simplifier la gestion administrative, la communication et le partage d'information entre les salariés et les équipes RH. Déjà adoptée par de nombreuses sociétés, notre offre connait un très beau succès en France et à l'étranger, et nous sommes en forte croissance. Nous recrutons des développeurs expérimentés en Python / Django afin de faire face à tous les challenges R&D associés. Nos applications tournent surtout grâce à Python et Django (évidemment), mais aussi Postgresql, ElasticSearch, RabbitMQ, Java, Scala, Emberjs, Ansible...
+
+Pour plus d'informations sur PeopleDoc et nos offres  : http://www.people-doc.com/ & http://www.people-doc.com/company/careers
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
