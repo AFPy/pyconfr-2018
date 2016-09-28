@@ -109,7 +109,7 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
         <tr>
           <td class="slot">13h45-14h30</td>
           <td class="long"><div class="title"><a href="programme.html#Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
-          <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas">Gestion Avancée de la Mémoire dans Pandas</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy</a></div></td>
+          <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#PyPy">PyPy</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
@@ -836,9 +836,16 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           Our primary reference server implementation of Matrix is Synapse (https://github.com/matrix-org/synapse), which is built entirely in Python/Twisted.  Since our initial release in September 2014, Synapse has grown to ~50KLOC and scales to ~300K users on the matrix.org server deployment and has hundreds of active deployments on the public internet.  In this talk we’ll introduce Matrix and dig into both the good and bad sides of working with Twisted, the scalability challenges we’ve faced, how we fixed them and what we learned along the way!</div>
 
 
-          <div class="title" id="Gestion Avancée de la Mémoire dans Pandas">Gestion Avancée de la Mémoire dans Pandas</div>
-          <div class="description">Dans le monde la transformation de données Pandas est aujourd'hui une des librariries référente dans le domaine. Derrière une apparente simplicité d'utilisation se cache des optimisation mémoires très avancés.Or de plus en plus nous confrontés a des volumes de données importants qui demandent de plus en plus de connaitre ces optimisations afin de pouvoir les utiliser au mieux sans faire d'erreur, sachant que les erreurs dans le monde de la donnée sont parfois difficiles à detecter et que dans le cadre du travail on ne prend pas forcement le temps d'aller au fond de la compréhension des mecanismes avancés.
-          Je propose donc d'expliquer ces subtilités de gestion de la mémoire dans Pandas ainsi que de donner des astuces qui permettent d'ecrire des programmes performants en mémoire avec cette librairie.</div>
+          <div class="title" id="Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</div>
+          <div class="description">Gestion Avancée de la Mémoire dans Pandas :
+
+           Dans le monde la transformation de données Pandas est aujourd'hui une des librariries référente dans le domaine. Derrière une apparente simplicité d'utilisation se cache des optimisation mémoires très avancés.Or de plus en plus nous confrontés a des volumes de données importants qui demandent de plus en plus de connaitre ces optimisations afin de pouvoir les utiliser au mieux sans faire d'erreur, sachant que les erreurs dans le monde de la donnée sont parfois difficiles à detecter et que dans le cadre du travail on ne prend pas forcement le temps d'aller au fond de la compréhension des mecanismes avancés.
+          Je propose donc d'expliquer ces subtilités de gestion de la mémoire dans Pandas ainsi que de donner des astuces qui permettent d'ecrire des programmes performants en mémoire avec cette librairie.
+
+            Mise à jour intelligentes de graphes d'exécution :
+
+            Une problématique fréquemment rencontrée en Data Science est: comment faire pour que l'état des données et du code les générant soit synchrone? En effet sur un projet avec plusieurs sources de données, plusieurs étapes de transformation, il devient vite compliqué de savoir quels script faire tourner pour recalculer l'ensemble des données du projet de manière intelligente. Avec des collègues de Quantmetry, nous avons développé une petit solution permettant de résoudre ce problème à partir de composants existatns: Dasq et Joblib. Le résultat est un outil permettant de décrire des graphes d'exécution de traitement de données et de regénérer intelligement a un temps donné des données d'un projet en détectant les sources de données ayant changé et en regénérant les données dépendantes.
+    </div>
 
 
           <div class="title" id="Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</div>
