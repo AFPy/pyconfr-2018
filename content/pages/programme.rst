@@ -155,7 +155,7 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
         </tr>
         <tr>
           <td class="slot">17h35-18h</td>
-          <td class="short double-short"></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</a></div><div class="person"><a href="intervenants.html#Rémy Hubscher et Arthur Vuillard">Rémy Hubscher et Arthur Vuillard</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Et si on réécrivait Google en Python ?">Et si on réécrivait Google en Python ?</a></div><div class="person"><a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Warehouse - the future of PyPI">Warehouse - the future of PyPI</a></div><div class="person"><a href="intervenants.html#Nicole Harris">Nicole Harris</a></div></td>
          </tr>
@@ -214,7 +214,7 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
         <tr>
           <td class="slot">11h50-12h15</td>
           <td class="short"><div class="title"><a href="programme.html#Outils d'analyse statique">Outils d'analyse statique</a></div><div class="person"><a href="intervenants.html#Cyril Roelandt">Cyril Roelandt</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</a></div><div class="person"><a href="intervenants.html#Rémy Hubscher et Arthur Vuillard">Rémy Hubscher et Arthur Vuillard</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Rust">Rust</a></div><div class="person"><a href="intervenants.html#Leo Testard">Leo Testard</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</a></div><div class="person"><a href="intervenants.html#Lionel Porcheron">Lionel Porcheron</a></div></td>
         </tr>
 
