@@ -390,7 +390,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <div class="title" id="Introduction au Deep Learning avec Theano">Introduction au Deep Learning avec Theano</div>
           <div class="description">C’est indéniable, le Deep Learning c’est le sujet à la mode ! Même si cela reste un domaine de recherche très pointu heureusement à l’aide de nombreux frameworks open source et formations sur Internet les concepts deviennent de plus en plus accessibles. Cet atelier propose un tour d’horizon sur les origines du Deep Learning, quelles sont les ruptures scientifiques des 10 dernières années qui l’ont rendu aussi populaire, quelles sont les dernières architectures à la mode.
           Tout au long de l'atelier vous allez pouvoir coder vos propres architectures profondes avec Theano ! Cette librairie Python est parfaite pour le Deep Learning ! Elle est même très utilisée en recherche, pour prototyper rapidement de nouveaux modèles. 
-          L'objectif de l'atelier est de donner les bases théoriques et pratiques (via Theano) pour être autonome sur une compétition Kaggle par exemple.</div>
+          L'objectif de l'atelier est de donner les bases théoriques et pratiques (via Theano) pour être autonome sur une compétition Kaggle par exemple.
+          
+          Vous trouverez toutes les informations sur l'atelier (noatamment les librairies à installer) <a href="http://jguillaumin.github.io/2016-09-29-pycon-deep-learning/">ici</a>.</div>
 
           <div class="title" id="Programmer un robot mobile en python">Programmer un robot mobile en python</div>
           <div class="description">Atelier pour découvrir la programmation Python sur un petit robot mobile. Le robot MRPi1 est un robot mobile de 10 cm de diamètre basé sur une carte Raspberry pi avec de nombreux capteurs.</div>
