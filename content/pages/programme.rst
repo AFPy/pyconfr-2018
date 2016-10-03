@@ -5,7 +5,7 @@ Programme
 :lang: fr
 :url: programme
 
-Vous trouverez ci-dessous le programme en cours de finalisation.
+Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
 .. raw:: html
 
