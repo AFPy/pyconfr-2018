@@ -498,7 +498,10 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           Cette présentation a pour objectif de vous introduire au concept des tests basés sur les propriétés ainsi qu'à l'utilisation de la bibliothèque Hypothesis et de ses plugins pour Numpy ou Django.</div>
 
           <div class="title" id="Application en Python de modèles physiologiques des muscles humains">Application en Python de modèles physiologiques des muscles humains</div>
-          <div class="description">Notre équipe du laboratoire "BioMecanique et BioIngenierie" de l’Université de Technologie de Compiègne travaille sur l’analyse et la compréhension de l’activité musculaire. Actuellement, nous développons des modèles multi-échelles et multi-physiques des muscles afin de simuler les électromyogrammes. Notre travail s’applique à deux types de muscle : l’utérus et les muscles squelettiques. Depuis cinq ans, tous les logiciels liés à la modélisation sont codés en Python : interfaces graphiques pour gérer les simulations, résolution des équations des modèles et également la visualisation des résultats. Nous proposons de présenter notre approche et notre utilisation de Python comme un outil multiple pour résoudre les nombreuses problématiques rencontrées avec la complexité des modèles physiologiques d’organe humain. Pour illustrer cela, nous décrirons un logiciel qui a été entièrement développé dans notre laboratoire dont une partie a été mis en open source. Python a déjà prouvé son utilité pour les scientifiques, il permet une implémentation rapide de nos modèles et également un développement simple d’interfaces utilisateurs permettant l’utilisation des modèles à un public plus large ; non programmeur où non spécialiste en modélisation.</div>
+          <div class="description">Notre équipe du laboratoire "BioMecanique et BioIngenierie" de l’Université de Technologie de Compiègne travaille sur l’analyse et la compréhension de l’activité musculaire. Actuellement, nous développons des modèles multi-échelles et multi-physiques des muscles afin de simuler les électromyogrammes. Notre travail s’applique à deux types de muscle : l’utérus et les muscles squelettiques. Depuis cinq ans, tous les logiciels liés à la modélisation sont codés en Python : interfaces graphiques pour gérer les simulations, résolution des équations des modèles et également la visualisation des résultats. Nous proposons de présenter notre approche et notre utilisation de Python comme un outil multiple pour résoudre les nombreuses problématiques rencontrées avec la complexité des modèles physiologiques d’organe humain. Pour illustrer cela, nous décrirons un logiciel qui a été entièrement développé dans notre laboratoire dont une partie a été mis en open source. Python a déjà prouvé son utilité pour les scientifiques, il permet une implémentation rapide de nos modèles et également un développement simple d’interfaces utilisateurs permettant l’utilisation des modèles à un public plus large ; non programmeur où non spécialiste en modélisation.
+
+            Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.
+          </div>
           <div class="title" id="PyRat - Un jeu pour l'apprentissage de l'informatique en Python">PyRat - Un jeu pour l'apprentissage de l'informatique en Python</div>
           <div class="description">PyRat est un cours de programmation/algorithmique/théorie des graphes donné à Télécom Bretagne Brest depuis l'an dernier. Le cours se base sur un jeu vidéo, sous  la forme d'un labyrinthe dans lequel des bouts de fromage sont disposés. Dans ce labyrinthe, il y a aussi deux pions (un par joueur). Ces pions sont contrôlés par des programmes Python simples écrits par les étudiants.
           Un des intérêts du logiciel est qu'il permet d'étudier d'une part la théorie des graphes et les algorithmes associés (notions de graphe, de parcours, de plus court chemin, voyageur de commerce...) mais aussi de directement mettre en application les concepts vus en cours, en programmant en Python des petits programmes pour atteindre divers objectifs de difficulté croissante :
@@ -576,7 +579,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           d'interopérabilité entre Python et C++, ses avantages et limitations,
           et illustrer ces propos par des exemples concrets et des jolies images issues
           de certains de nos projets.
-          Demo reel de Dynamixyz: https://youtu.be/1WSneAhR5oA</div>
+          Demo reel de Dynamixyz: https://youtu.be/1WSneAhR5oA
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
           <div class="title" id="Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</div>
           <div class="description">Organiser une conférence sur Python peut paraître bien difficile. Nous ne cacherons pas que c'est un évènement qui nécessite du travail, mais ce ne doit pas effrayer de futurs candidats.
@@ -586,7 +591,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <div class="title" id="Python et secondes intercalaires">Python et secondes intercalaires</div>
           <div class="description">Les secondes intercalaires peuvent poser 2 types de problèmes en informatique : elles peuvent faire planter nos codes lors de l'interprétation du date mais elles peuvent aussi induire des erreurs de calcul ou d'enregistrement si la librairie de temps ne les gère pas.
           Qu'en est-il en Python ?
-          Après un rappel sur ce que sont ces secondes intercalaires, je vous propose de regarder comment gérer l'arrivée d'une date, en comportant une, dans vos codes, puis de regarder ce qu'il est faisable pour assurer la validité de vos calculs et enregistrer ces dates dans quelques formats de fichier.</div>
+          Après un rappel sur ce que sont ces secondes intercalaires, je vous propose de regarder comment gérer l'arrivée d'une date, en comportant une, dans vos codes, puis de regarder ce qu'il est faisable pour assurer la validité de vos calculs et enregistrer ces dates dans quelques formats de fichier.
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
           <div class="title" id="Découverte de Django">Découverte de Django</div>
           <div class="description">Django est un framework web écrit en Python largement utilisé dans cette communauté. Utilisant le modèle MVT, modèles, vues, templates, il contient tous les outils nécessaire au développement d'une application web, tant de petite que de grosse envergure.
@@ -682,7 +689,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
             <div class="title" id="Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</div>
             <div class="description">Ansible est un outil de déploiement d'un genre un peu spécial, qui fonctionne sans avoir besoin d'un agent sur la machine distante. Pour cela, il copie
             directement des bouts de code python en vue de les exécuter sur la machine distante.  Bien qu'étant plus simple pour l'utilisateur, ceci pose un problème de taille, faire tourner le code indépendamment de la version de python distante. Pire encore, comme l'outil se destine à des serveurs en tout genre, la version de python va de 2.4 (pour RHEL 5) à du python 3.5 pour les systèmes les plus récents. Et le code doit marcher directement sur tout ça.
-            Nous verrons dans cette présentation la façon dont la communauté Ansible va résoudre le souci, les différentes constructions permettant du code parfois moins idiomatique mais portable, et l'utilisation de python-six pour faciliter le portage.</div>
+            Nous verrons dans cette présentation la façon dont la communauté Ansible va résoudre le souci, les différentes constructions permettant du code parfois moins idiomatique mais portable, et l'utilisation de python-six pour faciliter le portage.
+
+            Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.</div>
 
             <div class="title" id="Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</div>
             <div class="description">This talk will be based on open source data manipulation and analysis python library - Pandas. It will mainly focus on exploring the most commonly used features of the library like - integrated indexing using DataFrame objects, slicing and subsetting of large data sets, merging, joining and size mutability of data structures, hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data, flexible reshaping and pivoting of data sets etc.
@@ -734,7 +743,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
                       participants.viens_a_la_conf_TTT()
                       #Assert
                       for participant in participants:
-                          assert participant.a_appris_un_truc_sur_les_tests</div>
+                          assert participant.a_appris_un_truc_sur_les_tests
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
 
           <div class="title" id="Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</div>
