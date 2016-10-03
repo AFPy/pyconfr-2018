@@ -110,7 +110,7 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <td class="slot">13h45-14h30</td>
           <td class="long"><div class="title"><a href="programme.html#Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
-          <td class="long"><div class="title"><a href="programme.html#PyPy">PyPy</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
+          <td class="long"><div class="title"><a href="programme.html#PyPy: Python faster than Python">PyPy: Python faster than Python</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
         </tr>
@@ -775,11 +775,14 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           Il s'agit d'un outil à vocation pédagogique pour aider les citoyens à mieux comprendre le système socio-fiscal.</div>
 
 
-          <div class="title" id="PyPy">PyPy</div>
-          <div class="description">PyPy est un interpréteur alternatif pour Python, rapide et hautement compatible avec CPython, l'implémentation de référence. Son compilateur à la volée, combiné avec un garbage collector performant, lui permet d'exécuter du code Python en moyenne 7 fois plus rapidement que CPython 2.7.
-          Cette présentation va faire un tour d'horizon des fonctionnalités de PyPy, et plus particulièrement de ses évolutions récentes :
-          * cpyext, la couche d'émulation pour l'API C de CPython, est en redéveloppement pour permettre bientôt une totale compatibilité avec les extensions en C.
-          * Le support de Python 3 est en amélioration constante, avec une version compatible 3.3 sortie récemment et le support de 3.5 en cours de développement.</div>
+          <div class="title" id="PyPy: Python faster than Python">PyPy: Python faster than Python</div>
+          <div class="description">PyPy is a fast and highly-compatible alternative implementation of Python. Its just-in-time compiler, backed by a state-of-the art garbage collector, allow it to run pure-Python(2) code on average 7 times faster than CPython 2.7, the reference implementation.
+
+        This presentation will give a tour of PyPy's goals, history and features with special emphasis on recent developments:
+
+        * cpyext, PyPy's emulation layer for CPython's C API, has been overhauled in order to soon allow full compatibility with all C extensions.
+
+        * Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.</div>
 
 
           <div class="title" id="Lire & Écrire la Doc">Lire & Écrire la Doc</div>
