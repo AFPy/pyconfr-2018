@@ -14,16 +14,17 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
       <h2>Jeudi 13 octobre</h2>
       <h3>Sprints</h3>
       <ul>
-          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a></li>
-          <li><a href="#Contribution a CPython">Contribution a CPython</a></li>
-          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a></li>
-          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></li>
-          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a></li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</a></li>
-          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a></li>
+          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
+          <li><a href="#Contribution a CPython">Contribution a CPython</a> (<a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a>)</li>
+          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
+          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
+          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
-          <li><a href="#Sprint Nagare">Sprint Nagare</a></li>
+          <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
+          <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
       </ul>
   </div>
 
@@ -31,18 +32,19 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
       <h2>Vendredi 14 octobre</h2>
       <h3>Sprints</h3>
       <ul>
-          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a></li>
-          <li><a href="#Contribution a CPython">Contribution a CPython</a></li>
-          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a></li>
-          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></li>
-          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a></li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</a></li>
-          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a></li>
+          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
+          <li><a href="#Contribution a CPython">Contribution a CPython</a> (<a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a>)</li>
+          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
+          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
+          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
-          <li><a href="#Sprint Nagare">Sprint Nagare</a></li>
+          <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
+          <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
       </ul>
-      <h3>Soirée d'ouverture</h3>
+      <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
       boissons, musique live et conteurs !
   </div>
@@ -378,6 +380,22 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
                       Sprriiiinnnnnttt
           </div>
 
+          <div class="title" id="SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY</div>
+          <div class="description">Django est LE framework web de référence pour python, il est bien codé, bien testé, très bien documenté, et avance à toute allure. Mais Django est aussi un large écosystème d'applications open-sources enfichables, allant du moteur de webservice au CMS, en passant par des moteurs de blog, des systèmes de commentaires, des gestionnaires de médias...
+
+                    Et c'est là que les choses se compliquent. Car Django ne dispose PAS de "versions mineures" au sens du "semantic versioning" : chaque mise à jour apporte son lot de changements non-rétrocompatibles. Des changements anticipés et documentés deux versions à l'avance certes, mais qui cassent nombre d'applications django qui ne sont plus mises à jour, et compliquent énormément la tâche des mainteneurs actifs. Des modules de soutien comme django-compat (l'équivalent de "six" pour Django) existent pour les aider, mais il rajoutent une couche de complexité, et restent peu connus. Et les récents changements du système de versioning de Django, qui se focalisent sur la notion de "version LTS", ne changent pas la donne.
+
+                    Bref, au final, si vous maintenez un large projet, utilisant une douzaine de dépendances (Django-cms, django-blog-zinnia, django-filer, quelques plugins pour Django-cms...), chaque upgrade peut facilement se transformer en "DLL hell", avec des conflits entre dépendances, et de multiples régressions sur des petits plugins peu maintenus. Il vous faudra forker à tout va, et espérer que vos changements seront intégrés upstream. Comparez cette situation à l'écosystème jQuery par exemple, où un module même abandonné depuis 5 ans marchera du premier coup, et vous sauvera facilement plusieurs journées de travail.
+
+                    D'où l'idée de django-compatibility. Ce module va s'occuper de monkey-patcher dans Django des "shims", des micro-utilitaires permettant de garder la rétrocompatibilité malgré les changements "violents" du code : renommages d'attributs et de fonction, modifications de signatures de fonction, déplacements d'application "contrib" hors de la base de code principale... Ainsi, les vieilles applications Django retrouveront accès à des fondamentaux comme request.REQUEST, à request.raw_post_data, ou mimetype, jusqu'à ce qu'elles retrouvent un mainteneur. Des DeprecationWarnings continueront d'être émis, mais les webmaster DJango verront leur taux d'adrénaline lors des upgrades revenir dans des normes acceptables.
+
+                    Le sprint se focalisera principalement sur la création des fixers, des petits utilitaires auto-documentés permettant chacun de restaurer une fonctionnalité cassée au fil des évolutions de Django (voir https://docs.djangoproject.com/en/dev/internals/deprecation/), et de leurs tests unitaires (avec py.test et tox). Le codage d'utilitaires de soutien (pour gérer automatiquement les renommages, ou le patching de sys.modules...) seront probablement aussi de la partie. Le Zen de Python sera respecté.
+
+                    ---
+
+                    Ce sprint aura lieu les 13 et 14 octobre.
+
+                    Pré-requis : connaissance intermédiaire de Python et Django, et un IDE en état de marche</div>
 
           <div class="title" id="Key Signing Party">Key Signing Party</div>
           <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
