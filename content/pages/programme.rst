@@ -410,7 +410,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Tout au long de l'atelier vous allez pouvoir coder vos propres architectures profondes avec Theano ! Cette librairie Python est parfaite pour le Deep Learning ! Elle est même très utilisée en recherche, pour prototyper rapidement de nouveaux modèles. 
           L'objectif de l'atelier est de donner les bases théoriques et pratiques (via Theano) pour être autonome sur une compétition Kaggle par exemple.
           
-          Vous trouverez toutes les informations sur l'atelier (noatamment les librairies à installer) <a href="http://jguillaumin.github.io/2016-09-29-pycon-deep-learning/">ici</a>.</div>
+          Vous trouverez toutes les informations sur l'atelier (notamment les librairies à installer) <a href="http://jguillaumin.github.io/2016-09-29-pycon-deep-learning/">ici</a>.</div>
 
           <div class="title" id="Programmer un robot mobile en python">Programmer un robot mobile en python</div>
           <div class="description">Atelier pour découvrir la programmation Python sur un petit robot mobile. Le robot MRPi1 est un robot mobile de 10 cm de diamètre basé sur une carte Raspberry pi avec de nombreux capteurs.</div>
