@@ -5,7 +5,7 @@ Programme
 :lang: fr
 :url: programme
 
-Vous trouverez ci-dessous le programme en cours de finalisation.
+Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
 .. raw:: html
 
@@ -14,16 +14,17 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
       <h2>Jeudi 13 octobre</h2>
       <h3>Sprints</h3>
       <ul>
-          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a></li>
-          <li><a href="#Contribution a CPython">Contribution a CPython</a></li>
-          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a></li>
-          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></li>
-          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a></li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</a></li>
-          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a></li>
+          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
+          <li><a href="#Contribution a CPython">Contribution a CPython</a> (<a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a>)</li>
+          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
+          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
+          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
-          <li><a href="#Sprint Nagare">Sprint Nagare</a></li>
+          <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
+          <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
       </ul>
   </div>
 
@@ -31,18 +32,19 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
       <h2>Vendredi 14 octobre</h2>
       <h3>Sprints</h3>
       <ul>
-          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a></li>
-          <li><a href="#Contribution a CPython">Contribution a CPython</a></li>
-          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a></li>
-          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></li>
-          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a></li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</a></li>
-          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a></li>
+          <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
+          <li><a href="#Contribution a CPython">Contribution a CPython</a> (<a href="intervenants.html#Stephane Wirtel">Stephane Wirtel</a>)</li>
+          <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
+          <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
+          <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
-          <li><a href="#Sprint Nagare">Sprint Nagare</a></li>
+          <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
+          <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
       </ul>
-      <h3>Soirée d'ouverture</h3>
+      <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
       boissons, musique live et conteurs !
   </div>
@@ -110,7 +112,7 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <td class="slot">13h45-14h30</td>
           <td class="long"><div class="title"><a href="programme.html#Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</a></div><div class="person"><a href="intervenants.html#Thierry Chappuis">Thierry Chappuis</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
-          <td class="long"><div class="title"><a href="programme.html#PyPy">PyPy</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
+          <td class="long"><div class="title"><a href="programme.html#PyPy: Python faster than Python">PyPy: Python faster than Python</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
         </tr>
@@ -378,6 +380,22 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
                       Sprriiiinnnnnttt
           </div>
 
+          <div class="title" id="SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY</div>
+          <div class="description">Django est LE framework web de référence pour python, il est bien codé, bien testé, très bien documenté, et avance à toute allure. Mais Django est aussi un large écosystème d'applications open-sources enfichables, allant du moteur de webservice au CMS, en passant par des moteurs de blog, des systèmes de commentaires, des gestionnaires de médias...
+
+                    Et c'est là que les choses se compliquent. Car Django ne dispose PAS de "versions mineures" au sens du "semantic versioning" : chaque mise à jour apporte son lot de changements non-rétrocompatibles. Des changements anticipés et documentés deux versions à l'avance certes, mais qui cassent nombre d'applications django qui ne sont plus mises à jour, et compliquent énormément la tâche des mainteneurs actifs. Des modules de soutien comme django-compat (l'équivalent de "six" pour Django) existent pour les aider, mais il rajoutent une couche de complexité, et restent peu connus. Et les récents changements du système de versioning de Django, qui se focalisent sur la notion de "version LTS", ne changent pas la donne.
+
+                    Bref, au final, si vous maintenez un large projet, utilisant une douzaine de dépendances (Django-cms, django-blog-zinnia, django-filer, quelques plugins pour Django-cms...), chaque upgrade peut facilement se transformer en "DLL hell", avec des conflits entre dépendances, et de multiples régressions sur des petits plugins peu maintenus. Il vous faudra forker à tout va, et espérer que vos changements seront intégrés upstream. Comparez cette situation à l'écosystème jQuery par exemple, où un module même abandonné depuis 5 ans marchera du premier coup, et vous sauvera facilement plusieurs journées de travail.
+
+                    D'où l'idée de django-compatibility. Ce module va s'occuper de monkey-patcher dans Django des "shims", des micro-utilitaires permettant de garder la rétrocompatibilité malgré les changements "violents" du code : renommages d'attributs et de fonction, modifications de signatures de fonction, déplacements d'application "contrib" hors de la base de code principale... Ainsi, les vieilles applications Django retrouveront accès à des fondamentaux comme request.REQUEST, à request.raw_post_data, ou mimetype, jusqu'à ce qu'elles retrouvent un mainteneur. Des DeprecationWarnings continueront d'être émis, mais les webmaster DJango verront leur taux d'adrénaline lors des upgrades revenir dans des normes acceptables.
+
+                    Le sprint se focalisera principalement sur la création des fixers, des petits utilitaires auto-documentés permettant chacun de restaurer une fonctionnalité cassée au fil des évolutions de Django (voir https://docs.djangoproject.com/en/dev/internals/deprecation/), et de leurs tests unitaires (avec py.test et tox). Le codage d'utilitaires de soutien (pour gérer automatiquement les renommages, ou le patching de sys.modules...) seront probablement aussi de la partie. Le Zen de Python sera respecté.
+
+                    ---
+
+                    Ce sprint aura lieu les 13 et 14 octobre.
+
+                    Pré-requis : connaissance intermédiaire de Python et Django, et un IDE en état de marche</div>
 
           <div class="title" id="Key Signing Party">Key Signing Party</div>
           <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
@@ -401,9 +419,6 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <div class="title" id="Evaluating Topic Models through python">Evaluating Topic Models through python</div><div class="description">Topic modeling in python is an upcoming and exciting field. With so many great open source libraries available, the natural language processing and topic modeling community is advancing rapidly and python has made it all the more easy! My summer work involved implementing the topic coherence pipeline in gensim which is a topic modeling library in python. I had to convert java code into efficient python code without sacrificing the mathematical correctness of the original algorithms.
           Topic coherence quantifies human interpretability of topics outputted by topic models by mimicking what a human would think on reading those topics. After all what is the use of a topic model which spits out incomprehensible topics? Coherence measures have a large number of applications such as improving automatic web page translations or even improving advertising by selecting advertising links that  maximize  coherence  of  the  union  of  the  web page's word set with descriptive words of the respective ad.
           While doing the project I realized the beauty of python when I noticed the fact that what required three different modules in java could be done inside just one function in python! I also experienced python's ease of use, user-friendliness and robustness while working with it. I started off thinking that it will take me two to three months to implement this pipeline in python but I finished almost one month ahead of schedule. How? Simply because python is incredible!</div>
-
-          <div class="title" id="Automatiser son déploiement en TDD avec Ansible et LXD">Automatiser son déploiement en TDD avec Ansible et LXD</div>
-          <div class="description">Au terme de cet atelier, vous saurez coder vos tests de déploiement ainsi que vos recettes de déploiement en Ansible et apprendrez à reproduire votre infra de prod en local avec des containeurs full systems.</div>
 
           <div class="title" id="Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web">Faire une API REST/JSON et des WebSockets avec AsyncIO et aiohttp.web</div><div class="description">Cet atelier sera l'opportunité pour apprendre comment architecturer un daemon avec AsyncIO ainsi que l'utilisation courante de l'API d'aiohttp.web, qui ressemble fort à celle de Flask, afin de faciliter les migrations.</div>
 
@@ -501,7 +516,10 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           Cette présentation a pour objectif de vous introduire au concept des tests basés sur les propriétés ainsi qu'à l'utilisation de la bibliothèque Hypothesis et de ses plugins pour Numpy ou Django.</div>
 
           <div class="title" id="Application en Python de modèles physiologiques des muscles humains">Application en Python de modèles physiologiques des muscles humains</div>
-          <div class="description">Notre équipe du laboratoire "BioMecanique et BioIngenierie" de l’Université de Technologie de Compiègne travaille sur l’analyse et la compréhension de l’activité musculaire. Actuellement, nous développons des modèles multi-échelles et multi-physiques des muscles afin de simuler les électromyogrammes. Notre travail s’applique à deux types de muscle : l’utérus et les muscles squelettiques. Depuis cinq ans, tous les logiciels liés à la modélisation sont codés en Python : interfaces graphiques pour gérer les simulations, résolution des équations des modèles et également la visualisation des résultats. Nous proposons de présenter notre approche et notre utilisation de Python comme un outil multiple pour résoudre les nombreuses problématiques rencontrées avec la complexité des modèles physiologiques d’organe humain. Pour illustrer cela, nous décrirons un logiciel qui a été entièrement développé dans notre laboratoire dont une partie a été mis en open source. Python a déjà prouvé son utilité pour les scientifiques, il permet une implémentation rapide de nos modèles et également un développement simple d’interfaces utilisateurs permettant l’utilisation des modèles à un public plus large ; non programmeur où non spécialiste en modélisation.</div>
+          <div class="description">Notre équipe du laboratoire "BioMecanique et BioIngenierie" de l’Université de Technologie de Compiègne travaille sur l’analyse et la compréhension de l’activité musculaire. Actuellement, nous développons des modèles multi-échelles et multi-physiques des muscles afin de simuler les électromyogrammes. Notre travail s’applique à deux types de muscle : l’utérus et les muscles squelettiques. Depuis cinq ans, tous les logiciels liés à la modélisation sont codés en Python : interfaces graphiques pour gérer les simulations, résolution des équations des modèles et également la visualisation des résultats. Nous proposons de présenter notre approche et notre utilisation de Python comme un outil multiple pour résoudre les nombreuses problématiques rencontrées avec la complexité des modèles physiologiques d’organe humain. Pour illustrer cela, nous décrirons un logiciel qui a été entièrement développé dans notre laboratoire dont une partie a été mis en open source. Python a déjà prouvé son utilité pour les scientifiques, il permet une implémentation rapide de nos modèles et également un développement simple d’interfaces utilisateurs permettant l’utilisation des modèles à un public plus large ; non programmeur où non spécialiste en modélisation.
+
+            Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.
+          </div>
           <div class="title" id="PyRat - Un jeu pour l'apprentissage de l'informatique en Python">PyRat - Un jeu pour l'apprentissage de l'informatique en Python</div>
           <div class="description">PyRat est un cours de programmation/algorithmique/théorie des graphes donné à Télécom Bretagne Brest depuis l'an dernier. Le cours se base sur un jeu vidéo, sous  la forme d'un labyrinthe dans lequel des bouts de fromage sont disposés. Dans ce labyrinthe, il y a aussi deux pions (un par joueur). Ces pions sont contrôlés par des programmes Python simples écrits par les étudiants.
           Un des intérêts du logiciel est qu'il permet d'étudier d'une part la théorie des graphes et les algorithmes associés (notions de graphe, de parcours, de plus court chemin, voyageur de commerce...) mais aussi de directement mettre en application les concepts vus en cours, en programmant en Python des petits programmes pour atteindre divers objectifs de difficulté croissante :
@@ -579,7 +597,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           d'interopérabilité entre Python et C++, ses avantages et limitations,
           et illustrer ces propos par des exemples concrets et des jolies images issues
           de certains de nos projets.
-          Demo reel de Dynamixyz: https://youtu.be/1WSneAhR5oA</div>
+          Demo reel de Dynamixyz: https://youtu.be/1WSneAhR5oA
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
           <div class="title" id="Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</div>
           <div class="description">Organiser une conférence sur Python peut paraître bien difficile. Nous ne cacherons pas que c'est un évènement qui nécessite du travail, mais ce ne doit pas effrayer de futurs candidats.
@@ -589,7 +609,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           <div class="title" id="Python et secondes intercalaires">Python et secondes intercalaires</div>
           <div class="description">Les secondes intercalaires peuvent poser 2 types de problèmes en informatique : elles peuvent faire planter nos codes lors de l'interprétation du date mais elles peuvent aussi induire des erreurs de calcul ou d'enregistrement si la librairie de temps ne les gère pas.
           Qu'en est-il en Python ?
-          Après un rappel sur ce que sont ces secondes intercalaires, je vous propose de regarder comment gérer l'arrivée d'une date, en comportant une, dans vos codes, puis de regarder ce qu'il est faisable pour assurer la validité de vos calculs et enregistrer ces dates dans quelques formats de fichier.</div>
+          Après un rappel sur ce que sont ces secondes intercalaires, je vous propose de regarder comment gérer l'arrivée d'une date, en comportant une, dans vos codes, puis de regarder ce qu'il est faisable pour assurer la validité de vos calculs et enregistrer ces dates dans quelques formats de fichier.
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
           <div class="title" id="Découverte de Django">Découverte de Django</div>
           <div class="description">Django est un framework web écrit en Python largement utilisé dans cette communauté. Utilisant le modèle MVT, modèles, vues, templates, il contient tous les outils nécessaire au développement d'une application web, tant de petite que de grosse envergure.
@@ -685,7 +707,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
             <div class="title" id="Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</div>
             <div class="description">Ansible est un outil de déploiement d'un genre un peu spécial, qui fonctionne sans avoir besoin d'un agent sur la machine distante. Pour cela, il copie
             directement des bouts de code python en vue de les exécuter sur la machine distante.  Bien qu'étant plus simple pour l'utilisateur, ceci pose un problème de taille, faire tourner le code indépendamment de la version de python distante. Pire encore, comme l'outil se destine à des serveurs en tout genre, la version de python va de 2.4 (pour RHEL 5) à du python 3.5 pour les systèmes les plus récents. Et le code doit marcher directement sur tout ça.
-            Nous verrons dans cette présentation la façon dont la communauté Ansible va résoudre le souci, les différentes constructions permettant du code parfois moins idiomatique mais portable, et l'utilisation de python-six pour faciliter le portage.</div>
+            Nous verrons dans cette présentation la façon dont la communauté Ansible va résoudre le souci, les différentes constructions permettant du code parfois moins idiomatique mais portable, et l'utilisation de python-six pour faciliter le portage.
+
+            Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.</div>
 
             <div class="title" id="Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</div>
             <div class="description">This talk will be based on open source data manipulation and analysis python library - Pandas. It will mainly focus on exploring the most commonly used features of the library like - integrated indexing using DataFrame objects, slicing and subsetting of large data sets, merging, joining and size mutability of data structures, hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data, flexible reshaping and pivoting of data sets etc.
@@ -737,7 +761,9 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
                       participants.viens_a_la_conf_TTT()
                       #Assert
                       for participant in participants:
-                          assert participant.a_appris_un_truc_sur_les_tests</div>
+                          assert participant.a_appris_un_truc_sur_les_tests
+
+          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
 
 
           <div class="title" id="Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</div>
@@ -775,11 +801,14 @@ Vous trouverez ci-dessous le programme en cours de finalisation.
           Il s'agit d'un outil à vocation pédagogique pour aider les citoyens à mieux comprendre le système socio-fiscal.</div>
 
 
-          <div class="title" id="PyPy">PyPy</div>
-          <div class="description">PyPy est un interpréteur alternatif pour Python, rapide et hautement compatible avec CPython, l'implémentation de référence. Son compilateur à la volée, combiné avec un garbage collector performant, lui permet d'exécuter du code Python en moyenne 7 fois plus rapidement que CPython 2.7.
-          Cette présentation va faire un tour d'horizon des fonctionnalités de PyPy, et plus particulièrement de ses évolutions récentes :
-          * cpyext, la couche d'émulation pour l'API C de CPython, est en redéveloppement pour permettre bientôt une totale compatibilité avec les extensions en C.
-          * Le support de Python 3 est en amélioration constante, avec une version compatible 3.3 sortie récemment et le support de 3.5 en cours de développement.</div>
+          <div class="title" id="PyPy: Python faster than Python">PyPy: Python faster than Python</div>
+          <div class="description">PyPy is a fast and highly-compatible alternative implementation of Python. Its just-in-time compiler, backed by a state-of-the art garbage collector, allow it to run pure-Python(2) code on average 7 times faster than CPython 2.7, the reference implementation.
+
+        This presentation will give a tour of PyPy's goals, history and features with special emphasis on recent developments:
+
+        * cpyext, PyPy's emulation layer for CPython's C API, has been overhauled in order to soon allow full compatibility with all C extensions.
+
+        * Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.</div>
 
 
           <div class="title" id="Lire & Écrire la Doc">Lire & Écrire la Doc</div>
