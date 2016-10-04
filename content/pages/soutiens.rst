@@ -108,6 +108,17 @@ Réseau des professionnels du numérique du pays de Saint Malo, relais local de 
 
 Le magazine de référence technique pour les Développeurs et les Administrateurs sur systèmes Open Source, partenaire presse
 
+`LabFab Etendu <http://www.labfab.fr/>`_
+----------------------------------------
+
+.. image:: ../images/logo-LabfabEtendu.png
+   :height: 100px
+   :alt: logo du LabFab Etendu
+   :target: http://www.labfab.fr
+
+Le LabFab Etendu apporte son soutien pour toute la logistique de la PyCon-Fr.
+
+
 Platine
 =======
 
