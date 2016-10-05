@@ -118,6 +118,17 @@ Le magazine de référence technique pour les Développeurs et les Administrateu
 
 Le LabFab Etendu apporte son soutien pour toute la logistique de la PyCon-Fr.
 
+`Veo-Labs <http://www.veo-labs.com/>`_
+----------------------------------------
+
+.. image:: ../images/logo-veo-labs.jpg
+   :height: 100px
+   :alt: logo de Veo Labs
+   :target: http://www.veo-labs.com/
+
+Veo-Labs (Solutions d’enregistrement et retransmission vidéo sur Internet) nous
+prête des enregistreurs h.264 utilisés pour la captation et la diffusion à postériori
+des conférences.
 
 Platine
 =======
@@ -170,11 +181,11 @@ IT Link, le spécialiste du digital industriel, conçoit pour ses clients des sy
 
 Aéronautique, Transports, Energie, Services …: les clients d’IT Link lui confient des projets à forte valeur ajoutée pour créer leur business de demain. IT Link mobilise pour eux l’ensemble des expertises pour concevoir toutes les briques d’un système connecté, des capteurs au Système d’Information.
 
-Dans ce cadre, IT Link a développé un pôle de compétences autour de Python car ce langage présente de nombreuses qualités : multiplateformes, natif Linux/Mac, communauté importante et active, ... 
+Dans ce cadre, IT Link a développé un pôle de compétences autour de Python car ce langage présente de nombreuses qualités : multiplateformes, natif Linux/Mac, communauté importante et active, ...
 
 IT Link propose ainsi à ses clients, et ce dans le respect des bonnes pratiques Python, d'assumer l'ensemble du développement de leur projets, du pilotage de périphériques (capteurs, moteurs, ...) à la restitution de données, en clients lourds ou léger, en système embarqué ou non.
 
-IT Link est désormais votre partenaire privilégié pour vos projets de développement logiciel Python. 
+IT Link est désormais votre partenaire privilégié pour vos projets de développement logiciel Python.
 
 Suivez dès à présent nos actualités sur les réseaux sociaux : `LinkedIn <https://fr.linkedin.com/company/groupe-it-link---it-link-system---ipsis>`__, `Twitter <https://twitter.com/nousrecrutons>`__, `Facebook <https://www.facebook.com/IT-Link-225806117434835/>`__.
 
@@ -192,7 +203,7 @@ LEXSI est né pour défendre les actifs vitaux des entreprises.
 
 Le portfolio de Lexsi compte des services d’audit, de conseil, de réponse à incident et de formation, ainsi qu’une offre logicielle aboutie, essentiellement disponible en SaaS. Ces produits s’articulent naturellement autour d’une démarche de défense structurée faite d’anticipation et de riposte.
 
-Lexsi propose actuellement des postes de développeur·se·s Python : https://www.lexsi.com/fr/carrieres/offres-emplois/2316-dev-idf 
+Lexsi propose actuellement des postes de développeur·se·s Python : https://www.lexsi.com/fr/carrieres/offres-emplois/2316-dev-idf
 
 `Devenez un soutien "Or" </pages/nous-soutenir.html>`_
 
@@ -252,7 +263,7 @@ Chez Planet-Work vous bénéficiez :
 
 D'année en année, nous hébergeons de plus en plus de sites, d'applications et de solutions de messagerie aux problématiques diverses et variées.
 
-Répondre aux attentes de nos clients est pour nous primordial. Leur confiance est d’ailleurs notre première récompense ! 
+Répondre aux attentes de nos clients est pour nous primordial. Leur confiance est d’ailleurs notre première récompense !
 
 `Algoo <http://algoo.fr/>`_
 ---------------------------
@@ -312,7 +323,7 @@ Découvrez notre plateforme, nos métiers, notre environnement de travail à tra
    :target: https://developer.orange.com/
 
 Orange est l'un des principaux opérateurs de télécommunications dans le monde, avec un chiffre d'affaires de 40 milliards d'euros en 2015 et 154 000 salariés au 30 juin 2016, dont 96 000 en France. Présent dans 29 pays, le Groupe servait 250 millions de clients dans le monde au 30 juin 2016, dont 189 millions de clients mobile et 18 millions de clients haut débit fixe. Orange est également l'un des leaders mondiaux des services de télécommunications aux entreprises multinationales sous la marque Orange Business Services. En mars 2015, le Groupe a présenté son nouveau plan stratégique « Essentiels2020 » qui place l'expérience de ses clients au cœur de sa stratégie, afin que ceux-ci puissent bénéficier pleinement du monde numérique et de la puissance de ses réseaux très haut débit.
- 
+
 Orange est coté sur Euronext Paris (symbole ORA) et sur le New York Stock Exchange (symbole ORAN).
 
 Pour plus d'informations (sur le web et votre mobile) : `www.orange.com <http://www.orange.com/>`_, `www.orange-business.com <http://www.orange-business.com/>`_, `www.livetv.orange.com <http://www.livetv.orange.com/>`_ ou pour nous suivre sur Twitter : `@presseorange <https://twitter.com/presseorange>`_.
