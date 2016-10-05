@@ -342,6 +342,16 @@ PeopleDoc développe une application en SaaS pour simplifier la gestion administ
 
 Pour plus d'informations sur PeopleDoc et nos offres  : http://www.people-doc.com/ & http://www.people-doc.com/company/careers
 
+`Always Data <https://www.alwaysdata.com/fr/>`_
+-----------------------------------------------
+
+.. image:: ../images/logo_always_data.png
+   :height: 100px
+   :alt: logo d'always data
+   :target: https://www.alwaysdata.com/fr/
+
+alwaysdata est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python.
+
 `Devenez un soutien "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
