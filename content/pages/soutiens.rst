@@ -127,7 +127,7 @@ Le LabFab Etendu apporte son soutien pour toute la logistique de la PyCon-Fr.
    :target: http://www.veo-labs.com/
 
 Veo-Labs (Solutions d’enregistrement et retransmission vidéo sur Internet) nous
-prête des enregistreurs h.264 utilisés pour la captation et la diffusion à postériori
+prête des enregistreurs H.264 utilisés pour la captation et la diffusion à postériori
 des conférences.
 
 Platine
