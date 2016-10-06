@@ -25,6 +25,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
+          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèques Sans Frontières</a>)</a></li>
       </ul>
   </div>
 
@@ -43,6 +44,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
+          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèque Sans Frontière</a>)</a></li>
       </ul>
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
@@ -396,6 +398,22 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
                     Ce sprint aura lieu les 13 et 14 octobre.
 
                     Pré-requis : connaissance intermédiaire de Python et Django, et un IDE en état de marche</div>
+
+          <div class="title" id="SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation</div>
+          <div class="description">
+		  BSF est une ONG qui s'est donné pour mandat l'accès à l'éducation et à l'information. L'objectif de BSF est de donner aux populations – en particulier les plus vulnérables – des outils pour comprendre le monde et le transformer. Parmi ceux-ci, l'Ideas box et le KoomBook, deux dispositifs qui utilisent des technologies libres (on parle vraiment de changer le monde) pour donner accès à plusieurs milliers de ressources numériques (vidéos, epub, films, Moocs, sites web).
+
+		  <a href="https://github.com/ideascube/ideascube">Ideascube</a> est le logiciel commun aux projets KoomBook et IdeasBox. Il permet d'embarquer des ressources numériques offline et d'y donner accès (un peu comme une pirate box) y compris dans des contexte où Internet n'est pas accessible. Ideascube permettra à terme à toute machine qui le fera tourner d'accéder à un catalogue de ressources libres, accessible en ligne et consultable en mode déconnecté.
+
+		  État des lieux, déploiement, développements futurs. Avec des bouts de python (django) et de connexion asynchrone dedans.
+
+		  <strong>Qui</strong>
+		  <ul><li>Grégoire Pouget (barbayellow)</li><li>Mathieu Bridon (bochecha)</li><li>Matthieu Gautier (starmad)</li><li>Steven (Steven)</li></ul>
+
+		  <strong>Objectifs et sujets sur lesquels on souhaite être épaulés</strong>
+		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au numérique? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube et directement aux ressources qui les concernent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
+		  </div>
+
 
           <div class="title" id="Key Signing Party">Key Signing Party</div>
           <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
