@@ -25,7 +25,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
-          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèque Sans Frontière</a>)</a></li>
+          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèques Sans Frontières</a>)</a></li>
       </ul>
   </div>
 
@@ -411,7 +411,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 		  <ul><li>Grégoire Pouget (barbayellow)</li><li>Mathieu Bridon (bochecha)</li><li>Matthieu Gautier (starmad)</li><li>Steven (Steven)</li></ul>
 
 		  <strong>Objectifs et sujets sur lesquels on souhaite être épaulés</strong>
-		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au digital? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube er directement aux ressources qui les conercnent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
+		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au numérique? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube et directement aux ressources qui les concernent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
 		  </div>
 
 
