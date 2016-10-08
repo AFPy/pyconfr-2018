@@ -118,12 +118,6 @@ Intervenant.e.s
             <div class="title" id="maha mdini">maha mdini</div>
             <div class="description">Data Scientist à Astellia, PhD student à l'IRISA (Telecom bretagne), diplomée en 09/2015 de Telecom Bretagne (formation d'ingénieur en systèmes logiciels et réseaux)</div>
 
-            <div class="title" id="Manoj Pandey">Manoj Pandey</div>
-            <div class="description">Manoj is a rising CS junior, who speaks Python primarily and is working with SquadRun's Engineering Team this summer.
-            Before this he was a Data Analytics Intern at Inspiration Edge and Zouk Fellow at ZoukLoans. He has been a part of the Stanford Crowd Research Collective (a research project of Human Computer Interaction group at Stanford University, led by Prof. Michael Bernstein) since January 2016 and Stanford Crowd Course Collective since April 2016, in which he moderated two open courses on Python. He is a fellow hacker and have won some prestigious hackathons last year (PolicyHack, Grand Prize Winners and AngelHack 2015, Runers up, ..) and won the Code4Impact Award at the recent AngelHack Jaipur 2016 !
-            He is an avid FOSS enthusiast and Pythonista, almost all of his projects are open-sourced on Github here.
-            Detailed LinkedIn profile is available at: http://linkedin.com/in/manoj96</div>
-
             <div class="title" id="Arthur Vuillard">Arthur Vuillard</div>
             <div class="description">De formation ingénieur, je suis développeur Python, administrateur GNU/Linux et fondateur d'Hashbang, une société de développements informatiques pour les entrepreneu·r·se·s du web. J'interviens principalement sur des projets de systèmes d'informations et de développements webs.
             J'accompagne également les sociétés qui utilisent Python dans l'amélioration de leurs pratiques de développements.

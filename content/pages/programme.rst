@@ -246,7 +246,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</a></div><div class="person"><a href="intervenants.html#Manoj Pandey">Manoj Pandey</a></div></td>
+          <td class="short double-short"></td>
         </tr>
 
         <tr>
@@ -656,12 +656,6 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="title" id="Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</div>
           <div class="description">la présentation contiendra une analyse de la précision et des performances des algorithme de machine learning implémentés par des librairies python tels que scikit-learn, pandas, numpy...
           Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent. </div>
-
-          <div class="title" id="An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</div>
-          <div class="description">Web scraping is a technique for gathering data or information on web pages. You could revisit your favorite web site every time it updates for new information. Or you could write a web scraper to have it do it for you!
-          Want to learn how to scrape the web (and / or organized data sets and APIs) for content? This talk will give you the building blocks (and code) to begin your own scraping adventures. We will review basic data scraping, API usage, form submission as well as how to scrape pesky bits like Javascript-usage for DOM manipulation.
-          Besides looking at how websites are put together, we will also discuss the ethics of scraping. What is legal? How can you be a friendly scraper, so that the administrator of the website you are scraping won’t try to shut you down?
-          Slides: https://slides.com/manojp/introws</div>
 
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
 
