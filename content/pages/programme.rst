@@ -26,6 +26,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
           <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèques Sans Frontières</a>)</a></li>
+          <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
       </ul>
   </div>
 
@@ -45,6 +46,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
           <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèque Sans Frontière</a>)</a></li>
+          <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
       </ul>
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
@@ -305,7 +307,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Le mainteneur du projet Sylvain Zimmer sera présent pour aider les gens de tous les niveaux à faire leur première contribution. Grâce à des images Docker toutes prêtes et une liste d'issues sur GitHub bien remplie, vous pourrez envoyer votre première Pull Request en moins d'une heure !</div>
 
           <div class="title" id="Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</div>
-          <div class="description">TechEmpower Benchmarks suite essaie de comparer 162 frameworks Web pour faire des APIs REST/JSON: https://www.techempower.com/benchmarks/
+          <div class="description"><a href="https://www.techempower.com/benchmarks/">TechEmpower Benchmarks suite</a> essaie de comparer 162 frameworks Web pour faire des APIs REST/JSON.
           AsyncIO et sa boite à outils participent à ce benchmark, en particulier aiohttp.
           Depuis que la suite de tests a été implémenté, de nouveaux outils sont apparus (uvloop, asyncpg, compatibilité AsyncIO pour cython...) qui devraient améliorer les performances, qui sont déjà intéressantes.
           Si vous voulez aider, ou que vous êtes un simple curieux de comment améliorer les performances en Python, ce sprint est fait pour vous.
@@ -414,6 +416,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au numérique? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube et directement aux ressources qui les concernent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
 		  </div>
 
+
+          <div class="title" id="SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</div>
+          <div class="description"><a href="https://fr.wikipedia.org/wiki/Asterisk_(logiciel)">Asterisk</a> est un serveur de téléphonie opensource, <a href="https://github.com/gawel/panoramisk">Panoramisk</a> permet d'intéragir en Python+AsyncIO via les APIs propres à Asterisk (AMI+FastAGI).<br /><br />Avec l'aide de <a href="https://github.com/gawel">Gawel</a> qui sera accessible par téléphone uniquement afin de rester dans le contexte, nous allons <b>tenter</b>:<ul><li>Merger la dernière pull request en cours de <a href="https://github.com/gawel/panoramisk">Panoramisk</a> en cherchant un consensus et rajoutant les tests manquants</li><li>Fermer les issues en cours</li><li>Discuter d'<a href="https://wiki.asterisk.org/wiki/pages/viewpage.action?pageId=29395573">ARI</a> (les nouvelles APIs REST/JSON d'Asterisk) et voir les synergies que nous pourrions avoir avec le <a href="https://github.com/asterisk/ari-py">binding Python officiel</a></li><li>Éventuellement de faire un benchmark différentiel avec <a href="https://github.com/MagicStack/uvloop">uvloop</a> activé ou non et voir s'il y aurait des pistes d'améliorations, notamment en regardant dans d'autres implémentations de binding.</li><li>Et peut-être même (soyons fous!) sortir une nouvelle release</li></ul></div>
 
           <div class="title" id="Key Signing Party">Key Signing Party</div>
           <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
