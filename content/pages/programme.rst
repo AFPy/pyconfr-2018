@@ -89,7 +89,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
         <tr>
           <td class="slot">10h30-10h55</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</a></div><div class="person"><a href="intervenants.html#Ludovic VAUGEOIS">Ludovic VAUGEOIS</a></div></td>
         </tr>
         <tr>
@@ -127,7 +127,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
         <tr>
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</a></div><div class="person"><a href="intervenants.html#Georges Bossert">Georges Bossert</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</a></div><div class="person"><a href="intervenants.html#Michael Scherer">Michael Scherer</a></div></td>
         </tr>
 
