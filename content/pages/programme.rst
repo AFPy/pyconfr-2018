@@ -27,6 +27,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
           <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèques Sans Frontières</a>)</a></li>
           <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
   </div>
 
@@ -47,6 +48,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
           <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèque Sans Frontière</a>)</a></li>
           <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
@@ -91,7 +93,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
         <tr>
           <td class="slot">10h30-10h55</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</a></div><div class="person"><a href="intervenants.html#Ludovic VAUGEOIS">Ludovic VAUGEOIS</a></div></td>
         </tr>
         <tr>
@@ -129,7 +131,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
         <tr>
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</a></div><div class="person"><a href="intervenants.html#Georges Bossert">Georges Bossert</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</a></div><div class="person"><a href="intervenants.html#Michael Scherer">Michael Scherer</a></div></td>
         </tr>
 
@@ -246,7 +248,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</a></div><div class="person"><a href="intervenants.html#Manoj Pandey">Manoj Pandey</a></div></td>
+          <td class="short double-short"></td>
         </tr>
 
         <tr>
@@ -415,6 +417,18 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 		  <strong>Objectifs et sujets sur lesquels on souhaite être épaulés</strong>
 		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au numérique? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube et directement aux ressources qui les concernent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
 		  </div>
+
+          <div class="title" id="Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</div>
+          <div class="description">SonoPluie est une balade sonore en parapluie géolocalisé.
+            Il s’agit de proposer à des promeneurs un cheminement libre qui fasse coïncider leur environnement direct avec des pistes sonores, en temps réel.
+            Le proto tourne sous python sur carte raspberry, il manque cependant beaucoup de fonctionnalité pour anticiper, prévenir et répondre aux divers comportements du visiteur.
+            A l’aide d’un prototype fonctionnel, le développement pourra être testé tout au long des deux jours du sprint.
+
+            La participation au sprint pourra se faire au long cours sur les deux jours, ou à la « micro-tâche » sur des points précis identifiés en amont.
+
+            Les jeudi 13 & vendredi 14/10
+            Référents projet : Philippe Lechat & Laurence Giuliani
+            </div>
 
 
           <div class="title" id="SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</div>
@@ -647,12 +661,6 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="title" id="Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</div>
           <div class="description">la présentation contiendra une analyse de la précision et des performances des algorithme de machine learning implémentés par des librairies python tels que scikit-learn, pandas, numpy...
           Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent. </div>
-
-          <div class="title" id="An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</div>
-          <div class="description">Web scraping is a technique for gathering data or information on web pages. You could revisit your favorite web site every time it updates for new information. Or you could write a web scraper to have it do it for you!
-          Want to learn how to scrape the web (and / or organized data sets and APIs) for content? This talk will give you the building blocks (and code) to begin your own scraping adventures. We will review basic data scraping, API usage, form submission as well as how to scrape pesky bits like Javascript-usage for DOM manipulation.
-          Besides looking at how websites are put together, we will also discuss the ethics of scraping. What is legal? How can you be a friendly scraper, so that the administrator of the website you are scraping won’t try to shut you down?
-          Slides: https://slides.com/manojp/introws</div>
 
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
 
