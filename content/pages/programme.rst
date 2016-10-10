@@ -20,7 +20,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
           <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
@@ -43,7 +43,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
           <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
