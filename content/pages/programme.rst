@@ -73,11 +73,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
@@ -189,11 +189,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
@@ -253,7 +253,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
-          <td class="short double-short"></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Jolies Métriques : Coordonner Python et Zabbix">Jolies Métriques : Coordonner Python et Zabbix</a></div>
+          <div class="person"><a href="intervenants.html#Alain Devarieux">Alain Devarieux</a></div>
+          </td>
         </tr>
 
         <tr>
@@ -505,6 +507,13 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Nous présenterons certains d'entre eux (pycodestyle, flake8, bandit...) durant cette conférence, et tenterons de donner quelques trucs et astuces afin de les utiliser au mieux. Nous montrerons notamment comment les intégrer à tox[1], ce qui facilitera la vie des développeurs et simplifiera l'utilisation de ces outils dans le cadre de l'intégration continue, dont on ne cesse de nous vanter les mérites.
           Cette présentation sera tout à fait accessible aux débutants, et comportera quelques exemples/démos.
           [1] https://pypi.python.org/pypi/tox</div>
+
+          <div class="title" id="Jolies Métriques : Coordonner Python et Zabbix">Jolies Métriques : Coordonner Python et Zabbix</div>
+          <div class="description">Retour d’expérience sur l'utilisation de l'application open source de supervision Zabbix couplée avec Python.
+            Zabbix (made in latvia) nous permet grâce à son agent multi-plateforme de monitorer un grand nombre d'équipements et de services, d’exécuter du code, de faire des calins.
+            Le but est de relever les métriques rapidement et avec une emprunte système la plus légère possible. C'est ici que Python nous aide à atteindre cet objectif en s'interfaçant avec l'agent Zabbix.
+            Une fois les métriques collectées, insérons les dans un outils de graph sexy et construisons des dashboards pour les décideurs pressés.
+          </div>
 
           <div class="title" id="Développeur durable">Développeur durable</div>
           <div class="description">Où vous voyez-vous dans 10 ans ? Vivrez-vous le rêve américain ? Élèverez-vous plutôt des chèvres en Lozère ? Récupèrerez-vous de votre 3e burnout ? Serez-vous (enfin) chef de projet ? Ou plutôt lead developer dans une entreprise libérée ?

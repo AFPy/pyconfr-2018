@@ -280,6 +280,11 @@ Intervenant.e.s
             <div class="title" id="Boris FELD">Boris FELD</div>
             <div class="description">Boris travaille actuellement activement sur le sujet sur l'agent python de sqreen.io et détaillera les joyeusetés de monkey-patcher python en production. Un article as déjà été écrit sur un des problèmes rencontré et sera dans la même veine que le conférence: https://blog.sqreen.io/freeze-python-str-encode-threads/</div>
 
+            <div class="title" id="Alain Devarieux">Alain Devarieux</div>
+            <div class="description">Administrateur Système au SIB
+            Tente de redonner ses lettres de noblesse à la supervision.
+            S'essaye au DevOps</div>
+
             <div class="title" id="SebCorbin">SebCorbin</div>
             <div class="description">Développeur PHP/Drupal le jour, je code secrètement un service en Django la nuit. Habitué/organisateur de DrupalCamp, la PyConfr sera pour moi la première conférence Python.
             Michael Launay & Amen Souissi	"Michaël Launay est le Gérant Fondateur d'Ecréall et président du cluster Pôle Nord qui regroupe des sociétés de services en logiciels libres du Nord - Pas-de-Calais.
