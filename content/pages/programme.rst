@@ -293,7 +293,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <h2>Liste complète des interventions</h2>
 
           <div class="title" id="Contribution a CPython">Contribution a CPython</div>
-          <div class="description">Avec l'aide de contributeurs CPython, ce sprint propose de contributer a CPython en fixant des bugs faciles d'acces. Cela permettra a nos amis sprinters de montrer le chemin pour devenir un contributeur de CPython.
+          <div class="description">Avec l'aide de contributeurs à CPython, ce sprint propose de contributer à CPython en corrigeant des bogues faciles d'accès. Cela permettra a nos amis sprinters de montrer le chemin pour devenir un contributeur de CPython.
           </div>
 
           <div class="title" id="RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</div>
@@ -304,8 +304,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Intéressé par le sujet ? Nous avons besoin de vous pour effectuer des relevés, pour réfléchir, pour coder !</div>
 
           <div class="title" id="Rafraîchissement de memopol.org">Rafraîchissement de memopol.org </div>
-          <div class="description">Comme vous le savez peut-être, le site du projet Memopol est aussi bien Open Source que l'outil de Mémoire Politique utilisé par certains lobbies citoyens. C'est un projet en Pelican sur github.com/political-memory/blog-memopol qui aurait besoin d'être mit à jour autant coté contenu, que traduction, design, déploiement et marketing. Bref, qu'on comprenne de quoi diable il s'agit sans y passer trois heures en temps que visiteur lambda.
-          Je serais à votre disposition pour aider les sprinteurs du développement en local jusqu'au déploiement en prod que tout contributeur doit faire pour chacun de ses patches dans la plus bleeding edge de la pratique de la livraisons continue ou encore d'un l'authentique blues du bayou.</div>
+          <div class="description">Comme vous le savez peut-être, le site du projet Memopol est aussi bien Open Source que l'outil de Mémoire Politique utilisé par certains lobbies citoyens. C'est un projet en Pelican sur github.com/political-memory/blog-memopol qui aurait besoin d'être mis à jour autant coté contenu, que traduction, design, déploiement et marketing. Bref, qu'on comprenne de quoi diable il s'agit sans y passer trois heures en tant que visiteur lambda.
+          Je (James Pic) serai à votre disposition pour aider les sprinteurs du développement en local jusqu'au déploiement en production que tout contributeur doit faire pour chacun de ses patches dans la plus bleeding edge de la pratique de la livraison continue ou encore d'un authentique blues du bayou.</div>
 
           <div class="title" id="Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</div>
           <div class="description">Common Search est un nouveau projet open source écrit principalement en Python, qui vise à créer un moteur de recherche entièrement ouvert et transparent.
@@ -341,7 +341,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
 
           <div class="title" id="passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</div>
-          <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est rempli par des utilisateurs indiciplinés à parvenir à une fiche totalement normé en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. ( fichiers exemples disponibles ) en utilisant python soit en macro, soit en programme externe sous windows ( portage possible sous linux, normalement )</div>
+          <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est remplie par des utilisateurs indiciplinés à parvenir à une fiche totalement normée en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. (fichiers exemples disponibles) en utilisant python soit en macro, soit en programme externe sous windows (portage possible sous linux, normalement)</div>
 
           <div class="title" id="Sprint Nagare">Sprint Nagare</div>
           <div class="description">Sprint sur les 2 jours.
@@ -479,16 +479,16 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           La connaissance de base de Django est un pré-requis.</div>
 
           <div class="title" id="interface graphique moderne En Qt avec python">interface graphique moderne En Qt avec python</div>
-          <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traité et le langage QML sera présenté.</div>
+          <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traitée et le langage QML sera présenté.</div>
 
           <div class="title" id="Life's too short: let's patch politics">Life's too short: let's patch politics</div>
           <div class="description">L'occasion d'apprendre à contribuer au projet de mémoire politique Memopol utilisé comme outil de lobbying citoyen par la Quadrature du Net ainsi que l'EDRi. Vous apprendrez donc à développer en local sur ce projet en Django, PostgreSQL et OpenShift et qui sait, peut-être rejoindrez-vous l'équipe ?</div>
 
           <div class="title" id="Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</div>
-          <div class="description">Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'évènements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
+          <div class="description">Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'événements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
           Les différents widgets seront présentés, allant du simple Label, à l'utilisation des ScreenManager pour organiser l'application, en passant par les différents Layout, et l'utilisation des RecycleView pour la gestion de données à défilement potentiellement infinie.
-          Le prototypage rapide de widgets ""from scratch"" sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherché.
-          Une connaissance fonctionnelle de python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de python (par exemple sublim text ou pycharm).</div>
+          Le prototypage rapide de widgets *from scratch* sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherchée.
+          Une connaissance fonctionnelle de Python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de Python (par exemple sublimetext ou pycharm).</div>
 
           <div class="title" id="Warehouse - the future of PyPI">Warehouse - the future of PyPI</div>
           <div class="description">Warehouse is the next generation Python Package Repository, designed to replace the legacy code base that currently powers PyPI.
