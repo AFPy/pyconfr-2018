@@ -133,6 +133,15 @@ Intervenant.e.s
             <div class="title" id="Lionel Porcheron">Lionel Porcheron</div>
             <div class="description">Lionel Porcheron, après avoir pendant plus de 10 ans administré des infrastructures de serveur de plus de 500 machines, a créé Bleemeo une startup Toulousaine qui propose une solution Cloud de monitoring d'infrastructure. Il est également un des organisateurs de Capitole du Libre, un événement annuel autour du logiciel libre à Toulouse, et du groupe Meetup Toulouse DevOps.</div>
 
+            <div class="title" id="Pierre Fersing">Pierre Fersing</div>
+            <div class="description">Pierre Fersing, développeur Python depuis
+            plus de 10 ans, a longtemps évolué au sein d'équipes d'exploitation
+            où il a été ammené à développer, mettre en place et exploiter des
+            outils d'automatisation reposant principalement sur Python
+            & Django. Pierre a co-fondé en 2015 la solution de monitoring
+            Bleemeo dont il est le CTO.</div>
+
+
             <div class="title" id="Bhargav SRINIVASA DESIKAN">Bhargav SRINIVASA DESIKAN</div>
             <div class="description">My name is Bhargav Srinivasa Desikan, a final year Undergraduate from BITS Pilani University, India. Starting from August 2016 I will be working as a research assistant at INRIA MODAL, Lille-Norde region, where I will research on Metric Learning and fast prediction techniques under Dr. Benjamin Guedj. I have also been selected as a Google Summer of Code Student with Gensim, where I am implementing Dynamic Topic Models and working on topic modelling applications. I have done all my research and learning with python and would love to keep contributing to the community the best way I can.</div>
 
