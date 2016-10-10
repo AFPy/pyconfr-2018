@@ -73,11 +73,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
@@ -189,11 +189,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
