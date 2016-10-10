@@ -19,7 +19,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
           <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
@@ -42,7 +42,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
           <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
@@ -346,8 +346,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             <div class="title" id="Développement de Nova-Ideo">Développement de Nova-Ideo</div>
             <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
 
-          <div class="title" id="passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</div>
-          <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est remplie par des utilisateurs indiciplinés à parvenir à une fiche totalement normée en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. (fichiers exemples disponibles) en utilisant python soit en macro, soit en programme externe sous windows (portage possible sous linux, normalement)</div>
+            <div class="title" id="passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</div>
+            <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est remplie par des utilisateurs indiciplinés à parvenir à une fiche totalement normée en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. ( fichiers exemples disponibles ) en utilisant python soit en macro, soit en programme externe sous windows ( portage possible sous linux, normalement )</div>
 
             <div class="title" id="Sprint Nagare">Sprint Nagare</div>
             <div class="description">Sprint sur les 2 jours.
