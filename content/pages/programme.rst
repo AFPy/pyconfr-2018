@@ -116,7 +116,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
@@ -233,7 +233,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
