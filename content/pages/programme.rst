@@ -29,6 +29,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
           <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
+	  <h3>Déjeuner</h3>
+	  <p>Curry de légumes de saison / riz japonais / Gâteau aux poires & raisins</p>
   </div>
 
   <div class="section sprints">
@@ -50,6 +52,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
           <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
+	  <h3>Déjeuner</h3>
+	  <p>Poulet sauté au gingembre avec des légumes / riz japonais + multi-céréales / Gâteau au Yuzu-citron</p>
+
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
       Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
       boissons, musique live et conteurs !
@@ -111,7 +116,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
@@ -228,7 +233,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
