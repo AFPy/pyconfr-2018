@@ -323,30 +323,34 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           De plus, si vous êtes intéressé à rajouter ou améliorer les performances de frameworks construits avec d'autres technologies qu'AsyncIO et Python, je peux également vous aider comment commencer.</div>
 
           <div class="title" id="Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</div>
-          <div class="description">Mapping Learning est à la fois une application et projet éducatif, et présente deux objectifs :
-          - faciliter l’accès aux méthodes évoluées d'apprentissage statistique par des non-informaticiens
-          - amener des étudiants en géographie, en informatique... à contribuer au développement d’une
-          application open-source.
-          Notre volonté est d’assister les utilisateurs dans leurs taches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) en leur donnant accès à un
-          grand nombre d'algorithmes (ex : 19 méthodes de classifications supervisées) peu disponibles dans les logiciels « utilisateurs ». Les utilisateurs/développeurs de méthodes de Machine Learning
-          bénéficieront, quant à eux, d’une manipulation aisée des données géographiques (images ou vectorielles) et pourront y ajouter leurs algorithmes. L’application réalise les principales étapes de
-          manipulation de données (spatialisées ou non) : réduction de dimension, cross-validation, apprentissage, post-traitements. Enfin, elle livre un compte-rendu standardisé et agrémenté de
-          conseils sur l'utilisation optimale des méthodes.
-          Mapping Learning réunit trois grandes librairies open-source : gdal/ogr (données géographiques), pandas et scikit-learn (machine learning). Plusieurs de nos étudiants utilisent déjà l’application,
-          dans une phase initiale de développement, sur leurs jeux de données. Notre ambition est d'assurer la pérennité de ce projet et nous conclurons en invitant toutes les personnes intéressées à nous
-          rejoindre.
-          Alban THOMAS a commencé sa carrière dans les domaines du SIG et de la télédétection. Il a développé des compétences en programmation pour répondre aux besoins de ces projets et aussi par
-          envie. Son poste actuel d’ingénieur d’étude en cartographie à l’UMR LETG Rennes-COSTEL (Climat et Occupation du Sol par Télédétection) lui permet de travailler avec des géographes, avec
-          ou sans connaissance en télédétection et des informaticiens en traitements du signal.</div>
+          <div class="description">
+          Mapping Learning est à la fois une application et un projet éducatif. Notre volonté est d’assister les utilisateurs dans leurs taches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) et de faciliter les échanges entre les méthodes de machine learning et ses applications (télédétection en particulier).
 
-          <div class="title" id="Développement de Nova-Ideo">Développement de Nova-Ideo</div>
-          <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
+          Ci-dessous, ma liste au père Noël :
+
+          - Portage vers Python 3
+          - Documentation du projet (sphinx)
+          - Faciliter déploiement : création d'un fichier setup.py
+          - Base de connaissances : créer un prototype et tester exécution d'un test stocké dans bdd
+          - Développement interface (CLI, Prototype de GUI, Prototype d'interface Web, Test de Junyper)
+          - Choix et implémentation statistiques (cf. scikit) pour : classification : ROC Curve, autre(s), Clustering, Regression.
+
+          J'ai essayé de proposer des taches avec des niveaux de difficultés différents, et dans des domaines variés... Tout le monde est bienvenu !
+
+          La première journée permettra avant tout de se connaître et de vous faire connaître l'application (vous pouvez voir le code source : https://bitbucket.org/thomas_a/maplearn/), choisir quelles propositions vous intéressent le plus, et bidouiller... Après un debrief informel le soir.
+
+            Alban THOMAS a commencé sa carrière dans les domaines du SIG et de la télédétection. Il a développé des compétences en programmation pour répondre aux besoins de ces projets et aussi par
+            envie. Son poste actuel d’ingénieur d’étude en cartographie à l’UMR LETG Rennes-COSTEL (Climat et Occupation du Sol par Télédétection) lui permet de travailler avec des géographes, avec
+            ou sans connaissance en télédétection et des informaticiens en traitements du signal.</div>
+
+            <div class="title" id="Développement de Nova-Ideo">Développement de Nova-Ideo</div>
+            <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
 
           <div class="title" id="passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</div>
           <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est remplie par des utilisateurs indiciplinés à parvenir à une fiche totalement normée en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. (fichiers exemples disponibles) en utilisant python soit en macro, soit en programme externe sous windows (portage possible sous linux, normalement)</div>
 
-          <div class="title" id="Sprint Nagare">Sprint Nagare</div>
-          <div class="description">Sprint sur les 2 jours.
+            <div class="title" id="Sprint Nagare">Sprint Nagare</div>
+            <div class="description">Sprint sur les 2 jours.
           Développements autour du framework web open-source Nagare (www.nagare.org).
           Selon la demande :
             - correction de bugs et évolution de Nagare
