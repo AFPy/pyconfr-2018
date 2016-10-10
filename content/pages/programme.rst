@@ -228,7 +228,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">11h50-12h15</td>
           <td class="short"><div class="title"><a href="programme.html#Outils d'analyse statique">Outils d'analyse statique</a></div><div class="person"><a href="intervenants.html#Cyril Roelandt">Cyril Roelandt</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Rust">Rust</a></div><div class="person"><a href="intervenants.html#Leo Testard">Leo Testard</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</a></div><div class="person"><a href="intervenants.html#Lionel Porcheron">Lionel Porcheron</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</a></div><div class="person"><a href="intervenants.html#Lionel Porcheron">Lionel Porcheron</a> et <a href="intervenants.html#Pierre Fersing">Pierre Fersing</a></div></td>
         </tr>
 
         <tr>
