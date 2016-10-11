@@ -660,7 +660,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
           <div class="title" id="Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</div>
           <div class="description">Organiser une conférence sur Python peut paraître bien difficile. Nous ne cacherons pas que c'est un évènement qui nécessite du travail, mais ce ne doit pas effrayer de futurs candidats.
-          Dans cet exposé, nous essaierons de présenter quelles sont les tâches à réaliser pour organiser une bonne PyConFr mais aussi les ornières qu'on a pu rencontrer au cours des trois dernières années, les atouts et aussi les bonnes idées.
+          Dans cet exposé, nous essaierons de présenter quelles sont les tâches à réaliser pour organiser une bonne PyConFr mais aussi les difficultés qu'on a pu rencontrer au cours des trois dernières années, les atouts et aussi les bonnes idées.
           Tout ça pour commencer à poser les pierres de PyConFr 2017 ?</div>
 
           <div class="title" id="Python et secondes intercalaires">Python et secondes intercalaires</div>
