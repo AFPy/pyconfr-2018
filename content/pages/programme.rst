@@ -11,7 +11,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
 
   <div id="sprints" class="section sprints">
-      <h2>Jeudi 13 octobre</h2>
+      <h2>Jeudi 13 octobre de 9h à 17h30</h2>
       <h3>Sprints</h3>
       <ul>
           <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
@@ -34,7 +34,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
   </div>
 
   <div class="section sprints">
-      <h2>Vendredi 14 octobre</h2>
+      <h2>Vendredi 14 octobre de 9h à 17h30</h2>
       <h3>Sprints</h3>
       <ul>
           <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
