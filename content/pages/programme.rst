@@ -266,7 +266,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h45-16h10</td>
           <td class="short"><div class="title"><a href="programme.html#Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</a></div><div class="person"><a href="intervenants.html#Pierre Bousquié">Pierre Bousquié</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Informatique musicale : créer un séquenceur pas-à-pas avec Python">Informatique musicale : créer un séquenceur pas-à-pas avec Python</a></div><div class="person"><a href="intervenants.html#Yann Gravrand">Yann Gravrand</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#How Python influences JavaScript">How Python influences JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Créer son API avec Django REST framework">Créer son API avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Evaluating Topic Models through python">Evaluating Topic Models through python</a></div><div class="person"><a href="intervenants.html#Devashish Deshpande">Devashish Deshpande</a></div></td>
         </tr>
@@ -735,7 +735,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
               * pyshop : permet d'avoir un repository local. Ne respecte pas la PEP 503, ne permet pas de gérer les permissions, backend sqlite bancal
               * devpi : fonctionne très bien, mais usine à gaz (documentation austère et complexe)
               * virtualenv : --relocatable qui ne fonctionne pas, rendant plus complexe les déploiements</div>
-            <div class="title" id="L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</div><div class="description">Dans sa forme moderne, le langage JavaScript propose des fonctionnalités issues de Python : protocole d'itération, générateurs et décorateurs. Nous allons revoir ces mécanismes typiquement pythoniques et montrer comment ils sont mis en œuvre dans JavaScript.</div>
+            <div class="title" id="How Python influences JavaScript">How Python influences JavaScript</div><div class="description">Modern JavaScript offers several key features that have been heavily influenced
+            by Python: iteration protocols, generators and decorators. We'll review these typically
+            pythonic mechanisms and see how they're applied to JavaScript.</div>
 
 
             <div class="title" id="Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</div><div class="description">Afin d'aider la communauté à gérer proprement ses packages, la PSF, à travers la PEP427, à instauré en 2012/2013 le format de packaging Wheel.
