@@ -56,7 +56,10 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 	  <p>Poulet sauté au gingembre avec des légumes / riz japonais + multi-céréales / Gâteau au Yuzu-citron</p>
 
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
-      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au <a href="http://www.openstreetmap.org/node/4225477489#map=15/48.1081/-1.6479">restaurant La Mie Mobile</a>, avec repas (moules frites), boissons (<a href="http://www.vieuxsinge.com/">Brasserie du Vieux Singe</a>, <a href="http://www.brasseriedelombre.com/">Brasserie de l'Ombre</a>), de la musique live (CubaNoz) et un conteur (Samuel Genin)! Début des festivités à 19h.
+      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au <a href="http://www.openstreetmap.org/node/4225477489#map=15/48.1081/-1.6479">restaurant La Mie Mobile</a>, avec repas (moules frites), boissons (<a href="http://www.vieuxsinge.com/">Brasserie du Vieux Singe</a>, <a href="http://www.brasseriedelombre.com/">Brasserie de l'Ombre</a>), de la musique live (<a href="https://www.facebook.com/thecubanoz">CubaNoz</a>) et un conteur (Samuel Genin)! Début des festivités à 19h.
+      <br/>
+      <br/>
+      <img src="../images/cubanoz.jpg" style="height: 400px">
   </div>
 
   <div class="section confs">
