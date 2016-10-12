@@ -92,7 +92,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="short"><div class="title"><a href="programme.html#Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</a></div><div class="person"><a href="intervenants.html#maha mdini">maha mdini</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#GAST, daou naer - AST pour Python 2 et 3">GAST, daou naer - AST pour Python 2 et 3</a></div><div class="person"><a href="intervenants.html#Serge « sans paille » Guelton">Serge « sans paille » Guelton</a></div></td>
           <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</a></div><div class="person"><a href="intervenants.html#Romuald Texier-Marcadé">Romuald Texier-Marcadé</a></div></td>
-          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
+          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
         </tr>
         <tr>
           <td class="slot">10h30-10h55</td>
@@ -124,7 +124,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#PyPy: Python faster than Python">PyPy: Python faster than Python</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
-          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
+          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
         </tr>
         <tr>
           <td class="slot">14h35-15h</td>
