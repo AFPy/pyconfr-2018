@@ -246,7 +246,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">14h35-15h</td>
           <td class="short"><div class="title"><a href="programme.html#Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</a></div><div class="person"><a href="intervenants.html#Alain Poirier">Alain Poirier</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Interopérabilité Python/C++ pour la motion capture et l'animation faciale">Interopérabilité Python/C++ pour la motion capture et l'animation faciale</a></div><div class="person"><a href="intervenants.html#Nicolas Stoiber et Vincent Barrielle">Nicolas Stoiber et Vincent Barrielle</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
         </tr>
         <tr>
           <td class="slot">15h05-15h30</td>
@@ -266,7 +266,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h45-16h10</td>
           <td class="short"><div class="title"><a href="programme.html#Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</a></div><div class="person"><a href="intervenants.html#Pierre Bousquié">Pierre Bousquié</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Informatique musicale : créer un séquenceur pas-à-pas avec Python">Informatique musicale : créer un séquenceur pas-à-pas avec Python</a></div><div class="person"><a href="intervenants.html#Yann Gravrand">Yann Gravrand</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Créer son API avec Django REST framework">Créer son API avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Evaluating Topic Models through python">Evaluating Topic Models through python</a></div><div class="person"><a href="intervenants.html#Devashish Deshpande">Devashish Deshpande</a></div></td>
         </tr>
