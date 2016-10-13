@@ -17,7 +17,7 @@ Sur le Campus
 
 - `Rechercher un AirBNB`_
 - Les locaux de Télécom Bretagne se situent à mi-chemin entre `Le Campanile de Rennes Atalante`_ et `L'Ibis de Rennes Beaulieu`_
-- La ville de Rennes met à disposition `Hisséo`_, son hôtel bon marché (à partir de 18€ la nuit), pour la conférence. Si vous avez un budget réduit, n'hésitez pas à réserver en disant que vous venez pour la PyCon-FR **à priori désormais complet, appelez pour en avoir le cœur net**. 
+- La ville de Rennes met à disposition `Hisséo`_, son hôtel bon marché (à partir de 18€ la nuit), pour la conférence. Si vous avez un budget réduit, n'hésitez pas à réserver en disant que vous venez pour la PyCon-FR **Il reste encore des places pour le 14, 15 et 16 Octobre**. 
 
 .. _`Rechercher un AirBNB`: https://www.airbnb.fr/s/Rue-de-la-Ch%C3%A2taigneraie--Cesson~S%C3%A9vign%C3%A9?checkin=13%2F10%2F2016&checkout=16%2F10%2F2016
 
