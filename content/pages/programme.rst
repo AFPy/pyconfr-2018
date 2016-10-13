@@ -56,7 +56,10 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 	  <p>Poulet sauté au gingembre avec des légumes / riz japonais + multi-céréales / Gâteau au Yuzu-citron</p>
 
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
-      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au <a href="http://www.openstreetmap.org/node/4225477489#map=15/48.1081/-1.6479">restaurant La Mie Mobile</a>, avec repas (moules frites), boissons (<a href="http://www.vieuxsinge.com/">Brasserie du Vieux Singe</a>, <a href="http://www.brasseriedelombre.com/">Brasserie de l'Ombre</a>), de la musique live (CubaNoz) et un conteur (Samuel Genin)! Début des festivités à 19h.
+      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au <a href="http://www.openstreetmap.org/node/4225477489#map=15/48.1081/-1.6479">restaurant La Mie Mobile</a>, avec repas (moules frites), boissons (<a href="http://www.vieuxsinge.com/">Brasserie du Vieux Singe</a>, <a href="http://www.brasseriedelombre.com/">Brasserie de l'Ombre</a>), de la musique live (<a href="https://www.facebook.com/thecubanoz">CubaNoz</a>) et un conteur (Samuel Genin)! Début des festivités à 19h.
+      <br/>
+      <br/>
+      <img src="../images/cubanoz.jpg" style="height: 400px">
   </div>
 
   <div class="section confs">
@@ -92,7 +95,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="short"><div class="title"><a href="programme.html#Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</a></div><div class="person"><a href="intervenants.html#maha mdini">maha mdini</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#GAST, daou naer - AST pour Python 2 et 3">GAST, daou naer - AST pour Python 2 et 3</a></div><div class="person"><a href="intervenants.html#Serge « sans paille » Guelton">Serge « sans paille » Guelton</a></div></td>
           <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</a></div><div class="person"><a href="intervenants.html#Romuald Texier-Marcadé">Romuald Texier-Marcadé</a></div></td>
-          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
+          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
         </tr>
         <tr>
           <td class="slot">10h30-10h55</td>
@@ -124,7 +127,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#PyPy: Python faster than Python">PyPy: Python faster than Python</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
-          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
+          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
         </tr>
         <tr>
           <td class="slot">14h35-15h</td>
@@ -246,7 +249,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">14h35-15h</td>
           <td class="short"><div class="title"><a href="programme.html#Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</a></div><div class="person"><a href="intervenants.html#Alain Poirier">Alain Poirier</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Interopérabilité Python/C++ pour la motion capture et l'animation faciale">Interopérabilité Python/C++ pour la motion capture et l'animation faciale</a></div><div class="person"><a href="intervenants.html#Nicolas Stoiber et Vincent Barrielle">Nicolas Stoiber et Vincent Barrielle</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
         </tr>
         <tr>
           <td class="slot">15h05-15h30</td>
@@ -266,7 +269,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h45-16h10</td>
           <td class="short"><div class="title"><a href="programme.html#Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</a></div><div class="person"><a href="intervenants.html#Pierre Bousquié">Pierre Bousquié</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Informatique musicale : créer un séquenceur pas-à-pas avec Python">Informatique musicale : créer un séquenceur pas-à-pas avec Python</a></div><div class="person"><a href="intervenants.html#Yann Gravrand">Yann Gravrand</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#How Python influences JavaScript">How Python influences JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Créer son API avec Django REST framework">Créer son API avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Evaluating Topic Models through python">Evaluating Topic Models through python</a></div><div class="person"><a href="intervenants.html#Devashish Deshpande">Devashish Deshpande</a></div></td>
         </tr>
@@ -735,7 +738,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
               * pyshop : permet d'avoir un repository local. Ne respecte pas la PEP 503, ne permet pas de gérer les permissions, backend sqlite bancal
               * devpi : fonctionne très bien, mais usine à gaz (documentation austère et complexe)
               * virtualenv : --relocatable qui ne fonctionne pas, rendant plus complexe les déploiements</div>
-            <div class="title" id="L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</div><div class="description">Dans sa forme moderne, le langage JavaScript propose des fonctionnalités issues de Python : protocole d'itération, générateurs et décorateurs. Nous allons revoir ces mécanismes typiquement pythoniques et montrer comment ils sont mis en œuvre dans JavaScript.</div>
+            <div class="title" id="How Python influences JavaScript">How Python influences JavaScript</div><div class="description">Modern JavaScript offers several key features that have been heavily influenced
+            by Python: iteration protocols, generators and decorators. We'll review these typically
+            pythonic mechanisms and see how they're applied to JavaScript.</div>
 
 
             <div class="title" id="Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</div><div class="description">Afin d'aider la communauté à gérer proprement ses packages, la PSF, à travers la PEP427, à instauré en 2012/2013 le format de packaging Wheel.
