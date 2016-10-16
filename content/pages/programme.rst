@@ -10,8 +10,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 .. raw:: html
 
 
-  <div class="section sprints">
-      <h2>Jeudi 13 octobre</h2>
+  <div id="sprints" class="section sprints">
+      <h2>Jeudi 13 octobre de 9h à 17h30</h2>
       <h3>Sprints</h3>
       <ul>
           <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
@@ -19,17 +19,22 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
+          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèques Sans Frontières</a>)</a></li>
+          <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
+	  <h3>Déjeuner</h3>
+	  <p>Curry de légumes de saison / riz japonais / Gâteau aux poires & raisins</p>
   </div>
 
   <div class="section sprints">
-      <h2>Vendredi 14 octobre</h2>
+      <h2>Vendredi 14 octobre de 9h à 17h30</h2>
       <h3>Sprints</h3>
       <ul>
           <li><a href="#Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</a> (<a href="intervenants.html#Sylvain Zimmer">Sylvain Zimmer</a>)</li>
@@ -37,16 +42,24 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <li><a href="#Développement de Nova-Ideo">Développement de Nova-Ideo</a> (<a href="intervenants.html#L'équipe d'Ecréall">L'équipe d'Ecréall</a>)</li>
           <li><a href="#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a> (<a href="intervenants.html#Alban Thomas">Alban Thomas</a>)</li>
           <li><a href="#Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
-          <li><a href="#passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
-          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a>)</li>
+          <li><a href="#passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</a> (<a href="intervenants.html#zebadboy99">zebadboy99</a>)</li>
+          <li><a href="#RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY </a> (<a href="intervenants.html#Feth AREZKI">Feth AREZKI</a> et <a href="intervenants.html#Jonathan Schemoul">Jonathan Schemoul</a>)</li>
           <li><a href="#Rafraîchissement de memopol.org">Rafraîchissement de memopol.org</a> (<a href="intervenants.html#James Pic">James Pic</a>)</li>
           <li><a href="#Sprint laboîte STAR">Sprint laboîte STAR</a></li>
           <li><a href="#Sprint Nagare">Sprint Nagare (<a href="intervenants.html#Alain Poirier">Alain Poirier</a>)</a></li>
           <li><a href="#SPRINT DJANGO-COMPATIBILITY">SPRINT DJANGO-COMPATIBILITY (<a href="intervenants.html#Pascal Chambon">Pascal Chambon</a>)</a></li>
+          <li><a href="#SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation (<a href="intervenants.html#BSF">Bibliothèque Sans Frontière</a>)</a></li>
+          <li><a href="#SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</a> (<a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a>)</a></li>
+          <li><a href="#Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</a> (Philippe Lechat & Laurence Giuliani)</li>
       </ul>
+	  <h3>Déjeuner</h3>
+	  <p>Poulet sauté au gingembre avec des légumes / riz japonais + multi-céréales / Gâteau au Yuzu-citron</p>
+
       <h3 id="Soirée d'ouverture">Soirée d'ouverture</h3>
-      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au restaurant La Mie Mobile, avec repas,
-      boissons, musique live et conteurs !
+      Le vendredi soir, une soirée d'ouverture conviviale vous est proposée au <a href="http://www.openstreetmap.org/node/4225477489#map=15/48.1081/-1.6479">restaurant La Mie Mobile</a>, avec repas (moules frites), boissons (<a href="http://www.vieuxsinge.com/">Brasserie du Vieux Singe</a>, <a href="http://www.brasseriedelombre.com/">Brasserie de l'Ombre</a>), de la musique live (<a href="https://www.facebook.com/thecubanoz">CubaNoz</a>) et un conteur (Samuel Genin)! Début des festivités à 19h.
+      <br/>
+      <br/>
+      <img src="../images/cubanoz.jpg" style="height: 400px">
   </div>
 
   <div class="section confs">
@@ -62,11 +75,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
@@ -82,12 +95,12 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="short"><div class="title"><a href="programme.html#Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</a></div><div class="person"><a href="intervenants.html#maha mdini">maha mdini</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#GAST, daou naer - AST pour Python 2 et 3">GAST, daou naer - AST pour Python 2 et 3</a></div><div class="person"><a href="intervenants.html#Serge « sans paille » Guelton">Serge « sans paille » Guelton</a></div></td>
           <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Introduction aux algorithmes d'apprentissage machine">Introduction aux algorithmes d'apprentissage machine</a></div><div class="person"><a href="intervenants.html#Romuald Texier-Marcadé">Romuald Texier-Marcadé</a></div></td>
-          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
+          <td class="workshop" rowspan="4"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
         </tr>
         <tr>
           <td class="slot">10h30-10h55</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</a></div><div class="person"><a href="intervenants.html#Ludovic Gasc">Ludovic Gasc</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</a></div><div class="person"><a href="intervenants.html#Ludovic VAUGEOIS">Ludovic VAUGEOIS</a></div></td>
         </tr>
         <tr>
@@ -105,7 +118,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
@@ -114,7 +127,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="long"><div class="title"><a href="programme.html#Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</a></div><div class="person"><a href="intervenants.html#Vincent Dejouy">Vincent Dejouy / Pierre Sutter</a></div></td>
           <td class="long"><div class="title"><a href="programme.html#PyPy: Python faster than Python">PyPy: Python faster than Python</a></div><div class="person"><a href="intervenants.html#Ronan Lamy">Ronan Lamy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Key Signing Party">Key Signing Party</a></div><div class="person"><a href="intervenants.html#Pablo SEMINARIO">Pablo SEMINARIO</a></div></td>
-          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</a></div><div class="person"><a href="intervenants.html#Gabriel Pettier">Gabriel Pettier</a></div></td>
+          <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Programmer un robot mobile en python">Programmer un robot mobile en python</a></div><div class="person"><a href="intervenants.html#Mace Robotics">Mace Robotics</a></div></td>
         </tr>
         <tr>
           <td class="slot">14h35-15h</td>
@@ -125,7 +138,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
         <tr>
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</a></div><div class="person"><a href="intervenants.html#Georges Bossert">Georges Bossert</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</a></div><div class="person"><a href="intervenants.html#Alban Thomas">Alban Thomas</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</a></div><div class="person"><a href="intervenants.html#Sahil Dua">Sahil Dua</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</a></div><div class="person"><a href="intervenants.html#Michael Scherer">Michael Scherer</a></div></td>
         </tr>
 
@@ -178,11 +191,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <table class="programme">
         <tr>
           <th></th>
-          <th>Track #1</th>
-          <th>Track #2</th>
-          <th>Track #3</th>
-          <th>Ateliers #1</th>
-          <th>Ateliers #2</th>
+          <th>Track #1 :<br>KOUIGN AMANN</th>
+          <th>Track #2 :<br>KRAMPOUEZH</th>
+          <th>Track #3 :<br>FAR BRETON</th>
+          <th>Ateliers #1 :<br>CHOUCHENN</th>
+          <th>Ateliers #2 :<br>CIDRE BRETON</th>
         </tr>
         <tr>
           <td class="slot">9h-9h30</td>
@@ -217,12 +230,12 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">11h50-12h15</td>
           <td class="short"><div class="title"><a href="programme.html#Outils d'analyse statique">Outils d'analyse statique</a></div><div class="person"><a href="intervenants.html#Cyril Roelandt">Cyril Roelandt</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Rust">Rust</a></div><div class="person"><a href="intervenants.html#Leo Testard">Leo Testard</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</a></div><div class="person"><a href="intervenants.html#Lionel Porcheron">Lionel Porcheron</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</a></div><div class="person"><a href="intervenants.html#Lionel Porcheron">Lionel Porcheron</a> et <a href="intervenants.html#Pierre Fersing">Pierre Fersing</a></div></td>
         </tr>
 
         <tr>
           <td class="slot">12h15-13h45</td>
-          <td class="break" colspan="5">Pause déjeuner</td>
+          <td class="break" colspan="5">Pause déjeuner - Food Trucks (Burger / Pizza / Crèpes Bretonnes)</td>
         </tr>
 
         <tr>
@@ -236,13 +249,15 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">14h35-15h</td>
           <td class="short"><div class="title"><a href="programme.html#Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</a></div><div class="person"><a href="intervenants.html#Alain Poirier">Alain Poirier</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Interopérabilité Python/C++ pour la motion capture et l'animation faciale">Interopérabilité Python/C++ pour la motion capture et l'animation faciale</a></div><div class="person"><a href="intervenants.html#Nicolas Stoiber et Vincent Barrielle">Nicolas Stoiber et Vincent Barrielle</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
         </tr>
         <tr>
           <td class="slot">15h05-15h30</td>
           <td class="short double-short"><div class="title"><a href="programme.html#Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</a></div><div class="person"><a href="intervenants.html#Romain Touzé">Romain Touzé</a></div></td>
           <td class="short double-short"><div class="title"><a href="programme.html#Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</a></div><div class="person"><a href="intervenants.html#Emmanuel Julien">Emmanuel Julien</a></div></td>
-          <td class="short double-short"><div class="title"><a href="programme.html#An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</a></div><div class="person"><a href="intervenants.html#Manoj Pandey">Manoj Pandey</a></div></td>
+          <td class="short double-short"><div class="title"><a href="programme.html#Jolies Métriques : Coordonner Python et Zabbix">Jolies Métriques : Coordonner Python et Zabbix</a></div>
+          <div class="person"><a href="intervenants.html#Alain Devarieux">Alain Devarieux</a></div>
+          </td>
         </tr>
 
         <tr>
@@ -254,7 +269,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <td class="slot">15h45-16h10</td>
           <td class="short"><div class="title"><a href="programme.html#Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</a></div><div class="person"><a href="intervenants.html#Pierre Bousquié">Pierre Bousquié</a></div></td>
           <td class="short"><div class="title"><a href="programme.html#Informatique musicale : créer un séquenceur pas-à-pas avec Python">Informatique musicale : créer un séquenceur pas-à-pas avec Python</a></div><div class="person"><a href="intervenants.html#Yann Gravrand">Yann Gravrand</a></div></td>
-          <td class="short"><div class="title"><a href="programme.html#Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
+          <td class="short"><div class="title"><a href="programme.html#How Python influences JavaScript">How Python influences JavaScript</a></div><div class="person"><a href="intervenants.html#Alex Marandon">Alex Marandon</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Créer son API avec Django REST framework">Créer son API avec Django REST framework</a></div><div class="person"><a href="intervenants.html#Xavier Ordoquy">Xavier Ordoquy</a></div></td>
           <td class="workshop" rowspan="3"><div class="title"><a href="programme.html#Evaluating Topic Models through python">Evaluating Topic Models through python</a></div><div class="person"><a href="intervenants.html#Devashish Deshpande">Devashish Deshpande</a></div></td>
         </tr>
@@ -282,7 +297,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <h2>Liste complète des interventions</h2>
 
           <div class="title" id="Contribution a CPython">Contribution a CPython</div>
-          <div class="description">Avec l'aide de contributeurs CPython, ce sprint propose de contributer a CPython en fixant des bugs faciles d'acces. Cela permettra a nos amis sprinters de montrer le chemin pour devenir un contributeur de CPython.
+          <div class="description">Avec l'aide de contributeurs à CPython, ce sprint propose de contributer à CPython en corrigeant des bogues faciles d'accès. Cela permettra a nos amis sprinters de montrer le chemin pour devenir un contributeur de CPython.
           </div>
 
           <div class="title" id="RD autour de mesures environnementales DIY">R&amp;D autour de mesures environnementales DIY</div>
@@ -293,8 +308,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Intéressé par le sujet ? Nous avons besoin de vous pour effectuer des relevés, pour réfléchir, pour coder !</div>
 
           <div class="title" id="Rafraîchissement de memopol.org">Rafraîchissement de memopol.org </div>
-          <div class="description">Comme vous le savez peut-être, le site du projet Memopol est aussi bien Open Source que l'outil de Mémoire Politique utilisé par certains lobbies citoyens. C'est un projet en Pelican sur github.com/political-memory/blog-memopol qui aurait besoin d'être mit à jour autant coté contenu, que traduction, design, déploiement et marketing. Bref, qu'on comprenne de quoi diable il s'agit sans y passer trois heures en temps que visiteur lambda.
-          Je serais à votre disposition pour aider les sprinteurs du développement en local jusqu'au déploiement en prod que tout contributeur doit faire pour chacun de ses patches dans la plus bleeding edge de la pratique de la livraisons continue ou encore d'un l'authentique blues du bayou.</div>
+          <div class="description">Comme vous le savez peut-être, le site du projet Memopol est aussi bien Open Source que l'outil de Mémoire Politique utilisé par certains lobbies citoyens. C'est un projet en Pelican sur github.com/political-memory/blog-memopol qui aurait besoin d'être mis à jour autant coté contenu, que traduction, design, déploiement et marketing. Bref, qu'on comprenne de quoi diable il s'agit sans y passer trois heures en tant que visiteur lambda.
+          Je (James Pic) serai à votre disposition pour aider les sprinteurs du développement en local jusqu'au déploiement en production que tout contributeur doit faire pour chacun de ses patches dans la plus bleeding edge de la pratique de la livraison continue ou encore d'un authentique blues du bayou.</div>
 
           <div class="title" id="Common Search: un nouveau moteur de recherche open source et transparent">Common Search: un nouveau moteur de recherche open source et transparent</div>
           <div class="description">Common Search est un nouveau projet open source écrit principalement en Python, qui vise à créer un moteur de recherche entièrement ouvert et transparent.
@@ -303,37 +318,41 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Le mainteneur du projet Sylvain Zimmer sera présent pour aider les gens de tous les niveaux à faire leur première contribution. Grâce à des images Docker toutes prêtes et une liste d'issues sur GitHub bien remplie, vous pourrez envoyer votre première Pull Request en moins d'une heure !</div>
 
           <div class="title" id="Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</div>
-          <div class="description">TechEmpower Benchmarks suite essaie de comparer 162 frameworks Web pour faire des APIs REST/JSON: https://www.techempower.com/benchmarks/
+          <div class="description"><a href="https://www.techempower.com/benchmarks/">TechEmpower Benchmarks suite</a> essaie de comparer 162 frameworks Web pour faire des APIs REST/JSON.
           AsyncIO et sa boite à outils participent à ce benchmark, en particulier aiohttp.
           Depuis que la suite de tests a été implémenté, de nouveaux outils sont apparus (uvloop, asyncpg, compatibilité AsyncIO pour cython...) qui devraient améliorer les performances, qui sont déjà intéressantes.
           Si vous voulez aider, ou que vous êtes un simple curieux de comment améliorer les performances en Python, ce sprint est fait pour vous.
           De plus, si vous êtes intéressé à rajouter ou améliorer les performances de frameworks construits avec d'autres technologies qu'AsyncIO et Python, je peux également vous aider comment commencer.</div>
 
           <div class="title" id="Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</div>
-          <div class="description">Mapping Learning est à la fois une application et projet éducatif, et présente deux objectifs :
-          - faciliter l’accès aux méthodes évoluées d'apprentissage statistique par des non-informaticiens
-          - amener des étudiants en géographie, en informatique... à contribuer au développement d’une
-          application open-source.
-          Notre volonté est d’assister les utilisateurs dans leurs taches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) en leur donnant accès à un
-          grand nombre d'algorithmes (ex : 19 méthodes de classifications supervisées) peu disponibles dans les logiciels « utilisateurs ». Les utilisateurs/développeurs de méthodes de Machine Learning
-          bénéficieront, quant à eux, d’une manipulation aisée des données géographiques (images ou vectorielles) et pourront y ajouter leurs algorithmes. L’application réalise les principales étapes de
-          manipulation de données (spatialisées ou non) : réduction de dimension, cross-validation, apprentissage, post-traitements. Enfin, elle livre un compte-rendu standardisé et agrémenté de
-          conseils sur l'utilisation optimale des méthodes.
-          Mapping Learning réunit trois grandes librairies open-source : gdal/ogr (données géographiques), pandas et scikit-learn (machine learning). Plusieurs de nos étudiants utilisent déjà l’application,
-          dans une phase initiale de développement, sur leurs jeux de données. Notre ambition est d'assurer la pérennité de ce projet et nous conclurons en invitant toutes les personnes intéressées à nous
-          rejoindre.
-          Alban THOMAS a commencé sa carrière dans les domaines du SIG et de la télédétection. Il a développé des compétences en programmation pour répondre aux besoins de ces projets et aussi par
-          envie. Son poste actuel d’ingénieur d’étude en cartographie à l’UMR LETG Rennes-COSTEL (Climat et Occupation du Sol par Télédétection) lui permet de travailler avec des géographes, avec
-          ou sans connaissance en télédétection et des informaticiens en traitements du signal.</div>
+          <div class="description">
+          Mapping Learning est à la fois une application et un projet éducatif. Notre volonté est d’assister les utilisateurs dans leurs taches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) et de faciliter les échanges entre les méthodes de machine learning et ses applications (télédétection en particulier).
 
-          <div class="title" id="Développement de Nova-Ideo">Développement de Nova-Ideo</div>
-          <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
+          Ci-dessous, ma liste au père Noël :
 
-          <div class="title" id="passer d'une fiche bordel à une fiche au cordeau">passer d'une fiche bordel à une fiche "au cordeau"</div>
-          <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est rempli par des utilisateurs indiciplinés à parvenir à une fiche totalement normé en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. ( fichiers exemples disponibles ) en utilisant python soit en macro, soit en programme externe sous windows ( portage possible sous linux, normalement )</div>
+          - Portage vers Python 3
+          - Documentation du projet (sphinx)
+          - Faciliter déploiement : création d'un fichier setup.py
+          - Base de connaissances : créer un prototype et tester exécution d'un test stocké dans bdd
+          - Développement interface (CLI, Prototype de GUI, Prototype d'interface Web, Test de Junyper)
+          - Choix et implémentation statistiques (cf. scikit) pour : classification : ROC Curve, autre(s), Clustering, Regression.
 
-          <div class="title" id="Sprint Nagare">Sprint Nagare</div>
-          <div class="description">Sprint sur les 2 jours.
+          J'ai essayé de proposer des taches avec des niveaux de difficultés différents, et dans des domaines variés... Tout le monde est bienvenu !
+
+          La première journée permettra avant tout de se connaître et de vous faire connaître l'application (vous pouvez voir le code source : https://bitbucket.org/thomas_a/maplearn/), choisir quelles propositions vous intéressent le plus, et bidouiller... Après un debrief informel le soir.
+
+            Alban THOMAS a commencé sa carrière dans les domaines du SIG et de la télédétection. Il a développé des compétences en programmation pour répondre aux besoins de ces projets et aussi par
+            envie. Son poste actuel d’ingénieur d’étude en cartographie à l’UMR LETG Rennes-COSTEL (Climat et Occupation du Sol par Télédétection) lui permet de travailler avec des géographes, avec
+            ou sans connaissance en télédétection et des informaticiens en traitements du signal.</div>
+
+            <div class="title" id="Développement de Nova-Ideo">Développement de Nova-Ideo</div>
+            <div class="description">Nova-Ideo est une solution d'innovation participative et de démocratie participative écrite en python avec le framework Pyramid, le tout sous licence AGPL. Nous proposons de réaliser un sprint permettant à tous de comprendre comment il est fait et de pouvoir le faire évoluer.</div>
+
+            <div class="title" id="passer d'une fiche incohérente à une fiche au cordeau">passer d'une fiche incohérente à une fiche "au cordeau"</div>
+            <div class="description">Je cherche à partir d'une fiche dont la trame est sous libreoffice calc mais qui est remplie par des utilisateurs indiciplinés à parvenir à une fiche totalement normée en passant par un tableau recapitulatif qui serait une alternative à une gestion de base de données. ( fichiers exemples disponibles ) en utilisant python soit en macro, soit en programme externe sous windows ( portage possible sous linux, normalement )</div>
+
+            <div class="title" id="Sprint Nagare">Sprint Nagare</div>
+            <div class="description">Sprint sur les 2 jours.
           Développements autour du framework web open-source Nagare (www.nagare.org).
           Selon la demande :
             - correction de bugs et évolution de Nagare
@@ -397,6 +416,37 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
                     Pré-requis : connaissance intermédiaire de Python et Django, et un IDE en état de marche</div>
 
+          <div class="title" id="SPRINT BSF">Ideascube, un logiciel pour favoriser l'accès à l'information et à l'éducation</div>
+          <div class="description">
+		  BSF est une ONG qui s'est donné pour mandat l'accès à l'éducation et à l'information. L'objectif de BSF est de donner aux populations – en particulier les plus vulnérables – des outils pour comprendre le monde et le transformer. Parmi ceux-ci, l'Ideas box et le KoomBook, deux dispositifs qui utilisent des technologies libres (on parle vraiment de changer le monde) pour donner accès à plusieurs milliers de ressources numériques (vidéos, epub, films, Moocs, sites web).
+
+		  <a href="https://github.com/ideascube/ideascube">Ideascube</a> est le logiciel commun aux projets KoomBook et IdeasBox. Il permet d'embarquer des ressources numériques offline et d'y donner accès (un peu comme une pirate box) y compris dans des contexte où Internet n'est pas accessible. Ideascube permettra à terme à toute machine qui le fera tourner d'accéder à un catalogue de ressources libres, accessible en ligne et consultable en mode déconnecté.
+
+		  État des lieux, déploiement, développements futurs. Avec des bouts de python (django) et de connexion asynchrone dedans.
+
+		  <strong>Qui</strong>
+		  <ul><li>Grégoire Pouget (barbayellow)</li><li>Mathieu Bridon (bochecha)</li><li>Matthieu Gautier (starmad)</li><li>Steven (Steven)</li></ul>
+
+		  <strong>Objectifs et sujets sur lesquels on souhaite être épaulés</strong>
+		  <ul><li>Analyse des logs ideascube</li><li>Reverse engineering de la recette du coca-cola</li><li>Meilleure administration du serveur (wifi, services, ...) via Cockpit?</li><li>Comment développer l'aspect UX pour des personnes pas nécessairement sensibilisées au numérique? +1 !</li><li>Développer une interface web front qui permettrait aux liseuses d'accéder à ideascube et directement aux ressources qui les concernent (epubs) Il y a en général 50 liseuses par box, avec des livres préchargés</li></ul>
+		  </div>
+
+          <div class="title" id="Développement d’un outil de géolocalisation pour une balade sonore">Développement d’un outil de géolocalisation pour une balade sonore</div>
+          <div class="description">SonoPluie est une balade sonore en parapluie géolocalisé.
+            Il s’agit de proposer à des promeneurs un cheminement libre qui fasse coïncider leur environnement direct avec des pistes sonores, en temps réel.
+            Le proto tourne sous python sur carte raspberry, il manque cependant beaucoup de fonctionnalité pour anticiper, prévenir et répondre aux divers comportements du visiteur.
+            A l’aide d’un prototype fonctionnel, le développement pourra être testé tout au long des deux jours du sprint.
+
+            La participation au sprint pourra se faire au long cours sur les deux jours, ou à la « micro-tâche » sur des points précis identifiés en amont.
+
+            Les jeudi 13 & vendredi 14/10
+            Référents projet : Philippe Lechat & Laurence Giuliani
+            </div>
+
+
+          <div class="title" id="SPRINT PANORAMISK">Mise à jour de Panoramisk, binding Asterisk (AMI+FastAGI) en AsyncIO</div>
+          <div class="description"><a href="https://fr.wikipedia.org/wiki/Asterisk_(logiciel)">Asterisk</a> est un serveur de téléphonie opensource, <a href="https://github.com/gawel/panoramisk">Panoramisk</a> permet d'intéragir en Python+AsyncIO via les APIs propres à Asterisk (AMI+FastAGI).<br /><br />Avec l'aide de <a href="https://github.com/gawel">Gawel</a> qui sera accessible par téléphone uniquement afin de rester dans le contexte, nous allons <b>tenter</b>:<ul><li>Merger la dernière pull request en cours de <a href="https://github.com/gawel/panoramisk">Panoramisk</a> en cherchant un consensus et rajoutant les tests manquants</li><li>Fermer les issues en cours</li><li>Discuter d'<a href="https://wiki.asterisk.org/wiki/pages/viewpage.action?pageId=29395573">ARI</a> (les nouvelles APIs REST/JSON d'Asterisk) et voir les synergies que nous pourrions avoir avec le <a href="https://github.com/asterisk/ari-py">binding Python officiel</a></li><li>Éventuellement de faire un benchmark différentiel avec <a href="https://github.com/MagicStack/uvloop">uvloop</a> activé ou non et voir s'il y aurait des pistes d'améliorations, notamment en regardant dans d'autres implémentations de binding.</li><li>Et peut-être même (soyons fous!) sortir une nouvelle release</li></ul></div>
+
           <div class="title" id="Key Signing Party">Key Signing Party</div>
           <div class="description">Les rassemblements IRL de la communauté Python sont la meilleure occasion pour profiter de signer nos clés GPG par nos pairs et comme ça renforcer la toile de confiance (Web of Trust[1]) nécessaire pour améliorer les échanges virtuelles de façon sécurisée avec des systèmes de confiance décentralisés.
           L'utilisation de GPG dans la communauté a plusieurs applications, par exemple la signature de commits (supporté récemment par Github et Gitlab), la vérification de l'intégrité des paquets, l'échange des informations sensibles comme des mot de passes ou des API keys, entre autres.
@@ -409,7 +459,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="description">C’est indéniable, le Deep Learning c’est le sujet à la mode ! Même si cela reste un domaine de recherche très pointu heureusement à l’aide de nombreux frameworks open source et formations sur Internet les concepts deviennent de plus en plus accessibles. Cet atelier propose un tour d’horizon sur les origines du Deep Learning, quelles sont les ruptures scientifiques des 10 dernières années qui l’ont rendu aussi populaire, quelles sont les dernières architectures à la mode.
           Tout au long de l'atelier vous allez pouvoir coder vos propres architectures profondes avec Theano ! Cette librairie Python est parfaite pour le Deep Learning ! Elle est même très utilisée en recherche, pour prototyper rapidement de nouveaux modèles. 
           L'objectif de l'atelier est de donner les bases théoriques et pratiques (via Theano) pour être autonome sur une compétition Kaggle par exemple.
-          
+
           Vous trouverez toutes les informations sur l'atelier (notamment les librairies à installer) <a href="http://jguillaumin.github.io/2016-09-29-pycon-deep-learning/">ici</a>.</div>
 
           <div class="title" id="Programmer un robot mobile en python">Programmer un robot mobile en python</div>
@@ -437,16 +487,16 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           La connaissance de base de Django est un pré-requis.</div>
 
           <div class="title" id="interface graphique moderne En Qt avec python">interface graphique moderne En Qt avec python</div>
-          <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traité et le langage QML sera présenté.</div>
+          <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traitée et le langage QML sera présenté.</div>
 
           <div class="title" id="Life's too short: let's patch politics">Life's too short: let's patch politics</div>
           <div class="description">L'occasion d'apprendre à contribuer au projet de mémoire politique Memopol utilisé comme outil de lobbying citoyen par la Quadrature du Net ainsi que l'EDRi. Vous apprendrez donc à développer en local sur ce projet en Django, PostgreSQL et OpenShift et qui sait, peut-être rejoindrez-vous l'équipe ?</div>
 
           <div class="title" id="Prototypage rapide d'applications avec Kivy">Prototypage rapide d'applications avec Kivy</div>
-          <div class="description">Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'évènements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
+          <div class="description">Le but de cet atelier est de montrer comment Kivy, via le language kv et sa logique d'événements, permet de construire et de transformer rapidement une application, avant de se préoccuper de sa logique métier.
           Les différents widgets seront présentés, allant du simple Label, à l'utilisation des ScreenManager pour organiser l'application, en passant par les différents Layout, et l'utilisation des RecycleView pour la gestion de données à défilement potentiellement infinie.
-          Le prototypage rapide de widgets ""from scratch"" sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherché.
-          Une connaissance fonctionnelle de python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de python (par exemple sublim text ou pycharm).</div>
+          Le prototypage rapide de widgets *from scratch* sera aussi exploré, avec l'utilisation des propriétés pour décrire les comportements de ceux-ci, et des instructions canevas pour définir précisément l'apparence recherchée.
+          Une connaissance fonctionnelle de Python est nécessaire, ainsi qu'un éditeur de texte configuré pour l'écriture de Python (par exemple sublimetext ou pycharm).</div>
 
           <div class="title" id="Warehouse - the future of PyPI">Warehouse - the future of PyPI</div>
           <div class="description">Warehouse is the next generation Python Package Repository, designed to replace the legacy code base that currently powers PyPI.
@@ -463,6 +513,13 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Nous présenterons certains d'entre eux (pycodestyle, flake8, bandit...) durant cette conférence, et tenterons de donner quelques trucs et astuces afin de les utiliser au mieux. Nous montrerons notamment comment les intégrer à tox[1], ce qui facilitera la vie des développeurs et simplifiera l'utilisation de ces outils dans le cadre de l'intégration continue, dont on ne cesse de nous vanter les mérites.
           Cette présentation sera tout à fait accessible aux débutants, et comportera quelques exemples/démos.
           [1] https://pypi.python.org/pypi/tox</div>
+
+          <div class="title" id="Jolies Métriques : Coordonner Python et Zabbix">Jolies Métriques : Coordonner Python et Zabbix</div>
+          <div class="description">Retour d’expérience sur l'utilisation de l'application open source de supervision Zabbix couplée avec Python.
+            Zabbix (made in latvia) nous permet grâce à son agent multi-plateforme de monitorer un grand nombre d'équipements et de services, d’exécuter du code, de faire des calins.
+            Le but est de relever les métriques rapidement et avec une emprunte système la plus légère possible. C'est ici que Python nous aide à atteindre cet objectif en s'interfaçant avec l'agent Zabbix.
+            Une fois les métriques collectées, insérons les dans un outils de graph sexy et construisons des dashboards pour les décideurs pressés.
+          </div>
 
           <div class="title" id="Développeur durable">Développeur durable</div>
           <div class="description">Où vous voyez-vous dans 10 ans ? Vivrez-vous le rêve américain ? Élèverez-vous plutôt des chèvres en Lozère ? Récupèrerez-vous de votre 3e burnout ? Serez-vous (enfin) chef de projet ? Ou plutôt lead developer dans une entreprise libérée ?
@@ -626,12 +683,6 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="description">la présentation contiendra une analyse de la précision et des performances des algorithme de machine learning implémentés par des librairies python tels que scikit-learn, pandas, numpy...
           Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent. </div>
 
-          <div class="title" id="An Introduction to Web Scraping using Python">An Introduction to Web Scraping using Python</div>
-          <div class="description">Web scraping is a technique for gathering data or information on web pages. You could revisit your favorite web site every time it updates for new information. Or you could write a web scraper to have it do it for you!
-          Want to learn how to scrape the web (and / or organized data sets and APIs) for content? This talk will give you the building blocks (and code) to begin your own scraping adventures. We will review basic data scraping, API usage, form submission as well as how to scrape pesky bits like Javascript-usage for DOM manipulation.
-          Besides looking at how websites are put together, we will also discuss the ethics of scraping. What is legal? How can you be a friendly scraper, so that the administrator of the website you are scraping won’t try to shut you down?
-          Slides: https://slides.com/manojp/introws</div>
-
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
 
           <div class="title" id="Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</div>
@@ -690,7 +741,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
               * pyshop : permet d'avoir un repository local. Ne respecte pas la PEP 503, ne permet pas de gérer les permissions, backend sqlite bancal
               * devpi : fonctionne très bien, mais usine à gaz (documentation austère et complexe)
               * virtualenv : --relocatable qui ne fonctionne pas, rendant plus complexe les déploiements</div>
-            <div class="title" id="L'influence de Python sur JavaScript">L'influence de Python sur JavaScript</div><div class="description">Dans sa forme moderne, le langage JavaScript propose des fonctionnalités issues de Python : protocole d'itération, générateurs et décorateurs. Nous allons revoir ces mécanismes typiquement pythoniques et montrer comment ils sont mis en œuvre dans JavaScript.</div>
+            <div class="title" id="How Python influences JavaScript">How Python influences JavaScript</div><div class="description">Modern JavaScript offers several key features that have been heavily influenced
+            by Python: iteration protocols, generators and decorators. We'll review these typically
+            pythonic mechanisms and see how they're applied to JavaScript.</div>
 
 
             <div class="title" id="Packaging Python Wheel et Devpi">Packaging Python Wheel et Devpi</div><div class="description">Afin d'aider la communauté à gérer proprement ses packages, la PSF, à travers la PEP427, à instauré en 2012/2013 le format de packaging Wheel.

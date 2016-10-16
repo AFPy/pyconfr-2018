@@ -118,12 +118,6 @@ Intervenant.e.s
             <div class="title" id="maha mdini">maha mdini</div>
             <div class="description">Data Scientist à Astellia, PhD student à l'IRISA (Telecom bretagne), diplomée en 09/2015 de Telecom Bretagne (formation d'ingénieur en systèmes logiciels et réseaux)</div>
 
-            <div class="title" id="Manoj Pandey">Manoj Pandey</div>
-            <div class="description">Manoj is a rising CS junior, who speaks Python primarily and is working with SquadRun's Engineering Team this summer.
-            Before this he was a Data Analytics Intern at Inspiration Edge and Zouk Fellow at ZoukLoans. He has been a part of the Stanford Crowd Research Collective (a research project of Human Computer Interaction group at Stanford University, led by Prof. Michael Bernstein) since January 2016 and Stanford Crowd Course Collective since April 2016, in which he moderated two open courses on Python. He is a fellow hacker and have won some prestigious hackathons last year (PolicyHack, Grand Prize Winners and AngelHack 2015, Runers up, ..) and won the Code4Impact Award at the recent AngelHack Jaipur 2016 !
-            He is an avid FOSS enthusiast and Pythonista, almost all of his projects are open-sourced on Github here.
-            Detailed LinkedIn profile is available at: http://linkedin.com/in/manoj96</div>
-
             <div class="title" id="Arthur Vuillard">Arthur Vuillard</div>
             <div class="description">De formation ingénieur, je suis développeur Python, administrateur GNU/Linux et fondateur d'Hashbang, une société de développements informatiques pour les entrepreneu·r·se·s du web. J'interviens principalement sur des projets de systèmes d'informations et de développements webs.
             J'accompagne également les sociétés qui utilisent Python dans l'amélioration de leurs pratiques de développements.
@@ -138,6 +132,15 @@ Intervenant.e.s
 
             <div class="title" id="Lionel Porcheron">Lionel Porcheron</div>
             <div class="description">Lionel Porcheron, après avoir pendant plus de 10 ans administré des infrastructures de serveur de plus de 500 machines, a créé Bleemeo une startup Toulousaine qui propose une solution Cloud de monitoring d'infrastructure. Il est également un des organisateurs de Capitole du Libre, un événement annuel autour du logiciel libre à Toulouse, et du groupe Meetup Toulouse DevOps.</div>
+
+            <div class="title" id="Pierre Fersing">Pierre Fersing</div>
+            <div class="description">Pierre Fersing, développeur Python depuis
+            plus de 10 ans, a longtemps évolué au sein d'équipes d'exploitation
+            où il a été ammené à développer, mettre en place et exploiter des
+            outils d'automatisation reposant principalement sur Python
+            & Django. Pierre a co-fondé en 2015 la solution de monitoring
+            Bleemeo dont il est le CTO.</div>
+
 
             <div class="title" id="Bhargav SRINIVASA DESIKAN">Bhargav SRINIVASA DESIKAN</div>
             <div class="description">My name is Bhargav Srinivasa Desikan, a final year Undergraduate from BITS Pilani University, India. Starting from August 2016 I will be working as a research assistant at INRIA MODAL, Lille-Norde region, where I will research on Metric Learning and fast prediction techniques under Dr. Benjamin Guedj. I have also been selected as a Google Summer of Code Student with Gensim, where I am implementing Dynamic Topic Models and working on topic modelling applications. I have done all my research and learning with python and would love to keep contributing to the community the best way I can.</div>
@@ -276,6 +279,11 @@ Intervenant.e.s
 
             <div class="title" id="Boris FELD">Boris FELD</div>
             <div class="description">Boris travaille actuellement activement sur le sujet sur l'agent python de sqreen.io et détaillera les joyeusetés de monkey-patcher python en production. Un article as déjà été écrit sur un des problèmes rencontré et sera dans la même veine que le conférence: https://blog.sqreen.io/freeze-python-str-encode-threads/</div>
+
+            <div class="title" id="Alain Devarieux">Alain Devarieux</div>
+            <div class="description">Administrateur Système au SIB
+            Tente de redonner ses lettres de noblesse à la supervision.
+            S'essaye au DevOps</div>
 
             <div class="title" id="SebCorbin">SebCorbin</div>
             <div class="description">Développeur PHP/Drupal le jour, je code secrètement un service en Django la nuit. Habitué/organisateur de DrupalCamp, la PyConfr sera pour moi la première conférence Python.
