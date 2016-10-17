@@ -684,6 +684,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent. </div>
 
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
+	  <br /><a href="https://gitpitch.com/Lothiraldan/python-test-101-pyconfr/master?grs=github&t=sky">Support de présentation</a></div>
 
           <div class="title" id="Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</div>
           <div class="description">En tant que développeur·se·s, nous sommes constamment à la chasse aux bugs, à la recherche du bon fonctionnement de notre application, en tout cas, c'est ce qu'il faut pour satisfaire nos utilisat·eurs·rices (qui sont parfois nos client·e·s).
@@ -940,6 +941,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
 
           <div class="title" id="Monkey-Patcher Python en production">Monkey-Patcher Python en production</div><div class="description">Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendues en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.</div>
+	  <br /><a href="https://gitpitch.com/Lothiraldan/python-production-monkey-patching/master?grs=github&t=sky">Support de présentation</a></div>
 
 
 
