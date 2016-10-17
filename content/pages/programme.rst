@@ -663,7 +663,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="title" id="Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</div>
           <div class="description">Organiser une conférence sur Python peut paraître bien difficile. Nous ne cacherons pas que c'est un évènement qui nécessite du travail, mais ce ne doit pas effrayer de futurs candidats.
           Dans cet exposé, nous essaierons de présenter quelles sont les tâches à réaliser pour organiser une bonne PyConFr mais aussi les difficultés qu'on a pu rencontrer au cours des trois dernières années, les atouts et aussi les bonnes idées.
-          Tout ça pour commencer à poser les pierres de PyConFr 2017 ?</div>
+          Tout ça pour commencer à poser les pierres de PyConFr 2017 ?
+          <br /><a href="https://monod.lelab.tailordev.fr/a2b867ad-b692-4a63-9927-64508a2b2cc0#zaqAjiBw4SSzS0nIlovD2ilBIpqSOAf425zSs2zUpUk=">Support de présentation</a></div>
 
           <div class="title" id="Python et secondes intercalaires">Python et secondes intercalaires</div>
           <div class="description">Les secondes intercalaires peuvent poser 2 types de problèmes en informatique : elles peuvent faire planter nos codes lors de l'interprétation du date mais elles peuvent aussi induire des erreurs de calcul ou d'enregistrement si la librairie de temps ne les gère pas.
@@ -684,9 +685,11 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
 
-          <div class="title" id="Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</div><div class="description">En tant que développeur·se·s, nous sommes constamment à la chasse aux bugs, à la recherche du bon fonctionnement de notre application, en tout cas, c'est ce qu'il faut pour satisfaire nos utilisat·eurs·rices (qui sont parfois nos client·e·s).
+          <div class="title" id="Premiers pas pour assurer la qualité de vos applications">Premiers pas pour assurer la qualité de vos applications</div>
+          <div class="description">En tant que développeur·se·s, nous sommes constamment à la chasse aux bugs, à la recherche du bon fonctionnement de notre application, en tout cas, c'est ce qu'il faut pour satisfaire nos utilisat·eurs·rices (qui sont parfois nos client·e·s).
           L'écosystème Python offre tous les outils pour automatiser la vérification que notre code est correcte ou que notre application fonctionne correctement.
-          Nous allons donc voir comment mettre en place ces premières vérifications autour de la qualité du code et de la validation par les tests, en allant jusqu'à l'intégration continue.</div>
+          Nous allons donc voir comment mettre en place ces premières vérifications autour de la qualité du code et de la validation par les tests, en allant jusqu'à l'intégration continue.
+          <br /><a href="https://static.hashbang.fr/20161016_qualit%C3%A9/#1">Support de présentation</a></div>
 
           <div class="title" id="Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !">Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !</div>
           <div class="description">Présentation du langage de programmation Coconut pour une utilisation orientée scripting/sysadmin/ops.
