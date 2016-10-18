@@ -1,0 +1,90 @@
+La Pycon-FR est terminée, quelques retours sur l'organisation
+#############################################################
+
+:slug: retours
+:lang: fr
+:date: 2016-10-18
+
+La Pycon-FR s'est terminée ce dimanche soir, ou plus exactement ce lundi
+après-midi pour la plupart d'entre nous. Il reste encore quelques efforts
+à fournir pour la publication des vidéos de présentation, mais le gros est
+derrière nous.
+
+On voulait profiter d'avoir encore tout ça en tête pour faire des retours "à
+chaud" sur l'organisation de ces conférences, pour notamment proposer des
+pistes d'amélioration pour les équipes qui prendront le relai les années
+suivantes.
+
+Gestion des bénévoles
+=====================
+
+Cette année, pour la gestion des bénévoles on a préparé un planning pour
+chaque personne afin d'avoir tout le temps une ou plusieur personne à chacun
+des postes. Sur le papier ça sonnait pas mal, et dans d'autres contextes
+(festival) ça fonctionne bien, mais en pratique cela posait certains soucis,
+notemment à cause du fait que certains créneaux n'étaient pas prévu comme il
+faut.
+
+Avant les conférences, chaque bénévole à pu entrer ses disponibilités par demi
+journée, et le planning à été fait en fonction. Les quelques jours avant le
+début, un planning à été distribué personne par personne, avec les
+affectations.
+
+Voici quelques erreurs qu'on a pu faire, et quelques pistes potentielles pour
+faire mieux:
+
+- Pour les salles, trois personnes étaient prévues à chaque fois, pour chaque
+  demi journée. Le samedi, juste avant le début des conférences les personnes
+  n'étaient pas présentes dans les salles et il à fallu courir pour réussir
+  à les trouver. Le dimanche, nous avons choisi de se retrouver 30mn avant le
+  début des conférences, ce qui à permi de briefer tout le monde d'un coup et
+  d'éviter de courir pour trouver des remplaçant.e.s à la dernière minute.
+
+- Pour le petit déjeuner, nous avions prévu uniquement d'avoir quelqu'un (deux
+  personnes) de 9h à 10h30, oubliant que le café est une des boissons préférés
+  des developeurs. Certaines personnes ont donc tenu le stand café / thé toute
+  la journée, alors même que ce n'était pas prévu. A refaire, je pense qu'il
+  faut choisir d'ouvrir simplement pour des créneaux spécifiques, du type 9h
+  → 10h30 puis pendant les pauses et à la fin du repas. Le reste du temps… pas
+  de café !
+
+- D'une manière générale, la gestion des bénévole nous a demandé de courir un
+  peu partout, tout simplement parce que nous n'avons pas su déléguer
+  correctement. Une autre manière de s'organiser aurait été d'avoir un
+  responsable de chaque track, puis pour l'espace central et pour l'accueil,
+  qui s'occupe de tout faire tourner correctement pour les deux jours. Nous ne
+  l'avions pas fait parce que nous avons eu du mal à demander de l'aide pour
+  des durées aussi longues (deux jours, non-stop), et nous étions donc les
+  personnes charnières, communiquant les retours du matin au bénévoles de
+  l'après midi.
+
+- Nous avions prévu d'avoir des postes de bénévoles volants durant les deux
+  jours, pour parer aux éventuels soucis de dernière minute, et c'était quelque
+  chose d'utile. À refaire, en mettant toute l'équipe d'organisation en
+  volante.
+
+Numéros de téléphone
+====================
+
+Nous avions demandé aux conférenciers et aux bénévoles leurs numéros de
+téléphone, au cas ou nous en aurions besoin, et c'est d'une aide précieuse.
+Nous avons pu communiquer à la dernière minute avec les bénévoles et changeant
+quelques plans à la volée (avancement des temps de réunion par exemple).
+
+Des numéros "d'urgence" étaient également disposés dans chacune des salles,
+pour apeller les organisateurs en cas de souci technique, de gestion des
+bénévoles et autre. L'ensemble des numéro de téléphone des conférenciers
+étaient aussi disponible pour les gérants de salle, ce qui s'est révélé utile
+pour rapeller à quelqu'un que sa présentation commence :)
+
+Technique
+=========
+
+- S'assurer d'avoir un retour son pour les enregistrements
+
+Déplacements
+============
+
+Cette année, nous avons loué un camion du jeudi au lundi, pour déplacer
+barnums, tables et bancs. C'était une excellente idée, je ne sais même pas
+comment nous nous en serions sorti sans ça.
