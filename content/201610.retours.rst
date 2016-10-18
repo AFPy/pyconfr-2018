@@ -77,8 +77,16 @@ bénévoles et autre. L'ensemble des numéro de téléphone des conférenciers
 étaient aussi disponible pour les gérants de salle, ce qui s'est révélé utile
 pour rapeller à quelqu'un que sa présentation commence :)
 
-Technique
-=========
+Inscriptions
+============
+
+Le fait d'avoir une inscription nous à permi d'établir un canal de
+communication email avec les présent.e.s. C'est assez utile pour préciser des
+informations de dernière minute, comme par exemple quand nous nous avons flippé
+de ne voir personne débarquer pour la soirée d'ouverture.
+
+Enregistrements
+===============
 
 - S'assurer d'avoir un retour son pour les enregistrements
 
@@ -88,3 +96,20 @@ Déplacements
 Cette année, nous avons loué un camion du jeudi au lundi, pour déplacer
 barnums, tables et bancs. C'était une excellente idée, je ne sais même pas
 comment nous nous en serions sorti sans ça.
+
+Site et point technique
+=======================
+
+Cette année, nous avons utilisé un site basé sur l'outil `Pelican
+<http://www.getpelican.com>`_ ce qui est assez utile pour avoir un *workflow*
+de travail avec du contôle de ses pairs. Chaque modification du site à pu être
+revue et corrigée en cas de soucis. En comparaison aux outils que nous
+utilisions précédemment, c'était plus sympa.
+
+Conjointement, nous avons utilisé `fourmilieres.net
+<https://www.fourmilieres.net>`_ pour le formulaire d'inscription, ce qui nous
+à permi de récupérer les données d'inscriptions directement dans un format
+exploitable en python (json).
+
+Le seul point noir était la création du programme, qui à necessité
+l'utilisation d'expressions regulières un peu compliquées pour s'en sortir…
