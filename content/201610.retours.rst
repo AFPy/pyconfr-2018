@@ -12,46 +12,47 @@ derrière nous.
 
 On voulait profiter d'avoir encore tout ça en tête pour faire des retours "à
 chaud" sur l'organisation de ces conférences, pour notamment proposer des
-pistes d'amélioration pour les équipes qui prendront le relai les années
+pistes d'amélioration pour les équipes qui prendront le relais les années
 suivantes.
 
 Gestion des bénévoles
 =====================
 
 Cette année, pour la gestion des bénévoles on a préparé un planning pour
-chaque personne afin d'avoir tout le temps une ou plusieur personne à chacun
+chaque personne afin d'avoir tout le temps une ou plusieurs personne à chacun
 des postes. Sur le papier ça sonnait pas mal, et dans d'autres contextes
 (festival) ça fonctionne bien, mais en pratique cela posait certains soucis,
-notemment à cause du fait que certains créneaux n'étaient pas prévu comme il
+notamment à cause du fait que certains créneaux n'étaient pas prévu comme il
 faut.
 
-Avant les conférences, chaque bénévole à pu entrer ses disponibilités par demi
-journée, et le planning à été fait en fonction. Les quelques jours avant le
-début, un planning à été distribué personne par personne, avec les
+Avant les conférences, chaque bénévole a pu entrer ses disponibilités par demi
+journée, et le planning a été fait en fonction. Les quelques jours avant le
+début, un planning a été distribué personne par personne, avec les
 affectations.
 
 Voici quelques erreurs qu'on a pu faire, et quelques pistes potentielles pour
 faire mieux:
 
 - Pour les salles, trois personnes étaient prévues à chaque fois, pour chaque
-  demi journée. Le samedi, juste avant le début des conférences les personnes
-  n'étaient pas présentes dans les salles et il à fallu courir pour réussir
-  à les trouver. Le dimanche, nous avons choisi de se retrouver 30mn avant le
-  début des conférences, ce qui à permi de briefer tout le monde d'un coup et
+  demi-journée. Le samedi, juste avant le début des conférences les personnes
+  n'étaient pas présentes dans les salles et il a fallu courir pour réussir
+  à les trouver. Le dimanche, nous avons choisi de nous retrouver 30mn avant le
+  début des conférences, ce qui a permis de briefer tout le monde d'un coup et
   d'éviter de courir pour trouver des remplaçant.e.s à la dernière minute.
 
 - Pour le petit déjeuner, nous avions prévu uniquement d'avoir quelqu'un (deux
   personnes) de 9h à 10h30, oubliant que le café est une des boissons préférés
-  des developeurs. Certaines personnes ont donc tenu le stand café / thé toute
-  la journée, alors même que ce n'était pas prévu. A refaire, je pense qu'il
+  des développeurs. Certaines personnes ont donc tenu le stand café / thé toute
+  la journée, alors même que ce n'était pas prévu. À refaire, je pense qu'il
   faut choisir d'ouvrir simplement pour des créneaux spécifiques, du type 9h
   → 10h30 puis pendant les pauses et à la fin du repas. Le reste du temps… pas
-  de café !
+  de café ! Ou sinon, prévoir un roulement des bénévoles tout au long de la journée,
+  mais ça reste difficile à gérer (il faut courir après les gens, etc).
 
-- D'une manière générale, la gestion des bénévole nous a demandé de courir un
+- D'une manière générale, la gestion des bénévoles nous a demandé de courir un
   peu partout, tout simplement parce que nous n'avons pas su déléguer
-  correctement. Une autre manière de s'organiser aurait été d'avoir un
-  responsable de chaque track, puis pour l'espace central et pour l'accueil,
+  correctement. Une autre manière de nous organiser aurait été d'avoir un
+  responsable de chaque *track*, puis pour l'espace central et pour l'accueil,
   qui s'occupe de tout faire tourner correctement pour les deux jours. Nous ne
   l'avions pas fait parce que nous avons eu du mal à demander de l'aide pour
   des durées aussi longues (deux jours, non-stop), et nous étions donc les
@@ -59,7 +60,7 @@ faire mieux:
   l'après midi.
 
 - Nous avions prévu d'avoir des postes de bénévoles volants durant les deux
-  jours, pour parer aux éventuels soucis de dernière minute, et c'était quelque
+  jours, pour parrer aux éventuels soucis de dernière minute, et c'était quelque
   chose d'utile. À refaire, en mettant toute l'équipe d'organisation en
   volante.
 
@@ -72,16 +73,16 @@ Nous avons pu communiquer à la dernière minute avec les bénévoles et changea
 quelques plans à la volée (avancement des temps de réunion par exemple).
 
 Des numéros "d'urgence" étaient également disposés dans chacune des salles,
-pour apeller les organisateurs en cas de souci technique, de gestion des
+pour appeler les organisateurs en cas de souci technique, de gestion des
 bénévoles et autre. L'ensemble des numéro de téléphone des conférenciers
 étaient aussi disponible pour les gérants de salle, ce qui s'est révélé utile
-pour rapeller à quelqu'un que sa présentation commence :)
+pour rappeler à quelqu'un que sa présentation commence :)
 
 Inscriptions
 ============
 
-Le fait d'avoir une inscription nous à permi d'établir un canal de
-communication email avec les présent.e.s. C'est assez utile pour préciser des
+Le fait d'avoir une inscription nous a permis d'établir un canal de
+communication *email* avec les présent.e.s. C'est assez utile pour préciser des
 informations de dernière minute, comme par exemple quand nous nous avons flippé
 de ne voir personne débarquer pour la soirée d'ouverture.
 
@@ -102,14 +103,14 @@ Site et point technique
 
 Cette année, nous avons utilisé un site basé sur l'outil `Pelican
 <http://www.getpelican.com>`_ ce qui est assez utile pour avoir un *workflow*
-de travail avec du contôle de ses pairs. Chaque modification du site à pu être
+de travail avec du contrôle de ses pairs. Chaque modification du site a pu être
 revue et corrigée en cas de soucis. En comparaison aux outils que nous
 utilisions précédemment, c'était plus sympa.
 
 Conjointement, nous avons utilisé `fourmilieres.net
 <https://www.fourmilieres.net>`_ pour le formulaire d'inscription, ce qui nous
-à permi de récupérer les données d'inscriptions directement dans un format
-exploitable en python (json).
+a permis de récupérer les données d'inscriptions directement dans un format
+exploitable en python (JSON).
 
-Le seul point noir était la création du programme, qui à necessité
+Le seul point noir était la création du programme, qui a nécessité
 l'utilisation d'expressions regulières un peu compliquées pour s'en sortir…
