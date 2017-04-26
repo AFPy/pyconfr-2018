@@ -9,7 +9,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 GITHUB_PAGES_BRANCH=gh-pages
 
 AFPY_OUTPUTDIR=$(BASEDIR)/output/
-AFPY_PUBLISH_URL=pyconfr@pyconfr:/pyconfr-2017/
+AFPY_PUBLISH_URL=pyconfr@pyconfr:pyconfr-2017/
 
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
 VIRTUALENV = virtualenv
