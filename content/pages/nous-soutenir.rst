@@ -13,14 +13,14 @@ l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
 
 Toute aide bénévole lors de l'évènement est la bienvenue !
 
-Parrainer PyCon-fr
+Parrainer PyConFr
 ==================
 
 Le mécénat d'entreprises et d'organisations permet chaque année aux
 organisateurs de couvrir certains frais (sécurité) et de proposer
 rafraîchissements et cafés à notre public.
 
-PyCon-fr est organisé par des bénévoles de la communauté Python francophone et
+PyConFr est organisé par des bénévoles de la communauté Python francophone et
 permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
 année.
 
@@ -49,7 +49,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Logo sur la page d'accueil du site web de PyCon-fr 2016
+   * - Logo sur la page d'accueil du site web de PyConFr 2017
      - 
      - ✔
      - ✔

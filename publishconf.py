@@ -10,20 +10,16 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # NoQA
 
-SITEURL = 'https://2016.pycon.fr'
+SITEURL = 'https://2017.pycon.fr'
 RELATIVE_URLS = False
 
 SOCIAL = (
     ('Email', 'mailto:contact@pycon.fr'),
     ('RSS', SITEURL + '/feeds/all.atom.xml'),
-    ('GitHub', 'https://github.com/AFPy/pyconfr_2016'),
+    ('GitHub', 'https://github.com/AFPy/pyconfr_2017'),
 )
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-
-
-# Following items are often useful when publishing
-# DISQUS_SITENAME = "pyconfr-2016"

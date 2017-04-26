@@ -43,7 +43,7 @@ Champ d’application
 
 Ces bonnes pratiques s’appliquent dans le cadre de tout événement (co-)organisé par l’AFPy de manière directe ou indirecte à savoir:
 
-- les conférences (PyCon-fr, événement à la cantine et autre)
+- les conférences (PyConFr, événement à la cantine et autre)
 - les canaux IRC ou XMPP ou autre messagerie instantanée
 - planète python
 - le blog

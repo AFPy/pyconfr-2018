@@ -1,5 +1,5 @@
-PyCon-fr 2016
-=============
+PyConFr 2017
+============
 
 Vous avez vu une faute ou une erreur ?
 
