@@ -48,4 +48,6 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = ['post_stats', 'html_rst_directive', 'assets']
 RESPONSIVE_IMAGES = True
 
+# JINJA_ENVIRONMENT = {'extensions': []}
+
 RELATIVE_URLS = True
