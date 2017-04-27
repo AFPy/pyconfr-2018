@@ -6,8 +6,6 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_BRANCH=gh-pages
-
 AFPY_OUTPUTDIR=$(BASEDIR)/output/
 AFPY_PUBLISH_URL=pyconfr@pyconfr:pyconfr-2017/
 
@@ -53,13 +51,8 @@ regenerate:
 
 publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	echo "www.pycon.fr" > $(OUTPUTDIR)/CNAME
-
-github: publish
-	$(VENV)/bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_PAGES_BRANCH) --force
 
 afpy: publish
 	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
 
-.PHONY: html clean serve devserver github publish afpy
+.PHONY: html clean serve devserver publish afpy
