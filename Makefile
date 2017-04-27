@@ -53,7 +53,7 @@ regenerate:
 
 publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	echo "www.pycon.fr/2017" > $(OUTPUTDIR)/CNAME
+	echo "www.pycon.fr" > $(OUTPUTDIR)/CNAME
 
 github: publish
 	$(VENV)/bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
