@@ -277,107 +277,138 @@ footer
     float: left
     margin-bottom: 50px
 
+
+
+
 .programme
   th:nth-child(odd)
     background: darken(#f6f9fa, 5%)
+
   th, th:nth-child(1)
     background: #f6f9fa
+
   td, th
-    width: 20%
-    font-family: Hind
-    vertical-align: top
+    font-weight: 500
     padding: 0.8em
+    vertical-align: middle
+    width: 20%
+
   .slot
     width: 10%
+
   .break
-    color: black
-    font-size: 1.2em
+    font-weight: 600
+    text-align: center
     text-transform: uppercase
     vertical-align: middle
+
   .short
-    background-color: #218ce0
-  .double-short
-    border-top: 1px solid #004d8a
+    background-color: #6D90BB
+    color: #fff
+
   .long
-    background-color: #004d8a
+    background-color: #475F7A
+    color: #fff
+
   .workshop
-    width: 15%
     background-color: #e2e7e9
+    width: 15%
+
     a
       color: black !important
+
     a:hover
       color: gray !important
+
   .workshop + .workshop
     border-left: 1px solid white
+
   .special
+    background-color: $secondary
     color: white
-    font-size: 1.2em
+    text-align: center
     text-transform: uppercase
     vertical-align: middle
-    background-color: #A5C330
+
+    a
+      color: #fff
+
   .title
-    text-transform: uppercase
-    font-size: 1.2em
+    font-size: 1.1em
+    margin-bottom: .5em
+
+    a
+      color: white
+      font-weight: 400
+      text-decoration: none
+
   .person
     font-size: 0.8em
-  a
-    color: white !important
-    font-weight: 400 !important
+
+    a
+      color: #fff
+
   a:hover
     color: #e2e7e9 !important
 
-.programme.home
-  th, td
-    width: 25%
-    vertical-align: middle
-    text-transform: uppercase
-    text-align: center
-    color: white
-  th
-    color: black
-    background-color: darken(#f6f9fa, 5%)
-  .break
-    color: black
 
-.programme.legende
-  font-size: 12pt
-  width: 300px
-  float: right
-  margin-bottom: 20px !important
-  th, td
-    padding: 0.3em !important
-    text-transform: uppercase
-    text-align: center
-    color: white
-  th, .workshop
-    color: black
 
-.interventions
-  max-width: 800px
-  margin: 0 auto
-  .title
-    width: 100%
-    color: white
-    margin-top: 40px
-    font-family: Hind
-    background-color: #218ce0
-    text-transform: uppercase
-    font-size: 1.2em
-    padding: 0.8em
-  .description
-    margin-top: 10px
-    white-space: pre-line
-  .description:after
-    content: ''
-    background: url(../images/separateur_pyconfr.svg)
-    background-position: 50% 50%
-    background-size: contain
-    background-repeat: no-repeat
-    height: 34px
-    display: block
-    width: 100%
-    margin-top: 30px
-    margin-bottom: 40px
+  &.home
+    th, td
+      font-weight: 400
+      text-align: center
+      vertical-align: middle
+      width: 25%
+
+    th
+      background-color: $primary
+      color: #fff
+      font-weight: 500
+
+  .programme.legende
+    float: right
+    font-size: 12pt
+    margin-bottom: 20px !important
+    width: 300px
+
+    th, td
+      color: white
+      padding: 0.3em !important
+      text-align: center
+      text-transform: uppercase
+
+    th, .workshop
+      color: black
+
+  .interventions
+    margin: 0 auto
+    max-width: 800px
+
+    .title
+      background-color: #218ce0
+      color: white
+      font-family: Hind
+      font-size: 1.2em
+      margin-top: 40px
+      padding: 0.8em
+      text-transform: uppercase
+      width: 100%
+
+    .description
+      margin-top: 10px
+      white-space: pre-line
+
+    .description:after
+      background: url(../images/separateur_pyconfr.svg)
+      background-position: 50% 50%
+      background-size: contain
+      background-repeat: no-repeat
+      content: ''
+      display: block
+      height: 34px
+      margin-bottom: 40px
+      margin-top: 30px
+      width: 100%
 
 @media screen and (max-width: 640px)
   body
