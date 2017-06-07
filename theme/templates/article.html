@@ -29,7 +29,7 @@
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
   </header>
-  <footer class="post-info">
+  <div class="post-info">
     <abbr class="published" title="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </abbr>
@@ -40,12 +40,12 @@
 	{% endif %}
     {% if article.authors %}
     <address class="vcard author">
-      By {% for author in article.authors %}
-          <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+      par {% for author in article.authors %}
+          {{ author }}
         {% endfor %}
     </address>
     {% endif %}
-  </footer><!-- /.post-info -->
+  </div><!-- /.post-info -->
   <div class="entry-content">
     {{ article.content }}
   </div><!-- /.entry-content -->
