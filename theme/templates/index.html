@@ -9,15 +9,18 @@
 {% for article in articles_page.object_list %}
         <li><article class="hentry">
                 <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                <footer class="post-info">
+                <div class="post-info">
                     <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-                    <address class="vcard author">By
+                    <address class="vcard author">par
                     {% for author in article.authors %}
                         <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                     {% endfor %}
                     </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+                </div><!-- /.post-info -->
+                <div class="entry-content">
+                    {{ article.summary }} 
+                    <p><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">Lire plus</a></p>
+                </div><!-- /.entry-content -->
         </article></li>
 
 {% endfor %}
