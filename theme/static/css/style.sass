@@ -119,8 +119,11 @@ body
       text-align: center
 
       a
-        content: url(../images/logo2017.svg)
-        height: 200px
+        color: transparent
+        font-size: 0
+
+        &:before
+          content: url(../images/logo2017.svg)
 
   nav
     align-items: center
