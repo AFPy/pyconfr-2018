@@ -9,7 +9,7 @@ Appel à soutien financier pour PyConFr 2017
 :og_type: article
 :og_title: Appel à soutien financier pour PyConFr 2017
 :og_description: Comme chaque année, nous faisons appel à des entreprises pour financer PyConFr 2017.
-:og_image: https://www.pycon.fr/2017/theme/images/logo2017.svg
+:og_image: images/logo2017.png
 
 Cette année PyConFr aura lieu à Toulouse dans les locaux de l’École Nationale Supérieure d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications du 21 au 24 septembre 2017. Nous organisons deux jours de sprints les 21 et 22 septembre puis deux jours de conférences les 23 et 24 septembre.
 
