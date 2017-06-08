@@ -41,8 +41,11 @@ MENUITEMS = (
 )
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
+STATIC_PATHS = ['images', 'documents', 'extra/CNAME',
+                'extra/favicon.ico', ]
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/favicon.ico': {'path': 'favicon.ico'},
+                       }
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['post_stats', 'html_rst_directive', 'assets']
