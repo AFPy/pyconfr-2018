@@ -21,4 +21,12 @@
 		Last updated: {{ page.locale_modified }}
 		</p>
 	{% endif %}
+
+{% endblock %}
+
+
+{% block partners %}
+{% if page.slug != 'soutiens' %}
+{{ super() }}
+{% endif %}
 {% endblock %}

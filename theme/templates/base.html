@@ -33,6 +33,16 @@
 
   {% block content %}{% endblock %}
 
+  {% block partners %}
+  <div class="partners">
+    <h2>Nos partenaires</h2>
+    <h3>Bronze</h3>
+    <p>
+      <a href="https://anybox.fr/"><img src="../images/logo_anybox.png" alt="logo d'Anybox" /></a>
+    </p>
+  </div>
+  {% endblock %}
+
   <footer>
     <ul>
       {% for title, link in SOCIAL %}
