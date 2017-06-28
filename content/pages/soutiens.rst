@@ -16,7 +16,24 @@ Platine
 Or
 ==
 
-`Devenez l·e·a premi·er·ère partenaire "Or" </pages/nous-soutenir.html>`_
+`Logilab <https://www.logilab.fr/>`_
+------------------------------------
+
+.. image:: ../images/logo_logilab.png
+    :height: 100px
+    :alt: logo de Logilab
+    :target: https://www.logilab.fr/
+
+Depuis l'an 2000, nous développons avec agilité des logiciels libres
+innovants pour le web et les sciences, et accroissons nos
+connaissances via la R&D pour les partager lors de formations.
+
+Pionniers de Python et du Web en France et en Europe, nous formons
+chaque année plusieurs centaines d'ingénieurs, de scientifiques et
+d'utilisateurs souhaitant développer des logiciels et exploiter leur
+données.
+
+`Devenez partenaire "Or" </pages/nous-soutenir.html>`_
 
 Bronze
 ======
