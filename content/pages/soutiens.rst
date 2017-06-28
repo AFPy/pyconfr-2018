@@ -11,7 +11,21 @@ Partenaires
 Platine
 =======
 
-`Devenez l·e·a premi·er·ère partenaire "Platine" </pages/nous-soutenir.html>`_
+`Netsach <http://netsach.com/>`_
+--------------------------------
+
+.. image:: ../images/logo_netsach.png
+    :height: 100px
+    :alt: logo de Netsach
+    :target: http://netsach.com/
+
+API Bridging & Automation
+
+Société spécialisée dans la conception de plateforme digitales
+
+Solutions d'interconnexion et d'automatisation pour les services numériques
+
+`Devenez partenaire "Platine" </pages/nous-soutenir.html>`_
 
 Or
 ==
