@@ -78,6 +78,16 @@ Ecréall est éditeur de la solution d'innovation participative agile Nova-Ideo 
 - de recueillir les soutiens ou rejets des membres,
 - enfin de diffuser les avis des comités.
 
+`Bearstech <https://bearstech.com/>`_
+-------------------------------------
+
+.. image:: ../images/logo_bearstech.jpg
+    :height: 100px
+    :alt: logo de Bearstech
+    :target: https://bearstech.com/
+
+Bearstech est une société coopérative d’ingénieurs spécialisée en infogérance, hébergement, conseil et audit. Parmi nos missions, nous vous accompagnons dans votre démarche DevOps ou la migration de votre infrastructure vers le Cloud. Nous assurons le suivi de l’exploitation de vos plates-formes dans le cloud ou sur serveurs dédiés. Nous maintenons des infrastructures robustes et performantes pour vos projets les plus critiques nécessitant la plus grande qualité de service.
+
 `Devenez partenaire "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
