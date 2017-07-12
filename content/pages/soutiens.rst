@@ -47,6 +47,26 @@ chaque année plusieurs centaines d'ingénieurs, de scientifiques et
 d'utilisateurs souhaitant développer des logiciels et exploiter leur
 données.
 
+`IT Link <https://www.itlink.fr/>`_
+-----------------------------------
+
+.. image:: ../images/logo_itlink.png
+    :height: 100px
+    :alt: logo d'IT Link
+    :target: https://www.itlink.fr/
+
+IT Link, le spécialiste du digital industriel, conçoit pour ses clients des systèmes connectés, pour qu’ils tirent tout le bénéfice du numérique comme levier de croissance et de compétitivité. Présente dans une dizaine de régions françaises ainsi qu’à Bruxelles, l’entreprise poursuit son développement en Europe et outre-Atlantique
+
+Aéronautique, Transports, Energie, Services …: les clients d’IT Link lui confient des projets à forte valeur ajoutée pour créer leur business de demain. IT Link mobilise pour eux l’ensemble des expertises pour concevoir toutes les briques d’un système connecté, des capteurs au Système d’Information.
+
+Conscient de la forte valeur ajoutée du langage Python, et ses atouts indéniables (multiplateformes, natif Linux/Mac, communauté importante et active, ...), IT Link a développé un pôle de compétences autour de ce langage. 
+
+IT Link, propose ainsi à ses clients, et ce dans le respect des bonnes pratiques Python, d'assumer l'ensemble du développement de leur projets, du pilotage de périphériques (capteurs, moteurs, ...) à la restitution de données, en clients lourds ou léger, en système embarqué ou non. IT Link leur propose également des formations dans ce langage.
+
+Cette activité à forte croissance amène IT Link à recruter de plus en plus de Pythonistes et fait d'IT Link, plus que jamais, le partenaire privilégié de vos projets.
+
+Une question? A la recherche d'un emploi (besoin Python en cours) ? N'hésitez pas à nous contacter.
+
 `Devenez partenaire "Or" </pages/nous-soutenir.html>`_
 
 Bronze
