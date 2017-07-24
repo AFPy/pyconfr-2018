@@ -108,6 +108,23 @@ Ecréall est éditeur de la solution d'innovation participative agile Nova-Ideo 
 
 Bearstech est une société coopérative d’ingénieurs spécialisée en infogérance, hébergement, conseil et audit. Parmi nos missions, nous vous accompagnons dans votre démarche DevOps ou la migration de votre infrastructure vers le Cloud. Nous assurons le suivi de l’exploitation de vos plates-formes dans le cloud ou sur serveurs dédiés. Nous maintenons des infrastructures robustes et performantes pour vos projets les plus critiques nécessitant la plus grande qualité de service.
 
+`Yaal <https://www.yaal.fr/>`_
+------------------------------
+
+.. image:: ../images/logo_yaal.png
+    :height: 100px
+    :alt: logo de Yaal
+    :target: https://www.yaal.fr/
+
+Yaal s'adresse aux créateurs d'entreprises à forte composante
+numérique qui cherchent une équipe technique expérimentée, réactive et
+engagée.
+
+Nous nous engageons à leurs côtés en apportant notre expérience de la
+création d’entreprise, en partageant le risque financier et en prenant
+en charge la direction technique pour faire de leur idée un projet
+unique et durable.
+
 `Devenez partenaire "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
