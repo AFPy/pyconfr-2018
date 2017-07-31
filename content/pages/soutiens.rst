@@ -67,6 +67,17 @@ Cette activité à forte croissance amène IT Link à recruter de plus en plus d
 
 Une question? A la recherche d'un emploi (besoin Python en cours) ? N'hésitez pas à nous contacter.
 
+`Makina Corpus <https://makina-corpus.com/>`_
+---------------------------------------------
+
+.. image:: ../images/logo_makina_corpus.png
+    :alt: logo de Makina Corpus
+    :target: https://makina-corpus.com/
+
+Makina Corpus conçoit et développe des solutions web et mobiles innovantes, en s'appuyant exclusivement sur des logiciels libres.
+
+La société s'est spécialisée dans le développement d'applications métiers, de portails complexes et de cartographies dynamiques.
+
 `Devenez partenaire "Or" </pages/nous-soutenir.html>`_
 
 Bronze
