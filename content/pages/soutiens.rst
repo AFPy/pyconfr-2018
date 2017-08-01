@@ -88,8 +88,8 @@ La société s'est spécialisée dans le développement d'applications métiers,
 
 Peopledoc, plateforme SaaS de digitalisation RH aide les entreprises à simplifier et fluidifier les processus administratifs entre RH et salariés. Sa mission : répondre plus vite et plus efficacement aux demandes des collaborateurs et managers, automatiser les processus RH de l’onboarding à l’off-boarding tout en garantissant une pleine conformité réglementaire, en France comme à l’étranger. Comptant plus de 500 clients dans 165 pays et neufs langues opérées, nous recrutons des développeurs expérimentés en Python / Django afin de faire face à tous les challenges R&D associés. Nos applications tournent surtout grâce à Python et Django, mais aussi Postgresql, ElasticSearch, RabbitMQ, Java, Scala, Emberjs, Ansible...
 
-- Découvrir PeopleDoc : www.people-doc.fr
-- Postuler : www.people-doc.fr/carrieres
+- Découvrir PeopleDoc : http://www.people-doc.fr
+- Postuler : http://www.people-doc.fr/carrieres
 - PeopleDoc en vidéo : http://bit.ly/2sxkIg2
 
 `Devenez partenaire "Or" </pages/nous-soutenir.html>`_
