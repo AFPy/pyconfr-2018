@@ -11,9 +11,9 @@ Appel à participation pour la PyConFr 2017
 :og_description: L'appel à participation est ouvert jusqu'au 11 août 23h59 pour proposer conférence, atelier et sprint pour la PyConFR 2017!
 :og_image: images/logo2017.png
 
-Depuis 2007, l’Association Francophone Python (AFPy) organise une rencontre annuelle des utilisateurs francophones du langage Python sur quelques jours pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles au cours d’ateliers, de conférences et de rencontres.
+Depuis 2007, l’Association Francophone Python (AFPy) organise une rencontre annuelle des utilisatrices et utilisateurs francophones du langage Python sur quelques jours pour échanger autour de leurs expériences, apprendre les un·e·s des autres et se présenter leurs dernières trouvailles au cours d’ateliers, de conférences et de rencontres.
 
-La PyCon-fr est le meilleur moyen de découvrir le langage Python, d’aller plus loin dans son utilisation, de rencontrer les auteurs de bibliothèques que vous utilisez peut‐être tous les jours… et tout simplement de se retrouver le temps d’un week‐end.
+La PyCon-fr est le meilleur moyen de découvrir le langage Python, d’aller plus loin dans son utilisation, de rencontrer les auteur·e·s de bibliothèques que vous utilisez peut‐être tous les jours… et tout simplement de se retrouver le temps d’un week‐end.
 
 Cette année, la PyCon-fr pose ses valises à Toulouse, dans les locaux de l’ENSEEIHT, du 21 au 24 septembre 2017.
 
@@ -41,5 +41,5 @@ Voici quelques suggestions de thèmes issus des éditions précédentes :
   - le Libre avec Python : vos créations ;
   - et aussi, mais surtout, toutes les propositions ne rentrant pas dans ces cases ;).
 
-Parce que vous avez maintenant probablement plein d’idées, vous pouvez utiliser le troisième lien en haut de la dépêche pour proposer votre conférence. **Attention, la date limite est fixée au 11 août 23h59** !
+Parce que vous avez maintenant probablement plein d’idées, vous pouvez maintenant `faire une proposition <https://cfp.pycon.fr/cfp/>`_. **Attention, la date limite est fixée au 11 août 23h59** !
 
