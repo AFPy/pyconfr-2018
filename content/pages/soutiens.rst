@@ -150,6 +150,22 @@ création d’entreprise, en partageant le risque financier et en prenant
 en charge la direction technique pour faire de leur idée un projet
 unique et durable.
 
+`Algoo <https://www.algoo.fr/>`_
+--------------------------------
+
+.. image:: ../images/logo_algoo.png
+    :height: 100px
+    :alt: logo d'Algoo
+    :target: https://www.algoo.fr/
+
+Algoo est spécialisée dans le développement de logiciels et applications web sur mesure. Nous vous accompagnons dans vos missions de génie logiciel - architectures distribuées, développements sur mesure, industrialisation du développement, exploitation. Notre fil rouge : la maintenabilité et le time-to-market.
+
+Nous contribuons également au logiciel libre à travers de la documentation, des contributions en code ou encore à travers le développement de `Tracim <http://tracim.fr>`_, plateforme collaborative pour les professionnels.
+
+Nos mots-clés : flask, django, react, javascript, ansible, debian.
+
+
+
 `Devenez partenaire "Bronze" </pages/nous-soutenir.html>`_
 
 Cœur
