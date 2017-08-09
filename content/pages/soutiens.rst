@@ -8,6 +8,37 @@ Nos soutiens
 Partenaires
 ===========
 
+`ENSEEIHT <http://www.enseeiht.fr>`_
+------------------------------------
+
+.. image:: ../images/logo_enseeiht.png
+   :alt: logo de l'ENSEEIHT
+   :target: http://www.enseeiht.fr
+
+L'ENSEEIHT héberge PyConFr 2017.
+
+
+`Kozea <https://www.kozea.fr/>`_
+--------------------------------
+
+.. image:: ../images/logo_kozea.svg
+   :height: 100px
+   :width: 100px
+   :alt: logo de Kozea
+   :target: https://www.kozea.fr/
+
+Kozea a conçu et intégré le design du site web de PyConFr 2017 et les éléments graphiques imprimés (tshirts, affiches, etc...).
+
+`Linux Mag (Éditions Diamond) <https://boutique.ed-diamond.com/>`_
+------------------------------------------------------------------
+
+.. image:: ../images/logo_linux_mag.jpg
+   :height: 100px
+   :alt: logo de Linux Mag (Éditions Diamond)
+   :target: https://boutique.ed-diamond.com/
+
+Le magazine de référence technique pour les Développeu·ses·rs et les Administrat·rices·eurs sur systèmes Open Source, partenaire presse
+
 Platine
 =======
 
@@ -153,7 +184,7 @@ unique et durable.
 `Algoo <https://www.algoo.fr/>`_
 --------------------------------
 
-.. image:: ../images/logo_algoo.png
+.. image:: ../images/logo_algoo.jpg
     :height: 100px
     :alt: logo d'Algoo
     :target: https://www.algoo.fr/
