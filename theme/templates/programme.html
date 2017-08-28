@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content">
+{% block content_title %}
+<h2>Tous les articles</h2>
+{% endblock %}
+
+<ol id="post-list">
+{% for article in articles_page.object_list %}
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+                <div class="post-info">
+                    <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+                    <address class="vcard author">par
+                    {% for author in article.authors %}
+                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                    {% endfor %}
+                    </address>
+                </div><!-- /.post-info -->
+                <div class="entry-content">
+                    {{ article.summary }} 
+                    <p><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">Lire plus</a></p>
+                </div><!-- /.entry-content -->
+        </article></li>
+
+{% endfor %}
+</ol><!-- /#posts-list -->
+{% if not articles_page.object_list %}
+<p>Aucun article pour l'instant</p>
+{% endif %}
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+</section><!-- /#content -->
+{% endblock content %}
+
