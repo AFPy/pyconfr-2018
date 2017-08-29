@@ -29,12 +29,12 @@ SOCIAL = (
 MENUITEMS = (
     (u'À propos', '/index.html'),
     (u'Nouvelles', '/nouvelles.html'),
+    (u'Programme', '/programme.html'),
     (u'Nos soutiens', '/pages/soutiens.html'),
     (u'Demander une bourse', '/pages/bourse.html'),
     (u'Nous soutenir', '/pages/nous-soutenir.html'),
     (u'Nous contacter', '/pages/nous-contacter.html'),
     (u'Code de conduite', '/pages/code-de-conduite.html'),
-    # (u'Programme', '/pages/programme.html'),
     (u'Venir', '/pages/venir.html'),
     (u'Se loger', '/pages/se-loger.html'),
     # (u'Se nourrir', '/pages/se-nourrir.html'),
