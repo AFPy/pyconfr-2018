@@ -90,7 +90,7 @@
   }
 
   function createProgramTables(programXML) {
-    var programmeContainer = document.getElementById('programme')
+    var programmeContainer = document.getElementById('program')
     programmeContainer.innerHTML = '' // we remove the loader
 
     var days = new Map()

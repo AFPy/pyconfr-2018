@@ -1,0 +1,98 @@
+.day-container + .day-container
+  margin-top: 6rem
+
+.program-table
+  //table-layout: fixed;
+
+  .header-room
+    text-align: center
+
+    //width: 7rem;
+
+  .slot-times-header
+    width: 4rem
+
+  .slot-times-container
+    display: inline-block
+    height: 100%
+
+  .slot-times
+    height: 100%
+    display: flex
+    flex-flow: column wrap
+    justify-content: space-between
+    align-items: center
+    font-size: 75%
+
+  .event-cell
+    padding: 0
+
+  .event
+    text-align: center
+    cursor: pointer
+    padding: 8px
+    height: 100%
+
+  tbody > tr > td.event
+    vertical-align: middle
+
+  .event-title
+    font-size: 75%
+    font-weight: bold
+
+  .event-persons
+    font-size: 70%
+    font-style: italic
+
+  .event-type-conference
+    background-color: #39af3a
+
+  .event-type-atelier
+    background-color: #6db3cc
+
+  .event-type-keynote
+    display: flex
+    flex-flow: column wrap
+    justify-content: center
+    align-items: center
+
+  .event-room
+    font-size: 90%
+
+  .keynote-slot
+    background-color: #e7e7e7
+    padding: 0
+    border: none
+
+// spinning animation stolen from FontAwesome
+.fa-spin
+  -webkit-animation: fa-spin 2s infinite linear
+  animation: fa-spin 2s infinite linear
+
+@keyframes fa-spin
+  0%
+    -webkit-transform: rotate(0deg)
+    transform: rotate(0deg)
+
+  100%
+    -webkit-transform: rotate(359deg)
+    transform: rotate(359deg)
+
+#event-details-modal
+  .event-title
+    margin-bottom: 22px
+
+  .event-info
+    font-size: 90%
+
+  .event-registration
+    margin: 0.5rem 0
+
+  .event-abstract
+    white-space: pre-wrap
+    padding: 1rem
+    margin: 1rem 0
+    background-color: #e5e5e5
+
+  .event-description
+    white-space: pre-wrap
