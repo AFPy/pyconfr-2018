@@ -291,6 +291,8 @@
         if (eventElem) {
           eventElem.scrollIntoView();
         }
+      } else {
+        showSprintDescription();
       }
     }
   }
@@ -347,8 +349,21 @@
     modal.modal('show')
   }
 
+  function showSprintDescription() {
+    // Show description if hash is a sprint identifier
+    var sprint = $(window.location.hash + '-desc.collapse');
+    if (sprint.length !== 0) {
+      sprint.collapse('show');
+      $(window.location.hash)[0].scrollIntoView();
+    }
+  }
+
   function init() {
     fetchProgram(createProgramTables)
   }
+
+  $(window).bind('hashchange', function() {
+    showSprintDescription();
+  });
 
 })(window, window.moment)
