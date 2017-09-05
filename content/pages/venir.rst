@@ -1,4 +1,4 @@
-Venir à PyCon-FR
+Venir à PyConFr
 ################
 
 :slug: venir
@@ -7,7 +7,7 @@ Venir à PyCon-FR
 
 Toulouse se trouve à 1h d'avion de Paris, et à 4h de Paris en TGV.
 
-PyCon-fr 2017 sera hébergée à l'`INP-ENSEEIHT
+PyConFr 2017 sera hébergée à l'`INP-ENSEEIHT
 <http://www.enseeiht.fr>`_.
 
  2 rue Charles Camichel, 31000 Toulouse
