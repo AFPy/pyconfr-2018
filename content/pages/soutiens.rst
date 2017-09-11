@@ -195,6 +195,21 @@ Nous contribuons également au logiciel libre à travers de la documentation, de
 
 Nos mots-clés : flask, django, react, javascript, ansible, debian.
 
+`majerti <https://majerti.fr/>`_
+--------------------------------
+
+.. image:: ../images/logo_majerti.png
+    :height: 100px
+    :alt: logo de majerti
+    :target: https://majerti.fr
+
+Majerti vous accompagne dans la construction et la maintenance dans la durée de
+vos systèmes et logiciels. 
+Fondée en mai 2011 et aujourd'hui une SCOP, majerti, c'est trois ingénieurs
+(Gaston, Julien et Feth) concentrés sur l'utilisateur final avec un Python
+dans la boîte à outils.
+
+
 
 
 `Devenez partenaire "Bronze" </pages/nous-soutenir.html>`_
