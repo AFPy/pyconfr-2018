@@ -23,7 +23,7 @@ L'ENSEEIHT héberge PyConFr 2017.
 
 .. image:: ../images/logo_kozea.svg
    :height: 100px
-   :width: 100px
+   :width: 200px
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
