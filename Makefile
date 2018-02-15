@@ -7,7 +7,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 AFPY_OUTPUTDIR=$(BASEDIR)/output/
-AFPY_PUBLISH_URL=pyconfr@pyconfr:pyconfr-2017/
+AFPY_PUBLISH_URL=pyconfr@pyconfr:pyconfr-2018/
 
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
 VIRTUALENV = virtualenv

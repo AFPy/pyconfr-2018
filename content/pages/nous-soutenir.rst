@@ -49,7 +49,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Logo sur la page d'accueil du site web de PyConFr 2017
+   * - Logo sur la page d'accueil du site web de PyConFr 2018
      - 
      - ✔
      - ✔

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHORS = (u'AFPy',)
 
-SITENAME = u'PyConFr 2017'
+SITENAME = u'PyConFr 2018'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
@@ -15,7 +15,7 @@ DEFAULT_LANG = u'fr'
 
 DEFAULT_PAGINATION = False
 
-THEME = "theme"
+THEME = 'theme'
 INDEX_SAVE_AS = 'nouvelles.html'
 
 COVER_IMG_URL = '/theme/sidebar.jpg'
@@ -23,7 +23,7 @@ COVER_IMG_URL = '/theme/sidebar.jpg'
 SOCIAL = (
     ('Email', 'mailto:contact@pycon.fr'),
     ('RSS', SITEURL + '/feeds/all.atom.xml'),
-    ('GitHub', 'https://github.com/AFPy/pyconfr_2017'),
+    ('GitHub', 'https://github.com/AFPy/pyconfr_2018'),
 )
 
 MENUITEMS = (

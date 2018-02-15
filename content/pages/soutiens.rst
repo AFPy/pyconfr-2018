@@ -8,16 +8,6 @@ Nos soutiens
 Partenaires
 ===========
 
-`ENSEEIHT <http://www.enseeiht.fr>`_
-------------------------------------
-
-.. image:: ../images/logo_enseeiht.png
-   :alt: logo de l'ENSEEIHT
-   :target: http://www.enseeiht.fr
-
-L'ENSEEIHT héberge PyConFr 2017.
-
-
 `Kozea <https://www.kozea.fr/>`_
 --------------------------------
 
@@ -27,7 +17,7 @@ L'ENSEEIHT héberge PyConFr 2017.
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
-Kozea a conçu et intégré le design du site web de PyConFr 2017 et les éléments graphiques imprimés (tshirts, affiches, etc...).
+Kozea a conçu et intégré le design du site web de PyConFr 2018 et les éléments graphiques imprimés (tshirts, affiches, etc...).
 
 `Linux Mag (Éditions Diamond) <https://boutique.ed-diamond.com/>`_
 ------------------------------------------------------------------

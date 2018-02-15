@@ -1,4 +1,4 @@
-PyConFr 2017
+PyConFr 2018
 ============
 
 Vous avez vu une faute ou une erreur ?
