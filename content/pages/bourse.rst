@@ -20,6 +20,6 @@ Les demandes de bourse doivent être faites à l'adresse mail `tresorier@afpy.or
 
 Les demandes sont traitées au fur et à mesure. Ne tardez pas à faire votre demande, il n'y aura pas forcèment du budget pour tout le monde !
 
-Contact : Arthur Vuillard `tresorier@afpy.org`_
+Contact : `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org

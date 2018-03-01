@@ -29,7 +29,6 @@ SOCIAL = (
 MENUITEMS = (
     (u'À propos', '/index.html'),
     (u'Nouvelles', '/nouvelles.html'),
-    (u'Programme', '/programme.html'),
     (u'Nos soutiens', '/pages/soutiens.html'),
     (u'Demander une bourse', '/pages/bourse.html'),
     (u'Nous soutenir', '/pages/nous-soutenir.html'),

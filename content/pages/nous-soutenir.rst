@@ -13,8 +13,8 @@ l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
 
 Toute aide bénévole lors de l'évènement est la bienvenue !
 
-Parrainer PyConFr
-==================
+Financer PyConFr
+================
 
 Le mécénat d'entreprises et d'organisations permet chaque année aux
 organisateurs de couvrir certains frais (sécurité) et de proposer
@@ -24,28 +24,30 @@ PyConFr est organisé par des bénévoles de la communauté Python francophone e
 permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
 année.
 
-Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `Arthur
-Vuillard <mailto:tresorier@afpy.org>`_, le tresorier de l'Afpy afin de discuter des détails.
+Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le tresorier de l'Afpy <mailto:tresorier@afpy.org>`_ afin de discuter des détails.
 
 Cette année, nous proposons les montants et contreparties suivantes :
 
 .. list-table::
-   :widths: 60 10 10 10 10
+   :widths: 50 10 10 10 10 10
    :header-rows: 1
    :class: sponsors
 
    * - Bénéfice
      - Cœur (montant libre)
      - Bronze 500€
-     - Or 1000€
-     - Platine 2000€
+     - Argent 1000€
+     - Or 2000€
+     - Platine 4000€
    * - Nom et logo sur `la page Soutiens du site web`_
      - ✔
      - ✔
      - ✔
      - ✔
-   * - Présentation de 10 lignes sur `la page Soutiens du site web`_
+     - ✔
+   * - Présentation de 1000caractères sur `la page Soutiens du site web`_
      - 
+     - ✔
      - ✔
      - ✔
      - ✔
@@ -54,14 +56,17 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Nom mentionné dans la communication officielle
+     - ✔
+   * - Logo sur les affiches et documents imprimés (si réception du logo avant envoi pour impression)
      - 
      - ✔
      - ✔
      - ✔
-   * - Poser votre panneau dans la salle de conférence
+     - ✔
+   * - Votre panneau dans les salles de conférence
      - 
      -
+     - ✔
      - ✔
      - ✔
    * - Présentation de l'entreprise (2min) en début de conférence plénière
@@ -69,13 +74,21 @@ Cette année, nous proposons les montants et contreparties suivantes :
      -
      - ✔
      - ✔
+     - ✔
    * - Stand dans le hall
      - 
      -
      -
      - ✔
+     - ✔
+   * - Demande extravagante (à confirmer avec l'organisation)
+     - 
+     -
+     -
+     -
+     - ✔
 
-Contact : Arthur Vuillard `tresorier@afpy.org`_
+Contact : `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 

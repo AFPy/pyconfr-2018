@@ -5,8 +5,7 @@ Venir à PyConFr
 :lang: fr
 :url: venir
 
-PyConFr 2018 sera hébergée à l'`IMT Lille Douai
-<http://imt-lille-douai.fr/>`_.
+PyConFr 2018 sera hébergée à l'`IMT Lille Douai <http://imt-lille-douai.fr/>`_.
 
  20 rue Guglielmo Marconi, 59650 Villeneuve-d’Ascq
 
