@@ -25,7 +25,7 @@
     <ul>
       {% for title, link in MENUITEMS %}
         <li{% if link == '/' + output_file %} class="active"{% endif %}>
-          <a href="{{ link }}">{{ title }}</a>
+          <a href="{{ SITEURL }}{{ link }}">{{ title }}</a>
         </li>
       {% endfor %}
     </ul>
