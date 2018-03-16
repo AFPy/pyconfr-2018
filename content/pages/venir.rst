@@ -14,8 +14,7 @@ PyConFr 2018 sera hébergée à l'`IMT Lille Douai, site de Villeneuve d'Ascq
 
 .. html::
 
-    <iframe src="TODO"></iframe>
-    <p><a href="TODO">Voir en plein écran</a></p>
+  <iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/carte-sans-nom_205751?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/carte-sans-nom_205751">Voir en plein écran</a></p>
 
 .. _campus:
 
@@ -39,8 +38,7 @@ En vélo libre service
 En V'lille, la station d'arrêt la plus proche est celle de l'arrêt de métro
 Triolo. Il faudra ensuite compter 1,5 km à pied jusqu'à l'école.
 
-`Plus d'infos.
-<https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
+`Plus d'infos <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
 
 Venir à Lille en voiture
 ========================
