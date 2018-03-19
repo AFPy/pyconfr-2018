@@ -45,7 +45,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Présentation de 1000caractères sur `la page Soutiens du site web`_
+   * - Présentation de 1000 caractères sur `la page Soutiens du site web`_
      - 
      - ✔
      - ✔
