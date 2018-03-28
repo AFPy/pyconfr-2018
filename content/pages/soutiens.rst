@@ -17,7 +17,18 @@ Partenaires
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
-Kozea a conçu et intégré le design du site web de PyConFr 2018 et les éléments graphiques imprimés (tshirts, affiches, etc...).
+Kozea a participé à la conception et l'intégration du design du site web de PyConFr 2018 et des éléments graphiques imprimés (tshirts, affiches, etc...).
+
+`Hashbang <https://hashbang.fr>`_
+---------------------------------
+
+.. image:: ../images/logo_hashbang.svg
+   :height: 100px
+   :width: 200px
+   :alt: logo d'Hashbang
+   :target: https://hashbang.fr/
+
+Hashbang a participé à la conception et l'intégration du design du site web de PyConFr 2018 et des éléments graphiques imprimés (tshirts, affiches, etc...).
 
 Platine
 =======
