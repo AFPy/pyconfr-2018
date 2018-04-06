@@ -5,6 +5,8 @@ Code de conduite
 :lang: fr
 :url: code-de-conduite
 
+Code de conduite
+================
 
 En tant qu’événement organisé par l'Association Francophone Python (AFPy), `la
 charte de l'AFPy`_ s'applique. Pour mémoire, cette charte est reprise dans la
@@ -13,7 +15,7 @@ suite de cette page.
 .. _`la charte de l'AFPy`: http://www.afpy.org/doc/afpy/charte.html
 
 Charte AFPy
-===========
+-----------
 
 Le but de l’Association Francophone Python (AFPy) est d’assurer la promotion du
 langage de programmation Python auprès du plus large public possible. Nous
@@ -33,8 +35,8 @@ non) par l’association.
 Ce texte est notamment inspiré par le code de conduite établi par l’Ada
 Initiative et par la loi française de lutte contre les discriminations.
 
-La version “courte”
-+++++++++++++++++++
+La version « courte »
++++++++++++++++++++++
 
 L’AFPY souhaite éviter tout type de discrimination, que ce soit sur le sexe,
 l’orientation sexuelle, le handicap, l’apparence physique, l’origine ou la
@@ -58,11 +60,11 @@ l’événement, à la seule discrétion d’un ou plusieurs organisateurs, ou d
 l’association, après délibération du comité directeur, ainsi que de tout service
 proposé par l’AFPy (planète AFPy, blog, canaux IRC).
 
-La version “longue”
-+++++++++++++++++++
+La version « longue »
++++++++++++++++++++++
 
 Champ d’application
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 Ces bonnes pratiques s’appliquent dans le cadre de tout événement (co-)organisé
 par l’AFPy de manière directe ou indirecte à savoir :
@@ -76,21 +78,21 @@ par l’AFPy de manière directe ou indirecte à savoir :
   informelles (notamment AFPyros)
 
 Définition de la discrimination
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La discrimination inclut, selon la loi française, « la situation dans laquelle,
+La discrimination inclut, selon la loi française, « la situation dans laquelle,
 sur le fondement de son appartenance ou de sa non-appartenance, vraie ou
 supposée, à une ethnie ou une race, sa religion, ses convictions, son âge, son
 handicap, son orientation ou identité sexuelle ou son sexe, une personne est
 traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne
-l’aura été dans une situation comparable. » Est donc proscrit « tout agissement
+l’aura été dans une situation comparable ». Est donc proscrit « tout agissement
 à connotation sexuelle, [subi] par une personne et ayant pour objet ou pour
 effet de porter atteinte à sa dignité ou de créer un environnement intimidant,
 hostile, dégradant, humiliant ou offensant ; Le fait d’enjoindre à quiconque
-d’adopter un [tel] comportement. »
+d’adopter un [tel] comportement ».
 
 Comportements à éviter (proscrire ?)
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En référence à la définition qui précède, nous vous invitons à vous abstenir
 
@@ -100,7 +102,7 @@ En référence à la définition qui précède, nous vous invitons à vous abste
   et non consentis.
 
 Traitement des incidents
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 En cas de harcèlement ou de discrimination commis par un participant, les
 organisateurs de l’événement ou membres du comité directeur pourront prendre
@@ -108,7 +110,7 @@ immédiatement les mesures qu’ils jugent appropriées et qui peuvent aller jus
 l’exclusion temporaire ou définitive d’un événement.
 
 Signaler
-++++++++
+--------
 
 Si vous êtes harcelé(e) ou victime de discrimination, ou si vous êtes témoin de
 harcèlement ou de discrimination à l’égard d’autre(s) participant(e-s), ou si

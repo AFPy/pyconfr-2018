@@ -5,6 +5,9 @@ Venir à PyConFr
 :lang: fr
 :url: venir
 
+Adresse
+=======
+
 PyConFr 2018 sera hébergée à l'`IMT Lille Douai, site de Villeneuve d'Ascq
 <http://imt-lille-douai.fr/>`_.
 
@@ -28,7 +31,7 @@ Lille et sa métropole comptent beaucoup de lignes de métro, tram et bus.
 
 Quel que soit l'endroit où tu te loges, il y a de fortes chances que tu arrives
 sur place avec la ligne 1 du métro. Elle dessert le campus de Lille 1 avec l'arrêt
-Cité Scientifique Pr. Gabillard. 
+Cité Scientifique Pr. Gabillard.
 
 `Plus d'infos. <https://www.transpole.fr/>`_
 

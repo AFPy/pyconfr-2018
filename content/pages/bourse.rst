@@ -5,6 +5,9 @@ Demander une bourse
 :lang: fr
 :url: bourse
 
+Demander une bourse
+===================
+
 L'AFPy propose des bourses pour les étudiant(e-s) ou les personnes dont les
 moyens ne permettent pas de venir à PyConFr. Pour faire une demande, écrivez un
 mail au trésorier de l'AFPy (`tresorier@afpy.org`_) expliquant brièvement :
@@ -22,7 +25,7 @@ de 400€ pour un aller retour partant hors d'Europe, correspondant au
 remboursement d'au maximum 75% des coûts de transports et de logement.
 
 La bourse sera réglée par virement européen SEPA ou par Paypal, sur présentation
-des justificatifs des dépenses (facture, billet de train...). 
+des justificatifs des dépenses (facture, billet de train...).
 
 Les demandes de bourse doivent être faites à l'adresse mail
 `tresorier@afpy.org`_ avant le 1er septembre.
