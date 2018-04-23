@@ -10,12 +10,12 @@ Se loger
 
 Nous conseillons 2 secteurs à celles et ceux qui ne connaissent pas le coin.
 
-À proximité de la bière
+À proximité des sorties
 -----------------------
 
 Si vous voulez passer la nuit dans les bars et autres lieux festifs, vous
 devriez chercher un hébergement dans le centre de Lille. C'est là qu'il y aura
-de l'action !
+de l'animation !
 
 À proximité de la science
 -------------------------
