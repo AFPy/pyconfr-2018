@@ -23,6 +23,7 @@ COVER_IMG_URL = '/theme/sidebar.jpg'
 SOCIAL = (
     ('Email', 'mailto:contact@pycon.fr'),
     ('RSS', SITEURL + '/feeds/all.atom.xml'),
+    ('Twitter', 'https://twitter.com/pyconfr'),
     ('GitHub', 'https://github.com/AFPy/pyconfr_2018'),
 )
 
