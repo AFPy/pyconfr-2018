@@ -9,10 +9,11 @@ PyConFr 2018
 :og_type: article
 :og_title: PyConFr 2018
 :og_description: L'édition 2018 de la conférence sur Python de la communauté francophone se tiendra à Lille du 4 au 7 octobre 2018
+:og_image: /images/logo_tmp.png
 
 L'édition 2018 de la conférence sur Python de la communauté francophone se tiendra à Lille du 4 au 7 octobre 2018.
 
-Les deux premiers jours sont réservés à des séances de codage participative.  Les développeurs et développeuses de différents projets open-source se rejoignent pour coder ensemble. Chaque personne est la bienvenue pour contribuer, et nous cherchons également à accompagner les débutant(e-s). Nous fournissons l'espace et le matériel nécessaire à l'organisation (tables, chaises, connexion internet…). Les projets présents seront annoncés sur notre site au fur et à mesure de leur inscription (il n'y a pas encore d'espace pour les proposer).
+Les deux premiers jours sont réservés à des séances de codage participatif.  Les développeurs et développeuses de différents projets libres se rejoignent pour coder ensemble. Chaque personne est la bienvenue pour contribuer, et nous cherchons également à accompagner les débutant·e·s. Nous fournissons l'espace et le matériel nécessaire à l'organisation (tables, chaises, connexion internet…). Les projets présents seront annoncés sur notre site au fur et à mesure de leur inscription (il n'y a pas encore d'espace pour les proposer).
 
 Les deux derniers jours sont consacrés à des conférences. Vous aurez l'occasion de participer à des présentations sur des sujets variés, autour du langage Python, de ses usages, des bonnes pratiques, des retours d'expériences, des partages d'idées… Un appel à présentation sera également lancé d'ici quelques temps.
 
