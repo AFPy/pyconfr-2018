@@ -12,7 +12,7 @@ En tant qu’événement organisé par l'Association Francophone Python (AFPy), 
 charte de l'AFPy`_ s'applique. Pour mémoire, cette charte est reprise dans la
 suite de cette page.
 
-.. _`la charte de l'AFPy`: http://www.afpy.org/doc/afpy/charte.html
+.. _`la charte de l'AFPy`: http://www.afpy.org/docs/charte
 
 Charte AFPy
 -----------
