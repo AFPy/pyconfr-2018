@@ -10,18 +10,19 @@
 
 .. :og_image: images/logo.png
 
-Rassemblement annuel de la communauté Python francophone
-========================================================
-
 Lille, 4-7 octobre 2018
------------------------
+=======================
 
-Organisée par `L'AFPy http://www.afpy.org/`, cette conférence est gratuite,
+Organisée par `L'AFPy <http://www.afpy.org/>`_, cette conférence est gratuite,
 entièrement organisée par des bénévoles et regroupe les personnes intéressées
-par le langage de programmation `Python http://www.python.org/`.
+par le langage de programmation `Python <http://www.python.org/>`_.
+
+Programme
+=========
 
 Codage participatif (« Sprints »)
 ---------------------------------
+
 Les deux premiers jours sont réservés à des sprints.
 
 Les développeurs et développeuses de différents projets open-source se
@@ -34,12 +35,17 @@ et café !).
 
 Conférences
 -----------
+
 Durant ces deux jours, vous aurez l'occasion de participer à des présentations
 sur des sujets variés, autour du langage Python, de ses usages, des bonnes
 pratiques, des retours d'expériences, des partages d'idées…
 
-.. <section class="soutiens">
-..   <p>
-..     <a class="soutien" href="/fr/sponsor-pyconfr">Soutenez nous !</a>
-..   </p>
-.. </section>
+.. raw:: html
+
+  <br />
+
+  <section class="soutiens">
+    <p>
+      <a class="soutien" href="/en/sponsor-pyconfr">Soutenez nous !</a>
+    </p>
+  </section>

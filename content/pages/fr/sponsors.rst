@@ -32,24 +32,24 @@ Hashbang a participé à la conception et l'intégration du design du site web d
 Platine
 =======
 
-`Devenez le premier partenaire "Platine" </fr/sponsor-pyconfr>`_
+`Devenez le premier partenaire "Platine" </sponsor-pyconfr>`_
 
 Or
 ==
 
-`Devenez le premier partenaire "Or" </fr/sponsor-pyconfr>`_
+`Devenez le premier partenaire "Or" </sponsor-pyconfr>`_
 
 Argent
 ======
 
-`Devenez le premier partenaire "Argent" </fr/sponsor-pyconfr>`_
+`Devenez le premier partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
 ======
 
-`Devenez le premier partenaire "Bronze" </fr/sponsor-pyconfr>`_
+`Devenez le premier partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur
 ====
 
-`Devenez le premier partenaire "Cœur" </fr/sponsor-pyconfr>`_
+`Devenez le premier partenaire "Cœur" </sponsor-pyconfr>`_

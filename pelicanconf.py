@@ -48,7 +48,22 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
+THEME = 'theme'
+
+MENUITEMS = [
+    (u'À propos', '/index'),
+    (u'Nouvelles', '/news'),
+    (u'Nos soutiens', '/sponsors'),
+    (u'Demander une bourse', '/financial-assistance'),
+    (u'Nous soutenir', '/sponsor-pyconfr'),
+    (u'Nous contacter', '/contact'),
+    (u'Code de conduite', '/code-of-conduct'),
+    (u'Venir', '/traveling-to-pyconfr'),
+    (u'Se loger', '/venue'),
+]
+
 I18N_SUBSITES = {
+    # Not mandatory but provide more convenient urls
     'fr': {
         'THEME': 'theme',
         'STATIC_PATHS': STATIC_PATHS,
