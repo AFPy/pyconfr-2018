@@ -1,9 +1,8 @@
 Se loger
 ########
 
-:slug: se-loger
-:lang: fr
-:url: se-loger
+:slug: venue
+:lang: en
 
 Se loger
 ========

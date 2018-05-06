@@ -1,9 +1,8 @@
 Code de conduite
 ################
 
-:slug: code-de-conduite
+:slug: code-of-conduct
 :lang: fr
-:url: code-de-conduite
 
 Code de conduite
 ================

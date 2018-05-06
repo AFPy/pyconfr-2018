@@ -1,9 +1,8 @@
 Nos soutiens
 ############
 
-:slug: soutiens
-:lang: fr
-:url: soutiens
+:slug: sponsors
+:lang: en
 
 Partenaires
 ===========
@@ -11,7 +10,7 @@ Partenaires
 `Kozea <https://www.kozea.fr/>`_
 --------------------------------
 
-.. image:: ../images/logo_kozea.svg
+.. image:: /images/logo_kozea.svg
    :height: 100px
    :width: 200px
    :alt: logo de Kozea
@@ -22,7 +21,7 @@ Kozea a participé à la conception et l'intégration du design du site web de P
 `Hashbang <https://hashbang.fr>`_
 ---------------------------------
 
-.. image:: ../images/logo_hashbang.svg
+.. image:: /images/logo_hashbang.svg
    :height: 100px
    :width: 200px
    :alt: logo d'Hashbang
