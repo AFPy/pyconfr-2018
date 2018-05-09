@@ -5,7 +5,7 @@ PyConFr 2018
 :lang: fr
 :date: 2018-04-23
 :author: Arthur Vuillard
-:og_url: https://www.pycon.fr/2018/20180418_annonce
+:og_url: https://www.pycon.fr/2018/2018-04-23-pyconfr-2018.html
 :og_type: article
 :og_title: PyConFr 2018
 :og_description: L'édition 2018 de la conférence sur Python de la communauté francophone se tiendra à Lille du 4 au 7 octobre 2018
