@@ -10,25 +10,26 @@ Nous aider avant et pendant l'évènement
 Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
 l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+Toute aide bénévole lors de l'évènement est la bienvenue !
 
 Financer PyConFr
 ================
 
-Le mécénat d'entreprises et d'organisations permet chaque année aux
-organisateurs de couvrir certains frais (sécurité) et de proposer
-rafraîchissements et cafés à notre public.
+Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des
+boissons chaudes et fraiches, le nettoyage, la captation vidéo…
 
 PyConFr est organisé par des bénévoles de la communauté Python francophone et
 permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
 année.
 
-Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le tresorier de l'Afpy <mailto:tresorier@afpy.org>`_ afin de discuter des détails.
+Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le
+tresorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
+discuter des détails.
 
-Cette année, nous proposons les montants et contreparties suivantes :
+Cette année, nous proposons les montants et contreparties suivantes :
 
 .. list-table::
-   :widths: 50 10 10 10 10 10
+   :widths: 30 10 10 10 10 10 10 10
    :header-rows: 1
    :class: sponsors
 
@@ -37,8 +38,12 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - Bronze 500€
      - Argent 1000€
      - Or 2000€
-     - Platine 4000€
+     - Platine - Transcription - 4000€
+     - Platine - Boissons et viennoiseries - 4000€
+     - Platine - Vidéo - 6000€
    * - Nom et logo sur `la page Soutiens du site web`_
+     - ✔
+     - ✔
      - ✔
      - ✔
      - ✔
@@ -50,8 +55,12 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
+     - ✔
+     - ✔
    * - Logo sur la page d'accueil du site web de PyConFr 2018
      - 
+     - ✔
+     - ✔
      - ✔
      - ✔
      - ✔
@@ -62,9 +71,13 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
+     - ✔
+     - ✔
    * - Votre panneau dans les salles de conférence
      - 
      -
+     - ✔
+     - ✔
      - ✔
      - ✔
      - ✔
@@ -74,20 +87,42 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
+     - ✔
+     - ✔
    * - Stand dans le hall
      - 
      -
      -
      - ✔
      - ✔
-   * - Demande extravagante (à confirmer avec l'organisation)
+     - ✔
+     - ✔
+   * - Votre logo sur l'écran de transcription textuelle et sur les vidéos sous titrées grâce aux transcriptions
      - 
      -
      -
      -
      - ✔
+     -
+     -
+   * - Votre logo sur les tables accueillants les viennoiseries et les boissons
+     - 
+     -
+     -
+     -
+     -
+     - ✔
+     -
+   * - Votre logo au début des captations vidéos
+     - 
+     -
+     -
+     -
+     -
+     -
+     - ✔
 
-Contact : `tresorier@afpy.org`_
+Contact : `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 
