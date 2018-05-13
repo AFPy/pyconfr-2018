@@ -10,20 +10,23 @@ Nous aider avant et pendant l'évènement
 Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
 l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+Toute aide bénévole lors de l'évènement est la bienvenue !
 
 Financer PyConFr
 ================
 
-Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des boissons chaudes et fraiches, le nettoyage, la captation vidéo, etc...
+Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des
+boissons chaudes et fraiches, le nettoyage, la captation vidéo…
 
 PyConFr est organisé par des bénévoles de la communauté Python francophone et
 permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
 année.
 
-Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le tresorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de discuter des détails.
+Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le
+tresorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
+discuter des détails.
 
-Cette année, nous proposons les montants et contreparties suivantes :
+Cette année, nous proposons les montants et contreparties suivantes :
 
 .. list-table::
    :widths: 30 10 10 10 10 10 10 10
@@ -119,7 +122,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      -
      - ✔
 
-Contact : `tresorier@afpy.org`_
+Contact : `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 
