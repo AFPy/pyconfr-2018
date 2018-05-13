@@ -1,9 +1,8 @@
 Nous contacter
 ##############
 
-:slug: nous-contacter
+:slug: contact
 :lang: fr
-:url: nous-contacter
 
 Nous contacter
 ==============

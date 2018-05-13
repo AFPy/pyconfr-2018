@@ -1,9 +1,8 @@
 Nos soutiens
 ############
 
-:slug: soutiens
+:slug: sponsors
 :lang: fr
-:url: soutiens
 
 Partenaires
 ===========
@@ -11,7 +10,7 @@ Partenaires
 `Kozea <https://www.kozea.fr/>`_
 --------------------------------
 
-.. image:: ../images/logo_kozea.svg
+.. image:: /images/logo_kozea.svg
    :height: 100px
    :width: 200px
    :alt: logo de Kozea
@@ -22,7 +21,7 @@ Kozea a participé à la conception et l'intégration du design du site web de P
 `Hashbang <https://hashbang.fr>`_
 ---------------------------------
 
-.. image:: ../images/logo_hashbang.svg
+.. image:: /images/logo_hashbang.svg
    :height: 100px
    :width: 200px
    :alt: logo d'Hashbang
@@ -33,24 +32,24 @@ Hashbang a participé à la conception et l'intégration du design du site web d
 Platine
 =======
 
-`Devenez le premier partenaire "Platine" </pages/nous-soutenir.html>`_
+`Devenez le premier partenaire "Platine" </sponsor-pyconfr>`_
 
 Or
 ==
 
-`Devenez le premier partenaire "Or" </pages/nous-soutenir.html>`_
+`Devenez le premier partenaire "Or" </sponsor-pyconfr>`_
 
 Argent
 ======
 
-`Devenez le premier partenaire "Argent" </pages/nous-soutenir.html>`_
+`Devenez le premier partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
 ======
 
-`Devenez le premier partenaire "Bronze" </pages/nous-soutenir.html>`_
+`Devenez le premier partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur
 ====
 
-`Devenez le premier partenaire "Cœur" </pages/nous-soutenir.html>`_
+`Devenez le premier partenaire "Cœur" </sponsor-pyconfr>`_

@@ -15,7 +15,7 @@
   {% endblock head %}
 </head>
 
-<body id="{{ output_file.split('/')[-1].split('.')[0] }}">
+<body id="{{ output_file.split('/')[0] }}">
   <header>
     <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
     {% block header %}{% endblock header %}
@@ -24,7 +24,8 @@
   <nav id="menu">
     <ul>
       {% for title, link in MENUITEMS %}
-        <li{% if link == '/' + output_file %} class="active"{% endif %}>
+        {# There must be a better way than the *in* operator #}
+        <li{% if output_file.split('/')[0] in link %} class="active"{% endif %}>
           <a href="{{ SITEURL }}{{ link }}">{{ title }}</a>
         </li>
       {% endfor %}
@@ -57,7 +58,7 @@
       © {{ SITENAME }}
     </p>
     <p>
-      Développé avec <a href="http://blog.getpelican.com/">Pelican</a>.
+      Powered by <a href="http://blog.getpelican.com/">Pelican</a>.
     </p>
   </footer>
 </body>

@@ -1,9 +1,8 @@
 Nous soutenir
 #############
 
-:slug: nous-soutenir
-:lang: fr
-:url: nous-soutenir
+:slug: sponsor-pyconfr
+:lang: en
 
 Nous aider avant et pendant l'évènement
 =======================================
