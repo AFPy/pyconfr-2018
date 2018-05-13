@@ -19,8 +19,8 @@ Les deux derniers jours sont consacrés à des conférences. Vous aurez l'occasi
 
 Cet événement est hébergé par L'`Institut Mines Télécom de Lille Douai <http://imt-lille-douai.fr>`_. L'IMT Lille Douai est la plus grande école d'ingénieurs au nord de Paris. Elle forme à l'ingénierie généralise, et experte du numérique. Merci pour leur accueil :)
 
-Nous demandons à chaque personne souhaitant venir de lire le `code de conduite </pages/code-de-conduite.html>`_. Nous souhaitons faire en sorte que cette conférence soit un événement accueillant pour tout le monde. Le groupe de travail de l'AFPy se mobilise pour faire que chacun·e se sente bien durant la conférence. Nous vous annoncerons les actions.
+Nous demandons à chaque personne souhaitant venir de lire le `code de conduite </code-of-conduct>`_. Nous souhaitons faire en sorte que cette conférence soit un événement accueillant pour tout le monde. Le groupe de travail de l'AFPy se mobilise pour faire que chacun·e se sente bien durant la conférence. Nous vous annoncerons les actions.
 
-Si vous souhaitez déjà organiser votre venue, nous vous avons préparé les pages `Venir </pages/venir.html>`_ et `Se loger </pages/se-loger.html>`_.
+Si vous souhaitez déjà organiser votre venue, nous vous avons préparé les pages `Venir </venir>`_ et `Se loger </se-loger>`_.
 
 Nous vous réservons plusieurs autres annonces pour les semaines à venir, alors suivez nous sur `notre fil web </feeds/all.atom.xml>`_, ou `notre fil Twitter <https://twitter.com/pyconfr>`_.

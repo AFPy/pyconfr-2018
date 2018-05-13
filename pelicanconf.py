@@ -8,15 +8,14 @@ SITENAME = u'PyConFr 2018'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
+PAGE_PATHS = ['pages/fr', 'pages/en']
+ARTICLE_PATHS = ['news/fr', 'news/en']
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
 DEFAULT_PAGINATION = False
-
-THEME = 'theme'
-INDEX_SAVE_AS = 'nouvelles.html'
 
 COVER_IMG_URL = '/theme/sidebar.jpg'
 
@@ -27,30 +26,83 @@ SOCIAL = (
     ('GitHub', 'https://github.com/AFPy/pyconfr_2018'),
 )
 
-MENUITEMS = (
-    (u'À propos', '/index.html'),
-    (u'Nouvelles', '/nouvelles.html'),
-    (u'Nos soutiens', '/pages/soutiens.html'),
-    (u'Demander une bourse', '/pages/bourse.html'),
-    (u'Nous soutenir', '/pages/nous-soutenir.html'),
-    (u'Nous contacter', '/pages/nous-contacter.html'),
-    (u'Code de conduite', '/pages/code-de-conduite.html'),
-    (u'Venir', '/pages/venir.html'),
-    (u'Se loger', '/pages/se-loger.html'),
-    # (u'Se nourrir', '/pages/se-nourrir.html'),
-)
+PAGE_URL = '/{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+ARTICLE_URL = 'news/{slug}'
+ARTICLE_SAVE_AS = 'news/{slug}/index.html'
+
+INDEX_URL = '/news'
+INDEX_SAVE_AS = 'news/index.html'
+
+STATIC_PATHS = [
+    'css',
+    'images',
+    'js',
+    'documents',
+    'extra/CNAME',
+    'extra/favicon.ico',
+]
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
+
+THEME = 'theme'
+
+MENUITEMS = [
+    (u'À propos', '/index'),
+    (u'Nouvelles', '/news'),
+    (u'Nos soutiens', '/sponsors'),
+    (u'Demander une bourse', '/financial-assistance'),
+    (u'Nous soutenir', '/sponsor-pyconfr'),
+    (u'Nous contacter', '/contact'),
+    (u'Code de conduite', '/code-of-conduct'),
+    (u'Venir', '/traveling-to-pyconfr'),
+    (u'Se loger', '/venue'),
+]
+
+I18N_SUBSITES = {
+    # Not mandatory but provide more convenient urls
+    'fr': {
+        'THEME': 'theme',
+        'STATIC_PATHS': STATIC_PATHS,
+        'MENUITEMS': [
+            (u'À propos', '/index'),
+            (u'Nouvelles', '/news'),
+            (u'Nos soutiens', '/sponsors'),
+            (u'Demander une bourse', '/financial-assistance'),
+            (u'Nous soutenir', '/sponsor-pyconfr'),
+            (u'Nous contacter', '/contact'),
+            (u'Code de conduite', '/code-of-conduct'),
+            (u'Venir', '/traveling-to-pyconfr'),
+            (u'Se loger', '/venue'),
+        ]
+    },
+    'en': {
+        'THEME': 'theme',
+        'STATIC_PATHS': STATIC_PATHS,
+        'MENUITEMS': [
+            (u'About', '/index'),
+            (u'News', '/news'),
+            (u'Sponsors', '/sponsors'),
+            (u'Financial assistance', '/financial-assistance'),
+            (u'Sponsor PyConFr', '/sponsor-pyconfr'),
+            (u'Contact', '/contact'),
+            (u'Code of conduct', '/code-of-conduct'),
+            (u'Traveling to PyConFr', '/traveling-to-pyconfr'),
+            (u'Venue', '/venue'),
+        ]
+    }
+}
+
+DELETE_OUTPUT_DIRECTORY = True
+
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-STATIC_PATHS = ['css', 'images', 'js', 'documents', 'extra/CNAME',
-                'extra/favicon.ico', ]
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'extra/favicon.ico': {'path': 'favicon.ico'},
-                       }
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['post_stats', 'html_rst_directive', 'assets']
+PLUGINS = ['post_stats', 'html_rst_directive', 'assets', 'i18n_subsites']
 RESPONSIVE_IMAGES = True
-
-# JINJA_ENVIRONMENT = {'extensions': []}
 
 RELATIVE_URLS = True

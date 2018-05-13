@@ -1,9 +1,8 @@
 Venir à PyConFr
 ###############
 
-:slug: venir
+:slug: traveling-to-pyconfr
 :lang: fr
-:url: venir
 
 Adresse
 =======

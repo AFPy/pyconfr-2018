@@ -1,9 +1,8 @@
 Demander une bourse
 ###################
 
-:slug: bourse
-:lang: fr
-:url: bourse
+:slug: financial-assistance
+:lang: en
 
 Demander une bourse
 ===================
