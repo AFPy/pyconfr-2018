@@ -1,47 +1,46 @@
-Nous soutenir
-#############
+Sponsor PyConFr
+###############
 
 :slug: sponsor-pyconfr
 :lang: en
 
-Nous aider avant et pendant l'évènement
-=======================================
+Help us before and during the event
+===================================
 
-Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
-l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
+If you wish to help us with the preparation and/or during the event, do not
+hesitate to `contact us </en/contact>`_.
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+Any volunteer help during the event is welcome!
 
-Financer PyConFr
-================
+Sponsor PyConFr
+===============
 
-Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des
-boissons chaudes et fraiches, le nettoyage, la captation vidéo…
+Patronage allows us each year to cover costs such as safety, hot and cold
+drinks, cleaning, video coverage, etc.
 
-PyConFr est organisé par des bénévoles de la communauté Python francophone et
-permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
-année.
+PyConFr is organized by volunteers from the francophone Python community and
+allows this community to meet, exchange and grow each year.
 
-Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le
-tresorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
-discuter des détails.
+If you wish to support us financially, you can contact `the treasurer of AFPy
+(tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ in order to discuss the
+details.
 
-Cette année, nous proposons les montants et contreparties suivantes :
+This year, we propose the following amounts and counterparts:
 
 .. list-table::
    :widths: 30 10 10 10 10 10 10 10
    :header-rows: 1
    :class: sponsors
 
-   * - Bénéfice
-     - Cœur (montant libre)
+   * - Benefit
+     - Heart (amount of your choice)
      - Bronze 500€
-     - Argent 1000€
-     - Or 2000€
-     - Platine - Transcription - 4000€
-     - Platine - Boissons et viennoiseries - 4000€
-     - Platine - Vidéo - 6000€
-   * - Nom et logo sur `la page Soutiens du site web`_
+     - Silver 1000€
+     - Gold 2000€
+     - Platinum - Transcript - 4000€
+     - Platinum - Drinks and viennoiseries - 4000€
+     - Platinum - Video - 6000€
+   * - Name and logo on the `Sponsors page`_
      - ✔
      - ✔
      - ✔
@@ -49,7 +48,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Présentation de 1000 caractères sur `la page Soutiens du site web`_
+   * - 1000 characters presentation on the `Sponsors page`_
      - 
      - ✔
      - ✔
@@ -57,7 +56,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Logo sur la page d'accueil du site web de PyConFr 2018
+   * - Logo on the index page of the PyConFr 2018 website
      - 
      - ✔
      - ✔
@@ -65,7 +64,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Logo sur les affiches et documents imprimés (si réception du logo avant envoi pour impression)
+   * - Logo on posters and printed documents (if submitted before printing)
      - 
      - ✔
      - ✔
@@ -73,7 +72,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Votre panneau dans les salles de conférence
+   * - Your kakemono in conference rooms
      - 
      -
      - ✔
@@ -81,7 +80,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Présentation de l'entreprise (2min) en début de conférence plénière
+   * - Presentation of the enterprise (2min) at the event kick-off (saturday)
      - 
      -
      - ✔
@@ -89,7 +88,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Stand dans le hall
+   * - Stand in the hall
      - 
      -
      -
@@ -97,7 +96,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      - ✔
      - ✔
-   * - Votre logo sur l'écran de transcription textuelle et sur les vidéos sous titrées grâce aux transcriptions
+   * - Your logo on the transcription screen and on subtitled videos
      - 
      -
      -
@@ -105,7 +104,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      - ✔
      -
      -
-   * - Votre logo sur les tables accueillants les viennoiseries et les boissons
+   * - Your logo on tables with viennoiseries and drinks
      - 
      -
      -
@@ -113,7 +112,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
      -
      - ✔
      -
-   * - Votre logo au début des captations vidéos
+   * - Your logo at the beginning of video recordings
      - 
      -
      -
@@ -122,8 +121,8 @@ Cette année, nous proposons les montants et contreparties suivantes :
      -
      - ✔
 
-Contact : `tresorier@afpy.org`_
+Contact: `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 
-.. _`la page Soutiens du site web`: /pages/soutiens.html
+.. _`Sponsors page`: /en/sponsors

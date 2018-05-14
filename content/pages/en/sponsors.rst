@@ -1,11 +1,11 @@
-Nos soutiens
+Our sponsors
 ############
 
 :slug: sponsors
 :lang: en
 
-Partenaires
-===========
+Our sponsors
+============
 
 `Kozea <https://www.kozea.fr/>`_
 --------------------------------
@@ -16,7 +16,7 @@ Partenaires
    :alt: logo de Kozea
    :target: https://www.kozea.fr/
 
-Kozea a participé à la conception et l'intégration du design du site web de PyConFr 2018 et des éléments graphiques imprimés (tshirts, affiches, etc...).
+Kozea has participated to the design and integration of the PyConFr website and to the event graphic charter (tshirts, posters, etc.).
 
 `Hashbang <https://hashbang.fr>`_
 ---------------------------------
@@ -27,29 +27,29 @@ Kozea a participé à la conception et l'intégration du design du site web de P
    :alt: logo d'Hashbang
    :target: https://hashbang.fr/
 
-Hashbang a participé à la conception et l'intégration du design du site web de PyConFr 2018 et des éléments graphiques imprimés (tshirts, affiches, etc...).
+Kozea has participated to the design and integration of the PyConFr website and to the event graphic charter (tshirts, posters, etc.).
 
-Platine
-=======
+Platinum
+========
 
-`Devenez le premier partenaire "Platine" </pages/nous-soutenir.html>`_
+`Become the first "Platinum" partner </en/sponsor-pyconfr>`_
 
-Or
-==
+Gold
+====
 
-`Devenez le premier partenaire "Or" </pages/nous-soutenir.html>`_
+`Become the first "Gold" partner </en/sponsor-pyconfr>`_
 
-Argent
+Silver
 ======
 
-`Devenez le premier partenaire "Argent" </pages/nous-soutenir.html>`_
+`Become the first "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze
 ======
 
-`Devenez le premier partenaire "Bronze" </pages/nous-soutenir.html>`_
+`Become the first "Bronze" partner </en/sponsor-pyconfr>`_
 
-Cœur
-====
+Heart
+=====
 
-`Devenez le premier partenaire "Cœur" </pages/nous-soutenir.html>`_
+`Become the first "Heart" partner </en/sponsor-pyconfr>`_

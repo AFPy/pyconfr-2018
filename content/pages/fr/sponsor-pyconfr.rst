@@ -8,7 +8,7 @@ Nous aider avant et pendant l'évènement
 =======================================
 
 Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
-l'évènement, n'hésitez pas à `nous contacter </pages/nous-contacter.html>`_.
+l'évènement, n'hésitez pas à `nous contacter </contact>`_.
 
 Toute aide bénévole lors de l'évènement est la bienvenue !
 
@@ -126,4 +126,4 @@ Contact : `tresorier@afpy.org`_
 
 .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 
-.. _`la page Soutiens du site web`: /pages/soutiens.html
+.. _`la page Soutiens du site web`: /sponsors

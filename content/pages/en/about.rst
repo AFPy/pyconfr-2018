@@ -1,44 +1,42 @@
-À propos
-########
+About
+#####
 
 :slug: index
 :lang: en
 :og_url: https://www.pycon.fr/2018
 :og_type: website
 :og_title: PyConFr 2018 - Lille
-:og_description: Du 4 au 7 octobre 2018 se tiendra la conférence rassemblant les développeurs et développeuses Python francophones
+:og_description: From October 4 to 7, 2018 will be held the annual francophone Python developers conference
 
 .. :og_image: images/logo.png
 
-Lille, 4-7 octobre 2018
+Lille, October 4-7 2018
 =======================
 
-Organisée par `L'AFPy <http://www.afpy.org/>`_, cette conférence est gratuite,
-entièrement organisée par des bénévoles et regroupe les personnes intéressées
-par le langage de programmation `Python <http://www.python.org/>`_.
+Organized by `AFPy <http://www.afpy.org/>`_, this conference is free, entirely
+coordinated by volunteers and brings together people interested by the `Python
+<http://www.python.org/>`_ programming language.
 
-Programme
-=========
+Program
+=======
 
-Codage participatif (« Sprints »)
----------------------------------
+Participative coding (« Sprints »)
+----------------------------------
 
-Les deux premiers jours sont réservés à des sprints.
+The first two days are dedicated to sprints.
 
-Les développeurs et développeuses de différents projets open-source se
-rejoignent pour coder ensemble. Chaque personne est la bienvenue pour
-contribuer, et nous cherchons également à accompagner les débutant·e·s.
+Developers of various open-source projects gather in little groups to code
+together.  Everyone is welcome to contribute, and we seek to guide beginners.
 
-Participez au développement de votre projet préféré ! Nous fournissons l'espace
-et le matériel nécessaire à l'organisation (tables, chaises, connexion internet…
-et café !).
+Take part to the development of your favorite project! We provide the space and
+environment (tables, chairs, internet connection... and coffee!).
 
-Conférences
+Conferences
 -----------
 
-Durant ces deux jours, vous aurez l'occasion de participer à des présentations
-sur des sujets variés, autour du langage Python, de ses usages, des bonnes
-pratiques, des retours d'expériences, des partages d'idées…
+During the two following days, you will have the opportunity to attend to
+presentations on various subjects, about the Python programming language, its
+use cases, good practices, feedbacks, shared ideas...
 
 .. raw:: html
 
@@ -46,6 +44,6 @@ pratiques, des retours d'expériences, des partages d'idées…
 
   <section class="soutiens">
     <p>
-      <a class="soutien" href="/en/sponsor-pyconfr">Soutenez nous !</a>
+      <a class="soutien" href="/en/sponsor-pyconfr">Sponsor us!</a>
     </p>
   </section>

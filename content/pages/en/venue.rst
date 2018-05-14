@@ -1,31 +1,31 @@
-Se loger
-########
+Venue
+#####
 
 :slug: venue
 :lang: en
 
-Se loger
-========
+Venue
+=====
 
-Nous conseillons 2 secteurs à celles et ceux qui ne connaissent pas le coin.
+We recommend 2 areas to those who do not know Lille.
 
-À proximité des sorties
------------------------
+Next to the city
+----------------
 
-Si vous voulez passer la nuit dans les bars et autres lieux festifs, vous
-devriez chercher un hébergement dans le centre de Lille. C'est là qu'il y aura
-de l'animation !
+If you want to spend the night in bars and other festive places, you should look
+for an accomodation in the city-centre of Lille. That's where you'll find
+animation!
 
-À proximité de la science
--------------------------
+Next to science
+---------------
 
-Si vous êtes plus raisonnable, il y a un cluster d'hôtels dans le *Parc de la Haute
-Borne*, de l'autre côté du campus (20 minutes de marche / 5 minutes en véhicule).
+If you are more reasonable, there is a cluster of hotels in the *Parc de la
+Haute Borne*, on the other side of the campus (20 minutes walk / 5 minutes by
+car).
 
-Il est également possible de choisir l'option `AirBNB`_ dans les quartiers
-résidentiels de Villeneuve d'Ascq.
+You can also opt for an `AirBNB`_ in the neighbourhoods of Villeneuve d'Ascq.
 
 .. _`AirBNB`: https://www.airbnb.fr/s/20-Rue-Guglielmo-Marconi--Villeneuve-d'Ascq--France/homes?query=20%20Rue%20Guglielmo%20Marconi%2C%20Villeneuve-d%27Ascq%2C%20France&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&place_id=ChIJF8PqN0_WwkcRlLzB7K9ZCco&s_tag=xxMTV_jg
 
-Note : les scientifiques peuvent aussi faire la fête en ville mais ils devront
-quitter leurs camarades vers minuit pour le dernier métro :).
+Note: scientists can also party in town but they'll have leave their mates
+around midnight to catch the last subway :).
