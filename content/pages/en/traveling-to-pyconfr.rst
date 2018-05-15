@@ -1,18 +1,18 @@
-Venir à PyConFr
-###############
+Traveling to PyConFr
+####################
 
 :slug: traveling-to-pyconfr
 :lang: en
 
-Adresse
-=======
+Address
+========
 
-PyConFr 2018 sera hébergée à l'`IMT Lille Douai, site de Villeneuve d'Ascq
+PyConFr 2018 will be held at `IMT Lille Douai, Villeneuve d'Ascq
 <http://imt-lille-douai.fr/>`_.
 
 20 rue Guglielmo Marconi, 59650 Villeneuve-d’Ascq
 
-**Coordonnées GPS :** 50,6099730 3,1365212
+**GPS coordinates:** 50,6099730 3,1365212
 
 .. html::
 
@@ -20,51 +20,49 @@ PyConFr 2018 sera hébergée à l'`IMT Lille Douai, site de Villeneuve d'Ascq
 
 .. _campus:
 
-Rejoindre le campus
-===================
+Reach the campus
+================
 
-En métro
-++++++++
+Metro
++++++
 
-Lille et sa métropole comptent beaucoup de lignes de métro, tram et bus.
+Lille has many metro, bus and tramway lines.
 
-Quel que soit l'endroit où tu te loges, il y a de fortes chances que tu arrives
-sur place avec la ligne 1 du métro. Elle dessert le campus de Lille 1 avec l'arrêt
-Cité Scientifique Pr. Gabillard.
+Wherever you come from, you should aim for the line 1 of the metro. It serves
+the campus of Lille 1 with the *Cité Scientifique Pr. Gabillard* station.
 
-`Plus d'infos. <https://www.transpole.fr/>`_
+`More infos on metro lines <https://www.transpole.fr/>`_
 
-En vélo libre service
-+++++++++++++++++++++
+Self-service bike
++++++++++++++++++
 
-En V'lille, la station d'arrêt la plus proche est celle de l'arrêt de métro
-Triolo. Il faudra ensuite compter 1,5 km à pied jusqu'à l'école.
+The nearest V'lille station is at the *Triolo* metro station. After that you
+still need to walk 1.5 km to reach the school. 
 
-`Plus d'infos <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
+`More infos on self-service bikes <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
 
-Venir à Lille en voiture
-========================
+Car
+===
 
 .. :: Paragraphes sur les arrivées depuis telle direction ou telle autre ?
 
-Beaucoup de parkings seront ouverts sur le campus, dont celui de l'école de 180
+Many parkings are open on the campus, including the one of the school with 180
 places.
 
-Venir à Lille en train
-======================
+Train
+=====
 
-Il y a deux gares principales : Lille Flandres et Lille Europe. Elles sont dans
-le centre et il faut compter 5-10 minutes pour se déplacer de l'une à l'autre à
-pied ou en métro (1 arrêt).
+There are two main train stations: *Lille Flandres* and *Lille Europe*. There
+are located in the city-centre and it takes 5-10 minutes to move from one to the
+other, whether it be by foot or metro (1 station).
 
-Venir à Lille en avion
-======================
+Plane
+=====
 
-Si tu arrives par l'aéroport de Lille-Lesquin, une navette pourra t'emmener
-(même le dimanche) jusqu'au quartier des gares avec tout ce qui se trouve à
-proximité, dont les deux lignes de métro.
+If you come from the *Lille-Lesquin* airport, a shuttle can take you (even on
+sunday) to the city-centre, where you'll find the metro lines.
 
-Plus d'infos :
+More infos:
 
-  * `Sur l'aéroport <http://www.lille.aeroport.fr/>`_
-  * `Sur la navette <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_
+  * `About the airport <http://www.lille.aeroport.fr/>`_
+  * `About the shuttle <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_

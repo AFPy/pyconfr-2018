@@ -4,118 +4,110 @@ Code de conduite
 :slug: code-of-conduct
 :lang: en
 
-Code de conduite
-================
+Code of conduct
+===============
 
-En tant qu’événement organisé par l'Association Francophone Python (AFPy), `la
-charte de l'AFPy`_ s'applique. Pour mémoire, cette charte est reprise dans la
-suite de cette page.
+As an event organised by the Francophone Python Association (AFPy), `the code of
+conduct`_ carried by the association does apply.
 
-.. _`la charte de l'AFPy`: http://www.afpy.org/docs/charte
+.. _`the code of conduct`: http://www.afpy.org/docs/charte
 
-Charte AFPy
------------
+AFPy Code
+---------
 
-Le but de l’Association Francophone Python (AFPy) est d’assurer la promotion du
-langage de programmation Python auprès du plus large public possible. Nous
-diffusons nos connaissances et sommes ouverts aux apports extérieurs car la
-diversité, l’écoute réciproque, la solidarité et la démocratie élargissent les
-horizons et accroissent le potentiel de l’AFPy et de chacun de ses membres. En
-conséquence, nous encourageons donc la participation aux divers événements que
-nous (co-)organisons de toutes les personnes de la communauté Python ou
-souhaitant en faire partie. Dans ce cadre, l’AFPy souhaite que toute personne
-intéressée soit accueillie de manière agréable et enrichissante.
+The goal of AFPy is to promote the Python programming language among the widest
+possible audience. We diffuse our knowledge and are open to external
+contributions because diversity, mutual attention, solidarity and democracy
+increase the potential of AFPy and each one of its members. That’s why we
+encourage the participation of all members of the Python community, or wishing
+to be part of it, in any event we (co-)organize. AFPy wishes anyone interested
+to be welcome in a pleasant and meaningful way.
 
-L’AFPy s’attend donc à ce que chaque membre de l’association fasse preuve de
-respect et de courtoisie envers les autres membres de l’association et les
-personnes rencontrées dans le cadre de tout événement organisé (formellement ou
-non) par l’association.
+AFPy therefore expects each member of the association to show respect and
+courtesy toward other members of the association and people met during any event
+organized by the association.
 
-Ce texte est notamment inspiré par le code de conduite établi par l’Ada
-Initiative et par la loi française de lutte contre les discriminations.
+This text is inspired by the code of conduct established by the Ada Initiative
+and by the French anti-discrimination law.
 
-La version « courte »
+The « short » version
 +++++++++++++++++++++
 
-L’AFPY souhaite éviter tout type de discrimination, que ce soit sur le sexe,
-l’orientation sexuelle, le handicap, l’apparence physique, l’origine ou la
-religion, et sous quelque forme que ce soit (parole, image, texte et autre).
-Bien évidemment, ceci n’est pas une liste exhaustive.
+AFPy wishes to avoid any type of discrimination, whether based on gender, sexual
+orientation, disability, physical appearance, origin or religion, and in any
+form whatsoever (speech, image, text and other). Of course, this is not an
+exhaustive list.
 
-Bien que l’AFPy ait pour but la promotion de Python dans le monde francophone,
-l’association s’engage à accueillir chacun, quel que soit son langage de
-programmation ou sa langue maternelle.
+Although AFPy aims to promote Python in the French-speaking world, the
+association is committed to welcome everyone, whatever their programming
+language or mother tongue.
 
-L’AFPy attend de ses membres un langage et un style adaptés à une audience
-variée. Les allusions sexuelles ou à caractère raciste ne sont en aucun cas
-tolérées, quel que soit leur support.
+AFPy expects from its members a language and a style adapted to a diverse
+audience. Sexual or racist allusions are in no way tolerated, whatever their
+medium.
 
-Soyez poli(e). N’insultez personne. Discrimination et harcèlement sont à exclure
-aussi bien dans les écrits, les visuels, les paroles et les actes, et ce quel
-que soit leur nature (sexuel, raciste, religieux, social...).
+Be polite. Don’t insult anyone. Discrimination and harassment are to be excluded
+in writing, visuals, words and actions, whatever their nature (sexual, racist,
+religious, social…).
 
-Le non-respect de ces règles de bienséance pourra entraîner l’exclusion de
-l’événement, à la seule discrétion d’un ou plusieurs organisateurs, ou de
-l’association, après délibération du comité directeur, ainsi que de tout service
-proposé par l’AFPy (planète AFPy, blog, canaux IRC).
+Disrespecting these good manners may lead to the exclusion from the event, at
+the sole discretion of one or more organizers, or the association, after
+deliberation of the executive committee, as well as from any service proposed by
+AFPy (planet AFPy, blog, IRC channels).
 
-La version « longue »
-+++++++++++++++++++++
+The « long » version
+++++++++++++++++++++
 
-Champ d’application
-~~~~~~~~~~~~~~~~~~~
+Scope
+~~~~~
 
-Ces bonnes pratiques s’appliquent dans le cadre de tout événement (co-)organisé
-par l’AFPy de manière directe ou indirecte à savoir :
+These good practices apply within the framework of any event (co-)organized by
+AFPy in a direct or indirect way, namely:
 
-- les conférences (PyConFr, événement à la cantine et autre)
-- les canaux IRC ou XMPP ou autre messagerie instantanée
-- planète python
-- le blog
-- la liste de diffusion
-- tout événement où vous représentez l’AFPy, y compris les rencontres
-  informelles (notamment AFPyros)
+- conferences (PyConFr and other)
+- IRC, XMPP or other instant messaging channels
+- planet AFPy
+- AFPy blogs
+- mailing lists
+- any event where you represent AFPy, including casual meetings (AFPyros,
+  Meetups…)
 
-Définition de la discrimination
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Definition of discrimination
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La discrimination inclut, selon la loi française, « la situation dans laquelle,
-sur le fondement de son appartenance ou de sa non-appartenance, vraie ou
-supposée, à une ethnie ou une race, sa religion, ses convictions, son âge, son
-handicap, son orientation ou identité sexuelle ou son sexe, une personne est
-traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne
-l’aura été dans une situation comparable ». Est donc proscrit « tout agissement
-à connotation sexuelle, [subi] par une personne et ayant pour objet ou pour
-effet de porter atteinte à sa dignité ou de créer un environnement intimidant,
-hostile, dégradant, humiliant ou offensant ; Le fait d’enjoindre à quiconque
-d’adopter un [tel] comportement ».
+Discrimination includes, according to French law, “the situation in which, on
+the basis of their belonging or not belonging, real or supposed, to an ethnic
+group or race, their religion, their beliefs, their age, their disability, their
+sexual orientation or gender, a person is treated less favourably than an other
+is, has been or will be treated in a comparable situation.” “Any sexually
+connoted act, [suffered] by a person and having the object or effect of
+violating their dignity or creating an intimidating, hostile, degrading,
+humiliating or offensive environment” or “the act of ordering anyone to behave
+this way” is therefore prohibited.
 
-Comportements à éviter (proscrire ?)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Behaviors to avoid (banish ?)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En référence à la définition qui précède, nous vous invitons à vous abstenir
+According to the above definition, we invite you to refrain:
 
-- de toute expression ou attitude inappropriées,
-- de présenter des images sexuelles ou choquantes (notamment violentes),
-- d’intimidation délibérée, de harcèlement, de contacts physiques inconvenants
-  et non consentis.
+- any inappropriate expression or attitude,
+- presenting sexual or shocking (especially violent) images,
+- deliberate intimidation, harassment, improper and non-consensual physical
+  contact.
 
-Traitement des incidents
-~~~~~~~~~~~~~~~~~~~~~~~~
+Incidents handling
+~~~~~~~~~~~~~~~~~~
 
-En cas de harcèlement ou de discrimination commis par un participant, les
-organisateurs de l’événement ou membres du comité directeur pourront prendre
-immédiatement les mesures qu’ils jugent appropriées et qui peuvent aller jusqu’à
-l’exclusion temporaire ou définitive d’un événement.
+In case of harassment or discrimination by a participant, the event organizers
+or members of the executive committee may immediately take any action they deem
+appropriate, up to and including temporary or permanent exclusion from an event.
 
-Signaler
---------
+Reporting
+---------
 
-Si vous êtes harcelé(e) ou victime de discrimination, ou si vous êtes témoin de
-harcèlement ou de discrimination à l’égard d’autre(s) participant(e-s), ou si
-vous craignez la survenue d’un incident, contactez sans attendre un membre
-organisateur (dans le cas d’un événement) ou un membre du comité directeur de
-l’AFPy.
+If you are victim or witness of harassment or discrimination against other
+participant(s), or fear an incident may occur, contact immediately a member of
+the staff (in the case of an event) or of the AFPy executive committee.
 
 Contact: `diversite@afpy.org`_
 

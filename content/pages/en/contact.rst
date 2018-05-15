@@ -1,11 +1,11 @@
-Nous contacter
-##############
+Contact us
+##########
 
 :slug: contact
 :lang: en
 
-Nous contacter
-==============
+Contact us
+==========
 
-L'équipe locale est disponible pour répondre à vos questions sur l'événement
-à l'adresse `contact@pycon.fr <contact@pycon.fr>`_.
+The local team is available to answer your questions about the event at
+`contact@pycon.fr <contact@pycon.fr>`_.
