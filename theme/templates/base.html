@@ -30,6 +30,27 @@
         </li>
       {% endfor %}
     </ul>
+
+    {# Sorry for this... but I don't see an other way #}
+    {# Note: there is a glitch for news, because generated links go back to
+             /news. But since there is no guarantee that news are translated,
+             let's call it a feature! #}
+    <ul id="flags">
+      {% for title, link in MENUITEMS %}
+      {% if output_file.split('/')[0] in link %}
+      <li>
+        <a href="{{ main_siteurl}}{{ link }}">
+          <img src="/theme/images/fr.png" alt="FR" height=15px width=auto>
+        </a>
+      </li>
+      <li>
+        <a href="{{ main_siteurl }}/en{{ link }}">
+          <img src="/theme/images/en.png" alt="EN" height=15px width=auto>
+        </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
   </nav>
 
   {% block content %}{% endblock %}
