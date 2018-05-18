@@ -46,6 +46,6 @@ pratiques, des retours d'expériences, des partages d'idées…
 
   <section class="soutiens">
     <p>
-      <a class="soutien" href="/fr/sponsor-pyconfr">Soutenez nous !</a>
+      <a class="soutien" href="/sponsor-pyconfr">Soutenez nous !</a>
     </p>
   </section>
