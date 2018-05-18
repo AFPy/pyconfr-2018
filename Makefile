@@ -53,6 +53,6 @@ publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 afpy: publish
-	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
+	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL) --delete
 
 .PHONY: html clean serve devserver publish afpy

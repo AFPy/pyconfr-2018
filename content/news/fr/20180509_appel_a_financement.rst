@@ -47,7 +47,7 @@ Les noms des autres niveaux de financement ont été revus mais le contenu n'a
 pas changé : il y a des niveaux de financement pour toutes les entreprises.
 
 Vous trouverez le détail de ces niveaux de financement et contreparties sur la
-page `Nous soutenir </pages/nous-soutenir.html>`_ de ce site.
+page `Nous soutenir </sponsor-pyconfr/>`_ de ce site.
 
 Si vous souhaitez participer au financement de PyConFr 2018, merci de contacter
 le tresorier de l'Afpy, Guillaume Ayoub, par email à l'adresse
