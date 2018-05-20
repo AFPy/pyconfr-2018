@@ -1,0 +1,47 @@
+PyConFr 2018
+############
+
+:slug: 2018-04-23-pyconfr-2018
+:lang: fr
+:date: 2018-04-23
+:author: Arthur Vuillard
+:og_url: https://www.pycon.fr/2018/news/fr/2018-04-23-pyconfr-2018
+:og_type: article
+:og_title: PyConFr 2018
+:og_description: L'édition 2018 de la conférence sur Python de la communauté francophone se tiendra à Lille du 4 au 7 octobre 2018
+:og_image: /images/logo_tmp.png
+
+L'édition 2018 de la conférence sur Python de la communauté francophone se
+tiendra à Lille du 4 au 7 octobre 2018.
+
+Les deux premiers jours sont réservés à des séances de codage participatif.  Les
+développeurs et développeuses de différents projets open source se rejoignent
+pour coder ensemble. Chaque personne est la bienvenue pour contribuer, et nous
+cherchons également à accompagner les débutant·e·s. Nous fournissons l'espace et
+le matériel nécessaire à l'organisation (tables, chaises, connexion internet…).
+Les projets présents seront annoncés sur notre site au fur et à mesure de leur
+inscription (il n'y a pas encore d'espace pour les proposer).
+
+Les deux derniers jours sont consacrés à des conférences. Vous aurez l'occasion
+de participer à des présentations sur des sujets variés, autour du langage
+Python, de ses usages, des bonnes pratiques, des retours d'expériences, des
+partages d'idées… Un appel à présentation sera également lancé d'ici quelques
+temps.
+
+Cet événement est hébergé par L'`Institut Mines Télécom de Lille Douai
+<http://imt-lille-douai.fr>`_. L'IMT Lille Douai est la plus grande école
+d'ingénieurs au nord de Paris. Elle forme à l'ingénierie généralise, et experte
+du numérique. Merci pour leur accueil :)
+
+Nous demandons à chaque personne souhaitant venir de lire le `code de conduite
+</code-of-conduct>`_. Nous souhaitons faire en sorte que cette conférence soit
+un événement accueillant pour tout le monde. Le groupe de travail de l'AFPy se
+mobilise pour faire que chacun·e se sente bien durant la conférence. Nous vous
+annoncerons les actions.
+
+Si vous souhaitez déjà organiser votre venue, nous vous avons préparé les pages
+`Venir </traveling-to-pyconfr>`_ et `Se loger </venue>`_.
+
+Nous vous réservons plusieurs autres annonces pour les semaines à venir, alors
+suivez nous sur `notre fil web </feeds/all.atom.xml>`_, ou `notre fil Twitter
+<https://twitter.com/pyconfr>`_.

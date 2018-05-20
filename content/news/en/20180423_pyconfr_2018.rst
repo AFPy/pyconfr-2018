@@ -1,0 +1,43 @@
+PyConFr 2018
+############
+
+:slug: 2018-04-23-pyconfr-2018
+:lang: en
+:date: 2018-04-23
+:author: Arthur Vuillard
+:og_url: https://www.pycon.fr/2018/news/en/2018-04-23-pyconfr-2018
+:og_type: article
+:og_title: PyConFr 2018
+:og_description: The 2018 edition of the francophone community's conference on Python will be held in Lille from 4 to 7 October 2018
+:og_image: /images/logo_tmp.png
+
+The 2018 edition of the francophone community's conference on Python will be
+held in Lille from 4 to 7 October 2018.
+
+The first two days are reserved for participative coding sessions. Developers
+from different open source projects come to code together. Everyone is welcome
+to contribute, and we seek to guide beginners. We provide the space and
+environment (tables, chairs, internet connection... and coffee!). Represented
+projects will be announced on our site as they register.
+
+During the two following days, you will have the opportunity to attend to
+presentations on various topics, about the Python programming language, its use
+cases, good practices, feedbacks, shared ideas... A call for proposal is to be
+announced soon.
+
+This event is hosted by the `Institut Mines Télécom de Lille Douai
+<http://imt-lille-douai.fr>`_. IMT Lille Douai is the biggest engineering school
+north of Paris training for general engineering and digital expertise. Thanks
+to them :)
+
+We ask everyone wishing to come to read the `code of conduct
+</en/code-of-conduct>`_. We want this conference to be a welcoming event for
+everyone. AFPy working group is mobilized to make everyone feel good during the
+conference. Actions will be announced.
+
+If you already want to organize your journey, we have prepared `Traveling to
+PyConFr </en/traveling-to-pyconfr>`_ and `Venue </en/venue>`_ pages.
+
+We have several other announcements for you in the coming weeks, so follow us on
+`our web feed </feeds/all.atom.xml>`_, or `our Twitter feed
+<https://twitter.com/pyconfr>`_.

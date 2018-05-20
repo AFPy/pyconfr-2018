@@ -25,7 +25,7 @@ Codage participatif (« Sprints »)
 
 Les deux premiers jours sont réservés à des sprints.
 
-Les développeurs et développeuses de différents projets open-source se
+Les développeurs et développeuses de différents projets open source se
 rejoignent pour coder ensemble. Chaque personne est la bienvenue pour
 contribuer, et nous cherchons également à accompagner les débutant·e·s.
 

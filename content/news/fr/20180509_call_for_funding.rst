@@ -1,11 +1,11 @@
 Appel à financement pour PyConFr 2018
 #####################################
 
-:slug: 2018-05-09-appel-financement
+:slug: 2018-05-09-call-for-funding
 :lang: fr
 :date: 2018-05-09
 :author: Arthur Vuillard
-:og_url: https://www.pycon.fr/2018/2018-05-09-appel-financement
+:og_url: https://www.pycon.fr/2018/fr/news/2018-05-09-call-for-funding
 :og_type: article
 :og_title: Appel à financement pour PyConFr 2018
 :og_description: L'organisation d'une conférence engendre des frais. Voici notre appel pour nous aider à les couvrir.

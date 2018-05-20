@@ -4,13 +4,13 @@ Nous soutenir
 :slug: sponsor-pyconfr
 :lang: fr
 
-Nous aider avant et pendant l'évènement
+Nous aider avant et pendant l'événement
 =======================================
 
-Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
-l'évènement, n'hésitez pas à `nous contacter </contact>`_.
+Si vous souhaitez nous aider pour la préparation de l'événement, et/ou lors de
+l'événement, n'hésitez pas à `nous contacter </contact>`_.
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+Toute aide bénévole lors de l'événement est la bienvenue !
 
 Financer PyConFr
 ================
