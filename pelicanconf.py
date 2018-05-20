@@ -52,14 +52,14 @@ THEME = 'theme'
 
 MENUITEMS = [
     (u'À propos', '/index'),
-    (u'Nouvelles', '/news'),
-    (u'Nos soutiens', '/sponsors'),
-    (u'Demander une bourse', '/financial-assistance'),
-    (u'Nous soutenir', '/sponsor-pyconfr'),
-    (u'Nous contacter', '/contact'),
-    (u'Code de conduite', '/code-of-conduct'),
     (u'Venir', '/traveling-to-pyconfr'),
-    (u'Se loger', '/venue'),
+    (u'Demander une bourse', '/financial-assistance'),
+    (u'Nouvelles', '/news'),
+    (u'Code de conduite', '/code-of-conduct'),
+    (u'Nous soutenir', '/sponsor-pyconfr'),
+    # (u'Se loger', '/venue'),
+    # (u'Nos soutiens', '/sponsors'),
+    # (u'Nous contacter', '/contact'),
 ]
 
 I18N_SUBSITES = {
@@ -69,14 +69,14 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'À propos', '/index'),
-            (u'Nouvelles', '/news'),
-            (u'Nos soutiens', '/sponsors'),
-            (u'Demander une bourse', '/financial-assistance'),
-            (u'Nous soutenir', '/sponsor-pyconfr'),
-            (u'Nous contacter', '/contact'),
-            (u'Code de conduite', '/code-of-conduct'),
             (u'Venir', '/traveling-to-pyconfr'),
-            (u'Se loger', '/venue'),
+            (u'Demander une bourse', '/financial-assistance'),
+            (u'Nouvelles', '/news'),
+            (u'Code de conduite', '/code-of-conduct'),
+            (u'Nous soutenir', '/sponsor-pyconfr'),
+            # (u'Se loger', '/venue'),
+            # (u'Nous contacter', '/contact'),
+            # (u'Nos soutiens', '/sponsors'),
         ]
     },
     'en': {
@@ -84,14 +84,14 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'About', '/index'),
-            (u'News', '/news'),
-            (u'Sponsors', '/sponsors'),
-            (u'Financial assistance', '/financial-assistance'),
-            (u'Sponsor PyConFr', '/sponsor-pyconfr'),
-            (u'Contact', '/contact'),
-            (u'Code of conduct', '/code-of-conduct'),
             (u'Traveling to PyConFr', '/traveling-to-pyconfr'),
-            (u'Venue', '/venue'),
+            (u'Financial assistance', '/financial-assistance'),
+            (u'News', '/news'),
+            (u'Code of conduct', '/code-of-conduct'),
+            (u'Sponsor PyConFr', '/sponsor-pyconfr'),
+            # (u'Venue', '/venue'),
+            # (u'Sponsors', '/sponsors'),
+            # (u'Contact', '/contact'),
         ]
     }
 }

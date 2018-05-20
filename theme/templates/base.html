@@ -21,34 +21,21 @@
     {% block header %}{% endblock header %}
   </header>
 
-  <nav id="menu">
+  <ul id="flags">
+    {% for title, link in MENUITEMS %}
+    {% if output_file.split('/')[0] in link %}
+      <a href="{{ main_siteurl}}{{ link }}">fr</a> / <a href="{{ main_siteurl }}/en{{ link }}">en</a>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+  <nav id="menu" class="{% if output_file.split('/')[0] != 'index' %}menu-pages{% endif %}">
     <ul>
       {% for title, link in MENUITEMS %}
         {# There must be a better way than the *in* operator #}
         <li{% if output_file.split('/')[0] in link %} class="active"{% endif %}>
           <a href="{{ SITEURL }}{{ link }}">{{ title }}</a>
         </li>
-      {% endfor %}
-    </ul>
-
-    {# Sorry for this... but I don't see an other way #}
-    {# Note: there is a glitch for news, because generated links go back to
-             /news. But since there is no guarantee that news are translated,
-             let's call it a feature! #}
-    <ul id="flags">
-      {% for title, link in MENUITEMS %}
-      {% if output_file.split('/')[0] in link %}
-      <li>
-        <a href="{{ main_siteurl}}{{ link }}">
-          <img src="/theme/images/fr.png" alt="FR" height=15px width=auto>
-        </a>
-      </li>
-      <li>
-        <a href="{{ main_siteurl }}/en{{ link }}">
-          <img src="/theme/images/en.png" alt="EN" height=15px width=auto>
-        </a>
-      </li>
-      {% endif %}
       {% endfor %}
     </ul>
   </nav>
