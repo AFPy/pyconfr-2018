@@ -40,7 +40,7 @@
 	{% endif %}
     {% if article.authors %}
     <address class="vcard author">
-      par {% for author in article.authors %}
+      {% if DEFAULT_LANG == "fr" %}par {% else %}by {% endif %} {% for author in article.authors %}
           {{ author }}
         {% endfor %}
     </address>
