@@ -40,9 +40,19 @@ Durant ces deux jours, vous aurez l'occasion de participer à des présentations
 sur des sujets variés, autour du langage Python, de ses usages, des bonnes
 pratiques, des retours d'expériences, des partages d'idées…
 
-.. raw:: html
+Soutiens
+========
 
-  <br />
+Bronze
+------
+
+.. image:: /images/logo_tempo.svg
+   :height: 100px
+   :width: 200px
+   :alt: logo de TeMPO Consulting
+   :target: http://www.tempo-consulting.fr/
+
+.. raw:: html
 
   <section class="soutiens">
     <p>

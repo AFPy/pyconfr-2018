@@ -38,12 +38,22 @@ During the two following days, you will have the opportunity to attend to
 presentations on various subjects, about the Python programming language, its
 use cases, good practices, feedbacks, shared ideas...
 
-.. raw:: html
+Sponsors
+========
 
-  <br />
+Bronze
+------
+
+.. image:: /images/logo_tempo.svg
+   :height: 100px
+   :width: 200px
+   :alt: TeMPO Consulting logo
+   :target: http://www.tempo-consulting.fr/
+
+.. raw:: html
 
   <section class="soutiens">
     <p>
-      <a class="soutien" href="/en/sponsor-pyconfr">Sponsor us!</a>
+      <a class="soutien" href="/sponsor-pyconfr">Become a sponsor!</a>
     </p>
   </section>

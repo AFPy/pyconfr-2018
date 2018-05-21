@@ -182,6 +182,22 @@ body
     li a
       padding: 0
 
+  /* Make SVG images clickable */
+  a.image-reference
+    display: inline-block
+    position: relative
+
+    &::after
+      bottom: 0
+      content: ''
+      left: 0
+      position: absolute
+      right: 0
+      top: 0
+
+    object
+      width: 100%
+
 footer
   background: #000
   background-clip: content-box
@@ -279,20 +295,10 @@ footer
       top: 0
       background-color: rgba(0,0,0,0.3)
 
-  div.section:last-of-type
-    h2 a
-      color: $primary
-      text-decoration: none
-
-    ul
-      list-style: none
-      margin-left: 0
-
-    li
-      display: inline-block
-
-    .soutien
-      +button
+  .soutien
+    +button
+    display: inline-block
+    margin: 1em 0
 
   section.soutiens
     ul
