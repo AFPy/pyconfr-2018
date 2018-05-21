@@ -4,13 +4,13 @@ Nous soutenir
 :slug: sponsor-pyconfr
 :lang: fr
 
-Nous aider avant et pendant l'évènement
+Nous aider avant et pendant l'événement
 =======================================
 
-Si vous souhaitez nous aider pour la préparation de l'évènement, et/ou lors de
-l'évènement, n'hésitez pas à `nous contacter </contact>`_.
+Si vous souhaitez nous aider pour la préparation de l'événement, et/ou lors de
+l'événement, n'hésitez pas à `nous contacter </contact>`_.
 
-Toute aide bénévole lors de l'évènement est la bienvenue !
+Toute aide bénévole lors de l'événement est la bienvenue !
 
 Financer PyConFr
 ================
@@ -28,99 +28,126 @@ discuter des détails.
 
 Cette année, nous proposons les montants et contreparties suivantes :
 
-.. list-table::
-   :widths: 30 10 10 10 10 10 10 10
-   :header-rows: 1
-   :class: sponsors
+.. raw:: html
 
-   * - Bénéfice
-     - Cœur (montant libre)
-     - Bronze 500€
-     - Argent 1000€
-     - Or 2000€
-     - Platine - Transcription - 4000€
-     - Platine - Boissons et viennoiseries - 4000€
-     - Platine - Vidéo - 6000€
-   * - Nom et logo sur `la page Soutiens du site web`_
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Présentation de 1000 caractères sur `la page Soutiens du site web`_
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Logo sur la page d'accueil du site web de PyConFr 2018
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Logo sur les affiches et documents imprimés (si réception du logo avant envoi pour impression)
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Votre panneau dans les salles de conférence
-     - 
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Présentation de l'entreprise (2min) en début de conférence plénière
-     - 
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Stand dans le hall
-     - 
-     -
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Votre logo sur l'écran de transcription textuelle et sur les vidéos sous titrées grâce aux transcriptions
-     - 
-     -
-     -
-     -
-     - ✔
-     -
-     -
-   * - Votre logo sur les tables accueillants les viennoiseries et les boissons
-     - 
-     -
-     -
-     -
-     -
-     - ✔
-     -
-   * - Votre logo au début des captations vidéos
-     - 
-     -
-     -
-     -
-     -
-     -
-     - ✔
+  <div>
+    <table border="1" class="sponsor-table">
+      <thead valign="bottom">
+        <tr>
+          <th width="300">Bénéfice</th>
+          <th width="150">Cœur (montant libre)</th>
+          <th width="150">Bronze 500€</th>
+          <th width="150">Argent 1000€</th>
+          <th width="150">Or 2000€</th>
+          <th width="150">Platine - Transcription - 4000€</th>
+          <th width="150">Platine - Boissons et viennoiseries - 4000€</th>
+          <th width="150">Platine - Vidéo - 6000€</th>
+        </tr>
+      </thead>
+      <tbody valign="top">
+        <tr>
+          <td>Nom et logo sur <a href="/index#nos-partenaires">la page Soutiens du site web</a></td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Présentation de 1000 caractères sur <a href="/index#nos-partenaires">la page Soutiens du site web</a></td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Logo sur la page d'accueil du site web de PyConFr 2018</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Logo sur les affiches et documents imprimés (si réception du logo avant envoi pour impression)</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Votre panneau dans les salles de conférence</td>
+          <td> -</td>
+          <td> -</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Présentation de l'entreprise (2min) en début de conférence plénière</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Stand dans le hall</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Votre logo sur l'écran de transcription textuelle et sur les vidéos sous titrées grâce aux transcriptions</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>Votre logo sur les tables accueillants les viennoiseries et les boissons</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>Votre logo au début des captations vidéos</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
 Contact : `tresorier@afpy.org`_
 

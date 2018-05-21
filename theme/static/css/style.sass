@@ -53,9 +53,6 @@ body
           td
             padding: 1em
 
-          tr:nth-child(odd)
-            background: darken(#f6f9fa, 5%)
-
       ul
         line-height: 2em
 
@@ -187,8 +184,24 @@ body
       color: white
 
 
+  /* Make SVG images clickable */
+  a.image-reference
+    display: inline-block
+    position: relative
+
+    &::after
+      bottom: 0
+      content: ''
+      left: 0
+      position: absolute
+      right: 0
+      top: 0
+
+    object
+      width: 100%
+
 footer
-  background: #000
+  background: $secondary
   background-clip: content-box
   color: #fff
   justify-content: center
@@ -227,6 +240,28 @@ footer
 .wrap-flex
   display: flex
   justify-content: space-evenly
+  flex-wrap: wrap
+
+.wrap-button
+  display: flex
+  justify-content: center
+  margin: 2em
+
+  .btn
+    +button
+    display: inline-block
+    margin: 1em 0
+
+  .btn-home
+    +button
+    background: none
+    border: 3px solid #fff
+    text-decoration: none
+    color: white
+
+    &:hover
+      background: none
+      color: darken(white, 10%) !important
 
 .p-first
   p
@@ -281,6 +316,23 @@ footer
     flex-direction: column;
     align-items: center;
 
+.sponsors
+  display: flex
+  justify-content: space-evenly
+  margin: 2em 0
+
+  .container
+    width: 35vw
+    text-align: justify
+
+  a
+    position: relative
+    margin: 2em
+
+  object
+    position: relative
+    z-index: -1
+
 #index
   header
     height: 0
@@ -317,11 +369,6 @@ footer
 
     p
       max-width: 32rem
-
-  .wrap-home-button
-    display: flex
-    justify-content: center
-    margin: 2em
 
   .wrap-paragraphe
     display: flex
@@ -442,9 +489,6 @@ footer
     &:first-child
       padding-bottom: 0
 
-  .soutien
-    +button
-
   section.soutiens
     ul
       padding: 0
@@ -478,19 +522,6 @@ footer
     color: #fff
     display: block
     margin-top: 2em
-
-  .sponsors
-    display: flex
-    justify-content: space-evenly
-    margin: 2em 0
-
-    a
-      position: relative
-      margin: 2em
-
-    object
-      position: relative
-      z-index: -1
 
   .partners
     text-align: center
@@ -696,6 +727,66 @@ footer
 
   object
     width: 25vw
+
+#sponsors
+
+  h3
+    font-weight: 100
+    font-size: 1.6em
+    text-align: center
+
+  .text-center
+    text-align: center
+
+/* Page Articles */
+
+.hentry
+  width: 380px;
+  background: whitesmoke;
+  box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.3);
+
+  header
+    font-size: 0.8em;
+    padding: 2em;
+
+    h2
+      text-transform: none;
+      margin: 0;
+
+      a
+        color: #444444;
+        text-decoration: none;
+
+  .post-info
+    padding: 0.5em 2em;
+    background-color: #ff413c;
+    color: white;
+
+    a
+      color: white
+
+  .entry-content
+      padding: 1em 2em;
+      background-color: #f5f5f5;
+
+
+/*  Become sponsor  */
+
+.sponsor-table
+  border: 1px solid $primary !important
+
+  th
+    font-size: 1.2em
+    font-weight: 100
+  a
+    color: black
+
+  thead
+    tr
+      background: white !important
+
+  tr:nth-child(odd)
+    background: #ff8f8c
 
 
 @media screen and (max-width: 640px)

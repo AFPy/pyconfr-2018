@@ -23,9 +23,9 @@
 
   <ul id="flags">
     {% for title, link in MENUITEMS %}
-    {% if output_file.split('/')[0] in link %}
-      <a href="{{ main_siteurl}}{{ link }}">fr</a> / <a href="{{ main_siteurl }}/en{{ link }}">en</a>
-    {% endif %}
+      {% if output_file.split('/')[0] in link %}
+        <a href="{{ main_siteurl}}{{ link }}">fr</a> / <a href="{{ main_siteurl }}/en{{ link }}">en</a>
+      {% endif %}
     {% endfor %}
   </ul>
 

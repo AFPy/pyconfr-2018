@@ -54,12 +54,10 @@ MENUITEMS = [
     (u'À propos', '/index'),
     (u'Venir', '/traveling-to-pyconfr'),
     (u'Demander une bourse', '/financial-assistance'),
+    (u'Nos soutiens', '/sponsors'),
     (u'Nouvelles', '/news'),
     (u'Code de conduite', '/code-of-conduct'),
     (u'Nous soutenir', '/sponsor-pyconfr'),
-    # (u'Se loger', '/venue'),
-    # (u'Nos soutiens', '/sponsors'),
-    # (u'Nous contacter', '/contact'),
 ]
 
 I18N_SUBSITES = {
@@ -71,12 +69,10 @@ I18N_SUBSITES = {
             (u'À propos', '/index'),
             (u'Venir', '/traveling-to-pyconfr'),
             (u'Demander une bourse', '/financial-assistance'),
+            (u'Nos soutiens', '/sponsors'),
             (u'Nouvelles', '/news'),
             (u'Code de conduite', '/code-of-conduct'),
             (u'Nous soutenir', '/sponsor-pyconfr'),
-            # (u'Se loger', '/venue'),
-            # (u'Nous contacter', '/contact'),
-            # (u'Nos soutiens', '/sponsors'),
         ]
     },
     'en': {
@@ -86,12 +82,10 @@ I18N_SUBSITES = {
             (u'About', '/index'),
             (u'Traveling to PyConFr', '/traveling-to-pyconfr'),
             (u'Financial assistance', '/financial-assistance'),
+            (u'Sponsors', '/sponsors'),
             (u'News', '/news'),
             (u'Code of conduct', '/code-of-conduct'),
             (u'Sponsor PyConFr', '/sponsor-pyconfr'),
-            # (u'Venue', '/venue'),
-            # (u'Sponsors', '/sponsors'),
-            # (u'Contact', '/contact'),
         ]
     }
 }

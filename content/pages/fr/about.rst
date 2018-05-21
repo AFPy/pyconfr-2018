@@ -29,9 +29,9 @@ par le langage de programmation `Python <http://www.python.org/>`_.
 
   <br />
 
-  <section class="soutiens">
+  <section class="wrap-button">
     <p>
-      <a class="soutien" href="/">Incrivez-vous</a>
+      <a class="btn-home" href="/">Incrivez-vous</a>
     </p>
   </section>
 
@@ -65,8 +65,8 @@ Programme
 
 .. raw:: html
 
-  <section class="wrap-home-button">
-    <a class="soutien" href="/index">Voir le calendrier</a>
+  <section class="wrap-button">
+    <a class="btn" href="/index">Voir le calendrier</a>
   </section>
 
 AFPY
@@ -151,8 +151,15 @@ Argent
 
 Bronze
 ------
+.. container:: sponsors
 
-`Devenez le premier partenaire "Bronze" </sponsor-pyconfr>`_
+  .. container::
+
+    .. image:: /images/logo_tempo.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de TeMPO Consulting
+       :target: http://www.tempo-consulting.fr/
 
 Cœur
 ----
@@ -161,8 +168,8 @@ Cœur
 
 .. raw:: html
 
-  <section class="wrap-home-button">
-    <a class="soutien" href="/sponsor-pyconfr">Soutenez nous !</a>
+  <section class="wrap-button">
+    <a class="btn" href="/sponsor-pyconfr">Soutenez nous</a>
   </section>
 
 .. container:: contact

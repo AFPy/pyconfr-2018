@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <section id="content">
+  <section id="content" class="wrap-flex">
 
     {% for article in articles_page.object_list %}
       <article class="hentry">
         <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
         <div class="post-info">
           <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-          <address class="vcard author">par
+          <address class="vcard author">{% if DEFAULT_LANG == "fr" %}par {% else %}by {% endif %}
             {% for author in article.authors %}
               <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
             {% endfor %}
@@ -16,13 +16,16 @@
         </div>
         <div class="entry-content">
           {{ article.summary }}
-          <p><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">Lire plus</a></p>
+          <p>
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="lien permanent vers {{ article.title|striptags }}">{% if DEFAULT_LANG == "fr" %}Lire plus{% else %}Read more{% endif %}
+            </a>
+          </p>
         </div>
       </article>
     {% endfor %}
 
     {% if not articles_page.object_list %}
-      <p>Aucun article pour l'instant</p>
+      <p>{% if DEFAULT_LANG == "fr" %}Aucun article pour l'instant{% else %}No articles yet{% endif %}</p>
     {% endif %}
     {% if articles_page.has_other_pages() %}
       {% include 'pagination.html' %}
