@@ -25,8 +25,8 @@ Participative coding (« Sprints »)
 
 The first two days are dedicated to sprints.
 
-Developers of various open-source projects gather in little groups to code
-together.  Everyone is welcome to contribute, and we seek to guide beginners.
+Developers of various open source projects gather in little groups to code
+together. Everyone is welcome to contribute, and we seek to guide beginners.
 
 Take part to the development of your favorite project! We provide the space and
 environment (tables, chairs, internet connection... and coffee!).
@@ -35,8 +35,8 @@ Conferences
 -----------
 
 During the two following days, you will have the opportunity to attend to
-presentations on various subjects, about the Python programming language, its
-use cases, good practices, feedbacks, shared ideas...
+presentations on various topics, about the Python programming language, its use
+cases, good practices, feedbacks, shared ideas...
 
 Sponsors
 ========
