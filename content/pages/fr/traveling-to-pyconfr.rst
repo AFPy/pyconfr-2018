@@ -45,7 +45,7 @@ Rejoindre le campus
 
     .. image:: /images/venir/metro.svg
 
-    `Plus d'infos. <https://www.transpole.fr/>`_
+    `Infos metro <https://www.transpole.fr/>`_
 
   .. container:: width-300 university p-first
 
@@ -56,62 +56,84 @@ Rejoindre le campus
 
     .. image:: /images/venir/university.svg
 
-    `Plus d'infos <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
+    `Infos vélo <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
 
 Venir à Lille
 =============
-.. container::
+.. container:: wrap-flex-between
 
-  .. container:: width-500 p-first
+  .. container:: p-first card
 
     En voiture
 
-    .. :: Paragraphes sur les arrivées depuis telle direction ou telle autre ?
+    .. container:: card-body
 
-    Beaucoup de parkings seront ouverts sur le campus, dont celui de l'école de 180
-    places.
+      .. image:: /images/venir/car.svg
 
-  .. container:: width-500 p-first
+      .. :: Paragraphes sur les arrivées depuis telle direction ou telle autre ?
+
+      Beaucoup de parkings seront ouverts sur le campus, dont celui de l'école de 180
+      places.
+
+  .. container:: p-first card
 
     En train
 
-    Il y a deux gares principales : Lille Flandres et Lille Europe. Elles sont dans
-    le centre et il faut compter 5-10 minutes pour se déplacer de l'une à l'autre à
-    pied ou en métro (1 arrêt).
+    .. container:: card-body
 
-  .. container:: width-500 p-first
+      .. image:: /images/venir/train.svg
+
+      Il y a deux gares principales : Lille Flandres et Lille Europe. Elles sont dans
+      le centre et il faut compter 5-10 minutes pour se déplacer de l'une à l'autre à
+      pied ou en métro (1 arrêt).
+
+  .. container:: p-first card
 
     En avion
 
-    Si tu arrives par l'aéroport de Lille-Lesquin, une navette pourra t'emmener
-    (même le dimanche) jusqu'au quartier des gares avec tout ce qui se trouve à
-    proximité, dont les deux lignes de métro.
+    .. container:: card-body
 
-    `Sur l'aéroport <http://www.lille.aeroport.fr/>`_
-    `Sur la navette <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_
+      .. image:: /images/venir/plane.svg
+
+      Si tu arrives par l'aéroport de Lille-Lesquin, une navette pourra t'emmener
+      (même le dimanche) jusqu'au quartier des gares avec tout ce qui se trouve à
+      proximité, dont les deux lignes de métro.
+
+    .. container:: link wrap-flex
+
+      `Infos aéroport <http://www.lille.aeroport.fr/>`_
+      `Infos navette <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_
 
 Conseils logement
 =================
 
 Nous conseillons 2 secteurs à celles et ceux qui ne connaissent pas le coin.
 
-À proximité des sorties
-+++++++++++++++++++++++
+.. container:: wrap-flex-between end-picto
 
-Si vous voulez passer la nuit dans les bars et autres lieux festifs, vous
-devriez chercher un hébergement dans le centre de Lille. C'est là qu'il y aura
-de l'animation !
+  .. container::
 
-À proximité de la science
-+++++++++++++++++++++++++
+    .. container:: p-first
 
-Si vous êtes plus raisonnable, il y a un cluster d'hôtels dans le *Parc de la Haute
-Borne*, de l'autre côté du campus (20 minutes de marche / 5 minutes en véhicule).
+      À proximité des sorties
 
-Il est également possible de choisir l'option `AirBNB`_ dans les quartiers
-résidentiels de Villeneuve d'Ascq.
+      Si vous voulez passer la nuit dans les bars et autres lieux festifs, vous
+      devriez chercher un hébergement dans le centre de Lille. C'est là qu'il y aura
+      de l'animation !
 
-.. _`AirBNB`: https://www.airbnb.fr/s/20-Rue-Guglielmo-Marconi--Villeneuve-d'Ascq--France/homes?query=20%20Rue%20Guglielmo%20Marconi%2C%20Villeneuve-d%27Ascq%2C%20France&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&place_id=ChIJF8PqN0_WwkcRlLzB7K9ZCco&s_tag=xxMTV_jg
+    .. container:: p-first
 
-Note : les scientifiques peuvent aussi faire la fête en ville mais ils devront
-quitter leurs camarades vers minuit pour le dernier métro :).
+      À proximité de la science
+
+      Si vous êtes plus raisonnable, il y a un cluster d'hôtels dans le *Parc de la Haute
+      Borne*, de l'autre côté du campus (20 minutes de marche / 5 minutes en véhicule).
+
+      Il est également possible de choisir l'option `AirBNB`_ dans les quartiers
+      résidentiels de Villeneuve d'Ascq.
+
+      .. _`AirBNB`: https://www.airbnb.fr/s/20-Rue-Guglielmo-Marconi--Villeneuve-d'Ascq--France/homes?query=20%20Rue%20Guglielmo%20Marconi%2C%20Villeneuve-d%27Ascq%2C%20France&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&place_id=ChIJF8PqN0_WwkcRlLzB7K9ZCco&s_tag=xxMTV_jg
+
+      Note : les scientifiques peuvent aussi faire la fête en ville mais ils devront
+      quitter leurs camarades vers minuit pour le dernier métro :).
+
+  .. image:: /images/venir/house.svg

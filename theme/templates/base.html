@@ -15,7 +15,7 @@
   {% endblock head %}
 </head>
 
-<body id="{{ output_file.split('/')[0] }}">
+<body id="{{ output_file.split('/')[0] }}" {% if output_file.split('/')[0] != "index" %}class="body-pages"{% endif %}>
   <header>
     <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
     {% block header %}{% endblock header %}
