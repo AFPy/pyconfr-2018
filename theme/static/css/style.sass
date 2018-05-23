@@ -1,7 +1,8 @@
 /* VARIABLES */
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700')
-$primary: #c4130e
-$secondary: #212e54
+$primary: #ff413c
+$secondary: #444
+$font-size-first: 1.4em
 
 =button
   background: $primary
@@ -9,7 +10,8 @@ $secondary: #212e54
   font-weight: 600
   padding: 1em 2em
   text-decoration: none
-  transition: background .3s
+  text-align: center
+  transition: background .2s
 
   &:hover
     background: lighten($primary, 5%)
@@ -50,9 +52,6 @@ body
 
           td
             padding: 1em
-
-          tr:nth-child(odd)
-            background: darken(#f6f9fa, 5%)
 
       ul
         line-height: 2em
@@ -105,10 +104,10 @@ body
     display: none
 
   p
-    line-height: 1.5em
+    line-height: 1.8em
 
     a, a:active
-      color: #218ce0
+      color: #fff
 
   header
     order: -2
@@ -128,15 +127,11 @@ body
         //   content: url(../images/logo2017.svg)
 
   nav
-    align-items: center
-    background: $primary
-    box-sizing: border-box
-    justify-content: center
-    margin-left: 0
-    margin-right: 0
-    min-height: 80px
-    padding: 0.5em 1em
-    width: auto
+    align-items: center;
+    background: rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    justify-content: center;
+    min-height: 70px;
 
     ul li
       a
@@ -145,42 +140,49 @@ body
         transition: color .4s
 
       &.active
-        border-bottom: 1px solid #000
+        border-bottom: 1px solid #fff
         font-weight: 600
 
         a
-          color: #000
+          color: #fff
 
       &:hover
         a
-          color: #000
+          color: #fff
+
+  .menu-pages
+    background: #ff413c;
+    border-top: 4px solid #d50500;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
 
   .reference.external
     +link
 
   h2
+    font-weight: 100;
+    font-size: 2.5em;
+    text-transform: uppercase;
     color: $primary
-    font-size: 2em
-
-    a
-      color: $primary
-      text-decoration: none
 
   #post-list li
     list-style: none
 
   #flags
-    margin-top: 22px
-    margin-left: 18px
+    position: fixed;
+    z-index: 1;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    padding: 0 1em;
+    max-width: 100px;
+    bottom: 1.5em;
+    z-index: 2;
 
-    li img
-      margin-left: 5px
-      border-color: rgba(0, 0, 0, 0.4)
-      border-style: solid
-      border-width: 1px
+    a
+      color: white
 
-    li a
-      padding: 0
 
   /* Make SVG images clickable */
   a.image-reference
@@ -199,7 +201,7 @@ body
       width: 100%
 
 footer
-  background: #000
+  background: $secondary
   background-clip: content-box
   color: #fff
   justify-content: center
@@ -222,6 +224,115 @@ footer
     a
       color: #fff
 
+.body-pages
+  padding-bottom: 4em;
+
+.width-300
+  width: 30vw
+
+.width-500
+  width: 45vw
+
+.wrap-flex-between
+  display: flex
+  justify-content: space-between
+
+.wrap-flex
+  display: flex
+  justify-content: space-evenly
+  flex-wrap: wrap
+
+.wrap-button
+  display: flex
+  justify-content: center
+  margin: 2em
+
+  .btn
+    +button
+    display: inline-block
+    margin: 1em 0
+
+  .btn-home
+    +button
+    background: none
+    border: 3px solid #fff
+    text-decoration: none
+    color: white
+
+    &:hover
+      background: none
+      color: darken(white, 10%) !important
+
+.p-first
+  p
+    &:first-child
+      font-size: $font-size-first
+
+.end-picto
+  align-items: flex-end;
+
+  object
+    width: 15em;
+    margin-left: 5em;
+
+
+.card
+  width: 350px;
+  position: relative
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 8px -2px rgba(0, 0, 0, 0.3);
+  margin: 1em 2em 0em 0em;
+
+  p
+    &:first-child
+      text-align: center
+      background-color: #f9f9f9;
+      padding: 0.5em;
+
+  object
+    position: relative;
+    width: 80%;
+    height: 140px;
+    margin-bottom: 2em;
+
+  .link
+    a
+      margin-bottom: 1.5em;
+      padding: .5rem;
+      background-color: $primary;
+      color: white;
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.2s ease
+
+      &:hover
+        color: white
+        background-color: lighten($primary, 3%)
+
+  .card-body
+    padding: 1em 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+.sponsors
+  display: flex
+  justify-content: space-evenly
+  margin: 2em 0
+
+  .container
+    width: 35vw
+    text-align: justify
+
+  a
+    position: relative
+    margin: 2em
+
+  object
+    position: relative
+    z-index: -1
+
 #index
   header
     height: 0
@@ -238,30 +349,95 @@ footer
     text-align: center
     text-transform: uppercase
 
+  h2
+    text-align: center
+
   .inscription
     +button
 
-  #lille-4-7-octobre-2018, #lille-october-4-7-2018
-    background: url(../images/header_bg.jpg) center no-repeat
-    background-size: cover
-    color: #fff
-    margin-left: 0
-    margin-right: 0
-    max-width: none
-    order: -1
-    padding: 230px 1em 0 1em
-    text-align: center
-    position: relative
+  .wrap-section-icon
+    display: flex
+    justify-content: space-evenly
+    flex-wrap: wrap
+
+    div
+      text-align: center
+      margin: 1.5em
+
+    object
+      max-width: 10em
+
+    p
+      max-width: 32rem
+
+  .wrap-paragraphe
+    display: flex
+    justify-content: space-evenly
+
+    div
+      width: 450px;
+
+      p
+        &:first-child
+          font-size: $font-size-first
+
+    object
+      width: 300px;
+
+  #menu
+    position: relative;
+    bottom: 0;
+    z-index: 1;
+    top: -4.35em;
+
+  #programme, #program
+    margin-top: -2em
+
+  #lille
+    background: url(../images/header_bg.jpg) center;
+    background-size: cover;
+    color: #fff;
+    order: -1;
+    padding: 0 15em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    height: 100vh;
+    font-weight: 600;
+    min-width: 100%;
+
+    .soutiens
+      a
+        background: none
+        border: 3px solid #fff
+        text-decoration: none
+
+        &:hover
+          color: white
+          text-decoration: underline
 
     > *
       max-width: 1200px
       margin: 1em auto
+      z-index: 1;
 
     h2
       color: #fff
-      font-size: 2.5em
-      font-weight: 600
+      font-weight: 500
       position: relative
+      letter-spacing: .8rem;
+      margin-bottom: 0
+
+    object
+      width: 125px;
+      height: 34px;
+      margin-top: 0;
+
+    h3
+      font-size: 1.8em;
+      font-weight: 300;
 
     p
       font-size: 1.1em
@@ -293,17 +469,82 @@ footer
       width: 100%
       left: 0
       top: 0
-      background-color: rgba(0,0,0,0.3)
+      background-color: rgba(88,0,0,0.5)
 
-  .soutien
-    +button
-    display: inline-block
-    margin: 1em 0
+  div.section:last-of-type
+    h2 a
+      color: $primary
+      text-decoration: none
+
+    ul
+      list-style: none
+      margin-left: 0
+
+    li
+      display: inline-block
+
+  .section
+    padding-bottom: 3em
+
+    &:first-child
+      padding-bottom: 0
 
   section.soutiens
     ul
       padding: 0
       max-width: inherit
+
+  .wrap-map
+    display: flex;
+    justify-content: space-evenly
+
+    div
+      width: 18em;
+
+    img
+      align-self: center
+      width: 45vw
+
+    p
+      &:first-child
+        font-size: $font-size-first
+        padding-bottom: 1em
+        border-bottom: 2px dashed
+        margin-bottom: 2em
+
+  #afpy
+    background: #f5f5f5;
+    max-width: 100vw;
+    padding: 4em 5em;
+
+  .map
+    +button
+    color: #fff
+    display: block
+    margin-top: 2em
+
+  .partners
+    text-align: center
+
+    img
+      max-height: 100px
+      vertical-align: middle
+
+  .contact
+    text-align: center
+    font-size: 1.5em
+    font-weight: 100
+    line-height: 2em
+    margin: 2em 0
+
+  #our-sponsors, #nos-partenaires
+    text-align: center
+
+    p
+      margin: 2em
+
+    h3
+      font-weight: 100
 
 #soutiens
   #partenaires
@@ -453,6 +694,101 @@ footer
       margin-top: 30px
       width: 100%
 
+#traveling-to-pyconfr
+
+  #address, #adresse
+    padding: 3em;
+
+    h2
+      position: absolute;
+      margin: 0;
+
+  .wrap-address
+    div
+      width: 40em
+
+      &:first-child
+        width: 25em
+        padding-top: 5em
+
+  .metro
+    object
+      width: 300px
+
+  .university
+    object
+      width: 329px
+
+
+.finance-aid
+  div
+    width: 40vw
+    text-align: justify
+
+  object
+    width: 25vw
+
+#sponsors
+
+  h3
+    font-weight: 100
+    font-size: 1.6em
+    text-align: center
+
+  .text-center
+    text-align: center
+
+/* Page Articles */
+
+.hentry
+  width: 380px;
+  background: whitesmoke;
+  box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.3);
+
+  header
+    font-size: 0.8em;
+    padding: 2em;
+
+    h2
+      text-transform: none;
+      margin: 0;
+
+      a
+        color: #444444;
+        text-decoration: none;
+
+  .post-info
+    padding: 0.5em 2em;
+    background-color: #ff413c;
+    color: white;
+
+    a
+      color: white
+
+  .entry-content
+      padding: 1em 2em;
+      background-color: #f5f5f5;
+
+
+/*  Become sponsor  */
+
+.sponsor-table
+  border: 1px solid $primary !important
+
+  th
+    font-size: 1.2em
+    font-weight: 100
+  a
+    color: black
+
+  thead
+    tr
+      background: white !important
+
+  tr:nth-child(odd)
+    background: #ff8f8c
+
+
 @media screen and (max-width: 640px)
   body
     footer
@@ -464,10 +800,3 @@ footer
 
     nav ul
       margin: 100px 0 0 0
-
-.partners
-  text-align: center
-
-  img
-    max-height: 100px
-    vertical-align: middle

@@ -27,99 +27,126 @@ details.
 
 This year, we propose the following amounts and counterparts:
 
-.. list-table::
-   :widths: 30 10 10 10 10 10 10 10
-   :header-rows: 1
-   :class: sponsors
+.. raw:: html
 
-   * - Benefit
-     - Heart (amount of your choice)
-     - Bronze 500€
-     - Silver 1000€
-     - Gold 2000€
-     - Platinum - Transcript - 4000€
-     - Platinum - Drinks and viennoiseries - 4000€
-     - Platinum - Video - 6000€
-   * - Name and logo on the `Sponsors page`_
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - 1000 characters presentation on the `Sponsors page`_
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Logo on the index page of the PyConFr 2018 website
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Logo on posters and printed documents (if submitted before printing)
-     - 
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Your kakemono in conference rooms
-     - 
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Presentation of the enterprise (2min) at the event kick-off (saturday)
-     - 
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Stand in the hall
-     - 
-     -
-     -
-     - ✔
-     - ✔
-     - ✔
-     - ✔
-   * - Your logo on the transcription screen and on subtitled videos
-     - 
-     -
-     -
-     -
-     - ✔
-     -
-     -
-   * - Your logo on tables with viennoiseries and drinks
-     - 
-     -
-     -
-     -
-     -
-     - ✔
-     -
-   * - Your logo at the beginning of video recordings
-     - 
-     -
-     -
-     -
-     -
-     -
-     - ✔
+  <div>
+    <table border="1" class="sponsor-table">
+      <thead valign="bottom">
+        <tr>
+          <th>Benefit</th>
+          <th>Heart (amount of your choice)</th>
+          <th>Bronze 500€</th>
+          <th>Silver 1000€</th>
+          <th>Gold 2000€</th>
+          <th>Platinum - Transcript - 4000€</th>
+          <th>Platinum - Drinks and viennoiseries - 4000€</th>
+          <th>Platinum - Video - 6000€</th>
+        </tr>
+      </thead>
+      <tbody valign="top">
+        <tr>
+          <td>Name and logo on the <a href="/index#nos-partenaires">Sponsors section</a></td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>1000 characters presentation on the <a href="/index#nos-partenaires">Sponsors page</a></td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Logo on the index page of the PyConFr 2018 website</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Logo on posters and printed documents (if submitted before printing)</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Your kakemono in conference rooms</td>
+          <td> -</td>
+          <td> -</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Presentation of the enterprise (2min) at the event kick-off (saturday)</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Stand in the hall</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+          <td>✔</td>
+        </tr>
+        <tr>
+          <td>Your logo on the transcription screen and on subtitled videos</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>Your logo on tables with viennoiseries and drinks</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>Your logo at the beginning of video recordings</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>✔</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
 Contact: `tresorier@afpy.org`_
 
