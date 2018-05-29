@@ -16,7 +16,6 @@
 
 Lille
 =====
-.. image:: /images/snake.svg
 
 du 4 au 7 octobre 2018
 ----------------------
@@ -93,24 +92,18 @@ AFPY
 
 Le lieu
 =======
+IMT Lille Douai, |br| site de Villeneuve d'Ascq.
 
-.. container:: wrap-map
+20 rue Guglielmo Marconi,
 
-  .. container::
+59650 Villeneuve-d’Ascq
 
-    IMT Lille Douai, |br| site de Villeneuve d'Ascq.
+Le lieu est accessible depuis Lille, en vélo libre service ou en métro. |br|
 
-    20 rue Guglielmo Marconi,
+.. raw:: html
 
-    59650 Villeneuve-d’Ascq
+  <a class="map" href="/traveling-to-pyconfr">Plus de details</a>
 
-    Le lieu est accessible depuis Lille, en vélo libre service ou en métro. |br|
-
-    .. raw:: html
-
-      <a class="map" href="/traveling-to-pyconfr">Plus de details</a>
-
-  .. image:: /images/home/map.png
 
 
 

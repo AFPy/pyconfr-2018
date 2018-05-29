@@ -1,8 +1,8 @@
 /* VARIABLES */
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700')
-$primary: #ff413c
+$primary: #ee444a
 $secondary: #444
-$font-size-first: 1.4em
+$font-size-first: 1.2em
 
 =button
   background: $primary
@@ -17,11 +17,13 @@ $font-size-first: 1.4em
     background: lighten($primary, 5%)
 
 =link
-  color: $secondary
+  color: $primary
+  font-weight: 600
+  text-decoration: none
   transition: color .3s
 
   &:hover
-    color: lighten($secondary, 8%)
+    color: lighten($primary, 8%)
 
 
 html
@@ -52,6 +54,7 @@ body
 
           td
             padding: 1em
+            vertical-align: middle
 
       ul
         line-height: 2em
@@ -127,20 +130,20 @@ body
         //   content: url(../images/logo2017.svg)
 
   nav
-    align-items: center;
-    background: rgba(0,0,0,0.5);
-    box-sizing: border-box;
-    justify-content: center;
-    min-height: 70px;
+    background: #19181b
+    box-sizing: border-box
+    justify-content: center
+    min-height: 70px
 
     ul li
       a
         color: #fff
+        padding: 0
         text-decoration: none
         transition: color .4s
 
       &.active
-        border-bottom: 1px solid #fff
+        border-bottom: 2px solid $primary
         font-weight: 600
 
         a
@@ -151,20 +154,41 @@ body
           color: #fff
 
   .menu-pages
-    background: #ff413c;
-    border-top: 4px solid #d50500;
+    background: #19181b
+    box-sizing: border-box
+    justify-content: center
     position: fixed;
     bottom: 0;
     z-index: 1;
+
+    ul
+      margin: 0
+
+      li
+        align-items: center
+        display: flex
+        padding: 1em .5em
 
   .reference.external
     +link
 
   h2
-    font-weight: 100;
-    font-size: 2.5em;
-    text-transform: uppercase;
     color: $primary
+    font-size: 2.5em
+    font-weight: 400
+    text-align: center
+
+    &::after
+      background: $primary
+      content: ''
+      display: block
+      height: 3px
+      margin: .5em auto 0
+      width: 35px
+
+    a
+      color: $primary
+      text-decoration: none
 
   #post-list li
     list-style: none
@@ -175,6 +199,7 @@ body
     font-weight: bold;
     text-transform: uppercase;
     color: white;
+    font-weight: 400
     padding: 0 1em;
     max-width: 100px;
     bottom: 1.5em;
@@ -182,6 +207,10 @@ body
 
     a
       color: white
+      text-decoration: none
+
+      &:last-of-type
+        color: $primary
 
 
   /* Make SVG images clickable */
@@ -201,9 +230,11 @@ body
       width: 100%
 
 footer
-  background: $secondary
+  align-items: center
+  background: $primary
   background-clip: content-box
   color: #fff
+  font-size: .9em
   justify-content: center
   margin-left: 0
   margin-right: 0
@@ -216,11 +247,9 @@ footer
     transition: color .4s
 
     &:hover
-      color: $primary
+      color: $secondary
 
   p
-    padding: 0.5em 1em
-
     a
       color: #fff
 
@@ -245,7 +274,7 @@ footer
 .wrap-button
   display: flex
   justify-content: center
-  margin: 2em
+  //margin: 2em
 
   .btn
     +button
@@ -254,19 +283,12 @@ footer
 
   .btn-home
     +button
-    background: none
-    border: 3px solid #fff
-    text-decoration: none
-    color: white
-
-    &:hover
-      background: none
-      color: darken(white, 10%) !important
 
 .p-first
   p
     &:first-child
       font-size: $font-size-first
+      font-weight: 600
 
 .end-picto
   align-items: flex-end;
@@ -281,19 +303,17 @@ footer
   position: relative
   display: flex;
   flex-direction: column;
-  box-shadow: 0px 0px 8px -2px rgba(0, 0, 0, 0.3);
-  margin: 1em 2em 0em 0em;
+  margin: 1em .25em
 
   p
     &:first-child
-      text-align: center
-      background-color: #f9f9f9;
-      padding: 0.5em;
+      font-weight: 600
 
   object
     position: relative;
     width: 80%;
     height: 140px;
+
     margin-bottom: 2em;
 
   .link
@@ -318,12 +338,11 @@ footer
 
 .sponsors
   display: flex
-  justify-content: space-evenly
-  margin: 2em 0
+  flex-wrap: wrap
+  justify-content: center
 
   .container
-    width: 35vw
-    text-align: justify
+    //width: 35vw
 
   a
     position: relative
@@ -334,6 +353,9 @@ footer
     z-index: -1
 
 #index
+  #flags
+    position: absolute
+
   header
     height: 0
     z-index: 10
@@ -372,6 +394,7 @@ footer
 
   .wrap-paragraphe
     display: flex
+    flex-wrap: wrap
     justify-content: space-evenly
 
     div
@@ -380,6 +403,7 @@ footer
       p
         &:first-child
           font-size: $font-size-first
+          font-weight: 600
 
     object
       width: 300px;
@@ -390,23 +414,40 @@ footer
     z-index: 1;
     top: -4.35em;
 
+    > ul
+      align-items: stretch
+      margin: 0
+      padding-left: 5em
+
+      li
+        align-items: center
+        display: flex
+        padding: 1em .5em
+
+        a:hover
+          color: $primary
+
   #programme, #program
     margin-top: -2em
 
   #lille
-    background: url(../images/header_bg.jpg) center;
-    background-size: cover;
-    color: #fff;
-    order: -1;
-    padding: 0 15em;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    position: relative;
-    height: 100vh;
-    font-weight: 600;
-    min-width: 100%;
+    background: url(../images/header_bg.jpg) center
+    background-size: cover
+    color: #fff
+    order: -1
+    padding: 0 15em
+    display: flex
+    flex-direction: column
+    justify-content: center
+    text-align: center
+    padding-bottom: 0
+    position: relative
+    height: 100vh
+    font-weight: 600
+    min-width: 100%
+
+    > .section
+      padding-bottom: 0
 
     .soutiens
       a
@@ -424,11 +465,14 @@ footer
       z-index: 1;
 
     h2
-      color: #fff
-      font-weight: 500
-      position: relative
-      letter-spacing: .8rem;
-      margin-bottom: 0
+      background: url('../images/logo.svg') no-repeat center
+      background-size: contain
+      font-size: 0
+      height: 150px
+      width: 100%
+
+      &::after
+        content: none
 
     object
       width: 125px;
@@ -436,8 +480,8 @@ footer
       margin-top: 0;
 
     h3
-      font-size: 1.8em;
-      font-weight: 300;
+      font-size: 1.8em
+      font-weight: 700
 
     p
       font-size: 1.1em
@@ -445,21 +489,13 @@ footer
       margin-bottom: 0
       position: relative
 
-    a
-      color: #f6f2f0
-      font-weight: 600
-      text-decoration: none
+    .reference.external
+      color: #fff
       transition: color .5s
       text-decoration: underline
 
       &:hover
-        color: lighten($secondary, 5%)
-
-    &:after
-      content: ''
-      display: block
-      height: 50px
-      width: 100%
+        color: $primary
 
     &:before
       content: ''
@@ -469,7 +505,7 @@ footer
       width: 100%
       left: 0
       top: 0
-      background-color: rgba(88,0,0,0.5)
+      background-color: rgba(0,0,0,0.3)
 
   div.section:last-of-type
     h2 a
@@ -515,13 +551,19 @@ footer
   #afpy
     background: #f5f5f5;
     max-width: 100vw;
-    padding: 4em 5em;
+    padding: 1em 5em;
 
-  .map
-    +button
-    color: #fff
-    display: block
-    margin-top: 2em
+  #le-lieu
+    text-align: center
+
+    .map
+      +button
+      color: #fff
+      display: inline-block
+      margin-top: 1em
+
+    p:first-of-type
+      font-weight: 600
 
   .partners
     text-align: center
@@ -540,11 +582,16 @@ footer
   #our-sponsors, #nos-partenaires
     text-align: center
 
-    p
-      margin: 2em
-
     h3
-      font-weight: 100
+      font-size: 1.1em
+      font-weight: 600
+
+  #nos-partenaires
+    .section
+      padding-bottom: 0
+
+      .reference.external
+        +link
 
 #soutiens
   #partenaires
@@ -695,13 +742,16 @@ footer
       width: 100%
 
 #traveling-to-pyconfr
+  #adresse
+    .wrap-flex-between
+      flex-wrap: wrap
 
   #address, #adresse
     padding: 3em;
 
     h2
-      position: absolute;
-      margin: 0;
+      text-align: center
+      margin: 0 0 1em 0
 
   .wrap-address
     div
@@ -709,7 +759,6 @@ footer
 
       &:first-child
         width: 25em
-        padding-top: 5em
 
   .metro
     object
@@ -719,16 +768,58 @@ footer
     object
       width: 329px
 
+  #rejoindre-le-campus
+    .reference.external
+      +button
+
+    h2
+      text-align: center
+
+    .wrap-flex-between
+      //flex-wrap: wrap
+      justify-content: center
+
+    .width-300
+      padding: 1em
+      display: flex
+      flex-wrap: wrap
+      flex-direction: column
+
+      object
+        max-height: 100px
+        order: 0
+
+      p
+        order: 2
+        &:first-child
+          font-weight: 600
+          order: 1
+
+        &:last-child
+          text-align: center
+
+  #venir-a-lille
+    h2
+      text-align: center
+
+    .wrap-flex-between
+      justify-content: center
+      flex-wrap: wrap
+
+      .card
 
 .finance-aid
+  flex-wrap: wrap
   div
-    width: 40vw
-    text-align: justify
+    order: 1
 
   object
-    width: 25vw
+    order: 0
+    margin: 0 auto
 
 #sponsors
+  .image-reference
+    margin: 0
 
   h3
     font-weight: 100
@@ -742,8 +833,7 @@ footer
 
 .hentry
   width: 380px;
-  background: whitesmoke;
-  box-shadow: 0px 0px 10px -2px rgba(0,0,0,0.3);
+  border: 2px solid #f5f5f5
 
   header
     font-size: 0.8em;
@@ -759,7 +849,7 @@ footer
 
   .post-info
     padding: 0.5em 2em;
-    background-color: #ff413c;
+    background-color: $primary
     color: white;
 
     a
@@ -767,29 +857,46 @@ footer
 
   .entry-content
       padding: 1em 2em;
-      background-color: #f5f5f5;
 
+      p a
+        +link
 
 /*  Become sponsor  */
 
 .sponsor-table
-  border: 1px solid $primary !important
+  border: 1px solid #b9b9b9 !important
 
-  th
-    font-size: 1.2em
-    font-weight: 100
+  tr
+    border: 0
+
+    th
+      background: $primary
+      border: 0
+      color: #fff
+      font-weight: 600
+
   a
-    color: black
+    color: $primary
 
   thead
     tr
       background: white !important
 
   tr:nth-child(odd)
-    background: #ff8f8c
+    background: #f5f5f5
 
+
+@media screen and (max-width: 800px)
+  #index #lille
+    padding: 0 1em
+
+  #rejoindre-le-campus
+    .width-300
+      width: 100%
 
 @media screen and (max-width: 640px)
+  #index #afpy
+    padding: 1em
   body
     footer
       flex-direction: column
