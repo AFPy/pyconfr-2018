@@ -16,7 +16,6 @@ About
 
 Lille
 =====
-.. image:: /images/snake.svg
 
 October 4-7 2018
 ----------------
@@ -92,24 +91,17 @@ AFPY
 
 The place
 =========
+IMT Lille Douai, |br| site de Villeneuve d'Ascq.
 
-.. container:: wrap-map
+20 rue Guglielmo Marconi,
 
-  .. container::
+59650 Villeneuve-d’Ascq
 
-    IMT Lille Douai, |br| site de Villeneuve d'Ascq.
+The place is accessible from Lille, by self-service bike or by metro. |br|
 
-    20 rue Guglielmo Marconi,
+.. raw:: html
 
-    59650 Villeneuve-d’Ascq
-
-    The place is accessible from Lille, by self-service bike or by metro. |br|
-
-    .. raw:: html
-
-      <a class="map" href="/traveling-to-pyconfr">More details</a>
-
-  .. image:: /images/home/map.png
+  <a class="map" href="/traveling-to-pyconfr">More details</a>
 
 
 
