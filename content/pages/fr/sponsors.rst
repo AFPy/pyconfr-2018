@@ -45,34 +45,32 @@ Bronze
 ------
 .. container:: sponsors
 
+  .. image:: /images/logo_tempo.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de TeMPO Consulting
+     :target: http://www.tempo-consulting.fr/
+
   .. container::
 
-    .. image:: /images/logo_tempo.svg
-       :height: 100px
-       :width: 200px
-       :alt: logo de TeMPO Consulting
-       :target: http://www.tempo-consulting.fr/
+    TeMPO Consulting est une société informatique proposant des solutions
+    logicielles bâties à partir de composants Open Source.
 
-    .. container::
+    À la croisée des chemins entre la société de services et l’éditeur de
+    logiciels, TeMPO Consulting est plus particulièrement spécialisée dans la mise
+    en oeuvre de solutions de gestion d’entreprise et de solutions Web.
 
-      TeMPO Consulting est une société informatique proposant des solutions
-      logicielles bâties à partir de composants Open Source.
+    De l’éditeur, TeMPO Consulting possède le savoir-faire en proposant une offre
+    de composants logiciels réutilisables et modulables, de la société de services
+    TeMPO Consulting possède la flexibilité et la réactivité.
 
-      À la croisée des chemins entre la société de services et l’éditeur de
-      logiciels, TeMPO Consulting est plus particulièrement spécialisée dans la mise
-      en oeuvre de solutions de gestion d’entreprise et de solutions Web.
+    Forte de ses compétences Python et programmation Web, la société TeMPO
+    Consulting s’est résolument positionnée sur le logiciel ERP Odoo et le
+    framework Django.
 
-      De l’éditeur, TeMPO Consulting possède le savoir-faire en proposant une offre
-      de composants logiciels réutilisables et modulables, de la société de services
-      TeMPO Consulting possède la flexibilité et la réactivité.
-
-      Forte de ses compétences Python et programmation Web, la société TeMPO
-      Consulting s’est résolument positionnée sur le logiciel ERP Odoo et le
-      framework Django.
-
-      Nos experts Django prennent en charge des projets simples ou complexes en
-      utilisant tous les composants disponibles et en les complétant par la création
-      de nouveaux modules le cas échéant.
+    Nos experts Django prennent en charge des projets simples ou complexes en
+    utilisant tous les composants disponibles et en les complétant par la création
+    de nouveaux modules le cas échéant.
 
 Cœur
 ----
