@@ -15,7 +15,7 @@ Since 2007, the French Python Association (AFPy) organizes an annual meeting gat
 
 The PyConFr is the best way to discover Python language, to go further using it, to meet libraries and tools authors, and to simply meet during a week-end.
 
-This yaer, PyConFr will be held in Lille from 4th to 7th of October 2018, and hosted by `IMT Lille Douai <http://imt-lille-douai.fr/>`_.
+This year, PyConFr will be held in Lille from 4th to 7th of October 2018, and hosted by `IMT Lille Douai <http://imt-lille-douai.fr/>`_.
 
 The PyConFr gathers 400 participants each day, and no less than 70 presentations and workshops:
 
