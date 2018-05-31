@@ -9,7 +9,7 @@ Appel à participation pour PyConFr 2018
 :og_type: article
 :og_title: Appel à participation pour PyConFr 2018
 :og_description: L'appel à participation pour PyConFr 2018 est maintenant ouvert !
-:og_image: /images/logo_tmp.png
+:og_image: /images/logo_og.png
 
 Depuis 2007, l’Association Francophone Python (AFPy) organise une rencontre annuelle des utilisatrices et utilisateurs francophones du langage Python sur quelques jours pour échanger autour de leurs expériences, apprendre les un·e·s des autres et se présenter leurs dernières trouvailles au cours d’ateliers, de conférences et de rencontres.
 

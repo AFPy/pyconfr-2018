@@ -9,7 +9,7 @@ PyConFr 2018 Call for funding
 :og_type: article
 :og_title: PyConFr 2018 Call for funding
 :og_description: There are costs involved in organizing a conference. Here is our call to help cover them.
-:og_image: /images/logo_tmp.png
+:og_image: /images/logo_og.png
 
 There are costs involved in organizing a conference. Here is our call to help
 cover them.

@@ -9,7 +9,7 @@ Appel à financement pour PyConFr 2018
 :og_type: article
 :og_title: Appel à financement pour PyConFr 2018
 :og_description: L'organisation d'une conférence engendre des frais. Voici notre appel pour nous aider à les couvrir.
-:og_image: /images/logo_tmp.png
+:og_image: /images/logo_og.png
 
 L'organisation d'une conférence engendre des frais. Voici notre appel pour nous
 aider à les couvrir.

@@ -9,7 +9,7 @@ PyConFr 2018
 :og_type: article
 :og_title: PyConFr 2018
 :og_description: L'édition 2018 de la conférence sur Python de la communauté francophone se tiendra à Lille du 4 au 7 octobre 2018
-:og_image: /images/logo_tmp.png
+:og_image: /images/logo_og.png
 
 L'édition 2018 de la conférence sur Python de la communauté francophone se
 tiendra à Lille du 4 au 7 octobre 2018.

@@ -9,7 +9,7 @@ Call for Proposal for PyConFr 2018
 :og_type: article
 :og_title: Appel à participation pour PyConFr 2018
 :og_description: The call for proposal for PyConFr 2018 is now open!
-:og_image: /images/logo_tmp.png
+:og_image: /images/logo_og.png
 
 Since 2007, the French Python Association (AFPy) organizes an annual meeting gathering Python users. They meet to speak about their experiences, to learn from each other and to show their latest discovering during workshops, presentations and meetings.
 
