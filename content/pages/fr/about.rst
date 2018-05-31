@@ -108,26 +108,8 @@ Le lieu est accessible depuis Lille, en vélo libre service ou en métro. |br|
 
 
 
-
-Nos Partenaires
-===============
-
-.. container:: sponsors
-
-
-  .. image:: /images/logo_kozea.svg
-    :height: 100px
-    :width: 200px
-    :alt: logo de Kozea
-    :target: https://www.kozea.fr/
-
-  .. image:: /images/logo_hashbang.svg
-    :height: 100px
-    :width: 200px
-    :alt: logo d'Hashbang
-    :target: https://hashbang.fr/
-
-Kozea et Hashbang ont participé à la conception et l'intégration du design du site web de PyConFr 2018 et des éléments graphiques imprimés (tshirts, affiches, etc...).
+Nos soutiens
+============
 
 Platine
 -------
@@ -156,6 +138,8 @@ Bronze
        :alt: logo de TeMPO Consulting
        :target: http://www.tempo-consulting.fr/
 
+`Devenez partenaire "Bronze" </sponsor-pyconfr>`_
+
 Cœur
 ----
 
@@ -164,8 +148,25 @@ Cœur
 .. raw:: html
 
   <section class="wrap-button">
-    <a class="btn" href="/sponsor-pyconfr">Soutenez nous</a>
+    <a class="btn" href="/sponsor-pyconfr">Financez nous</a>
   </section>
+
+Partenaires
+-----------
+
+.. container:: sponsors
+
+  .. image:: /images/logo_kozea.svg
+    :height: 100px
+    :width: 200px
+    :alt: logo de Kozea
+    :target: https://www.kozea.fr/
+
+  .. image:: /images/logo_hashbang.svg
+    :height: 100px
+    :width: 200px
+    :alt: logo d'Hashbang
+    :target: https://hashbang.fr/
 
 .. container:: contact
 
