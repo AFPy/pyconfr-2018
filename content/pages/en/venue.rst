@@ -1,7 +1,7 @@
-Traveling to PyConFr
-####################
+Venue
+#####
 
-:slug: traveling-to-pyconfr
+:slug: venue 
 :lang: en
 
 .. |br| raw:: html
@@ -44,7 +44,7 @@ Reach the campus
 
     .. image:: /images/venir/metro.svg
 
-    `Info metro <https://www.transpole.fr/>`_
+    `Metro info <https://www.transpole.fr/>`_
 
   .. container:: width-300 university p-first
 
@@ -55,10 +55,10 @@ Reach the campus
 
     .. image:: /images/venir/university.svg
 
-    `Infos bike <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
+    `Bike info <https://www.transpole.fr/cms/institutionnel/fr/reseau-transpole/3-services-velos/>`_
 
-Go to Lille
-===========
+Traveling to Lille
+==================
 .. container:: wrap-flex-between
 
   .. container:: p-first card
@@ -99,8 +99,8 @@ Go to Lille
 
     .. container:: link wrap-flex
 
-      `Infos airport <http://www.lille.aeroport.fr/>`_
-      `Infos shuttle <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_
+      `Airport info <http://www.lille.aeroport.fr/>`_
+      `Shuttle info <http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/>`_
 
 Housing advice
 ==============

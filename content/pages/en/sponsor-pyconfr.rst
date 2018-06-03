@@ -8,7 +8,7 @@ Help us before and during the event
 ===================================
 
 If you wish to help us with the preparation and/or during the event, do not
-hesitate to `contact us </en/contact>`_.
+hesitate to contact us at `contact@afpy.org <mailto:contact@afpy.org>`_.
 
 Any volunteer help during the event is welcome!
 
@@ -45,7 +45,7 @@ This year, we propose the following amounts and counterparts:
       </thead>
       <tbody valign="top">
         <tr>
-          <td>Name and logo on the <a href="/index#nos-partenaires">Sponsors section</a></td>
+          <td>Name and logo on the <a href="/en/sponsors">Sponsors section</a></td>
           <td>✔</td>
           <td>✔</td>
           <td>✔</td>
@@ -55,7 +55,7 @@ This year, we propose the following amounts and counterparts:
           <td>✔</td>
         </tr>
         <tr>
-          <td>1000 characters presentation on the <a href="/index#nos-partenaires">Sponsors page</a></td>
+          <td>1000 characters presentation on the <a href="/en/sponsors">Sponsors page</a></td>
           <td>-</td>
           <td>✔</td>
           <td>✔</td>

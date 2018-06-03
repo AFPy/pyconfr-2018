@@ -46,8 +46,8 @@ Program
 
     The first two days are dedicated to sprints.
 
-    Developers of various open-source projects gather in little groups to code
-    together.  Everyone is welcome to contribute, and we seek to guide beginners.
+    Developers of various open source projects gather in little groups to code
+    together. Everyone is welcome to contribute, and we seek to guide beginners.
 
     Take part to the development of your favorite project! We provide the space and
     environment (tables, chairs, internet connection... and coffee!).
@@ -90,7 +90,7 @@ AFPY
 
     .. image:: /images/home/afpy/demos.svg
 
-    Solidarity and democracy increase the potential of each one
+    Solidarity and democracy increase the potential of each one of us.
 
 The place
 =========
@@ -104,7 +104,7 @@ The place is accessible from Lille, by self-service bike or by metro. |br|
 
 .. raw:: html
 
-  <a class="map" href="/traveling-to-pyconfr">More details</a>
+  <a class="map" href="/en/venue">More details</a>
 
 
 
@@ -148,7 +148,7 @@ Heart
 .. raw:: html
 
   <section class="wrap-button">
-    <a class="btn" href="/sponsor-pyconfr">Become a sponsor</a>
+    <a class="btn" href="/en/sponsor-pyconfr">Become a sponsor</a>
   </section>
 
 Partners

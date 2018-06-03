@@ -1,7 +1,7 @@
 Venir à PyConFr
 ###############
 
-:slug: traveling-to-pyconfr
+:slug: venue
 :lang: fr
 
 .. |br| raw:: html

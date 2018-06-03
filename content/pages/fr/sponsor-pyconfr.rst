@@ -8,7 +8,7 @@ Nous aider avant et pendant l'événement
 =======================================
 
 Si vous souhaitez nous aider pour la préparation de l'événement, et/ou lors de
-l'événement, n'hésitez pas à `nous contacter </contact>`_.
+l'événement, n'hésitez pas à nous contacter à `contact@afpy.org <mailto:contact@afpy.org>`_.
 
 Toute aide bénévole lors de l'événement est la bienvenue !
 
@@ -23,10 +23,10 @@ permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
 année.
 
 Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le
-tresorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
+trésorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
 discuter des détails.
 
-Cette année, nous proposons les montants et contreparties suivantes :
+Cette année, nous proposons les montants et contreparties suivantes :
 
 .. raw:: html
 
@@ -46,7 +46,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
       </thead>
       <tbody valign="top">
         <tr>
-          <td>Nom et logo sur <a href="/index#nos-partenaires">la page Soutiens du site web</a></td>
+          <td>Nom et logo sur <a href="/sponsors">la page Soutiens du site web</a></td>
           <td>✔</td>
           <td>✔</td>
           <td>✔</td>
@@ -56,7 +56,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
           <td>✔</td>
         </tr>
         <tr>
-          <td>Présentation de 1000 caractères sur <a href="/index#nos-partenaires">la page Soutiens du site web</a></td>
+          <td>Présentation de 1000 caractères sur <a href="/sponsors">la page Soutiens du site web</a></td>
           <td>-</td>
           <td>✔</td>
           <td>✔</td>
@@ -116,7 +116,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
           <td>✔</td>
         </tr>
         <tr>
-          <td>Votre logo sur l'écran de transcription textuelle et sur les vidéos sous titrées grâce aux transcriptions</td>
+          <td>Votre logo sur l'écran de transcription textuelle et sur les vidéos sous-titrées grâce aux transcriptions</td>
           <td>-</td>
           <td>-</td>
           <td>-</td>

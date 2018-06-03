@@ -58,7 +58,7 @@ Bronze
 
     À la croisée des chemins entre la société de services et l’éditeur de
     logiciels, TeMPO Consulting est plus particulièrement spécialisée dans la mise
-    en oeuvre de solutions de gestion d’entreprise et de solutions Web.
+    en œuvre de solutions de gestion d’entreprise et de solutions Web.
 
     De l’éditeur, TeMPO Consulting possède le savoir-faire en proposant une offre
     de composants logiciels réutilisables et modulables, de la société de services
