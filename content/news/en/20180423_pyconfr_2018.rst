@@ -22,7 +22,7 @@ projects will be announced on our site as they register.
 
 During the two following days, you will have the opportunity to attend to
 presentations on various topics, about the Python programming language, its use
-cases, good practices, feedbacks, shared ideas... A call for proposal is to be
+cases, good practices, feedbacks, shared ideas... A call for proposals is to be
 announced soon.
 
 This event is hosted by the `Institut Mines Télécom de Lille Douai
@@ -35,8 +35,8 @@ We ask everyone wishing to come to read the `code of conduct
 everyone. AFPy working group is mobilized to make everyone feel good during the
 conference. Actions will be announced.
 
-If you already want to organize your journey, we have prepared `Traveling to
-PyConFr </en/traveling-to-pyconfr>`_ and `Venue </en/venue>`_ pages.
+If you already want to organize your journey, we have prepared the `Venue
+</en/venue>`_ page.
 
 We have several other announcements for you in the coming weeks, so follow us on
 `our web feed </feeds/all.atom.xml>`_, or `our Twitter feed

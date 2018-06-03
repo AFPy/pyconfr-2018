@@ -52,7 +52,7 @@ THEME = 'theme'
 
 MENUITEMS = [
     (u'À propos', '/index'),
-    (u'Venir', '/traveling-to-pyconfr'),
+    (u'Venir', '/venue'),
     (u'Demander une bourse', '/financial-assistance'),
     (u'Nos soutiens', '/sponsors'),
     (u'Nouvelles', '/news'),
@@ -67,7 +67,7 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'À propos', '/index'),
-            (u'Venir', '/traveling-to-pyconfr'),
+            (u'Venir', '/venue'),
             (u'Demander une bourse', '/financial-assistance'),
             (u'Nos soutiens', '/sponsors'),
             (u'Nouvelles', '/news'),
@@ -80,7 +80,7 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'About', '/index'),
-            (u'Traveling to PyConFr', '/traveling-to-pyconfr'),
+            (u'Venue', '/venue'),
             (u'Financial assistance', '/financial-assistance'),
             (u'Sponsors', '/sponsors'),
             (u'News', '/news'),

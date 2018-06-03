@@ -53,22 +53,22 @@ Bronze
 
   .. container::
 
-    TeMPO Consulting is an IT company offering solutions software built from Open
+    TeMPO Consulting is an IT company offering software solutions built from Open
     Source components.
 
-    At the crossroads between the service company and the publisher software, TeMPO
-    Consulting is more particularly specialized in implementation of enterprise
+    At the crossroads between the service company and the software editor, TeMPO
+    Consulting is more particularly specialized in the implementation of enterprise
     management solutions and web solutions.
 
-    From the publisher, TeMPO Consulting has the know-how by offering reusable and
-    scalable software components. From the service company, TeMPO Consulting has
-    flexibility and responsiveness.
+    TeMPO Consulting has the know-how of the editor by offering reusable and
+    scalable software components, and has flexibility and responsiveness of the
+    service company.
 
     With its Python and Web programming skills, TeMPO Consulting is firmly
     positioned on the Odoo ERP software and the Django framework.
 
-    Our Django experts support simple or complex projects in using all available
-    components and complementing them with the creation new modules if necessary.
+    Our Django experts support simple or complex projects by using all available
+    components and complementing them by creating new modules if necessary.
 
 Heart
 -----
@@ -80,5 +80,5 @@ Heart
 .. raw:: html
 
   <section class="wrap-button">
-    <a class="btn" href="/sponsor-pyconfr">Become a sponsor</a>
+    <a class="btn" href="/en/sponsor-pyconfr">Become a sponsor</a>
   </section>
