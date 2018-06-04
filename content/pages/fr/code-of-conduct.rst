@@ -20,13 +20,13 @@ Le but de l’Association Francophone Python (AFPy) est d’assurer la promotion
 langage de programmation Python auprès du plus large public possible. Nous
 diffusons nos connaissances et sommes ouverts aux apports extérieurs car la
 diversité, l’écoute réciproque, la solidarité et la démocratie élargissent les
-horizons et accroissent le potentiel de l’AFPy et de chacun de ses membres. En
-conséquence, nous encourageons donc la participation aux divers événements que
-nous (co-)organisons de toutes les personnes de la communauté Python ou
-souhaitant en faire partie. Dans ce cadre, l’AFPy souhaite que toute personne
+horizons et accroissent le potentiel de l’AFPy et de chacun de ses membres. 
+Nous encourageons donc toutes les personnes de la communauté Python ou
+souhaitant en faire partie à participer aux divers événements que
+nous (co-)organisons. Dans ce cadre, l’AFPy souhaite que toute personne
 intéressée soit accueillie de manière agréable et enrichissante.
 
-L’AFPy s’attend donc à ce que chaque membre de l’association fasse preuve de
+L’AFPy s’attend à ce que chaque membre de l’association fasse preuve de
 respect et de courtoisie envers les autres membres de l’association et les
 personnes rencontrées dans le cadre de tout événement organisé (formellement ou
 non) par l’association.
@@ -52,7 +52,7 @@ tolérées, quel que soit leur support.
 
 Soyez poli(e). N’insultez personne. Discrimination et harcèlement sont à exclure
 aussi bien dans les écrits, les visuels, les paroles et les actes, et ce quel
-que soit leur nature (sexuel, raciste, religieux, social...).
+que soit leur nature (sexuelle, raciste, religieuse, sociale...).
 
 Le non-respect de ces règles de bienséance pourra entraîner l’exclusion de
 l’événement, à la seule discrétion d’un ou plusieurs organisateurs, ou de
@@ -74,7 +74,7 @@ par l’AFPy de manière directe ou indirecte à savoir :
 - le blog
 - la liste de diffusion
 - tout événement où vous représentez l’AFPy, y compris les rencontres
-  informelles (notamment AFPyros)
+  informelles (par exemple les AFPyros)
 
 Définition de la discrimination
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,6 +99,11 @@ En référence à la définition qui précède, nous vous invitons à vous abste
 - de présenter des images sexuelles ou choquantes (notamment violentes),
 - d’intimidation délibérée, de harcèlement, de contacts physiques inconvenants
   et non consentis.
+  
+Si vous présentez un sujet pouvant heurter des publics fragiles, par exemple parce qu'il
+traite de violence ou que vous êtes amené à présenter des informations ou images pouvant 
+heurter, veuillez prendre la peine d'en informer l'assistance en amont, afin de permettre 
+au public ne souhaitant pas y être confronté de s'éloigner.
 
 Traitement des incidents
 ~~~~~~~~~~~~~~~~~~~~~~~~
