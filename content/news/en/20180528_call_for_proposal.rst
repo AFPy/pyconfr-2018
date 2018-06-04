@@ -1,7 +1,7 @@
 Call for Proposals for PyConFr 2018
 ###################################
 
-:slug: 2018-05-28-call-for-proposals
+:slug: 2018-05-28-call-for-proposal
 :lang: en
 :date: 2018-05-28
 :author: Arthur Vuillard

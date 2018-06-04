@@ -1,7 +1,7 @@
 Appel à participation pour PyConFr 2018
 #######################################
 
-:slug: 2018-05-28-call-for-proposals
+:slug: 2018-05-28-call-for-proposal
 :lang: fr
 :date: 2018-05-28
 :author: Arthur Vuillard
