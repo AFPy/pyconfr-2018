@@ -123,8 +123,17 @@ Or
 
 Argent
 ------
+.. container:: sponsors
 
-`Devenez le premier partenaire "Argent" </sponsor-pyconfr>`_
+  .. container::
+
+    .. image:: /images/logo_peopledoc.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de PeopleDoc
+       :target: http://www.people-doc.com/
+
+`Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
 ------
@@ -137,6 +146,12 @@ Bronze
        :width: 200px
        :alt: logo de TeMPO Consulting
        :target: http://www.tempo-consulting.fr/
+
+    .. image:: /images/logo_oca.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Odoo Community Association
+       :target: https://odoo-community.org/
 
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
