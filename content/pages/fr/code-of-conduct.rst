@@ -99,11 +99,15 @@ En référence à la définition qui précède, nous vous invitons à vous abste
 - de présenter des images sexuelles ou choquantes (notamment violentes),
 - d’intimidation délibérée, de harcèlement, de contacts physiques inconvenants
   et non consentis.
-  
-Si vous présentez un sujet pouvant heurter des publics fragiles, par exemple parce qu'il
-traite de violence ou que vous êtes amené à présenter des informations ou images pouvant 
-heurter, veuillez prendre la peine d'en informer l'assistance en amont, afin de permettre 
-au public ne souhaitant pas y être confronté de s'éloigner.
+
+Délicatesse
+~~~~~~~~~~~
+
+Si vous pensez que votre communication peut heurter des membres du public, aussi bien
+à travers les sujets qu'elle aborde ou les illustrations qu'elle comporte, veuillez prendre
+la peine d'en informer l'assistance en amont, afin de permettre au public ne souhaitant 
+pas y être confronté de s'éloigner ; en cas de doute, n'hésitez pas à demander conseil aux
+organisateurs ou à l'AFPy.
 
 Traitement des incidents
 ~~~~~~~~~~~~~~~~~~~~~~~~
