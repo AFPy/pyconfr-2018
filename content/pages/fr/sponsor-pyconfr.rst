@@ -16,7 +16,7 @@ Financer PyConFr
 ================
 
 Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des
-boissons chaudes et fraiches, le nettoyage, la captation vidéo…
+boissons chaudes et fraîches, le nettoyage, la captation vidéo…
 
 PyConFr est organisé par des bénévoles de la communauté Python francophone et
 permet à cette communauté de se rencontrer, d'échanger et de grandir chaque
@@ -96,7 +96,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
           <td>✔</td>
         </tr>
         <tr>
-          <td>Présentation de l'entreprise (2min) en début de conférence plénière</td>
+          <td>Présentation de l'entreprise (2 min) en début de conférence plénière</td>
           <td>-</td>
           <td>-</td>
           <td>✔</td>
@@ -126,7 +126,7 @@ Cette année, nous proposons les montants et contreparties suivantes :
           <td>-</td>
         </tr>
         <tr>
-          <td>Votre logo sur les tables accueillants les viennoiseries et les boissons</td>
+          <td>Votre logo sur les tables accueillant les viennoiseries et les boissons</td>
           <td>-</td>
           <td>-</td>
           <td>-</td>
