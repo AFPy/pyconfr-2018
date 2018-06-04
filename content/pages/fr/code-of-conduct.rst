@@ -104,7 +104,7 @@ Délicatesse
 ~~~~~~~~~~~
 
 Si vous pensez que votre communication peut heurter des membres du public, aussi bien
-à travers les sujets qu'elle aborde ou les illustrations qu'elle comporte, veuillez prendre
+à travers les sujets qu'elle aborde qu'à travers les illustrations qu'elle comporte, veuillez prendre
 la peine d'en informer l'assistance en amont, afin de permettre au public ne souhaitant 
 pas y être confronté de s'éloigner ; en cas de doute, n'hésitez pas à demander conseil aux
 organisateurs ou à l'AFPy.
