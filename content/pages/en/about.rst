@@ -123,8 +123,17 @@ Gold
 
 Silver
 ------
+.. container:: sponsors
 
-`Become the first "Silver" partner </en/sponsor-pyconfr>`_
+  .. container::
+
+    .. image:: /images/logo_peopledoc.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de PeopleDoc
+       :target: http://www.people-doc.com/
+
+`Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze
 ------
@@ -135,8 +144,14 @@ Bronze
     .. image:: /images/logo_tempo.svg
        :height: 100px
        :width: 200px
-       :alt: TeMPO Consulting logo
+       :alt: TeMPO Consulting's logo
        :target: http://www.tempo-consulting.fr/
+
+    .. image:: /images/logo_oca.svg
+       :height: 100px
+       :width: 200px
+       :alt: Odoo Community Association's logo
+       :target: https://odoo-community.org/
 
 `Become "Bronze" partner </en/sponsor-pyconfr>`_
 

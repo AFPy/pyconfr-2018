@@ -37,9 +37,31 @@ Or
 
 Argent
 ------
-.. container:: text-center
+.. container:: sponsors
 
-  `Devenez le premier partenaire "Argent" </sponsor-pyconfr>`_
+  .. image:: /images/logo_peopledoc.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de PeopleDoc
+     :target: http://www.people-doc.com/
+
+  .. container::
+
+    PeopleDoc, plateforme SaaS de digitalisation RH aide les entreprises à
+    simplifier et fluidifier les processus administratifs entre RH et
+    salariés. Sa mission : répondre plus vite et plus efficacement aux demandes
+    des collaborateurs et managers, automatiser les processus RH de
+    l’onboarding à l’off-boarding tout en garantissant une pleine conformité
+    réglementaire, en France comme à l’étranger.
+
+    En mode SaaS, PeopleDoc s’adapte à tous les environnements techniques
+    SIRH/ERP et à toutes les organisations avec une durée moyenne de mise en
+    place constatée entre 8 à 12 semaines seulement.
+
+    Comptant plus de 725 clients dans 188 pays et douze langues opérées,
+    PeopleDoc affiche aujourd’hui un taux de satisfaction et de rétention
+    client de 100%.
+
 
 Bronze
 ------
@@ -71,6 +93,34 @@ Bronze
     Nos experts Django prennent en charge des projets simples ou complexes en
     utilisant tous les composants disponibles et en les complétant par la création
     de nouveaux modules le cas échéant.
+
+  .. image:: /images/logo_oca.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Odoo Community Association
+     :target: https://odoo-community.org/
+
+  .. container::
+
+    **Qui sommes-nous et que proposons-nous ?**
+
+    L'Odoo Community Association, ou OCA, est une organisation à but non
+    lucratif dont la mission est de promouvoir l'utilisation répandue d'Odoo et
+    de soutenir le développement collaboratif des fonctionnalités d'Odoo.
+
+    L'association fournit un soutien financier, organisationnel et juridique à
+    la communauté Odoo Open Source. Elle a sert également d'entité juridique
+    indépendante à laquelle les membres de la communauté peuvent contribuer au
+    code, au financement et aux autres ressources en sachant que leurs
+    contributions seront maintenues pour le bien public.
+
+    **Qu'est-ce que Odoo ?**
+
+    Odoo est une suite d'applications de gestion d'entreprise open-source. Odoo
+    est utilisée par les grandes, moyennnes et petites entreprises, les
+    associations et de nombreux types d'organisations pour les aider à gérer,
+    automatiser, mesurer et optimiser leurs opérations, finances et projets.
+
 
 Cœur
 ----
