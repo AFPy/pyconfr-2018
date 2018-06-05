@@ -133,6 +133,14 @@ Argent
        :alt: logo de PeopleDoc
        :target: http://www.people-doc.com/
 
+  .. container::
+
+    .. image:: /images/logo_anybox.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Anybox
+       :target: https://anybox.fr/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
