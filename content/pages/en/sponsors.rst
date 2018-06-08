@@ -62,6 +62,21 @@ Silver
     <http://www.people-doc.com>`.
 
 
+  .. image:: /images/logo_anybox.svg
+     :height: 100px
+     :width: 200px
+     :alt: Anybox' logo
+     :target: https://anybox.fr/
+
+  .. container::
+
+    Anybox is a distributed remote-only company, organized as an Holacracy. We
+    provide services and custom developments around Python business
+    applications and Docker clusters for hosting and Continuous
+    Integration. Apart from our historical focus on Odoo, we also work on
+    frameworks such as Django or Anyblok.
+
+
 Bronze
 ------
 .. container:: sponsors

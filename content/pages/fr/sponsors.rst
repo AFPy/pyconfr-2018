@@ -63,6 +63,22 @@ Argent
     client de 100%.
 
 
+  .. image:: /images/logo_anybox.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Anybox
+     :target: https://anybox.fr/
+
+  .. container::
+
+    Anybox est une entreprise distribuée en télétravail exclusif et organisée
+    en Holacracy. Nous fournissons des services et des développements
+    spécifiques autour des applications web en Python et des clusters Docker
+    pour l'hébergement et l'intégration continue. En plus de notre
+    spécialisation historique sur Odoo, nous intervenons sur divers frameworks
+    comme Django, Anyblok.
+
+
 Bronze
 ------
 .. container:: sponsors

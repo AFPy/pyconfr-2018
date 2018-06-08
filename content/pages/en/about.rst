@@ -130,8 +130,16 @@ Silver
     .. image:: /images/logo_peopledoc.svg
        :height: 100px
        :width: 200px
-       :alt: logo de PeopleDoc
+       :alt: PeopleDoc's logo
        :target: http://www.people-doc.com/
+
+  .. container::
+
+    .. image:: /images/logo_anybox.svg
+       :height: 100px
+       :width: 200px
+       :alt: Anybox' logo
+       :target: https://anybox.fr/
 
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
