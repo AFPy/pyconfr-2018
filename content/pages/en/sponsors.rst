@@ -59,7 +59,7 @@ Silver
     workforces. PeopleDoc serves 800+ customers including Atos, Biogen, GoDaddy
     and Nestle, and over 4 million total end users with a 100% customer
     retention rate. More information is available at `www.people-doc.com
-    <http://www.people-doc.com>`.
+    <http://www.people-doc.com>`_.
 
 
   .. image:: /images/logo_anybox.svg
@@ -134,6 +134,32 @@ Bronze
      types of organizations to help them manage, automate, measure and optimize
      their operations, finances and projects.
 
+  .. image:: /images/logo_nexedi.png
+     :height: 100px
+     :width: 200px
+     :alt: Nexedi's logo
+     :target: https://nexedi.com/
+
+  .. container::
+
+    Nexedi is one of the largest publishers of Open Source Software in Europe
+    (https://stack.nexedi.com/) and contributor to projects such as MariaDB,
+    babel, scikit-learn and the Linux kernel. Nexedi clients include Airbus,
+    Mitsubishi, Sanef, Emovis and PSA.
+ 
+    Nexedi is particular in that it invests significant amounts in R&D (around
+    50% of total sales) and innovative technologies which usually are not
+    adopted on an industry-level for another 5 to 10 years. These projects are
+    usually undertaken in collaboration with research laboratories such as
+    INRIA, Télécom Paris, Ecole Polytechnique, ENS, etc.
+ 
+    Nexedi's economic model is based on 100% free software based on a
+    permissive GPLv3 licence with turnover resulting from large consulting and
+    customization projects requiring rigorous development and favoring high
+    performance and stability over fashionable technologies.
+ 
+    Nexedi is a member of competitive clusters (Systematic, Cap Digital). Join
+    us, we're hiring!
 
 Heart
 -----
