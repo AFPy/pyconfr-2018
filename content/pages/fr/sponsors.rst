@@ -137,6 +137,32 @@ Bronze
     associations et de nombreux types d'organisations pour les aider à gérer,
     automatiser, mesurer et optimiser leurs opérations, finances et projets.
 
+  .. image:: /images/logo_nexedi.png
+     :height: 100px
+     :width: 200px
+     :alt: logo de Nexedi
+     :target: https://nexedi.com/
+
+  .. container::
+
+    Nexedi is one of the largest publishers of Open Source Software in Europe
+    (https://stack.nexedi.com/) and contributor to projects such as MariaDB,
+    babel, scikit-learn and the Linux kernel. Nexedi clients include Airbus,
+    Mitsubishi, Sanef, Emovis and PSA.
+ 
+    Nexedi is particular in that it invests significant amounts in R&D (around
+    50% of total sales) and innovative technologies which usually are not
+    adopted on an industry-level for another 5 to 10 years. These projects are
+    usually undertaken in collaboration with research laboratories such as
+    INRIA, Télécom Paris, Ecole Polytechnique, ENS, etc.
+ 
+    Nexedi's economic model is based on 100% free software based on a
+    permissive GPLv3 licence with turnover resulting from large consulting and
+    customization projects requiring rigorous development and favoring high
+    performance and stability over fashionable technologies.
+ 
+    Nexedi is a member of competitive clusters (Systematic, Cap Digital). Join
+    us, we're hiring!
 
 Cœur
 ----

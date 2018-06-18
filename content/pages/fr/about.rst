@@ -161,6 +161,12 @@ Bronze
        :alt: logo de Odoo Community Association
        :target: https://odoo-community.org/
 
+    .. image:: /images/logo_nexedi.png
+       :height: 100px
+       :width: 200px
+       :alt: logo de Nexedi
+       :target: https://nexedi.com/
+
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur
