@@ -167,6 +167,12 @@ Bronze
        :alt: Nexedi's logo
        :target: https://nexedi.com/
 
+    .. image:: /images/logo_alwaysdata.svg
+       :height: 100px
+       :width: 200px
+       :alt: alwaysdata's logo
+       :target: https://www.alwaysdata.com/en/
+
 `Become "Bronze" partner </en/sponsor-pyconfr>`_
 
 Heart

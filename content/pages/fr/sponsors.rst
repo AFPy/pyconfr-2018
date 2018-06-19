@@ -137,6 +137,7 @@ Bronze
     associations et de nombreux types d'organisations pour les aider à gérer,
     automatiser, mesurer et optimiser leurs opérations, finances et projets.
 
+
   .. image:: /images/logo_nexedi.png
      :height: 100px
      :width: 200px
@@ -149,20 +150,51 @@ Bronze
     (https://stack.nexedi.com/) and contributor to projects such as MariaDB,
     babel, scikit-learn and the Linux kernel. Nexedi clients include Airbus,
     Mitsubishi, Sanef, Emovis and PSA.
- 
+
     Nexedi is particular in that it invests significant amounts in R&D (around
     50% of total sales) and innovative technologies which usually are not
     adopted on an industry-level for another 5 to 10 years. These projects are
     usually undertaken in collaboration with research laboratories such as
     INRIA, Télécom Paris, Ecole Polytechnique, ENS, etc.
- 
+
     Nexedi's economic model is based on 100% free software based on a
     permissive GPLv3 licence with turnover resulting from large consulting and
     customization projects requiring rigorous development and favoring high
     performance and stability over fashionable technologies.
- 
+
     Nexedi is a member of competitive clusters (Systematic, Cap Digital). Join
     us, we're hiring!
+
+
+  .. image:: /images/logo_alwaysdata.svg
+    :height: 100px
+    :width: 200px
+    :alt: logo de alwaysdata
+    :target: https://www.alwaysdata.com/fr/
+
+  .. container::
+
+     L'hébergement conçu pour les codeur·euse·s. Démarrez en 30 secondes
+     chrono. Gratuitement.
+
+     Notre plateforme a été imaginée par des développeur·euse·s, pour des
+     développeur·euse·s. Administrer vos comptes sur notre infrastructure est
+     simple et aussi trivial que de pousser du code en production. alwaysdata
+     se charge de tous les aléas liés au sysadmin et au devops, pour que vous
+     et votre équipe puissiez rester concentrés sur ce que vous faites de
+     mieux : produire du code de qualité.
+
+     Nos comptes intègrent directement tous ce dont vous avez besoin. Accédez à
+     l'ensemble des langages Web disponibles (PHP, Python, Node.js, Ruby,
+     Elixir…), aux bases de données (MariaDB, PostgreSQL, CouchDB, MongoDB…),
+     brokers (Redis…), SSL par défaut avec Let's Encrypt, accès SSH complet,
+     DNS personnalisables, et plus encore. Administrez vos réglages site par
+     site via notre interface sur-mesure, ou directement en utilisant notre
+     API. Souscrivez gratuitement à un plan 100 Mo en moins d'une minute.
+
+     Plus besoin de configurer longuement votre hébergement. Produisez, et
+     livrez.
+
 
 Cœur
 ----

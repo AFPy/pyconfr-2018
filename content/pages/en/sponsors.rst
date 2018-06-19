@@ -134,6 +134,7 @@ Bronze
      types of organizations to help them manage, automate, measure and optimize
      their operations, finances and projects.
 
+
   .. image:: /images/logo_nexedi.png
      :height: 100px
      :width: 200px
@@ -146,20 +147,48 @@ Bronze
     (https://stack.nexedi.com/) and contributor to projects such as MariaDB,
     babel, scikit-learn and the Linux kernel. Nexedi clients include Airbus,
     Mitsubishi, Sanef, Emovis and PSA.
- 
+
     Nexedi is particular in that it invests significant amounts in R&D (around
     50% of total sales) and innovative technologies which usually are not
     adopted on an industry-level for another 5 to 10 years. These projects are
     usually undertaken in collaboration with research laboratories such as
     INRIA, Télécom Paris, Ecole Polytechnique, ENS, etc.
- 
+
     Nexedi's economic model is based on 100% free software based on a
     permissive GPLv3 licence with turnover resulting from large consulting and
     customization projects requiring rigorous development and favoring high
     performance and stability over fashionable technologies.
- 
+
     Nexedi is a member of competitive clusters (Systematic, Cap Digital). Join
     us, we're hiring!
+
+
+  .. image:: /images/logo_alwaysdata.svg
+     :height: 100px
+     :width: 200px
+     :alt: alwaysdata's logo
+     :target: https://www.alwaysdata.com/en/
+
+  .. container::
+
+     Hosting designed for humans. Get started in 30 seconds. For free.
+
+     We built our hosting platform for developers at the forefront. Managing
+     your accounts in our infrastructure is easy, simple, and as trivial as
+     shipping your code to production servers. alwaysdata removes the sysadmin
+     and devops hardships from your way, so you and your team can stay focused
+     on what matters: crafting code.
+
+     Our ready-to-use accounts cover all your needs. Get access to the main Web
+     languages and frameworks (PHP, Python, Node.js, Ruby, Elixir…), databases
+     (MariaDB, PostgreSQL, CouchDB, MongoDB…), brokers (Redis…), built-in SSL
+     with Let's Encrypt, full SSH access, customizable DNS, and many
+     more. Manage all your setups per site, in our powerful interface or
+     through our full API access. Sign up for a free plan available under a
+     minute.
+
+     No more hosting setup. Just ship, and run.
+
 
 Heart
 -----
