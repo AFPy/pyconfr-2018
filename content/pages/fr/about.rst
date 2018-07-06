@@ -20,7 +20,7 @@ Lille
 du 4 au 7 octobre 2018
 ----------------------
 
-Organisée par `L'AFPy <http://www.afpy.org/>`_, cette conférence est gratuite,
+Organisée par `l'AFPy <http://www.afpy.org/>`_, cette conférence est gratuite,
 entièrement organisée par des bénévoles et regroupe les personnes intéressées
 par le langage de programmation `Python <http://www.python.org/>`_.
 
