@@ -10,6 +10,10 @@ Demander une bourse
 
   .. container::
 
+    **Suite à de nombreuses demandes, la date limite a été ramenée du 1er
+    septembre au 15 juillet. Les demandes envoyées après le 15 juillet seront
+    malheureusement refusées.**
+
     L'AFPy propose des bourses pour les étudiant(e-s) ou les personnes dont les
     moyens ne permettent pas de venir à PyConFr. Pour faire une demande, écrivez un
     mail au trésorier de l'AFPy (`tresorier@afpy.org`_) expliquant brièvement :
@@ -30,7 +34,7 @@ Demander une bourse
     des justificatifs des dépenses (facture, billet de train...).
 
     Les demandes de bourse doivent être faites à l'adresse mail
-    `tresorier@afpy.org`_ avant le 1er septembre.
+    `tresorier@afpy.org`_ avant le 15 juillet.
 
     Les demandes sont traitées au fur et à mesure. Ne tardez pas à faire votre
     demande, il n'y aura pas forcément du budget pour tout le monde !

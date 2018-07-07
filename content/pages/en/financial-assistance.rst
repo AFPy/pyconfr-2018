@@ -1,14 +1,18 @@
-Ask financial assistance
-########################
+Ask for financial assistance
+############################
 
 :slug: financial-assistance
 :lang: en
 
-Ask financial assistance
-========================
+Ask for financial assistance
+============================
 .. container:: wrap-flex-between end-picto finance-aid
 
   .. container::
+
+    **As many people have already been allowed to benefit from finiancial help,
+    we will unfortunately refuse any further financial assistance after July
+    15th, instead of September 1st as said before.**
 
     AFPy offers financial assistance for students or persons whose resources do not
     allow to come to PyConFr. To apply, write an e-mail to the AFPy treasurer
@@ -26,7 +30,7 @@ Ask financial assistance
     outside Europe, corresponding to a maximum refund of 75% of your transport and
     accomodation costs.
 
-    Applications must be sent to `tresorier@afpy.org`_ before September 1st.
+    Applications must be sent to `tresorier@afpy.org`_ before July 15th.
 
     .. _`tresorier@afpy.org`: mailto:tresorier@afpy.org
 
