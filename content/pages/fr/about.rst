@@ -133,13 +133,17 @@ Argent
        :alt: logo de PeopleDoc
        :target: http://www.people-doc.com/
 
-  .. container::
-
     .. image:: /images/logo_anybox.svg
        :height: 100px
        :width: 200px
        :alt: logo de Anybox
        :target: https://anybox.fr/
+
+    .. image:: /images/logo_makinacorpus.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Makina Corpus
+       :target: https://makina-corpus.com/
 
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
@@ -178,12 +182,6 @@ Bronze
        :width: 200px
        :alt: logo de Yaal
        :target: https://www.yaal.fr/
-
-    .. image:: /images/logo_makinacorpus.svg
-       :height: 100px
-       :width: 200px
-       :alt: logo de Makina Corpus
-       :target: https://makina-corpus.com/
 
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
