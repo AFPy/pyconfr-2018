@@ -225,6 +225,38 @@ Bronze
      technique pour faire de leur idée un projet unique et durable.
 
 
+  .. image:: /images/logo_algoo.png
+     :width: 200px
+     :alt: logo de Algoo
+     :target: https://www.algoo.fr/
+
+  .. container::
+
+     Algoo c'est une boîte. Qui on est, ce qu'on fait, c'est pas vraiment
+     important, là. Ce qui compte, c'est surtout de **participer à PyConFR**.
+
+     Certains proposent des sprints, d'autres des présentations, d'autre encore
+     donnent un coup de pouce financier… et ce qui est bien, c'est qu'on peut
+     cumuler !
+
+     Finalement, on retrouve un peu l'esprit du libre : chacun contribue comme
+     il peut/veut. La manière la plus simple de contribuer à PyconFR, c'est
+     tout simplement d'y participer. Et si vous faites plus, c'est encore
+     mieux !
+
+     De notre côté, nous animerons sans doute un sprint pour interconnecter
+     Tracim avec Collabora Online (ou un équivalent). (Note : si vous ne
+     connaissez pas Tracim, `j'en ai parlé dans une dépêche LinuxFR en janvier
+     dernier
+     <https://linuxfr.org/news/tracim-socle-libre-du-travail-en-equipe-sort-en-v1-0>`_. Un
+     atelier `Hapic <https://pypi.org/project/hapic/>`_\  ? Nope : on s'y est
+     pris top tard :-s.
+
+     Ah, et j'allais oublier : si vous hésitez à venir, à proposer un sprint,
+     une présentation, voire à donner un petit coup de pouce financier… alors
+     un conseil : n'hésitez pas !
+
+
 Cœur
 ----
 

@@ -183,6 +183,11 @@ Bronze
        :alt: logo de Yaal
        :target: https://www.yaal.fr/
 
+    .. image:: /images/logo_algoo.png
+       :width: 200px
+       :alt: logo de Algoo
+       :target: https://www.algoo.fr/
+
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur
