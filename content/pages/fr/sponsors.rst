@@ -92,6 +92,11 @@ Argent
      société s'est spécialisée dans le développement d'applications métiers, de
      portails complexes et de cartographies dynamiques.
 
+     Makina Corpus place Python au cœur de sa stratégie technique depuis ses
+     débuts et recrute parmi les meilleurs talents du secteur. Ses experts
+     s'impliquent dans la communauté Python de manière pro-active à travers
+     leur participations à des événements et leurs contributions Open Source.
+
 
 Bronze
 ------

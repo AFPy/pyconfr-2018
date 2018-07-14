@@ -90,6 +90,11 @@ Silver
      the development of business applications, complex portals and dynamic
      maps.
 
+     Makina Corpus places Python at the heart of its technical strategy since
+     its inception and recruits among the best talents in the sector. Its
+     experts engage with the Python community pro-actively through their
+     participation in events and their open source contributions.
+
 
 Bronze
 ------
