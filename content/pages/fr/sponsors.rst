@@ -79,6 +79,20 @@ Argent
     comme Django, Anyblok.
 
 
+  .. image:: /images/logo_makinacorpus.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Makina Corpus
+     :target: https://makina-corpus.com/
+
+  .. container::
+
+     Makina Corpus conçoit et développe des solutions web et mobiles
+     innovantes, en s'appuyant exclusivement sur des logiciels libres. La
+     société s'est spécialisée dans le développement d'applications métiers, de
+     portails complexes et de cartographies dynamiques.
+
+
 Bronze
 ------
 .. container:: sponsors

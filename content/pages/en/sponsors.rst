@@ -77,6 +77,20 @@ Silver
     frameworks such as Django or Anyblok.
 
 
+  .. image:: /images/logo_makinacorpus.svg
+     :height: 100px
+     :width: 200px
+     :alt: Makina Corpus' logo
+     :target: https://makina-corpus.com/
+
+  .. container::
+
+     Makina Corpus designs and develops innovative web and mobile solutions,
+     relying exclusively on open source software. The company specializes in
+     the development of business applications, complex portals and dynamic
+     maps.
+
+
 Bronze
 ------
 .. container:: sponsors

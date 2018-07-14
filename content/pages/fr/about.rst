@@ -179,6 +179,12 @@ Bronze
        :alt: logo de Yaal
        :target: https://www.yaal.fr/
 
+    .. image:: /images/logo_makinacorpus.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Makina Corpus
+       :target: https://makina-corpus.com/
+
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur

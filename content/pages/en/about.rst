@@ -133,13 +133,17 @@ Silver
        :alt: PeopleDoc's logo
        :target: http://www.people-doc.com/
 
-  .. container::
-
     .. image:: /images/logo_anybox.svg
        :height: 100px
        :width: 200px
        :alt: Anybox' logo
        :target: https://anybox.fr/
+
+    .. image:: /images/logo_makinacorpus.svg
+       :height: 100px
+       :width: 200px
+       :alt: Makina Corpus' logo
+       :target: https://makina-corpus.com/
 
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
