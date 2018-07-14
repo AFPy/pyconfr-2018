@@ -116,7 +116,7 @@ We recommend 2 areas to those who do not know Lille.
       Next to the city
 
       If you want to spend the night in bars and other festive places, you should look
-      for an accomodation in the city-centre of Lille. That's where you'll find
+      for an accommodation in the city-centre of Lille. That's where you'll find
       animation!
 
     .. container:: p-first
