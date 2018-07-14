@@ -196,6 +196,21 @@ Bronze
      livrez.
 
 
+  .. image:: /images/logo_yaal.svg
+    :height: 100px
+    :width: 200px
+    :alt: logo de Yaal
+    :target: https://www.yaal.fr/
+
+  .. container::
+
+     Yaal s'adresse aux créateurs de startups qui cherchent à concrétiser leur
+     projet par la conception d’une solution web ou mobile. Nous nous engageons
+     à leurs côtés en apportant notre expérience de la création d’entreprise,
+     en partageant le risque financier et en prenant en charge la direction
+     technique pour faire de leur idée un projet unique et durable.
+
+
 Cœur
 ----
 

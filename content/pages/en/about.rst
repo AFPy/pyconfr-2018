@@ -173,6 +173,12 @@ Bronze
        :alt: alwaysdata's logo
        :target: https://www.alwaysdata.com/en/
 
+    .. image:: /images/logo_yaal.svg
+       :height: 100px
+       :width: 200px
+       :alt: Yaal's logo
+       :target: https://www.yaal.fr/
+
 `Become "Bronze" partner </en/sponsor-pyconfr>`_
 
 Heart

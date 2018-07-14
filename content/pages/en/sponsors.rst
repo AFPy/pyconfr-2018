@@ -190,6 +190,21 @@ Bronze
      No more hosting setup. Just ship, and run.
 
 
+  .. image:: /images/logo_yaal.svg
+    :height: 100px
+    :width: 200px
+    :alt: Yaal's logo
+    :target: https://www.yaal.fr/
+
+  .. container::
+
+     Yaal is aimed at start-up creators looking to make their project a reality
+     by designing web or mobile solution. We are committed to them by bringing
+     our experience of business creation, by sharing the financial risk and
+     taking charge of the technical lead to make their idea a unique and
+     sustainable project.
+
+
 Heart
 -----
 
