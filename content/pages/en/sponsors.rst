@@ -85,15 +85,17 @@ Silver
 
   .. container::
 
-     Makina Corpus designs and develops innovative web and mobile solutions,
-     relying exclusively on open source software. The company specializes in
-     the development of business applications, complex portals and dynamic
-     maps.
+     Makina Corpus is a software engineering services company which designs,
+     develops and integrates innovative web and mobile applications, relying
+     exclusively on open source software.
+
+     It is specialized in developing business applications, complex portals and
+     dynamic mapping.
 
      Makina Corpus places Python at the heart of its technical strategy since
-     its inception and recruits among the best talents in the sector. Its
-     experts engage with the Python community pro-actively through their
-     participation in events and their open source contributions.
+     its beginnings and recruits among the best talents of the sector. Its
+     experts get involved in the Python community in a pro-active way through
+     their participation in events and their Open Source contributions.
 
 
 Bronze
