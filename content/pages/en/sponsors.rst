@@ -31,9 +31,30 @@ Platinum
 
 Gold
 ----
-.. container:: text-center
+.. container:: sponsors
 
-  `Become the first "Gold" partner </en/sponsor-pyconfr>`_
+  .. image:: /images/logo_backmarket.svg
+     :height: 100px
+     :width: 200px
+     :alt: Back Market's logo
+     :target: https://www.backmarket.com/
+
+  .. container::
+
+     Founded in 2014, Back Market is the very first international marketplace
+     specialized in refurbished electric and electronic devices. We connect
+     certified professionals who work hard to ensure all electric and
+     electronic devices get a second life with consumers looking for equipment
+     that makes a difference.
+
+     E-waste reduction, planned obsolescence battle and circular economy are 3
+     good reasons to wake up in the morning. We have a challenging schedule and
+     high business expectations, so you’ll need to be able to get up to speed
+     without compromising on attention to detail. For the right person, this is
+     a chance to gain valuable experience in building a star and to join a
+     fast-growing, exciting and life-changing company that’s shaking up the
+     consumer electronics business.
+
 
 Silver
 ------

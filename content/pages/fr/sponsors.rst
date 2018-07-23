@@ -31,9 +31,33 @@ Platine
 
 Or
 --
-.. container:: text-center
+.. container:: sponsors
 
-  `Devenez le premier partenaire "Or" </sponsor-pyconfr>`_
+  .. image:: /images/logo_backmarket.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Back Market
+     :target: https://www.backmarket.fr/
+
+  .. container::
+
+     Créée en 2014, Back Market est la 1ere marketplace européenne (et bientôt
+     mondiale) dédiée exclusivement à la vente de produits électriques et
+     électroniques reconditionnés. Nous connectons des professionnels certifiés
+     (usines de reconditionnement, des distributeurs et des marques comme Apple
+     ou Parrot) travaillant dur pour donner une seconde vie aux produits
+     électroniques et électriques à des clients à la recherche d’équipement de
+     qualité et plus accessible.
+
+     Notre mission est de promouvoir un nouveau mode de consommation favorisant
+     l’économie circulaire tout en luttant contre le gâchis électronique et
+     l’obsolescence programmée. Nous avons un calendrier serré et de fortes
+     ambitions, c’est pourquoi tu devras faire preuve de rapidité d’exécution
+     tout en ne négligeant pas les détails. Pour la bonne personne, c’est
+     l’occasion de participer à la construction d’une future licorne et
+     d’intégrer une marketplace de premier plan au niveau mondiale en
+     hyper-croissance et au concept disruptif qui révolutionne la consommation
+     de produits électroniques.
 
 Argent
 ------

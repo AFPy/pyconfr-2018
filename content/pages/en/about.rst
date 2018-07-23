@@ -119,7 +119,17 @@ Platinum
 Gold
 ----
 
-`Become the first "Gold" partner </en/sponsor-pyconfr>`_
+.. container:: sponsors
+
+  .. container::
+
+    .. image:: /images/logo_backmarket.svg
+       :height: 100px
+       :width: 200px
+       :alt: Back Market's logo
+       :target: https://www.backmarket.com/
+
+`Become "Gold" partner </en/sponsor-pyconfr>`_
 
 Silver
 ------

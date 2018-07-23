@@ -119,7 +119,17 @@ Platine
 Or
 --
 
-`Devenez le premier partenaire "Or" </sponsor-pyconfr>`_
+.. container:: sponsors
+
+  .. container::
+
+    .. image:: /images/logo_backmarket.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Back Market
+       :target: https://www.backmarket.fr/
+
+`Devenez partenaire "Or" </sponsor-pyconfr>`_
 
 Argent
 ------
