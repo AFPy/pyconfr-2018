@@ -98,6 +98,28 @@ Argent
      leur participations à des événements et leurs contributions Open Source.
 
 
+  .. image:: /images/logo_invivoo.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Invivoo
+     :target: http://invivoo.com/
+
+  .. container::
+
+     Dans un contexte toujours plus complexe, s’appuyer sur des solutions
+     informatiques performantes est un enjeu vital pour les banques
+     d’investissement. C’est pourquoi INVIVOO améliore leur système
+     d’information à tous les niveaux – technique, méthodologique et
+     organisationnel – en combinant l’expertise métier à l’expertise
+     technologique.
+
+     Invivoo est éditeur de la suite logicielle XComponent qui permet
+     d’immuniser les projets informatiques contre les principaux facteurs de
+     dérapages (XComponent Studio) et de fiabiliser les remises en service des
+     applications pour mieux faire face aux pressions des métiers (XComponent
+     AC2).
+
+
 Bronze
 ------
 .. container:: sponsors

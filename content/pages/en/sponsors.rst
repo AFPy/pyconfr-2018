@@ -98,6 +98,26 @@ Silver
      their participation in events and their Open Source contributions.
 
 
+  .. image:: /images/logo_invivoo.svg
+     :height: 100px
+     :width: 200px
+     :alt: Invivoo's logo
+     :target: http://invivoo.com/
+
+  .. container::
+
+     In an ever more complex context, relying on efficient IT solutions is a
+     vital issue for investment banks. That's why INVIVOO improves their
+     information system at all levels - technical, methodological and
+     organizational - by combining business expertise with technological
+     expertise.
+
+     Invivoo is the publisher of the XComponent software suite, which makes it
+     possible to immunize IT projects against the main factors of slippage
+     (XComponent Studio) and to make the relaunching of applications more
+     reliable in order to better cope with business pressures (XComponent AC2).
+
+
 Bronze
 ------
 .. container:: sponsors

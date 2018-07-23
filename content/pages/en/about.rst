@@ -145,6 +145,12 @@ Silver
        :alt: Makina Corpus' logo
        :target: https://makina-corpus.com/
 
+    .. image:: /images/logo_invivoo.svg
+       :height: 100px
+       :width: 200px
+       :alt: Invivoo's logo
+       :target: http://invivoo.com/
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze

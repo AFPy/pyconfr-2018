@@ -145,6 +145,12 @@ Argent
        :alt: logo de Makina Corpus
        :target: https://makina-corpus.com/
 
+    .. image:: /images/logo_invivoo.svg
+       :height: 100px
+       :width: 200px
+       :alt: logo de Invivoo
+       :target: http://invivoo.com/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
