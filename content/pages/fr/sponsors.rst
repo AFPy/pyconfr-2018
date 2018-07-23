@@ -308,6 +308,31 @@ Bronze
      un conseil : n'hésitez pas !
 
 
+  .. image:: /images/logo_numberly.svg
+     :width: 200px
+     :alt: logo de numberly
+     :target: http://www.1000mercis.com/#!/careers/?lang=fr_FR
+
+  .. container::
+
+     numberly aide ses clients à collecter, analyser et mettre à profit leurs
+     données à travers tous les canaux marketing. Pour cela, nous sommes plus
+     de 100 ingénieurs (un quart de numberly) répartis en équipes à dimension
+     humaine, où nous nous assurons que chacun développe une influence positive
+     et puisse être autonome. Notre croissance soutenue nous pousse à
+     constamment remettre en question nos choix techniques et organisationnels.
+
+     De par notre large gamme de produits interconnectés, nos enjeux techniques
+     sont très variés et souvent complexes. Nos missions quotidiennes
+     consistent à traiter des milliers de requêtes par seconde, distribuées à
+     travers le monde, opérer des bases de données de plusieurs pétaoctets (Big
+     Data™), automatiser l’ensemble de notre infrastructure bare-metal, et
+     construire les interfaces du marketing digital de demain.
+
+     Nous recrutons des software engineers, data engineers, data scientists…
+     `Allez, viens ! <http://www.1000mercis.com/#!/careers/?lang=fr_FR>`_
+
+
 Cœur
 ----
 

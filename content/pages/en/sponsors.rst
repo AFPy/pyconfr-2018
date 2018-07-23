@@ -140,6 +140,30 @@ Silver
      order to better face the Business'​ needs. (XComponent AC2)
 
 
+  .. image:: /images/logo_numberly.svg
+     :width: 200px
+     :alt: numberly's logo
+     :target: http://www.1000mercis.com/#!/careers/?lang=en_UK
+
+  .. container::
+
+     numberly helps customers collect, analyze and leverage their data across
+     all marketing channels. To do this, we are more than 100 engineers (a
+     quarter of numberly) divided into teams with a human dimension, where we
+     make sure that each one develops a positive influence and can be
+     autonomous. Our sustained growth pushes us to constantly challenge our
+     technical and organizational choices.
+
+     Due to our wide range of interconnected products, our technical issues are
+     very varied and often complex. Our daily missions are to process thousands
+     of queries per second, distributed around the world, operate multiple
+     petabytes databases (Big Data™), automate our entire bare-metal
+     infrastructure, and build tomorrow's digital marketing interfaces.
+
+     We are recruiting software engineers, data engineers, data scientists…
+     `Reach us out! <http://www.1000mercis.com/#!/careers/?lang=en_UK>`_
+
+
 Bronze
 ------
 .. container:: sponsors

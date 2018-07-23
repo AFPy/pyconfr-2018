@@ -161,6 +161,11 @@ Silver
        :alt: Invivoo's logo
        :target: http://invivoo.com/
 
+    .. image:: /images/logo_numberly.svg
+       :width: 200px
+       :alt: numberly's logo
+       :target: http://www.1000mercis.com/#!/careers/?lang=en_UK
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze

@@ -161,6 +161,11 @@ Argent
        :alt: logo de Invivoo
        :target: http://invivoo.com/
 
+    .. image:: /images/logo_numberly.svg
+       :width: 200px
+       :alt: logo de numberly
+       :target: http://www.1000mercis.com/#!/careers/?lang=fr_FR
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
