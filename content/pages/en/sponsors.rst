@@ -127,16 +127,17 @@ Silver
 
   .. container::
 
-     In an ever more complex context, relying on efficient IT solutions is a
-     vital issue for investment banks. That's why INVIVOO improves their
-     information system at all levels - technical, methodological and
-     organizational - by combining business expertise with technological
-     expertise.
+     In a complex environment, leaning on performing IT solutions is a vital
+     stake for the financial industry.
 
-     Invivoo is the publisher of the XComponent software suite, which makes it
-     possible to immunize IT projects against the main factors of slippage
-     (XComponent Studio) and to make the relaunching of applications more
-     reliable in order to better cope with business pressures (XComponent AC2).
+     That is the reason why at INVIVOO, we help our client in improving their
+     Information System at all levels: technical, methodological and
+     organizational, by combining functional and technical expertise.
+
+     Moreover, INVIVOO is the software publisher of the XComponent suite that
+     immunizes IT projects against the main misconduct factors (XComponent
+     Studio) and to guarantee the reliability of the applications'​ releases in
+     order to better face the Business'​ needs. (XComponent AC2)
 
 
 Bronze
