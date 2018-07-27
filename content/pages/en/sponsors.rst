@@ -333,7 +333,7 @@ Heart
      :height: 100px
      :width: 200px
      :alt: Stickermule's logo
-     :target: https://www.stickermule.com/en
+     :target: https://www.stickermule.com/supports/PyConFr
 
 .. raw:: html
 

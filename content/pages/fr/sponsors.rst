@@ -342,7 +342,7 @@ Cœur
      :height: 100px
      :width: 200px
      :alt: Logo de Stickermule
-     :target: https://www.stickermule.com/fr
+     :target: https://www.stickermule.com/supports/PyConFr
 
 .. raw:: html
 
