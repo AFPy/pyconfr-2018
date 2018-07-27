@@ -214,7 +214,17 @@ Bronze
 Heart
 -----
 
-`Become the first "Heart" partner </en/sponsor-pyconfr>`_
+.. container:: sponsors
+
+  .. container::
+
+    .. image:: /images/logo_stickermule.svg
+       :height: 100px
+       :width: 200px
+       :alt: Stickermule's logo
+       :target: https://www.stickermule.com/en
+
+`Become "Heart" partner </en/sponsor-pyconfr>`_
 
 .. raw:: html
 

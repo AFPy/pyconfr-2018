@@ -214,7 +214,18 @@ Bronze
 Cœur
 ----
 
-`Devenez le premier partenaire "Cœur" </sponsor-pyconfr>`_
+
+.. container:: sponsors
+
+  .. container::
+
+    .. image:: /images/logo_stickermule.svg
+       :height: 100px
+       :width: 200px
+       :alt: Logo de Stickermule
+       :target: https://www.stickermule.com/fr
+
+`Devenez  partenaire "Cœur" </sponsor-pyconfr>`_
 
 .. raw:: html
 
