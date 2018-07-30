@@ -27,7 +27,24 @@ Platine
 -------
 .. container:: text-center
 
-  `Devenez le premier partenaire "Platine" </sponsor-pyconfr>`_
+  .. image:: /images/logo_sewan.png
+    :height: 100px
+    :width: 200px
+    :alt: logo de Sewan
+    :target: https://www.sewan.fr/
+
+  .. container::
+
+    Sewan est un **opérateur nouvelle génération, 100% cloud, orienté sur
+    l'expérience utilisateur**.
+
+    En plein cœur de Paris et à Montpellier, nos ingénieurs développent **une
+    plateforme innovante qui révolutionne le Cloud et les Télécoms**, adoptée
+    par plus de 750 000 utilisateurs.
+
+    Avec une croissance exceptionnelle depuis sa création, l'équipe Sewan aime
+    s'entourer de **passionnés qui apportent leurs expériences et leur
+    motivation** dans un projet unique en France et en Europe.
 
 Or
 --

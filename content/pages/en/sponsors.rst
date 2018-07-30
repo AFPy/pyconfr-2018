@@ -27,7 +27,24 @@ Platinum
 --------
 .. container:: text-center
 
-  `Become the first "Platinum" partner </en/sponsor-pyconfr>`_
+  .. image:: /images/logo_sewan.png
+    :height: 100px
+    :width: 200px
+    :alt: Sewan's logo
+    :target: https://www.sewan.fr/
+
+  .. container::
+
+    Sewan is a **new generation operator, 100% cloud, user experience
+    oriented**.
+
+    In the heart of Paris and in Montpellier, our engineers develop **a
+    innovative platform that is revolutionizing the Cloud and Telecoms**,
+    adpoted by more than 750,000 users.
+
+    With an exceptional growth since its creation, the Sewan team likes to
+    surround itself with **passionate people who bring their experiences and
+    their motivation** in a unique project in France and Europe.
 
 Gold
 ----

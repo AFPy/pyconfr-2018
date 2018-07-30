@@ -114,7 +114,17 @@ Nos soutiens
 Platine
 -------
 
-`Devenez le premier partenaire "Platine" </sponsor-pyconfr>`_
+.. container:: sponsors
+
+  .. container::
+  
+    .. image:: /images/logo_sewan.png
+      :height: 100px
+      :width: 200px
+      :alt: logo de Sewan
+      :target: https://www.sewan.fr/
+
+`Devenez partenaire "Platine" </sponsor-pyconfr>`_
 
 Or
 --
