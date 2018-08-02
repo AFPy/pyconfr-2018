@@ -169,6 +169,39 @@ Argent
      `Allez, viens ! <http://www.1000mercis.com/#!/careers/?lang=fr_FR>`_
 
 
+  .. image:: /images/logo_ouisncf.svg
+     :width: 200px
+     :alt: logo de oui.sncf
+     :target: https://jobs.oui.sncf
+
+  .. container::
+
+     Depuis le 7 décembre 2017, OUI.sncf est le nouveau nom de
+     Voyages-sncf.com, acteur majeur du tourisme en Europe, expert de la
+     distribution du train et de la destination France.
+
+     Nous comptons déjà plus de 1200 collaborateurs dans le monde, qui
+     partagent un vrai goût pour l’innovation, les nouvelles technos, et bien
+     sûr le tourisme.
+
+     Les chiffres peuvent faire tourner la tête : 12 millions de visiteurs
+     uniques par mois (web et mobile), et des pics de traffic allant jusqu’à 39
+     billets par seconde ! Pas le temps de s’ennuyer chez nous et les
+     challenges sont à la hauteur de la notoriété du groupe.
+
+     OUI.sncf est fait pour vous si vous épanouissez au sein d'une culture qui
+     allie l'agilité et l'ambiance d'une entreprise du digital, à la solidité
+     et au niveau d'exigence d'un grand groupe.
+
+     En effet, l'agilité, c'est le mot-clé chez OUI.sncf ! Méthodes Scrum
+     adoptées en 2009, aujourd'hui le cœur de OUI.sncf bat au rythme d'une
+     trentaine de Feature Teams, sortes de start-ups internes, équipes
+     polyvalentes, multi-compétences et autonomes.
+
+     Nous sommes au cœur de la transformation DevOps… et parmi les plus
+     avancés du marché sur ce sujet.
+
+
 Bronze
 ------
 .. container:: sponsors
@@ -331,6 +364,21 @@ Bronze
      Ah, et j'allais oublier : si vous hésitez à venir, à proposer un sprint,
      une présentation, voire à donner un petit coup de pouce financier… alors
      un conseil : n'hésitez pas !
+
+
+  .. image:: /images/logo_b2ck.png
+     :width: 200px
+     :alt: logo de B2CK
+     :target: https://www.b2ck.com/
+
+  .. container::
+
+     B2CK est une société de service IT spécialisée dans le développement de
+     solutions d'entreprise à destination des PME.
+
+     Elle est la société de référence pour les implémentations basées sur
+     Tryton, une solution métier puissante et modulaire en Python qui s'adapte
+     aux flux de travail des sociétés.
 
 
 Cœur

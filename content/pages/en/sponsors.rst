@@ -164,6 +164,37 @@ Silver
      `Reach us out! <http://www.1000mercis.com/#!/careers/?lang=en_UK>`_
 
 
+  .. image:: /images/logo_ouisncf.svg
+     :width: 200px
+     :alt: oui.sncf's logo
+     :target: https://jobs.oui.sncf
+
+
+  .. container::
+
+     Since December 2017, OUI.sncf is the new name of Voyages-sncf.com, major
+     actor in the European tourism sector, Train distribution expert and France
+     Specialist.
+
+     We are more than 1200 people worldwide, sharing a real interest in
+     innovation, high tech and, of course, tourism.
+
+     Figures can be mind-blowing: 12 million unique visitors per month on our
+     website and mobile applications, peaks at 39 tickets sold per second! No
+     time to get bored at OUI.sncf, challenges are upon the group reputation.
+
+     OUI.sncf is the right choice for you if you are looking for a cultural mix
+     of Agility, Digital company spirit, strength and high quality requirement
+     of a well-established company.
+
+     Agility is, indeed, the keyword at OUI.sncf! With Scrum experimented for
+     the first time in 2009, OUI.sncf is today proud of its 30+ versatiles,
+     multi-skilled and autonomous Feature Teams.
+
+     We are in the core of the DevOps transformation… and considered as one of
+     the most advanced companies on the subject.
+
+
 Bronze
 ------
 .. container:: sponsors
@@ -322,6 +353,21 @@ Bronze
      Ah, et j'allais oublier : si vous hésitez à venir, à proposer un sprint,
      une présentation, voire à donner un petit coup de pouce financier… alors
      un conseil : n'hésitez pas !
+
+
+  .. image:: /images/logo_b2ck.png
+     :width: 200px
+     :alt: B2CK's logo
+     :target: https://www.b2ck.com/
+
+  .. container::
+
+     B2CK is an IT service company specialised in enterprise solutions
+     development for small and medium businesses.
+
+     B2CK is the reference company for implementations based on Tryton, a
+     powerful and modular framework written in Python that fits to the business
+     process of companies.
 
 
 Heart

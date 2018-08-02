@@ -166,6 +166,11 @@ Argent
        :alt: logo de numberly
        :target: http://www.1000mercis.com/#!/careers/?lang=fr_FR
 
+    .. image:: /images/logo_ouisncf.svg
+       :width: 200px
+       :alt: logo de oui.sncf
+       :target: https://jobs.oui.sncf
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
@@ -208,6 +213,11 @@ Bronze
        :width: 200px
        :alt: logo de Algoo
        :target: https://www.algoo.fr/
+
+    .. image:: /images/logo_b2ck.png
+       :width: 200px
+       :alt: logo de B2CK
+       :target: https://www.b2ck.com/
 
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
