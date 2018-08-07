@@ -117,14 +117,14 @@ Platinum
 .. container:: sponsors
 
   .. container::
-  
+
     .. image:: /images/logo_sewan.png
       :height: 100px
       :width: 200px
       :alt: Sewan's logo
       :target: https://www.sewan.fr/
 
-`Become the first "Platinum" partner </en/sponsor-pyconfr>`_
+`Become "Platinum" partner </en/sponsor-pyconfr>`_
 
 Gold
 ----

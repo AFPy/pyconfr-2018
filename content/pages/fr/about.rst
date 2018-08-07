@@ -117,7 +117,7 @@ Platine
 .. container:: sponsors
 
   .. container::
-  
+
     .. image:: /images/logo_sewan.png
       :height: 100px
       :width: 200px
