@@ -52,6 +52,7 @@ THEME = 'theme'
 
 MENUITEMS = [
     (u'À propos', '/index'),
+    (u'Programme', '/program'),
     (u'Venir', '/venue'),
     (u'Demander une bourse', '/financial-assistance'),
     (u'Nos soutiens', '/sponsors'),
@@ -67,6 +68,7 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'À propos', '/index'),
+            (u'Programme', '/program'),
             (u'Venir', '/venue'),
             (u'Demander une bourse', '/financial-assistance'),
             (u'Nos soutiens', '/sponsors'),
@@ -80,6 +82,7 @@ I18N_SUBSITES = {
         'STATIC_PATHS': STATIC_PATHS,
         'MENUITEMS': [
             (u'About', '/index'),
+            (u'Program', '/program'),
             (u'Venue', '/venue'),
             (u'Financial assistance', '/financial-assistance'),
             (u'Sponsors', '/sponsors'),
