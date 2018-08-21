@@ -181,6 +181,11 @@ Silver
        :alt: oui.sncf's logo
        :target: https://jobs.oui.sncf
 
+    .. image:: /images/logo_cim.png
+       :width: 200px
+       :alt: CIM's logo
+       :target: https://www.sa-cim.fr/
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze

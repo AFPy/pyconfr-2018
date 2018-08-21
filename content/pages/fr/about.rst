@@ -181,6 +181,11 @@ Argent
        :alt: logo de oui.sncf
        :target: https://jobs.oui.sncf
 
+    .. image:: /images/logo_cim.png
+       :width: 200px
+       :alt: logo de CIM
+       :target: https://www.sa-cim.fr/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze

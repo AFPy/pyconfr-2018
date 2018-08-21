@@ -219,6 +219,28 @@ Argent
      avancés du marché sur ce sujet.
 
 
+  .. image:: /images/logo_cim.png
+     :width: 200px
+     :alt: logo de CIM
+     :target: https://www.sa-cim.fr/
+
+  .. container::
+
+     Depuis sa création en 1985, la société CIM s’est imposée progressivement
+     comme un acteur incontournable de l’édition de logiciels dédiés au monde
+     de **l’assurance de personnes**, notamment en Santé & Prévoyance.
+
+     Elle est aujourd’hui le **troisième** éditeur de progiciel dans le
+     monde de l’Assurance en France.
+
+     En 2010, CIM a intégré le groupe **DL Software**, 23\ :sup:`ème` éditeur
+     de logiciels français en 2015. Elle s’adresse aux Mutuelles, Institutions
+     de prévoyance, Courtiers, Assureurs & Délégataires de gestion.
+
+     Fort du succès de sa solution **MUTCIM**, son système modulable & ouvert,
+     CIM complète en 2014 son offre de solutions innovantes avec **IZYlinks**.
+
+
 Bronze
 ------
 .. container:: sponsors

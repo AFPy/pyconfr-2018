@@ -186,7 +186,6 @@ Silver
      :alt: oui.sncf's logo
      :target: https://jobs.oui.sncf
 
-
   .. container::
 
      Since December 2017, OUI.sncf is the new name of Voyages-sncf.com, major
@@ -210,6 +209,29 @@ Silver
 
      We are in the core of the DevOps transformation… and considered as one of
      the most advanced companies on the subject.
+
+
+  .. image:: /images/logo_cim.png
+     :width: 200px
+     :alt: CIM's logo
+     :target: https://www.sa-cim.fr/
+
+  .. container::
+
+     Since its creation in 1985, CIM has gradually established itself as a key
+     player of software dedicated to the world of life and health insurance,
+     particularly in Health & Welfare.
+
+     CIM is now the 3rd software publisher in the world of Insurance in France.
+
+     In 2010, CIM joined DL Software Group, the 23rd largest French software
+     company in 2015.
+
+     CIM’s customers are Mutuals, Provident Institutions, Brokers, Insurers &
+     Management Delegates.
+
+     Building on the success of its MUTCIM solution, its modular & open system,
+     CIM completes its offer of innovative solutions in 2014 with IZYlinks.
 
 
 Bronze
