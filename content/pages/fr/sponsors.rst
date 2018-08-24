@@ -7,6 +7,10 @@ Nos partenaires
 Nos Partenaires
 ===============
 
+**Nous acceptons les sponsors jusqu'au 10 septembre. Veuillez envoyer votre
+demande et toutes les informations nécessaires (y compris votre description et
+votre logo) avant cette date.**
+
 .. container:: sponsors
 
   .. image:: /images/logo_kozea.svg
