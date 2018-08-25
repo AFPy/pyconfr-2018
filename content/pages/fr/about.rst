@@ -31,7 +31,6 @@ par le langage de programmation `Python <http://www.python.org/>`_.
   <section class="wrap-button">
     <p>
       <a class="btn-home" href="/fr/sponsor-pyconfr">Financer PyConFr</a>
-      <a class="btn-home" href="https://cfp-2018.pycon.fr/cfp/">Proposer une présentation</a>
     </p>
   </section>
 
