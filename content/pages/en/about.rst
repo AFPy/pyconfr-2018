@@ -30,6 +30,7 @@ coordinated by volunteers and brings together people interested by the `Python
 
   <section class="wrap-button">
     <p>
+      <a class="btn-home" href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2018">Registration required!</a>
       <a class="btn-home" href="/en/sponsor-pyconfr">Sponsor PyConFr</a>
     </p>
   </section>
