@@ -192,6 +192,11 @@ Argent
        :alt: logo de IT Link
        :target: https://www.itlink.fr/fr/
 
+    .. image:: /images/logo_ecreall.png
+       :width: 200px
+       :alt: logo de Ecréall
+       :target: https://www.ecreall.com/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze

@@ -282,6 +282,20 @@ Argent
      Canada, une direction technique de pointe, 3 centres de R&D et une
      présence boursière sur le marché Euronext depuis 1999.
 
+  .. image:: /images/logo_ecreall.png
+     :width: 200px
+     :alt: logo de Ecréall
+     :target: https://www.ecreall.com/
+
+  .. container::
+
+     Société de services et de solutions en logiciels libres, Ecréall conçoit,
+     développe en Python et ReactJS les portails collaboratifs de ses clients.
+
+     Nous sommes éditeurs de la solution d'innovation participative agile
+     Nova-Ideo dont le code source est accessible sur GitHub sous licence AGPL
+     V3+ et utilise le framework Pyramid.
+
 
 Bronze
 ------

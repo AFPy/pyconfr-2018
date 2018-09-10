@@ -273,6 +273,20 @@ Silver
      technical board, 3 R & D centers and a presence in the Euronext stock
      market since 1999.
 
+  .. image:: /images/logo_ecreall.png
+     :width: 200px
+     :alt: Ecréall's logo
+     :target: https://www.ecreall.com/
+
+  .. container::
+
+     Company of services and solutions in free software, Ecréall designs,
+     develops in Python and ReactJS the collaborative portals of its customers.
+
+     We are authors of the agile Nova-Ideo participatory innovation solution
+     whose source code is accessible on GitHub under the AGPL V3+ license and
+     which uses the Pyramid framework.
+
 
 Bronze
 ------

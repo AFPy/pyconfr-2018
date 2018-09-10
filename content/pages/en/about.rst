@@ -192,6 +192,11 @@ Silver
        :alt: IT Link's logo
        :target: https://www.itlink.fr/en/
 
+    .. image:: /images/logo_ecreall.png
+       :width: 200px
+       :alt: Ecréall's logo
+       :target: https://www.ecreall.com/
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze
