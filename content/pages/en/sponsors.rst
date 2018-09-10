@@ -238,6 +238,39 @@ Silver
      CIM completes its offer of innovative solutions in 2014 with IZYlinks.
 
 
+  .. image:: /images/logo_itlink.svg
+     :width: 200px
+     :alt: IT Link's logo
+     :target: https://www.itlink.fr/en/
+
+  .. container::
+
+     **IT Link, the first digital services company specialized in Connected
+     Systems.**
+
+     For more than 30 years, IT Link has been innovating alongside major
+     players in industry and services.
+
+     Our mission is to evolve connected systems in order to optimize and create
+     the products and services for today and tomorrow.
+
+     Our know-how is based on 8 branches of expertises at the heart of
+     connected systems:
+
+     - Sensors and Embedded Intelligence
+     - Telecom and IOT
+     - Data Intelligence
+     - Mobile Applications
+     - Safety and Security
+     - Business Information Systems
+     - System Engineering
+     - Change Management and new user experiences
+
+     IT Link has 550 employees based in 12 areas in Europe and Canada, a strong
+     technical board, 3 R & D centers and a presence in the Euronext stock
+     market since 1999.
+
+
 Bronze
 ------
 .. container:: sponsors

@@ -186,6 +186,11 @@ Silver
        :alt: CIM's logo
        :target: https://www.sa-cim.fr/
 
+    .. image:: /images/logo_itlink.svg
+       :width: 200px
+       :alt: IT Link's logo
+       :target: https://www.itlink.fr/en/
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze

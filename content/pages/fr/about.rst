@@ -186,6 +186,11 @@ Argent
        :alt: logo de CIM
        :target: https://www.sa-cim.fr/
 
+    .. image:: /images/logo_itlink.svg
+       :width: 200px
+       :alt: logo de IT Link
+       :target: https://www.itlink.fr/fr/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze

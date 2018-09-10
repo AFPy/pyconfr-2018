@@ -50,6 +50,7 @@ Platine
     s'entourer de **passionnés qui apportent leurs expériences et leur
     motivation** dans un projet unique en France et en Europe.
 
+
 Or
 --
 .. container:: sponsors
@@ -79,6 +80,7 @@ Or
      d’intégrer une marketplace de premier plan au niveau mondiale en
      hyper-croissance et au concept disruptif qui révolutionne la consommation
      de produits électroniques.
+
 
 Argent
 ------
@@ -243,6 +245,39 @@ Argent
 
      Fort du succès de sa solution **MUTCIM**, son système modulable & ouvert,
      CIM complète en 2014 son offre de solutions innovantes avec **IZYlinks**.
+
+
+  .. image:: /images/logo_itlink.svg
+     :width: 200px
+     :alt: logo de IT Link
+     :target: https://www.itlink.fr/fr/
+
+  .. container::
+
+     **IT Link, première Entreprise de Services du Numérique spécialiste des
+     systèmes connectés.**
+
+     Depuis plus de 30 ans, IT Link innove aux côtés des acteurs majeurs de
+     l’industrie et des services.
+
+     Notre mission : faire évoluer les systèmes connectés pour optimiser et
+     créer les produits et services d’aujourd’hui et de demain.
+
+     Notre savoir-faire repose sur 8 pôles d’excellence au cœur des systèmes
+     connectés :
+
+	 - Capteurs et intelligence embarquée
+	 - Télécoms et IOT
+	 - Valorisation de la Donnée
+	 - Applications Mobiles
+	 - Cybersécurité
+	 - Systèmes d’Information Business
+	 - Ingénierie Systèmes
+	 - Management de la Transformation et nouvelles expériences utilisateurs
+
+     IT Link c’est 550 collaborateurs sur 12 zones de présence en Europe et au
+     Canada, une direction technique de pointe, 3 centres de R&D et une
+     présence boursière sur le marché Euronext depuis 1999.
 
 
 Bronze
