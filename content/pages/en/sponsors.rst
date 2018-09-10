@@ -162,6 +162,7 @@ Silver
 
 
   .. image:: /images/logo_numberly.svg
+     :height: 100px
      :width: 200px
      :alt: numberly's logo
      :target: http://www.1000mercis.com/#!/careers/?lang=en_UK
@@ -186,6 +187,7 @@ Silver
 
 
   .. image:: /images/logo_ouisncf.svg
+     :height: 100px
      :width: 200px
      :alt: oui.sncf's logo
      :target: https://jobs.oui.sncf
@@ -239,6 +241,7 @@ Silver
 
 
   .. image:: /images/logo_itlink.svg
+     :height: 100px
      :width: 200px
      :alt: IT Link's logo
      :target: https://www.itlink.fr/en/

@@ -187,6 +187,7 @@ Silver
        :target: https://www.sa-cim.fr/
 
     .. image:: /images/logo_itlink.svg
+       :height: 100px
        :width: 200px
        :alt: IT Link's logo
        :target: https://www.itlink.fr/en/

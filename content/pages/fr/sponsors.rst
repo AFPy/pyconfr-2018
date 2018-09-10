@@ -168,6 +168,7 @@ Argent
 
 
   .. image:: /images/logo_numberly.svg
+     :height: 100px
      :width: 200px
      :alt: logo de numberly
      :target: http://www.1000mercis.com/#!/careers/?lang=fr_FR
@@ -193,6 +194,7 @@ Argent
 
 
   .. image:: /images/logo_ouisncf.svg
+     :height: 100px
      :width: 200px
      :alt: logo de oui.sncf
      :target: https://jobs.oui.sncf
@@ -248,6 +250,7 @@ Argent
 
 
   .. image:: /images/logo_itlink.svg
+     :height: 100px
      :width: 200px
      :alt: logo de IT Link
      :target: https://www.itlink.fr/fr/
