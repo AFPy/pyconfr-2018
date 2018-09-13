@@ -197,6 +197,12 @@ Argent
        :alt: logo de Ecréall
        :target: https://www.ecreall.com/
 
+    .. image:: /images/logo_dolead.svg
+       :height: 100px
+       :width: 200px
+       :alt: Logo de Dolead
+       :target: https://www.dolead.fr/
+
 `Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze

@@ -273,6 +273,7 @@ Silver
      technical board, 3 R & D centers and a presence in the Euronext stock
      market since 1999.
 
+
   .. image:: /images/logo_ecreall.png
      :width: 200px
      :alt: Ecréall's logo
@@ -286,6 +287,26 @@ Silver
      We are authors of the agile Nova-Ideo participatory innovation solution
      whose source code is accessible on GitHub under the AGPL V3+ license and
      which uses the Pyramid framework.
+
+
+  .. image:: /images/logo_dolead.svg
+     :height: 100px
+     :width: 200px
+     :alt: Dolead's logo
+     :target: https://www.dolead.com/
+
+  .. container::
+
+     Dolead unique technology uses semantic (for creating an managing
+     advertising campaigns from a database containing 1 billion+ keywords in 26
+     languages), algorithmic (bid management), comportemental statistics and ML
+     to optimise the whole digital conversion funnel: campaigns, landing pages,
+     and data refining directly from the customer CRM.
+
+     Dolead transforms the traditional approach of digital marketing with a
+     brand new acquisition technology and an performance-driven offre which
+     offer advertisers an answer to their eternal question: how to create
+     growth while maintaining acquisition cost.
 
 
 Bronze

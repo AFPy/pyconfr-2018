@@ -197,6 +197,12 @@ Silver
        :alt: Ecréall's logo
        :target: https://www.ecreall.com/
 
+    .. image:: /images/logo_dolead.svg
+       :height: 100px
+       :width: 200px
+       :alt: Dolead's logo
+       :target: https://www.dolead.com/
+
 `Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze

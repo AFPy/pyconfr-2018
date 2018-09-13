@@ -297,6 +297,27 @@ Argent
      V3+ et utilise le framework Pyramid.
 
 
+  .. image:: /images/logo_dolead.svg
+     :height: 100px
+     :width: 200px
+     :alt: Logo de Dolead
+     :target: https://www.dolead.fr/
+
+  .. container::
+
+     La technologie Dolead utilise la sémantique (création automatique de
+     campagnes à partir d’une base de données d’un milliard de mots-clés en 26
+     langues), l'algorithmique (bid management), les statistiques
+     comportementales et le machine learning afin d’optimiser tout l’entonnoir
+     d’acquisition digitale : les campagnes, les landing pages et le
+     retraitement de la data du CRM pour le ciblage.
+
+     Dolead transforme l’approche traditionnelle du marketing digital avec une
+     technologie d’acquisition unique et une offre à la performance qui
+     répondent à l’éternelle question de tous les annonceurs : comment créer de
+     la croissance tout en maîtrisant leurs coûts d'acquisition.
+
+
 Bronze
 ------
 .. container:: sponsors
