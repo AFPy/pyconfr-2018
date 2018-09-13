@@ -463,6 +463,21 @@ Bronze
      process of companies.
 
 
+  .. image:: /images/logo_legalstart.svg
+     :height: 100px
+     :width: 200px
+     :alt: Legalstart.fr's logo
+     :target: https://www.legalstart.fr/
+
+  .. container::
+
+     Based in Paris, Legalstart is a leader in the French legal-tech space that
+     aims at revolutionising legal services. Our mission: help entrepreneurs
+     and SMBs get easier access to excellent quality legal services. We help
+     business creators manage legal documents and paperwork in an automated
+     fashion.
+
+
 Heart
 -----
 

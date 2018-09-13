@@ -476,6 +476,21 @@ Bronze
      aux flux de travail des sociétés.
 
 
+  .. image:: /images/logo_legalstart.svg
+     :height: 100px
+     :width: 200px
+     :alt: Logo de Legalstart.fr
+     :target: https://www.legalstart.fr/
+
+  .. container::
+
+     Basé à Paris, Legalstart est un leader français de la legal-tech. Notre
+     mission : faciliter l'accès à des prestations juridiques de qualité pour
+     les entrepreneurs et les PMEs. Nous aidons les entrepreneurs en
+     automatisant les documents juridiques et les tâches administratives pour
+     la création de leurs sociétés.
+
+
 Cœur
 ----
 

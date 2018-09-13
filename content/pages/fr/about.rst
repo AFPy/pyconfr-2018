@@ -245,6 +245,12 @@ Bronze
        :alt: logo de B2CK
        :target: https://www.b2ck.com/
 
+    .. image:: /images/logo_legalstart.svg
+       :height: 100px
+       :width: 200px
+       :alt: Logo de Legalstart.fr
+       :target: https://www.legalstart.fr/
+
 `Devenez partenaire "Bronze" </sponsor-pyconfr>`_
 
 Cœur
