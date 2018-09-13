@@ -257,6 +257,12 @@ Bronze
        :alt: Legalstart.fr's logo
        :target: https://www.legalstart.fr/
 
+    .. image:: /images/logo_citusdata.svg
+       :height: 100px
+       :width: 200px
+       :alt: Citusdata's logo
+       :target: https://www.citusdata.com/
+
 `Become "Bronze" partner </en/sponsor-pyconfr>`_
 
 Heart

@@ -499,6 +499,21 @@ Bronze
      fashion.
 
 
+  .. image:: /images/logo_citusdata.svg
+    :height: 100px
+    :width: 200px
+    :alt: Citusdata's logo
+    :target: https://www.citusdata.com/
+
+  .. container::
+
+     Citus intelligently distributes your data & queries across nodes so your
+     database can scale and your queries are fast. Available as a database as a
+     service, as enterprise software, and as open source. At Citus, we make
+     sharding your PostgreSQL database simple. So you can focus on your app—not
+     your database.
+
+
 Heart
 -----
 

@@ -512,6 +512,23 @@ Bronze
      la création de leurs sociétés.
 
 
+  .. image:: /images/logo_citusdata.svg
+    :height: 100px
+    :width: 200px
+    :alt: Citusdata's logo
+    :target: https://www.citusdata.com/
+
+  .. container::
+
+     Citus effectue une répartition intelligente de vos données et de vos
+     requêtes sur plusieurs nœuds, afin d'assurer une bonne scalabilité et des
+     requêtes rapides. Notre offre est disponible en *database as a service*,
+     en logiciel d'entreprise, et en open source. Citus vous permet de
+     partitionner simplement votre base de données PostgreSQL, pour que vous
+     puissiez vous focaliser sur votre application − pas sur votre base de
+     données.
+
+
 Cœur
 ----
 
