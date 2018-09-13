@@ -514,6 +514,40 @@ Bronze
      your database.
 
 
+  .. image:: /images/logo_logilab.svg
+     :height: 100px
+     :width: 200px
+     :alt: Logilab's logo
+     :target: https://www.logilab.fr/
+
+  .. container::
+
+     `Logilab <https://www.logilab.fr/>`_ is an IT company specialized in
+     advanced and scientific computing.
+
+     By building on its expertise center, Logilab is able to implement software
+     solutions and to propose high value services and trainings in such fields
+     as advanced and scientific computing and knowledge management.
+
+     Logilab’s expertise center has specialized in the use of several tools
+     (Python, C, C++, etc.) and techniques (software engineering, agile project
+     management, multi-paradigm programming, statistics, logic, etc.) and
+     applies them to advanced computing (data analysis, numerical problem
+     solving, simulation, etc.) and knowledge management (content management
+     systems, workflow automation, database aggregation, indexation tools,
+     documentation management, etc.).  Logilab’s training sessions are designed
+     for engineers willing to enhance their computer science skills. They cover
+     a wide range of topics (Python, XML, SaltStack, Object Oriented design and
+     programming, C++, agile project management, etc.) and are always fine
+     tuned to best suit the needs of attendees.
+
+     Logilab is an actor in the Free/Open Source Software community. The
+     company favors solutions built on Free/Open Source Software when they meet
+     the needs of the end users, and guarantee the required stability of the
+     systems. Some of the internal developments of the company are released as
+     open source on Logilab's free software projects site
+     `http://www.logilab.org <http://www.logilab.org>`_.
+
 Heart
 -----
 

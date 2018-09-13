@@ -513,10 +513,10 @@ Bronze
 
 
   .. image:: /images/logo_citusdata.svg
-    :height: 100px
-    :width: 200px
-    :alt: Citusdata's logo
-    :target: https://www.citusdata.com/
+     :height: 100px
+     :width: 200px
+     :alt: logo de Citusdata
+     :target: https://www.citusdata.com/
 
   .. container::
 
@@ -527,6 +527,39 @@ Bronze
      partitionner simplement votre base de données PostgreSQL, pour que vous
      puissiez vous focaliser sur votre application − pas sur votre base de
      données.
+
+
+  .. image:: /images/logo_logilab.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Logilab
+     :target: https://www.logilab.fr/
+
+  .. container::
+
+     Logilab **développe** des **logiciels**, et propose du **conseil** et des
+     **formations** de haut niveau dans les domaines de l'\ *informatique
+     scientifique* et du *web sémantique*, en utilisant des *outils et méthodes
+     agiles*.
+
+     Logilab s'est *spécialisée* dans l'utilisation de certains outils
+     (*Python*, *CubicWeb*, *Debian*, etc.) et techniques (génie logiciel,
+     programmation multi-paradigmes, statistiques, logique, etc.) pour les
+     appliquer aux domaines de l'\ *informatique scientifique* (simulation
+     numérique, calcul hautes performances, analyse de données, etc.) et du
+     *web sémantique* (*gestion de connaissances*, agrégation de bases de
+     données, outils de recherche et de veille, etc.).
+
+     Les *formations* de **Logilab Campus** s'adressent en priorité aux
+     ingénieurs, chercheurs et techniciens désireux d'accroître leur culture
+     informatique. Elles couvrent des sujets variés (Python, conception
+     orientée objet, méthodes de développement agiles, etc.) et sont
+     systématiquement adaptées aux besoins des participants, qu'il s'agisse de
+     sessions intra ou inter-entreprises.
+
+     Logilab est un acteur du *Logiciel Libre* et met à disposition certains de
+     ses développements sur ses sites `logilab.org <https://logilab.org>`_ et
+     `cubicweb.org <https://cubicweb.org>`_.
 
 
 Cœur

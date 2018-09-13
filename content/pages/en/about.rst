@@ -263,6 +263,12 @@ Bronze
        :alt: Citusdata's logo
        :target: https://www.citusdata.com/
 
+    .. image:: /images/logo_logilab.svg
+       :height: 100px
+       :width: 200px
+       :alt: Logilab's logo
+       :target: https://www.logilab.fr/
+
 `Become "Bronze" partner </en/sponsor-pyconfr>`_
 
 Heart
