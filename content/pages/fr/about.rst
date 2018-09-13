@@ -31,7 +31,6 @@ par le langage de programmation `Python <http://www.python.org/>`_.
   <section class="wrap-button">
     <p>
       <a class="btn-home" href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2018">Inscription obligatoire !</a>
-      <a class="btn-home" href="/fr/sponsor-pyconfr">Financer PyConFr</a>
     </p>
   </section>
 
@@ -124,8 +123,6 @@ Platine
       :alt: logo de Sewan
       :target: https://www.sewan.fr/
 
-`Devenez partenaire "Platine" </sponsor-pyconfr>`_
-
 Or
 --
 
@@ -138,8 +135,6 @@ Or
        :width: 200px
        :alt: logo de Back Market
        :target: https://www.backmarket.fr/
-
-`Devenez partenaire "Or" </sponsor-pyconfr>`_
 
 Argent
 ------
@@ -202,8 +197,6 @@ Argent
        :width: 200px
        :alt: Logo de Dolead
        :target: https://www.dolead.fr/
-
-`Devenez partenaire "Argent" </sponsor-pyconfr>`_
 
 Bronze
 ------
@@ -269,8 +262,6 @@ Bronze
        :alt: logo de Logilab
        :target: https://www.logilab.fr/
 
-`Devenez partenaire "Bronze" </sponsor-pyconfr>`_
-
 Cœur
 ----
 
@@ -284,14 +275,6 @@ Cœur
        :width: 200px
        :alt: Logo de Stickermule
        :target: https://www.stickermule.com/supports/PyConFr
-
-`Devenez  partenaire "Cœur" </sponsor-pyconfr>`_
-
-.. raw:: html
-
-  <section class="wrap-button">
-    <a class="btn" href="/sponsor-pyconfr">Financez nous</a>
-  </section>
 
 Partenaires
 -----------

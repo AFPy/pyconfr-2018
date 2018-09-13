@@ -7,9 +7,7 @@ Nos partenaires
 Nos Partenaires
 ===============
 
-**Nous acceptons les sponsors jusqu'au 10 septembre. Veuillez envoyer votre
-demande et toutes les informations nécessaires (y compris votre description et
-votre logo) avant cette date.**
+**La campagne de sponsoring est désormais close.**
 
 .. container:: sponsors
 
@@ -572,9 +570,3 @@ Cœur
      :width: 200px
      :alt: Logo de Stickermule
      :target: https://www.stickermule.com/supports/PyConFr
-
-.. raw:: html
-
-  <section class="wrap-button">
-    <a class="btn" href="/sponsor-pyconfr">Soutenez nous</a>
-  </section>

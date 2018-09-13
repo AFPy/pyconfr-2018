@@ -31,7 +31,6 @@ coordinated by volunteers and brings together people interested by the `Python
   <section class="wrap-button">
     <p>
       <a class="btn-home" href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2018">Registration required!</a>
-      <a class="btn-home" href="/en/sponsor-pyconfr">Sponsor PyConFr</a>
     </p>
   </section>
 
@@ -124,8 +123,6 @@ Platinum
       :alt: Sewan's logo
       :target: https://www.sewan.fr/
 
-`Become "Platinum" partner </en/sponsor-pyconfr>`_
-
 Gold
 ----
 
@@ -138,8 +135,6 @@ Gold
        :width: 200px
        :alt: Back Market's logo
        :target: https://www.backmarket.com/
-
-`Become "Gold" partner </en/sponsor-pyconfr>`_
 
 Silver
 ------
@@ -202,8 +197,6 @@ Silver
        :width: 200px
        :alt: Dolead's logo
        :target: https://www.dolead.com/
-
-`Become "Silver" partner </en/sponsor-pyconfr>`_
 
 Bronze
 ------
@@ -269,8 +262,6 @@ Bronze
        :alt: Logilab's logo
        :target: https://www.logilab.fr/
 
-`Become "Bronze" partner </en/sponsor-pyconfr>`_
-
 Heart
 -----
 
@@ -283,14 +274,6 @@ Heart
        :width: 200px
        :alt: Stickermule's logo
        :target: https://www.stickermule.com/supports/PyConFr
-
-`Become "Heart" partner </en/sponsor-pyconfr>`_
-
-.. raw:: html
-
-  <section class="wrap-button">
-    <a class="btn" href="/en/sponsor-pyconfr">Become a sponsor</a>
-  </section>
 
 Partners
 --------

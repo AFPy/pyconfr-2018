@@ -15,9 +15,7 @@ Any volunteer help during the event is welcome!
 Sponsor PyConFr
 ===============
 
-**We can accept sponsors until September 10th. Please be sure to send your
-sponsorship proposal and all needed information (including description and
-logo) before this date.**
+**The sponsoring campaign is now closed.**
 
 Patronage allows us each year to cover costs such as safety, hot and cold
 drinks, cleaning, video coverage, etc.

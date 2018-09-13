@@ -15,9 +15,7 @@ Toute aide bénévole lors de l'événement est la bienvenue !
 Financer PyConFr
 ================
 
-**Nous acceptons les sponsors jusqu'au 10 septembre. Veuillez envoyer votre
-demande et toutes les informations nécessaires (y compris votre description et
-votre logo) avant cette date.**
+**La campagne de sponsoring est désormais close.**
 
 Le mécénat nous permet chaque année de couvrir les frais comme la sécurité, des
 boissons chaudes et fraîches, le nettoyage, la captation vidéo…
@@ -30,7 +28,7 @@ Si vous souhaitez nous soutenir financièrement, vous pouvez contacter `le
 trésorier de l'Afpy (tresorier@afpy.org) <mailto:tresorier@afpy.org>`_ afin de
 discuter des détails.
 
-Cette année, nous proposons les montants et contreparties suivantes :
+Cette année, nous proposons les montants et contreparties suivantes :
 
 .. raw:: html
 

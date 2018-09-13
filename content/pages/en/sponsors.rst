@@ -7,9 +7,7 @@ Our sponsors
 Our sponsors
 ============
 
-**We can accept sponsors until September 10th. Please be sure to send your
-sponsorship proposal and all needed information (including description and
-logo) before this date.**
+**The sponsoring campaign is now closed.**
 
 .. container:: sponsors
 
