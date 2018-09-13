@@ -190,7 +190,7 @@ Argent
        :height: 100px
        :width: 200px
        :alt: logo de IT Link
-       :target: https://www.itlink.fr/fr/
+       :target: https://www.itlink.fr/
 
     .. image:: /images/logo_ecreall.png
        :width: 200px

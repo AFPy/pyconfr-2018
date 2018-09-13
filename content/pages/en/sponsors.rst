@@ -244,7 +244,7 @@ Silver
      :height: 100px
      :width: 200px
      :alt: IT Link's logo
-     :target: https://www.itlink.fr/en/
+     :target: https://www.itlink.fr/
 
   .. container::
 
