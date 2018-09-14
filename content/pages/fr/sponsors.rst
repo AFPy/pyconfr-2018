@@ -316,6 +316,27 @@ Argent
      la croissance tout en maîtrisant leurs coûts d'acquisition.
 
 
+  .. image:: /images/logo_planetwork.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Planet-work
+     :target: https://www.planet-work.com/
+
+
+  .. image:: /images/logo_budgetinsight.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Budget Insight
+     :target: https://www.budget-insight.com/
+
+
+  .. image:: /images/logo_octobus.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Octobus
+     :target: https://octobus.net/
+
+
 Bronze
 ------
 .. container:: sponsors
