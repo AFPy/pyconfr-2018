@@ -316,6 +316,40 @@ Argent
      la croissance tout en maîtrisant leurs coûts d'acquisition.
 
 
+  .. image:: /images/logo_octobus.svg
+     :height: 100px
+     :width: 200px
+     :alt: logo de Octobus
+     :target: https://octobus.net/
+
+  .. container::
+
+     Contributeurs majeurs au gestionnaire de version Mercurial, nous sommes
+     passionnés de logiciel libre et d’outils de développement.
+
+     Notre objectif est de rendre le processus de développement plus simple,
+     plus rapide, plus collaboratif, bref, plus agile. Nous voulons améliorer
+     l’expérience des utilisateurs en leur fournissant des outils qui
+     facilitent leur travail.
+
+     Depuis 2016, Octobus propose son expertise en logiciel libre, gestion de
+     version et Python.
+
+     Nos clients font appel à nous pour améliorer leurs workflows, les
+     performances et leurs outils associés (tests, CI…). Notre expertise
+     Python se concentre sur les performances, les concepts avancés et
+     l’évolution de bases de code complexes.
+
+     Le logiciel libre est au cœur de notre démarche, nous accompagnons aussi
+     les projets open source.
+
+     Octobus se développe. Vous êtes intéressé·e par nos thématiques ? Nous
+     recrutons !
+
+     Nous donnerons 3 conférences lors de PyConFr et participerons aux 2 jours
+     de codage participatif, venez nous rencontrer !
+
+
   .. image:: /images/logo_planetwork.svg
      :height: 100px
      :width: 200px
@@ -328,13 +362,6 @@ Argent
      :width: 200px
      :alt: logo de Budget Insight
      :target: https://www.budget-insight.com/
-
-
-  .. image:: /images/logo_octobus.svg
-     :height: 100px
-     :width: 200px
-     :alt: logo de Octobus
-     :target: https://octobus.net/
 
 
 Bronze
