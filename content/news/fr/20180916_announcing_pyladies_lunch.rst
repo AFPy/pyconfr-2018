@@ -15,7 +15,7 @@ Pour la première fois, la conférence PyConFr accueillera un déjeuner PyLadies
 
 Destiné à rassembler les femmes (cis_ et trans_), les hommes trans_, les personnes non-binaires_ ou les `agenré⋅e⋅s <https://fr.wikipedia.org/wiki/Non-binaire#Agenre_et_neutrois>`_ qui font du Python, cet événement a pour but de les aider à devenir des membres actifs et des moteurs de la communauté. Un des objectifs est également de tisser des liens entre la communauté PyLadies et le reste de la communauté Python francophone.
 
-Ce déjeuner est financé par l'Association Francophone Python et organisé avec le soutien de Viviane Pons et Anna Livia Gomart, les organisatrices `du chapitre parisien de PyLadies <http://www.pyladies.com/locations/paris/>`_.
+Ce déjeuner est financé par l'Association Francophone Python et organisé avec le soutien de Viviane Pons et Anna-Livia Gomart, les organisatrices `du chapitre parisien de PyLadies <http://www.pyladies.com/locations/paris/>`_.
 
 Réservé aux femmes (cis_ et trans_), aux hommes trans_, aux personnes non-binaires_ et aux `agenré⋅e⋅s <https://fr.wikipedia.org/wiki/Non-binaire#Agenre_et_neutrois>`__, nous demandons aux hommes cis_ de ne pas s'inscrire ou de tenter de participer à ce déjeuner.
 

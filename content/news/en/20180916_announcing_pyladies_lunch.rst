@@ -15,7 +15,7 @@ For the first time, PyConFr conference will host a PyLadies lunch on saturday, O
 
 By gathering cis_ and trans_ women, trans_ men, or genderqueer_ who write Python, this event aims at empowering them whithin the community. Another goal is to build stronger ties between the PyLadies and the french-speaking community.
 
-This lunch is funded by the French Python Association (AFPy) and organized with the support of Viviane Pons and Anna Livia Gomard, organizers `of PyLadies Paris <http://www.pyladies.com/locations/paris/>`_.
+This lunch is funded by the French Python Association (AFPy) and organized with the support of Viviane Pons and Anna-Livia Gomard, organizers `of PyLadies Paris <http://www.pyladies.com/locations/paris/>`_.
 
 Meant only for cis_ and trans_ women, trans_ men, or genderqueer_, cis_ men are requested not to register nor trying to participate to this lunch.
 
