@@ -186,6 +186,39 @@ Contributions réalisées lors d'un sprint précédent
 
   <hr/>
 
+Kivy: Framework UI multitouch et multiplateforme flexible et performant
+-----------------------------------------------------------------------
+
+.. raw:: html
+
+  <i>Gabriel Pettier</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  Kivy est un framework GUI multiplateforme (windows, linux, osx, android, ios),
+  qui permet de définir rapidement des interfaces hautement customisées et des
+  interactions innovantes. Il se base sur OpenGL et donne un accès assez bas
+  niveau, tout en offrant une interface simple et intuitive.
+
+  - Le but de ce sprint est principalement de corriger des bugs, que ce soit sur
+    le framework lui-même, ou sur les outils de déploiement mobile,
+    (python-for-android, kivy-ios), en fonction des connaissances et motivations
+    des personnes présentes.
+  - Une attention particulière sera apporté à la
+    résolution de problèmes spécifiques au support python3.
+
+  Pré-requis:
+
+  - une version *de développement* de kivy installée et fonctionnelle sur un
+    ordinateur windows, linux ou osx.
+  - connaissances de base d'usage de git
+
+.. raw:: html
+
+  <hr/>
+
 Nouvelle architecture Modoboa
 -----------------------------
 
@@ -370,11 +403,41 @@ Traduction de la doc de Python
   <br/>
   <br/>
 
-.. container:: wrap-paragraphe
+.. container:: wrap-paragraph
 
   Venez traduire un bout de la doc de Python, c'est une bonne occasion de la
   lire et donc de découvrir quelque chose que vous ne connaissiez pas, tout en
   rendant Python plus accessible.
+
+.. raw:: html
+
+  <hr/>
+
+Yunohost, démocratiser l'auto-hébergement
+-----------------------------------------
+
+.. raw:: html
+
+  <i>Élie Gavoty, Valentin Grimaud</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  YunoHost est un système d’exploitation serveur visant à rendre accessible
+  l’auto-hébergement à autant de personnes que possible, sans délaisser la
+  qualité et la fiabilité du logiciel. YunoHost supporte plusieurs types de
+  matériel et est basé et compatible avec Debian GNU/Linux. Son coeur est écrit
+  en python.
+
+  Au programme du sprint :
+
+  - Contribuer au système de backup de yunohost.
+  - Avancer sur la migration du core vers python3
+  - Chasse aux bugs
+  - D'autres fonctionnalités en cours de développement peuvent également occuper
+    notre temps. Comme yunohost est une distribution plutôt généraliste, les
+    sujets sont plutôt variés.
 
 .. raw:: html
 
