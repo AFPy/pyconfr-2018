@@ -305,8 +305,8 @@ Release d'AnyBlok 1.0.0
 
   <hr/>
 
-Socialite: un lecteur de flux (et plus si affinité) basé sur le framework asyncio aiohttp
------------------------------------------------------------------------------------------
+Socialite: Private-first social network powered by Python 3.5 and asyncio aiohttp
+---------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -316,8 +316,10 @@ Socialite: un lecteur de flux (et plus si affinité) basé sur le framework asyn
 
 .. container:: wrap-paragraphe
 
-  Venez vous faire les mains sur un projet utilisant Python 3.6 et le framework
-  aiohttp basé asyncio
+  Venez vous faire les mains sur un projet utilisant Python 3.5 et le framework
+  **aiohttp** basé **asyncio** (avec des morceaux de FoundationDB dedans).
+
+  https://github.com/amirouche/socialite/
 
 .. raw:: html
 
@@ -381,8 +383,8 @@ Traduction de la doc de Python
 Index des conférences
 =====================
 
-Conférence plénière #1
-----------------------
+Conférence plénière #1 Science and Open Source: what do we learn from each other?
+---------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -392,14 +394,16 @@ Conférence plénière #1
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  As both a scientist and a developer, I will discuss the values that motivate
+  my work in both worlds. I will also describe the common challenges that we
+  face and how we can get better.
 
 .. raw:: html
 
   <hr/>
 
-Conférence plénière #2
-----------------------
+Conférence plénière #2 The emergence of consensus in the Python community
+-------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -409,14 +413,18 @@ Conférence plénière #2
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  This talk is about searching, finding, and maybe understanding how Python
+  developers make their choices in face of alternatives. We're told "There
+  should be one-- and preferably only one --obvious way to do it." let's stop
+  doing our "own way". I'll try to answer simple questions like "Is the
+  consensus is to use pytest or unittest?" and tricker questions.
 
 .. raw:: html
 
   <hr/>
 
-Conférence plénière #3
-----------------------
+Conférence plénière #3 The CPython community: how to get more contributors?
+---------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -426,7 +434,12 @@ Conférence plénière #3
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  The CPython project is now 28 years old. It has active core developers, but
+  almost all of them are volunteers. It's difficult to ask someone to be commit
+  into a project for 5 years without being paid. Helping newcomers and mentoring
+  contributors takes time and few developers are available for that. We are
+  working on improving the diversity of CPython core developers and get more
+  active core developers, but it's a slow process.
 
 .. raw:: html
 
@@ -470,8 +483,8 @@ Assemblée générale de l'AFPY
 
   <hr/>
 
-BDD in Python from beginner to Advanced
----------------------------------------
+Learn BDD in Python with Behave
+-------------------------------
 
 .. raw:: html
 
@@ -762,12 +775,12 @@ Débuter en programmation web avec asyncio et aiohttp
 
 .. container:: wrap-paragraphe
 
-  asyncio est un nouveau module qui supporte en Python 3.5+ avec la syntaxe
-  async / await. Il facilite grandement la programmation asynchrone en évitant
-  la programmation par callback. Le principe de la programmation asynchrone est
-  de traiter plus de requêtes en même temps. Nous verrons dans cette
-  présentation que c'est facile de faire de la programmation web asynchrone à
-  l'aide du cadre logiciel aiohttp.
+  asyncio est un nouveau module qui supporte en Python 3.5+ la syntaxe async /
+  await. Il facilite grandement la programmation asynchrone en évitant la
+  programmation par callback. Le principe de la programmation asynchrone est de
+  traiter plus de requêtes en même temps. Nous verrons dans cette présentation
+  que c'est facile de faire de la programmation web asynchrone à l'aide du cadre
+  logiciel aiohttp.
 
 .. raw:: html
 
@@ -1633,18 +1646,23 @@ Mask R-CNN in Lane Detection
 
 .. container:: wrap-paragraphe
 
-  The aim of this paper is to introduce to the newcomers the ideas of Deep
-  Neural Networks started by Yan LeCun and continued by Alex A., NYU, Google and
-  Facebook teams, make a small panorama of the more common types of Neural
-  Networks available and explain in detail a new and very successful
-  architecture called RMask R-CNN that has won recognition all around the world.
-  After this big introduction, we will dive into the resolution of the problem
-  of Lane Recognition with images taken from inside cars using CuLanes dataset.
+  The aim of this paper is to introduce to the newcomers the ideas of Deep Neural
+  Networks started by Yan LeCun and continued by Alex A., NYU, Google and Facebook
+  teams, make a small panorama of the more common types of Neural Networks
+  available and explain in detail a new and very successful architecture called
+  Mask R-CNN that has won recognition all around the world.
+  
+  After this big introduction, we will dive into the resolution of the problem of
+  Lane Recognition with images taken from inside cars using CuLanes dataset and
+  its implementation in TensorFlow.
   We will see how difficult and problematic this type of images can be due to
   the different and possible geometric issues that diverse landscapes have.
   Nevertheless, we will show that the technique is applicable to this specific
   problem and could be improved to be automatized and implemented in a
   self-driving car.
+  
+  https://github.com/fmcalcagno/MASK_Lane_Detection
+  @fmcalcagno
 
 .. raw:: html
 
