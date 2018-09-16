@@ -24,6 +24,39 @@ Conferences and Workshops (Saturday 6, Sunday 7)
 Sprints index (Thursday 4, Friday 5)
 ====================================
 
+AFPy : outils de communication, gestion des serveurs, actions en faveur de la diversité
+---------------------------------------------------------------------------------------
+
+.. raw:: html
+
+  <i>Arthur Vuillard</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  L'Association Francophone Python profite de l'oganisation de PyConFr pour
+  organiser un atelier de travail sur différents outils permettant de réaliser
+  ses actions.
+
+  Toute personne bénévole et volontaire pour faire la promotion de Python en
+  Français est la bienvenue à ce sprint.
+
+  Les tâches qui pourront ếtre réalisées :
+
+  - amélioration des outils de communication : site web, réseaux sociaux, listes
+    de diffusion, mail d'actualité
+  - mise à jour et entretien des serveurs : nous avons des serveurs sous FreeBSD
+    utilisant des jails pour chacune des services
+  - actions en faveur de la diversité dans la communauté python : trouver des
+    idées et la manière de les réaliser afin de diversifier le public des
+    événements organisés par l'AFPy
+  - toute autre tâche en lien avec l'objet de l'association
+
+.. raw:: html
+
+  <hr/>
+
 Gnocchi
 -------
 
