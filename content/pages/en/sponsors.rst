@@ -313,6 +313,31 @@ Silver
      :alt: Planet-work's logo
      :target: https://www.planet-work.com/
 
+  .. container::
+
+     Since 1999, Planet-Work has specialized in designing web infrastructures
+     and became that way a host providing value-added services.
+
+     Planet-Work is recognized for the quality of its services, especially in
+     the field of managed operating system (Linux) and applications (WordPress,
+     Prestashop, Magento, etc.), as well as in in the handling of scalability
+     and high availability issues.
+
+     At Planet-Work, benefit from:
+
+     - more than 18 years of experience in managed operating systems and
+       applications.
+     - A dedicated technical partner, who listens to you, advises you and
+       follows you according to your needs.
+     - A total, unlimited and "free" managed services (no additional billing).
+     - An efficient and responsive technical support (answers under 1h during
+       the day, hotline available during evenings and weekends).
+     - Every year, Planet-Work hosts more and more sites, applications and
+       messaging solutions facing diverse and varied issues.
+     - For Planet-Work’s employees meeting the expectations of our customers is
+       essential and winning their confidence is our first reward! Today,
+       Planet-Work delivers its services to more than 6,000 customers.
+
 
   .. image:: /images/logo_budgetinsight.svg
      :height: 100px

@@ -356,6 +356,33 @@ Argent
      :alt: logo de Planet-work
      :target: https://www.planet-work.com/
 
+  .. container::
+
+     Depuis 1999, Planet-Work s’est spécialisé dans la **conception
+     d’architectures techniques en matière d’hébergement Web**. Il est ainsi
+     devenu un hébergeur à valeur ajoutée.
+
+     Planet-Work est reconnu pour la qualité de ses services, notamment dans
+     l’infogérance système (Linux) et applicative (WordPress, Prestashop,
+     Magento, etc.), ainsi que dans les problématiques de montée en charge et
+     de haute disponibilité.
+
+     **Chez Planet-Work, vous bénéficiez de :**
+
+     - plus de 18 ans d’expérience en infogérance système et applicative.
+     - Un interlocuteur technique privilégié, qui vous écoute, vous conseille
+       et vous suit au gré de vos besoins.
+     - Une infogérance totale, illimitée et « gratuite » (pas de facturation
+       supplémentaire).
+     - Un support technique efficace et réactif (réponse sous 1h en journée,
+       astreintes soir et week-end).
+     - D’année en année, Planet-Work héberge de plus en plus de sites,
+       d’applications et de solutions de messagerie aux problématiques diverses
+       et variées. Pour les équipes de l’hébergeur : **répondre aux attentes de
+       nos clients est primordial** et gagner leur confiance est d’ailleurs
+       notre première récompense ! Aujourd’hui, Planet-Work délivre ses
+       services à plus de 6 000 clients.
+
 
   .. image:: /images/logo_budgetinsight.svg
      :height: 100px
