@@ -566,13 +566,19 @@ Bronze
 
   .. container::
 
-     Citus effectue une répartition intelligente de vos données et de vos
-     requêtes sur plusieurs nœuds, afin d'assurer une bonne scalabilité et des
-     requêtes rapides. Notre offre est disponible en *database as a service*,
-     en logiciel d'entreprise, et en open source. Citus vous permet de
-     partitionner simplement votre base de données PostgreSQL, pour que vous
-     puissiez vous focaliser sur votre application − pas sur votre base de
-     données.
+     Citus Data s'est donné une mission : vous faire oublier les problèmes de
+     scalabilité de votre base de données. Citus est un Postgres construit pour
+     passer à l'échelle sans soucis. Conçu pour des entreprises classiques ou
+     en mode SaaS, Citus est une extension pour PostgreSQL (pas un *fork*) qui
+     transforme PostgreSQL en une base de données distribuée. Que vous ayez à
+     déployer à grande échelle une application SaaS multi-tenant, ou à
+     construire des tableaux de bord d'analyse en temps réel nécessitant des
+     réponses en moins d'une seconde, Citus vous permet de partitionner
+     Postgres simplement. Citus, notre base de données distribuée, est
+     disponible en open source, en progiciel que vous pouvez utiliser n'importe
+     où, et en tant que *database as a service*. Découvrez notre documentation,
+     nos tutoriels, nos logiciels à télécharger et toutes les informations
+     nécessaires sur `www.citusdata.com <https://www.citusdata.com>`_.
 
 
   .. image:: /images/logo_logilab.svg

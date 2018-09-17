@@ -526,12 +526,17 @@ Bronze
 
   .. container::
 
-     Citus intelligently distributes your data & queries across nodes so your
-     database can scale and your queries are fast. Available as a database as a
-     service, as enterprise software, and as open source. At Citus, we make
-     sharding your PostgreSQL database simple. So you can focus on your app—not
-     your database.
-
+     Citus Data is on a mission to make it so you never have to worry about
+     scaling your database again. Citus is worry-free Postgres that is built to
+     scale out. Made for SaaS companies and enterprises alike, Citus is an
+     extension to PostgreSQL (not a fork) that transforms PostgreSQL into a
+     distributed database. Whether you need to scale out a multi-tenant SaaS
+     application—or are building real-time analytics dashboards that require
+     sub-second response times—Citus makes it simple to shard Postgres. Our
+     Citus distributed database is available as open source, as enterprise
+     software you can run anywhere, and as a fully-managed database as a
+     service. Documentation, tutorials, downloads, and more information can be
+     found at `www.citusdata.com <https://www.citusdata.com>`_.
 
   .. image:: /images/logo_logilab.svg
      :height: 100px
