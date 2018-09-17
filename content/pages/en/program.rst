@@ -24,6 +24,39 @@ Conferences and Workshops (Saturday 6, Sunday 7)
 Sprints index (Thursday 4, Friday 5)
 ====================================
 
+AFPy : outils de communication, gestion des serveurs, actions en faveur de la diversité
+---------------------------------------------------------------------------------------
+
+.. raw:: html
+
+  <i>Arthur Vuillard</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  L'Association Francophone Python profite de l'oganisation de PyConFr pour
+  organiser un atelier de travail sur différents outils permettant de réaliser
+  ses actions.
+
+  Toute personne bénévole et volontaire pour faire la promotion de Python en
+  Français est la bienvenue à ce sprint.
+
+  Les tâches qui pourront ếtre réalisées :
+
+  - amélioration des outils de communication : site web, réseaux sociaux, listes
+    de diffusion, mail d'actualité
+  - mise à jour et entretien des serveurs : nous avons des serveurs sous FreeBSD
+    utilisant des jails pour chacune des services
+  - actions en faveur de la diversité dans la communauté python : trouver des
+    idées et la manière de les réaliser afin de diversifier le public des
+    événements organisés par l'AFPy
+  - toute autre tâche en lien avec l'objet de l'association
+
+.. raw:: html
+
+  <hr/>
+
 Gnocchi
 -------
 
@@ -186,6 +219,39 @@ Contributions réalisées lors d'un sprint précédent
 
   <hr/>
 
+Kivy: Framework UI multitouch et multiplateforme flexible et performant
+-----------------------------------------------------------------------
+
+.. raw:: html
+
+  <i>Gabriel Pettier</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  Kivy est un framework GUI multiplateforme (windows, linux, osx, android, ios),
+  qui permet de définir rapidement des interfaces hautement customisées et des
+  interactions innovantes. Il se base sur OpenGL et donne un accès assez bas
+  niveau, tout en offrant une interface simple et intuitive.
+
+  - Le but de ce sprint est principalement de corriger des bugs, que ce soit sur
+    le framework lui-même, ou sur les outils de déploiement mobile,
+    (python-for-android, kivy-ios), en fonction des connaissances et motivations
+    des personnes présentes.
+  - Une attention particulière sera apporté à la
+    résolution de problèmes spécifiques au support python3.
+
+  Pré-requis:
+
+  - une version *de développement* de kivy installée et fonctionnelle sur un
+    ordinateur windows, linux ou osx.
+  - connaissances de base d'usage de git
+
+.. raw:: html
+
+  <hr/>
+
 Nouvelle architecture Modoboa
 -----------------------------
 
@@ -305,8 +371,8 @@ Release d'AnyBlok 1.0.0
 
   <hr/>
 
-Socialite: un lecteur de flux (et plus si affinité) basé sur le framework asyncio aiohttp
------------------------------------------------------------------------------------------
+Socialite: Private-first social network powered by Python 3.5 and asyncio aiohttp
+---------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -316,8 +382,10 @@ Socialite: un lecteur de flux (et plus si affinité) basé sur le framework asyn
 
 .. container:: wrap-paragraphe
 
-  Venez vous faire les mains sur un projet utilisant Python 3.6 et le framework
-  aiohttp basé asyncio
+  Venez vous faire les mains sur un projet utilisant Python 3.5 et le framework
+  **aiohttp** basé **asyncio** (avec des morceaux de FoundationDB dedans).
+
+  https://github.com/amirouche/socialite/
 
 .. raw:: html
 
@@ -368,7 +436,7 @@ Traduction de la doc de Python
   <br/>
   <br/>
 
-.. container:: wrap-paragraphe
+.. container:: wrap-paragraph
 
   Venez traduire un bout de la doc de Python, c'est une bonne occasion de la
   lire et donc de découvrir quelque chose que vous ne connaissiez pas, tout en
@@ -378,11 +446,41 @@ Traduction de la doc de Python
 
   <hr/>
 
+Yunohost, démocratiser l'auto-hébergement
+-----------------------------------------
+
+.. raw:: html
+
+  <i>Élie Gavoty, Valentin Grimaud</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  YunoHost est un système d’exploitation serveur visant à rendre accessible
+  l’auto-hébergement à autant de personnes que possible, sans délaisser la
+  qualité et la fiabilité du logiciel. YunoHost supporte plusieurs types de
+  matériel et est basé et compatible avec Debian GNU/Linux. Son coeur est écrit
+  en python.
+
+  Au programme du sprint :
+
+  - Contribuer au système de backup de yunohost.
+  - Avancer sur la migration du core vers python3
+  - Chasse aux bugs
+  - D'autres fonctionnalités en cours de développement peuvent également occuper
+    notre temps. Comme yunohost est une distribution plutôt généraliste, les
+    sujets sont plutôt variés.
+
+.. raw:: html
+
+  <hr/>
+
 Conferences index
 =================
 
-Keynote #1
-----------
+Keynote #1 Science and Open Source: what do we learn from each other?
+---------------------------------------------------------------------
 
 .. raw:: html
 
@@ -392,14 +490,16 @@ Keynote #1
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  As both a scientist and a developer, I will discuss the values that motivate
+  my work in both worlds. I will also describe the common challenges that we
+  face and how we can get better.
 
 .. raw:: html
 
   <hr/>
 
-Keynote #2
-----------
+Keynote #2 The emergence of consensus in the Python community
+-------------------------------------------------------------
 
 .. raw:: html
 
@@ -409,14 +509,18 @@ Keynote #2
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  This talk is about searching, finding, and maybe understanding how Python
+  developers make their choices in face of alternatives. We're told "There
+  should be one-- and preferably only one --obvious way to do it." let's stop
+  doing our "own way". I'll try to answer simple questions like "Is the
+  consensus is to use pytest or unittest?" and tricker questions.
 
 .. raw:: html
 
   <hr/>
 
-Keynote #3
-----------
+Keynote #3 The CPython community: how to get more contributors?
+---------------------------------------------------------------
 
 .. raw:: html
 
@@ -426,7 +530,12 @@ Keynote #3
 
 .. container:: wrap-paragraphe
 
-  Description à venir
+  The CPython project is now 28 years old. It has active core developers, but
+  almost all of them are volunteers. It's difficult to ask someone to be commit
+  into a project for 5 years without being paid. Helping newcomers and mentoring
+  contributors takes time and few developers are available for that. We are
+  working on improving the diversity of CPython core developers and get more
+  active core developers, but it's a slow process.
 
 .. raw:: html
 
@@ -470,8 +579,8 @@ Assemblée générale de l'AFPY
 
   <hr/>
 
-BDD in Python from beginner to Advanced
----------------------------------------
+Learn BDD in Python with Behave
+-------------------------------
 
 .. raw:: html
 
@@ -762,12 +871,12 @@ Débuter en programmation web avec asyncio et aiohttp
 
 .. container:: wrap-paragraphe
 
-  asyncio est un nouveau module qui supporte en Python 3.5+ avec la syntaxe
-  async / await. Il facilite grandement la programmation asynchrone en évitant
-  la programmation par callback. Le principe de la programmation asynchrone est
-  de traiter plus de requêtes en même temps. Nous verrons dans cette
-  présentation que c'est facile de faire de la programmation web asynchrone à
-  l'aide du cadre logiciel aiohttp.
+  asyncio est un nouveau module qui supporte en Python 3.5+ la syntaxe async /
+  await. Il facilite grandement la programmation asynchrone en évitant la
+  programmation par callback. Le principe de la programmation asynchrone est de
+  traiter plus de requêtes en même temps. Nous verrons dans cette présentation
+  que c'est facile de faire de la programmation web asynchrone à l'aide du cadre
+  logiciel aiohttp.
 
 .. raw:: html
 
@@ -1633,18 +1742,23 @@ Mask R-CNN in Lane Detection
 
 .. container:: wrap-paragraphe
 
-  The aim of this paper is to introduce to the newcomers the ideas of Deep
-  Neural Networks started by Yan LeCun and continued by Alex A., NYU, Google and
-  Facebook teams, make a small panorama of the more common types of Neural
-  Networks available and explain in detail a new and very successful
-  architecture called RMask R-CNN that has won recognition all around the world.
-  After this big introduction, we will dive into the resolution of the problem
-  of Lane Recognition with images taken from inside cars using CuLanes dataset.
+  The aim of this paper is to introduce to the newcomers the ideas of Deep Neural
+  Networks started by Yan LeCun and continued by Alex A., NYU, Google and Facebook
+  teams, make a small panorama of the more common types of Neural Networks
+  available and explain in detail a new and very successful architecture called
+  Mask R-CNN that has won recognition all around the world.
+  
+  After this big introduction, we will dive into the resolution of the problem of
+  Lane Recognition with images taken from inside cars using CuLanes dataset and
+  its implementation in TensorFlow.
   We will see how difficult and problematic this type of images can be due to
   the different and possible geometric issues that diverse landscapes have.
   Nevertheless, we will show that the technique is applicable to this specific
   problem and could be improved to be automatized and implemented in a
   self-driving car.
+  
+  https://github.com/fmcalcagno/MASK_Lane_Detection
+  @fmcalcagno
 
 .. raw:: html
 

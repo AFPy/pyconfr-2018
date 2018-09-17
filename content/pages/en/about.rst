@@ -310,6 +310,15 @@ Partners
     :alt: Hashbang logo
     :target: https://hashbang.fr/
 
+  .. image:: /images/logo_developpez.png
+    :alt: logo de Developpez.com
+    :target: https://www.developpez.com/
+
+  .. image:: /images/logo_imt_lille_douai.png
+    :width: 200px
+    :alt: logo de l'IMT Lille Douai
+    :target: http://imt-lille-douai.fr/
+
 .. container:: contact
 
   The local team is available to answer your questions about the event at `contact@pycon.fr <contact@pycon.fr>`_.

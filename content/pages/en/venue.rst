@@ -40,9 +40,11 @@ Reach the campus
     Lille has many metro, bus and tramway lines.
 
     Wherever you come from, you should aim for the line 1 of the metro. It serves
-    the campus of Lille 1 with the *Cité Scientifique Pr. Gabillard* station.
+    the campus of Lille 1 with the **Cité Scientifique Pr. Gabillard** station.
 
     .. image:: /images/venir/metro.svg
+
+    .. image:: /images/venir/metro_plan.png
 
     `Metro info <https://www.transpole.fr/>`_
 

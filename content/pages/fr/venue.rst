@@ -41,9 +41,11 @@ Rejoindre le campus
 
     Quel que soit l'endroit où tu te loges, il y a de fortes chances que tu arrives
     sur place avec la ligne 1 du métro. Elle dessert le campus de Lille 1 avec l'arrêt
-    Cité Scientifique Pr. Gabillard.
+    **Cité Scientifique Pr. Gabillard**.
 
     .. image:: /images/venir/metro.svg
+
+    .. image:: /images/venir/metro_plan.png
 
     `Infos metro <https://www.transpole.fr/>`_
 
