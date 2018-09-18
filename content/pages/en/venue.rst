@@ -45,6 +45,7 @@ Reach the campus
     .. image:: /images/venir/metro.svg
 
     .. image:: /images/venir/metro_plan.png
+        :alt: Map of Lille metro
 
     `Metro info <https://www.transpole.fr/>`_
 

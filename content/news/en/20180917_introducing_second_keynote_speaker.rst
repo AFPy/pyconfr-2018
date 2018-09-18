@@ -2,7 +2,7 @@ Introducing our second keynote speaker
 ######################################
 
 :slug: 2018-09-17-introducig-second-keynote-speaker
-:lang: fr
+:lang: en
 :date: 2018-09-17
 :author: Arthur Vuillard
 :og_url: https://www.pycon.fr/2018/fr/news/2018-09-17-introducig-second-keynote-speaker
