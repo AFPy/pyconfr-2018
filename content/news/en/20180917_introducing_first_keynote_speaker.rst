@@ -11,7 +11,7 @@ Introducing our first keynote speaker
 :og_description: Keynote #1 Science and Open Source: what do we learn from each other?
 :og_image: /images/logo_og.png
 
-Our first keynote will be given by Viviane Pons Saturday, on October 6th, at 9h30, in the Byron amphitheater. This keynote will be in English.
+Our first keynote will be given by Viviane Pons on Saturday, October 6th, at 9:30 AM, in the Byron amphitheater. This keynote will be in English.
 
 Viviane is maître de conférence (associate professor) at Paris-Sud University. Her research is focused on algebraic combinatorics. She studies partially ordered sets of combinatorial objects such as the weak order on permutations and the Tamari lattice. She is also interested in mathematical software development and computer exploration. She is an active contributor of the SageMath software. She gives algorithmic and computing lectures.
 

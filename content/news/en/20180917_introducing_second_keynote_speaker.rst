@@ -11,7 +11,7 @@ Introducing our second keynote speaker
 :og_description: Keynote #2 The emergence of consensus in the Python community by Julien Palard
 :og_image: /images/logo_og.png
 
-Our second keynote will be given by Julien Palardsaturday, on October 6th, at 18h00, in the Byron amphitheater. This keynote will be in English.
+Our second keynote will be given by Julien Palard on Saturday, October 6th, at 6:00 PM, in the Byron amphitheater. This keynote will be in English.
 
 Julien teaches Python and is a consultant for cri-paris.org, supinternet.fr, meltygroup.com, as a well as for a number of other projects as a freelance.
 

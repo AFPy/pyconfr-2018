@@ -11,7 +11,7 @@ Introducing our third keynote speaker
 :og_description: Keynote #3 The CPython community: how to get more contributors?
 :og_image: /images/logo_og.png
 
-Our third and last keynote will be given by Victor Stinner, on Sunday, October 7th, at 14h, in the Byron amphitheater. This keynote will be in English as well.
+Our third and last keynote will be given by Victor Stinner, on Sunday, October 7th, at 2:00 PM, in the Byron amphitheater. This keynote will be in English as well.
 
 Victor is employed by Red Hat to maintain Python upstream (within the main repository), and downstream (within Red Hat distributions: RHEL, CentOS, Fedora, and Software Collections).
 
