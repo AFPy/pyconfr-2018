@@ -11,7 +11,7 @@ Présentation de l'orateur de notre troisième session plénière
 :og_description: 
 :og_image: /images/logo_og.png
 
-Notre troisième et dernière session plénière sera présentée par Victor Stinner. Cette session sera présentée en anglais, dimanche 7 octobre à 14h dans l'amphi Byron.
+Notre troisième et dernière session plénière sera présentée par Victor Stinner. Cette session sera présentée en français mais les slides seront en anglais, dimanche 7 octobre à 14h dans l'amphi Byron.
 
 Victor est employé par Red Hat pour maintenir Python en amont (au sein du dépôt principal) et en aval (au sein des distributions de Red Hat : RHEL, CentOS, Fedora et Software Collections).
 
