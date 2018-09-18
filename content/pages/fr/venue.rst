@@ -46,6 +46,7 @@ Rejoindre le campus
     .. image:: /images/venir/metro.svg
 
     .. image:: /images/venir/metro_plan.png
+      :alt: Plan du métro de Lille
 
     `Infos metro <https://www.transpole.fr/>`_
 
