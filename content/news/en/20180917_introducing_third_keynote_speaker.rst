@@ -11,13 +11,13 @@ Introducing our third keynote speaker
 :og_description: Keynote #3 The CPython community: how to get more contributors?
 :og_image: /images/logo_og.png
 
-Our third et last keynote will be given by Victor Stinner. This keynote will be in english, sunday, October 7th, at 14h, in Byron amphitheater.
+Our third and last keynote will be given by Victor Stinner, on Sunday, October 7th, at 14h, in the Byron amphitheater. This keynote will be in English as well.
 
 Victor is employed by Red Hat to maintain Python upstream (within the main repository), and downstream (within Red Hat distributions: RHEL, CentOS, Fedora, and Software Collections).
 
-He is a core developper of CPython since 2010, the author of several applications and Python libraries, writes many Python enhancement proposals (PEP).
+He is a core developer of CPython since 2010 and the author of several applications and Python libraries. He also writes many Python enhancement proposals (PEP).
 
-The CPython project is now 28 years old. It has active core developers, but almost all of them are volunteers. It's difficult to ask someone to be commit into a project for 5 years without being paid. Helping newcomers and mentoring contributors takes time and few developers are available for that. We are working on improving the diversity of CPython core developers and get more active core developers, but it's a slow process.
+The CPython project is now 28 years old. It has active core developers, but almost all of them are volunteers. It's difficult to ask someone to be committed to a project for 5 years without being paid. Helping newcomers and mentoring contributors takes time and few developers are available for that. We are working on improving the diversity of CPython core developers and get more active core developers, but it's a slow process.
 
 .. figure:: /images/victor_stinner.jpg
     :width: 200px
