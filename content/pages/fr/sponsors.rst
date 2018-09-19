@@ -390,6 +390,25 @@ Argent
      :alt: logo de Budget Insight
      :target: https://www.budget-insight.com/
 
+  .. container::
+
+     Start-up lancée en 2012, Budget Insight a été co-fondée par Romain Bignon
+     (développeur autodidacte et créateur de weboob) et Clément Coeurdeuil
+     (ingénieur de Centrale Paris) et compte aujourd'hui 40 collaborateurs.
+     Nous avons débuté dans le BtoC avec notre application de gestion de
+     finance personnelle « Budgea » qui permet de connecter ses différentes
+     banques et de gérer son budget.
+
+     Le principal métier de Budget Insight est maintenant la mise à disposition
+     de son API d’agrégation bancaire et de factures alimentant plus de 130
+     clients partenaires parmi lesquels des banques, des assureurs, des banques
+     privées, des fintechs et des éditeurs de logiciels de gestion ou encore
+     des experts comptables.
+
+     La société utilise principalement des technologies libres dans un
+     environnement GNU/Linux, et contribue à certains des logiciels utilisés,
+     en particulier la bibliothèque weboob.
+
 
 Bronze
 ------

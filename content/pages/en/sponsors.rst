@@ -345,6 +345,22 @@ Silver
      :alt: Budget Insight's logo
      :target: https://www.budget-insight.com/
 
+  .. container::
+
+     Budget Insight is a startup founded in 2012 by Romain Bignon (self-learned
+     developer and founder of weboob) and Clément Coeurdeuil (engineer from the
+     École Centrale Paris) and now has 40 employees.
+
+     We started with our finance management application "Budgea" which allows
+     to connect its various bank accounts and manage your budget.  The main
+     business of Budget Insight is now to provide its banking aggregation API
+     to more than 130 partners, including banks, insurers, private banks,
+     fintechs or accountants.
+
+     The company mainly uses free softwares in a GNU/Linux environment, and
+     contributes to some of the used softwares, in particular the weboob
+     library.
+
 
   .. image:: /images/logo_octobus.svg
      :height: 100px
