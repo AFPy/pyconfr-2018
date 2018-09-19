@@ -5,7 +5,7 @@ Introducing our third keynote speaker
 :lang: en
 :date: 2018-09-17
 :author: Arthur Vuillard
-:og_url: https://www.pycon.fr/2018/fr/news/2018-09-17-introducig-third-keynote-speaker
+:og_url: https://www.pycon.fr/2018/en/news/2018-09-17-introducig-third-keynote-speaker
 :og_type: article
 :og_title: Introducing our third keynote speaker
 :og_description: Keynote #3 The CPython community: how to get more contributors?
