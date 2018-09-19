@@ -5,7 +5,7 @@ Introducing our first keynote speaker
 :lang: en
 :date: 2018-09-17
 :author: Arthur Vuillard
-:og_url: https://www.pycon.fr/2018/fr/news/2018-09-17-introducig-first-keynote-speaker
+:og_url: https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker
 :og_type: article
 :og_title: Introduction our first keynote speaker
 :og_description: Keynote #1 Science and Open Source: what do we learn from each other?
