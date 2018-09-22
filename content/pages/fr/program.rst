@@ -579,6 +579,33 @@ Assemblée générale de l'AFPY
 
   <hr/>
 
+Bringing Shakespeare back to life!
+----------------------------------
+
+.. raw:: html
+
+  <i>Arnav Arora - 25 min</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+
+  Language modelling is a hard task in Natural Language Processing. Each
+  language has so many nuances to it and we've barely scratched the surface in
+  trying to understand how we came about learning them. In the talk, I'll be
+  briefly discussing the importance of language in our society, how it helps us
+  become a sort of a hive mind to learn from each other. I'll show the progress
+  we've made in text generation and the various techniques that have proven to
+  be successful so far (bow, embeddings, language models). Lastly, I'll be
+  showing some recent advances in unsupervised transfer learning in NLP (ULMFiT,
+  ELMo) with a practical implementation of a pretrained model learning to write
+  like Shakespeare using his texts. Will end the talk with possible areas to
+  explore in the field. The code will be in the form of a Jupyter notebook.
+
+.. raw:: html
+
+  <hr/>
+
 Learn BDD in Python with Behave
 -------------------------------
 
@@ -2668,12 +2695,12 @@ Trio: rendre l'asynchrone Pythonique
 
   <hr/>
 
-Troubleshooting Methodologies
------------------------------
+Méthodologies de Debug/Monitoring
+---------------------------------
 
 .. raw:: html
 
-  <i>Lujeni - 25 min</i>
+  <i>Julien Thebault - 25 min</i>
   <br/>
   <br/>
 
@@ -3097,44 +3124,3 @@ Pikachu, attaque Machine Learning !
 .. raw:: html
 
   <hr/>
-
-Retours d'expériences et échanges sur l'écriture et le partage de codes pour la recherche et l'enseignement supérieur
----------------------------------------------------------------------------------------------------------------------
-
-.. raw:: html
-
-  <i>Pierre Augier</i>
-  <br/>
-  <br/>
-
-.. container:: wrap-paragraphe
-
-  Écrire un code scientifique en Python est maintenant une tâche banale pour les
-  personnels de l'ESR.
-
-  Lors de ce travail, on est confronté à de nombreuses problématiques et les
-  choix ne sont pas toujours faciles au vue de l'évolution rapide de
-  l'écosystème scientifique de Python et des pratiques et méthodes de
-  développement.
-
-  - quelle licence utiliser?
-  - quels outils et méthodes de développement choisir?
-  - comment produire et distribuer une bonne documentation?
-  - comment distribuer le code?
-  - comment faire installer le code? Devons nous faire utiliser conda, pip,
-    pipenv?
-  - pourquoi et comment limiter les bugs avec de l'unittest et du type checking?
-  - quels outils pour interfacer du code non-python?
-  - comment mesurer et améliorer les performances du code?
-  - quels outils pour la concurrence, la parallélisation, l'utilisation de GPU?
-  - quels outils pour créer une interface graphique?
-  - quels outils pour la visualisation de donnée?
-  - quels outils pour faire tourner le code sur des clusters de calcul?
-  - ...
-
-  On se propose d'animer un atelier retours d'expériences et échanges sur
-  l'écriture et le partage de codes pour la recherche et l'enseignement
-  supérieur, avec pour ambition d'initier la rédaction collective d'un document
-  synthétique et évolutif contenant des discussions sur ces problématiques (et
-  beaucoup de liens vers les nombreuses bonnes références à lire sur les
-  différents sujets).
