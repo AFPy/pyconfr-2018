@@ -4,25 +4,26 @@ Programme
 :slug: program
 :lang: fr
 
-.. |br| raw:: html
-
-   <br />
-
-.. raw:: html
-
-   <div class="warning">Ce programme est toujours susceptible de subir des changements mineurs</div>
-
 Conférences et Ateliers (samedi 6, dimanche 7)
 ==============================================
 
 .. raw:: html
 
-  <a href="/images/program_fr_01092018.pdf">La version temporelle au format pdf</a>
+  <iframe src="http://docs.google.com/gview?url=https://www.pycon.fr/2018/images/program.pdf&embedded=true" frameborder="0"></iframe>
 
-(Une version web arrive bientôt !)
+  <br/>
+
+  Problème d'affichage ? <a href="/images/program.pdf">Lien direct vers le pdf</a>
 
 Index des sprints (jeudi 4, vendredi 5)
 =======================================
+
+*Les sprints auront lieu de 9h à 18h sur les deux jours.*
+
+.. raw:: html
+
+  <br/>
+  <br/>
 
 AFPy : outils de communication, gestion des serveurs, actions en faveur de la diversité
 ---------------------------------------------------------------------------------------

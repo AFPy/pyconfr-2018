@@ -17,12 +17,21 @@ Conferences and Workshops (Saturday 6, Sunday 7)
 
 .. raw:: html
 
-  <a href="/images/program_en_01092018.pdf">Schedule in pdf format</a>
+  <iframe src="http://docs.google.com/gview?url=https://www.pycon.fr/2018/images/program.pdf&embedded=true" frameborder="0"></iframe>
 
-(A web version is coming soon !)
+  <br/>
+
+  Embedded version is not working ? <a href="/images/program.pdf">Direct link to the pdf</a>
 
 Sprints index (Thursday 4, Friday 5)
 ====================================
+
+*Sprints will take place from 9AM to 6PM during the two days.*
+
+.. raw:: html
+
+  <br/>
+  <br/>
 
 AFPy : outils de communication, gestion des serveurs, actions en faveur de la diversité
 ---------------------------------------------------------------------------------------
