@@ -943,6 +943,43 @@ Deep Learning the Bayesian way : Moving towards safer AI !
 
   <hr/>
 
+Déployer des applications python dans un cluster openshift
+----------------------------------------------------------
+
+.. raw:: html
+
+  <i>Arthur Lutz - 25 min</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraphe
+
+  Quelles sont les particularités et les avantages pour pouvoir livrer des
+  applications web python dans un cluster OpenShift (qui a du Kubernetes en
+  dessous).
+
+  Nous verrons les mécanismes suivants :
+
+  - s2image (source to image Docker) dans openshift : comment construire
+    l'application simplement avec un requirements.txt et du WSGI
+  - Comment livrer du django avec Postgresql
+  - Comment livrer une application CubicWeb
+  - Les mécanismes de sécurités associés
+  - Les URL automatiques pour tester des contributions ou des branches nommées
+  - Parallèles avec repo2docker de l’écosystème jupyter
+    https://github.com/jupyter/repo2docker
+
+  Nous exposerons aussi les avantages et inconvénients de déployer des
+  applications web python sur un cluster type openshift ou kubernetes.
+
+  - https://www.openshift.org/
+  - https://kubernetes.io/
+  - https://github.com/openshift/source-to-image
+
+.. raw:: html
+
+  <hr/>
+
 Design Patterns pour Python Micro-services
 ------------------------------------------
 
