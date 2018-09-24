@@ -368,6 +368,31 @@ Silver
      :alt: Octobus' logo
      :target: https://octobus.net/
 
+  .. container::
+
+     We are major contributors to the version control system Mercurial. We are
+     passionate about open sourceand developer tools.
+
+     Our goal is to make development processes faster, simpler and more
+     collaborative. In short: more agile. We make tools that improve user
+     experience and make development easier.
+
+     Since 2016, Octobus offers expertise in open source, version control and
+     Python.
+
+     Our clients trust us to improve their workflows, performances and
+     associated tools (tests, CI…). Our Python expertisefocuses primarily on
+     performances, advanced concepts and the evolution of complex or legacy
+     codebase.
+
+     Open source is at the core of what we do: we also counsel open source
+     projects.
+
+     Octobus is growing. If you are interested in what we do, we are hiring!
+
+     At PyConFr 2018, we will be giving 3 talks and participating in 2 days of
+     sprint. Come and meet us!
+
 
 Bronze
 ------
