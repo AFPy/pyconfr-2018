@@ -951,8 +951,8 @@ Deep Learning the Bayesian way : Moving towards safer AI !
 
   <hr/>
 
-Déployer des applications python dans un cluster openshift
-----------------------------------------------------------
+Deploy python application using an openshift cluster
+----------------------------------------------------
 
 .. raw:: html
 
@@ -962,23 +962,21 @@ Déployer des applications python dans un cluster openshift
 
 .. container:: wrap-paragraphe
 
-  Quelles sont les particularités et les avantages pour pouvoir livrer des
-  applications web python dans un cluster OpenShift (qui a du Kubernetes en
-  dessous).
 
-  Nous verrons les mécanismes suivants :
+  What do you need to adapt to your python web application to ship them on an openshift cluster
+  and what are the advantages of doing this. Openshift (now ODK) is built on top of Kubernetes
+  
+  We will look at the following mecanisms :
 
-  - s2image (source to image Docker) dans openshift : comment construire
-    l'application simplement avec un requirements.txt et du WSGI
-  - Comment livrer du django avec Postgresql
-  - Comment livrer une application CubicWeb
-  - Les mécanismes de sécurités associés
-  - Les URL automatiques pour tester des contributions ou des branches nommées
-  - Parallèles avec repo2docker de l’écosystème jupyter
-    https://github.com/jupyter/repo2docker
+  * s2image (source to image) in openshift : how to build your application based on the requirements.txt and standard python WSGI
+  * How to ship a django application with Postgresql
+  * How to ship a CubicWeb application
+  * The security mecanisms associated to using Openshift
+  * The use of automatic URL generated on branches to test out contributions
+  * Comparaison with repo2docker https://github.com/jupyter/repo2docker
 
-  Nous exposerons aussi les avantages et inconvénients de déployer des
-  applications web python sur un cluster type openshift ou kubernetes.
+  We will explain the advantages and problems faced when deploying existing 
+  python web applications on an kubernetes or openshift cluster.
 
   - https://www.openshift.org/
   - https://kubernetes.io/
