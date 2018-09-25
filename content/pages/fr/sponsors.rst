@@ -232,19 +232,27 @@ Argent
 
   .. container::
 
-     Depuis sa création en 1985, la société CIM s’est imposée progressivement
-     comme un acteur incontournable de l’édition de logiciels dédiés au monde
-     de **l’assurance de personnes**, notamment en Santé & Prévoyance.
+     En quelques 30 années d’expérience sur son marché, CIM est devenu bien
+     plus qu’un éditeur de solutions en santé et prévoyance.
 
-     Elle est aujourd’hui le **troisième** éditeur de progiciel dans le
-     monde de l’Assurance en France.
+     Grâce à ses briques paramétrables et modulaires de sa gamme IZY LINKS®,
+     CIM s’est imposé comme un des leaders français de la transformation
+     digitale et industrielle des mutuelles, courtiers, assurances et
+     institutions de Prévoyance.
 
-     En 2010, CIM a intégré le groupe **DL Software**, 23\ :sup:`ème` éditeur
-     de logiciels français en 2015. Elle s’adresse aux Mutuelles, Institutions
-     de prévoyance, Courtiers, Assureurs & Délégataires de gestion.
+     Depuis les extranets jusqu’à l’outil de gestion en passant par
+     l’application mobile et les parcours de souscription, notre proposition de
+     valeur est digitalement sans couture, temps réel et 100% alignée sur les
+     dispositifs réglementaires en vigueur (SOLVABILITE II, RGPD, DDA).
 
-     Fort du succès de sa solution **MUTCIM**, son système modulable & ouvert,
-     CIM complète en 2014 son offre de solutions innovantes avec **IZYlinks**.
+     Entrer chez CIM c’est avant tout partager des valeurs d’écoute et
+     bienveillance, de co-élaboration et Solidarité ainsi que de Passion et
+     Innovation
+
+     D’un point méthodologique, l’agilité est notre ADN.
+
+     D’un point de vue technologique, PYTHON et DRUPAL sont nos langages et
+     outils en mode SaaS et front-end.
 
 
   .. image:: /images/logo_itlink.svg

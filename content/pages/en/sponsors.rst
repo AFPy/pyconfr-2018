@@ -222,20 +222,26 @@ Silver
 
   .. container::
 
-     Since its creation in 1985, CIM has gradually established itself as a key
-     player of software dedicated to the world of life and health insurance,
-     particularly in Health & Welfare.
+     In 30 years of experience in its market, CIM has become much more than a
+     provider of solutions in health and welfare.
 
-     CIM is now the 3rd software publisher in the world of Insurance in France.
+     Thanks to its configurable modular bricks from its IZY LINKS® range, CIM
+     has established itself as one of the French leaders in the digital and
+     industrial transformation of mutuals, brokers, insurance companies and
+     provident institutions.
 
-     In 2010, CIM joined DL Software Group, the 23rd largest French software
-     company in 2015.
+     From extranets to the management tool, via the mobile application and
+     subscription programs, our value proposition is digitally seamless,
+     real-time and 100% aligned with the current regulations (SOLVABILITY II,
+     GDPR, DDA).
 
-     CIM’s customers are Mutuals, Provident Institutions, Brokers, Insurers &
-     Management Delegates.
+     Entering CIM is above all sharing the values ​​of listening and benevolence,
+     co-development and solidarity, as well as passion and innovation.
 
-     Building on the success of its MUTCIM solution, its modular & open system,
-     CIM completes its offer of innovative solutions in 2014 with IZYlinks.
+     From a methodological point of view, agility is our DNA.
+
+     From a technological point of view, PYTHON and DRUPAL are our languages
+     ​​and tools in SaaS & front-end.
 
 
   .. image:: /images/logo_itlink.svg
