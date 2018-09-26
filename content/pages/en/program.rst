@@ -1212,6 +1212,32 @@ En pratique, qu'est-ce que ReST ?
 
   <hr/>
 
+Faire de la domotique libriste avec Python
+------------------------------------------
+
+.. raw:: html
+
+  <i>Arthur Lutz - 25 min</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraphe
+
+  Comment faire de la domotique avec des outils libres auto-hébergés et en
+  partie avec du python.
+  
+  Avec un retour d'experience sur les outils suivants :
+  
+    - home-assistant.io
+    - graphite-api
+    - micropython
+    - wipy
+    - et d'autres trucs pas python
+
+.. raw:: html
+
+  <hr/>
+
 Forecasting and observing Airfare trends using Python and Neural Networks
 -------------------------------------------------------------------------
 
@@ -1280,30 +1306,29 @@ Generative Adversarial Networks - Application to Image Deblurring
 
 .. container:: wrap-paragraphe
 
-  [Intermediate level]
+  Les réseaux de neurones ont révolutionné ces dernières années de nombreuses
+  tâches comme la Vision par ordinateur ou le traitement du langague. L'objet de
+  ce talk est d'introduire les Generative Adversarial Networks (GANs), une
+  approche orienté deep learning pour la génération de données artificielles.
+  Nous commencerons par introduire leur fonctionnement, avant de s'attarder sur
+  les différences de la phase d'entrainement et les applications.
 
-  For the past years, neural networks have revolutionalized multiple tasks such
-  as Computer Vision or Natural Language Processing. The purpose of this talk is
-  to study Generative Adversarial Networks, a deep learning approach for
-  artificial generation of data. We will go from understanding how they work, to
-  knowing the difference in training phase with regular networks.
+  Les GANs ont été utilisés récemment pour la super-résolution (amélioration de
+  la qualité d'une image), pour générer des titres correspondant à une image ou
+  pour faire apparaitre Nicolas Cage dans tous les films. Ils s'organisent en
+  deux réseaux de neurones, s'affrontant dans un jeu à somme nulle.
 
-  Generative Adversarial Networks have been recently used to improve resolution
-  of images, to generate images from text description or to make Nicolas Cage
-  appear in any movie. They are based on two neural networks, competing with
-  each other in a zero-sum game.
+  Avec la librairie Keras, nous construirons un modèle pour déflouter des
+  images.
 
-  With the Keras library, we will build a model to perform image deblurring.
+  Roadmap du talk:
 
-  Roadmap of the talk:
+  1. Qu'est ce que sont les Generative Adversarial Networks ?
+  2. Entrainer un GAN
+  3. Architecture pour notre tâche de défloutage
+  4. Autres applications des GANs
 
-  1. What are Generative Adversarial Networks
-  2. Networks architecture for our deblurring task
-  3. Perform training of a Generative Adversarial Network
-  4. Applications of GAN models
-
-  A part of this talk will be based on this article I wrote:
-  [http://bit.ly/deblurgan](http://bit.ly/deblurgan)
+  Une partie de ce talk sera basé sur cet article : http://bit.ly/deblurgan
 
 .. raw:: html
 
