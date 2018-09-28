@@ -2241,18 +2241,27 @@ Python-powered Data Science in E-commerce
 
 .. raw:: html
 
-  <i>Guillaume Mohr, Arnaud Belletoile - 25 min</i>
+  <i>Pietro Fodra - 25 min</i>
   <br/>
   <br/>
 
 .. container:: wrap-paragraphe
 
-  Cdiscount is a leading French e-commerce website which has seen a rise in Data
-  Science use cases for several years. It employs about 30 data scientists who
-  work everyday with Python to build algortihms and analysis to help different
-  departments in the organization.
+  Cdiscount is the French leader on e-commerce, with millions of visitors and
+  millions of products sold. But that is not all: Cdiscount is also a company
+  where dozens of Data Scientists are daily challenged with a massive amount of
+  data coming from visitors, customers, its product catalogue and internal
+  search engine. Their goal: deliver performing and innovating algorithms in a
+  short delay. The Cdiscount’s Data Science teams use Python for both
+  prototyping and production, trying to shorten the path between a research idea
+  and its industrialization.
 
-  This talk will present different use cases and is suitable for all levels.
+  In this talk, we are going to present some examples of Python applications in
+  Cdiscount and we are going to focus on one in particular: the keyword
+  clusterisation in Google Ads campaigns using the Word-2-Vec algorithm of the
+  gensim package. The solution of this NLP problem allows to use the signal of
+  high-traffic keywords to predict the performance of lower-traffic ones and
+  improve the bidding.
 
 .. raw:: html
 
@@ -2312,32 +2321,6 @@ Releasing OpenStack: feedback from the field
   OpenStack distro with cross-CI, innovative distro making approach. We'll also
   present the challenges we have faced and we're currently facing (Python 3
   we're coming!).
-
-.. raw:: html
-
-  <hr/>
-
-Rendre la revue de code agréable avec Gerrit
---------------------------------------------
-
-.. raw:: html
-
-  <i>Sébastien Douche - 50 min</i>
-  <br/>
-  <br/>
-
-.. container:: wrap-paragraphe
-
-  Git, par ses qualités intrasèques, a redonné du pouvoir aux développeurs en
-  supprimant notamment la crainte du travail collaboratif. Néanmoins, la
-  divergeance de code induite par l'utilisation des branches Git peut entrainer
-  des difficultés, provoquant ralentissements et dégradation de la qualité.
-  C'est là qu'intervient Gerrit, pensé différement des outils comme GitHub,
-  favorisant une revue de code plus rapide. Après une introduction sur les
-  enjeux de l'écriture collaborative de code, cette session se focalisera sur
-  les avantages de Gerrit pour la revue de code et plus généralement la gestion
-  de projets. Si vous n'êtes pas satisfaits de votre façon de travailler avec
-  GitHub, Bitbucket ou Gitlab, cette session est pour vous.
 
 .. raw:: html
 
