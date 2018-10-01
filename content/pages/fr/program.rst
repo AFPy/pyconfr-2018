@@ -225,7 +225,7 @@ Kivy: Framework UI multitouch et multiplateforme flexible et performant
 
 .. raw:: html
 
-  <i>Gabriel Pettier</i>
+  <i>Gabriel Pettier, Mathieu Virbel</i>
   <br/>
   <br/>
 
@@ -1541,33 +1541,6 @@ La gestion de version en 2018: présent et future
 
   <hr/>
 
-La réalité virtuelle en Python pour des clients institutionnels, post mortem autour de 3 projets
-------------------------------------------------------------------------------------------------
-
-.. raw:: html
-
-  <i>François Gutherz - 25 min</i>
-  <br/>
-  <br/>
-
-.. container:: wrap-paragraphe
-
-  Dans la continuité d'une présentation faite lors de la PyconFR 2016 à Rennes,
-  qui était axée sur notre premier projet VR réalisé en Python, nous proposons
-  une rétrospective autour de 3 projets principaux réalisés pour des clients
-  institutionnels :
-
-  - La VR comme outil de communication pour des industriels
-  - Quelles méthodes de production pour une équipe très resserrée (3 personnes
-    max)
-  - Bilan sur l'apport de Python après 3 années de développement sur une dizaine
-    de projets 3D/VR
-  - Ce qui a fonctionné, ce qui s'est moins bien passé...
-
-.. raw:: html
-
-  <hr/>
-
 La révolution dans le monde des tests
 -------------------------------------
 
@@ -1611,7 +1584,7 @@ Le code ne suffit pas
 
 .. raw:: html
 
-  <i>Stéphane Angel, Joachim Jablon - 50 min</i>
+  <i>Joachim Jablon - 50 min</i>
   <br/>
   <br/>
 
@@ -1668,36 +1641,6 @@ L'écosystème Nix pour développer en Python, et au delà
   l'écosystème Nix et montrerai comment l'utiliser pour développer, packager et
   déployer une application web Python comportant un module C++ et une base de
   données.
-
-.. raw:: html
-
-  <hr/>
-
-Le monde python peut-il apprendre du monde “front” pour la génération de pages web ?
-------------------------------------------------------------------------------------
-
-.. raw:: html
-
-  <i>Stéphane Angel - 50 min</i>
-  <br/>
-  <br/>
-
-.. container:: wrap-paragraphe
-
-  En général les développeurs web backend utilisent des templates pour générer
-  le HTML.
-
-  Mais de nos jours, il semble plus évident de laisser Javascript générer le
-  HTML en récupérant les données depuis une API.
-
-  Nous verrons qu’aujourd'hui, comme hier, Python a largement sa place dans le
-  domaine, et que demain nous réserve quelques surprises.
-
-  Si vous croyez tout savoir sur les templates, vous pourriez être étonnés par
-  ce qu'on peut faire de nos jours.
-
-  Et si vous pensez que le futur du HTML est aux composants, vous ne serez pas
-  déçu par ce que Python peut apporter.
 
 .. raw:: html
 
