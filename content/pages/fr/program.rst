@@ -58,6 +58,26 @@ AFPy : outils de communication, gestion des serveurs, actions en faveur de la di
 
   <hr/>
 
+Heptapod: Support de Mercurial dans Gitlab
+------------------------------------------
+
+.. raw:: html
+
+  <i>Boris Feld</i>
+  <i>Pierre-Yves David</i>
+  <br/>
+  <br/>
+
+.. container:: wrap-paragraph
+  
+  Mercurial est un outil de gestion de version écrit en Python utilisé par Google, Mozilla et de nombreux autres. C'est un outil on ne peut plus moderne (comme vous pourrez le voir dans notre conférence). Un tel outil mérite une plateforme collaborative libre et populaire. Ça tombe bien, Gitlab est libre et populaire et on travaille à l'intégration de Mercurial dans Gitlab.
+  
+  Si vous voulez (re)découvrir Mercurial avec une forge moderne, faires des patches en Python pour Mercurial et ses extensions ou des patches en Ruby, Go ou Javascript sur Gitlab, n'hésitez pas à passer.
+
+.. raw:: html
+
+  <hr/>
+
 Gnocchi
 -------
 
