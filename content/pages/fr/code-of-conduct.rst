@@ -50,7 +50,7 @@ L’AFPy attend de ses membres un langage et un style adaptés à une audience
 variée. Les allusions sexuelles ou à caractère raciste ne sont en aucun cas
 tolérées, quel que soit leur support.
 
-Soyez poli(e). N’insultez personne. Discrimination et harcèlement sont à exclure
+Soyez poli·e. N’insultez personne. Discrimination et harcèlement sont à exclure
 aussi bien dans les écrits, les visuels, les paroles et les actes, et ce quel
 que soit leur nature (sexuelle, raciste, religieuse, sociale...).
 
@@ -120,8 +120,8 @@ l’exclusion temporaire ou définitive d’un événement.
 Signaler
 --------
 
-Si vous êtes harcelé(e) ou victime de discrimination, ou si vous êtes témoin de
-harcèlement ou de discrimination à l’égard d’autre(s) participant(e-s), ou si
+Si vous êtes harcelé·e ou victime de discrimination, ou si vous êtes témoin de
+harcèlement ou de discrimination à l’égard d’autres participant·es, ou si
 vous craignez la survenue d’un incident, contactez sans attendre un membre
 organisateur (dans le cas d’un événement) ou un membre du comité directeur de
 l’AFPy.
