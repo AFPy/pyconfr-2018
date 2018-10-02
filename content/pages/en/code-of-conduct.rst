@@ -1,4 +1,4 @@
-Code de conduite
+Code of conduct
 ################
 
 :slug: code-of-conduct
@@ -112,3 +112,21 @@ the staff (in the case of an event) or of the AFPy executive committee.
 Contact: `diversite@afpy.org`_
 
 .. _`diversite@afpy.org` : mailto:diversite@afpy.org
+
+During the event, feel free to contact the following people that have
+been selected by the association to help you address some issues you
+might have seen.
+
+============== ================ ================= =========
+     Nom            Email          Téléphone        Photo
+============== ================ ================= =========
+Joachim Jablon joachim@afpy.org +33 6 75 66 76 84 |Joachim|
+Viviane Pons   viviane@afpy.org +33 6 79 04 77 64 |Viviane|
+Rémy Hubscher  remy@afpy.org    +33 6 83 91 39 87 |Rémy|
+Haikel Guemar  haikel@afpy.org  +33 6 69 90 91 31 |Haikel|
+============== ================ ================= =========
+
+.. |Joachim| image:: /images/joachim_jablon.jpg
+.. |Viviane| image:: /images/viviane_pons.jpg
+.. |Rémy| image:: /images/remy_hubscher.jpg
+.. |Haikel| image:: /images/haikel_guemar.jpg
