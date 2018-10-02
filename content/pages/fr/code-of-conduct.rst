@@ -129,3 +129,21 @@ l’AFPy.
 Contact: `diversite@afpy.org`_
 
 .. _`diversite@afpy.org` : mailto:diversite@afpy.org
+
+Durant l'évènement, certaines personnes identifiées se tiennent à
+votre disposition, n'hésitez pas à les contacter directement lors de
+l'évènement.
+
+============== ================ ============== =========
+     Nom            Email          Téléphone     Photo
+============== ================ ============== =========
+Joachim Jablon joachim@afpy.org 06 75 66 76 84 |Joachim|
+Viviane Pons   viviane@afpy.org 06 79 04 77 64 |Viviane|
+Rémy Hubscher  remy@afpy.org    06 83 91 39 87 |Rémy|
+Haikel Guemar  haikel@afpy.org  06 69 90 91 31 |Haikel|
+============== ================ ============== =========
+
+.. |Joachim| image:: /images/joachim_jablon.jpg
+.. |Viviane| image:: /images/viviane_pons.jpg
+.. |Rémy| image:: /images/remy_hubscher.jpg
+.. |Haikel| image:: /images/haikel_guemar.jpg
