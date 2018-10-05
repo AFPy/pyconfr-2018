@@ -30,7 +30,7 @@ par le langage de programmation `Python <http://www.python.org/>`_.
 
   <section class="wrap-button">
     <p>
-      <a class="btn-home" href="https://www.helloasso.com/associations/afpy/evenements/pyconfr-2018">Inscription obligatoire !</a>
+      <a class="btn-home" href="/2018/fr/program/">Voir le programme</a>
     </p>
   </section>
 
