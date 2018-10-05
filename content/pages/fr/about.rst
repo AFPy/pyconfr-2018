@@ -31,6 +31,7 @@ par le langage de programmation `Python <http://www.python.org/>`_.
   <section class="wrap-button">
     <p>
       <a class="btn-home" href="/2018/fr/program/">Voir le programme</a>
+      <a class="btn-home" href="/2018/fr/news/2018-10-06-helping-with-transcription/">Aider avec la transcription</a>
     </p>
   </section>
 

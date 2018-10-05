@@ -31,6 +31,7 @@ coordinated by volunteers and brings together people interested by the `Python
   <section class="wrap-button">
     <p>
       <a class="btn-home" href="/2018/en/program/">See the schedule</a>
+      <a class="btn-home" href="/2018/en/news/2018-10-06-helping-with-transcription/">Help with transcription</a>
     </p>
   </section>
 
