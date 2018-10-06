@@ -258,6 +258,22 @@ footer
 .wrap-button
   display: flex
   justify-content: center
+  
+  @media screen and (max-width: 600px)
+    margin-bottom: 3em 
+
+  p
+    @media screen and (max-width: 600px)
+      display: flex
+      margin: 0
+      flex-direction: column
+    
+    a
+      @media screen and (max-width: 600px)
+        width: 60vw
+        padding: 0.2em
+        font-size: 0.8em
+        margin-bottom: 0.3em
 
   .btn
     +button
