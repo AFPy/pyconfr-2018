@@ -17,6 +17,8 @@ In order to do this, a page has been created for each room et allows you to edit
 
 If you wish to help by correcting, please go to the reserved seats in order to coordinate with others and to divide the work.
 
+Please, use Chrome, it may not work with other web browsers (sorry for that).
+
 .. raw:: html
 
   <br />

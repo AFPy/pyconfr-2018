@@ -17,6 +17,8 @@ Pour ce faire, une page a été créée pour chacun des amphis et vous permet de
 
 Des zones sont prévues dans les amphis pour que les correcteurs et correctrices puissent se parler avant la session et se répartir les lignes à corriger.
 
+Merci d'utiliser Chrome, il se peut que les pages ne fonctionnent pas avec d'autre navigateurs (désolé).
+
 .. raw:: html
 
   <br />
