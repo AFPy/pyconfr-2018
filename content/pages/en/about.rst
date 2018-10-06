@@ -32,6 +32,7 @@ coordinated by volunteers and brings together people interested by the `Python
     <p>
       <a class="btn-home" href="/2018/en/program/">See the schedule</a>
       <a class="btn-home" href="/2018/en/news/2018-10-06-helping-with-transcription/">Help with transcription</a>
+      <a class="btn-home" href="https://ctf.imt-club.xyz">Challenge yourself with our CTF</a>
     </p>
   </section>
 

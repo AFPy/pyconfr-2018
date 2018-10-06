@@ -32,6 +32,7 @@ par le langage de programmation `Python <http://www.python.org/>`_.
     <p>
       <a class="btn-home" href="/2018/fr/program/">Voir le programme</a>
       <a class="btn-home" href="/2018/fr/news/2018-10-06-helping-with-transcription/">Aider avec la transcription</a>
+      <a class="btn-home" href="https://ctf.imt-club.xyz">Participer au challenge CTF</a>
     </p>
   </section>
 
