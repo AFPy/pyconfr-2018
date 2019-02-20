@@ -13,6 +13,11 @@ suite de cette page.
 
 .. _`la charte de l'AFPy`: http://www.afpy.org/docs/charte
 
+Suite à l'événement, vous pouvez `prendre connaissance du rapport de transparence`_.
+
+.. _`prendre connaissance du rapport de transparence`: {filename}/images/PyConFrance2018_CodeOfConduct_Transparency_report.pdf
+
+
 Charte AFPy
 -----------
 
