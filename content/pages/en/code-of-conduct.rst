@@ -12,6 +12,11 @@ conduct`_ carried by the association does apply.
 
 .. _`the code of conduct`: http://www.afpy.org/docs/charte
 
+Following the event, `please read our Code of Conduct transparency report`_.
+
+.. _`please read our Code of Conduct transparency report`: {filename}/images/PyConFrance2018_CodeOfConduct_Transparency_report.pdf
+
+
 AFPy Code
 ---------
 
