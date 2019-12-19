@@ -9,11 +9,10 @@ Conférences et Ateliers (samedi 6, dimanche 7)
 
 .. raw:: html
 
-  <iframe src="http://docs.google.com/gview?url=https://www.pycon.fr/2018/images/program.pdf&embedded=true" frameborder="0"></iframe>
+  <object data="https://www.pycon.fr/2018/images/program.pdf" type="application/pdf">
+      Problème d'affichage ? <a href="/images/program.pdf">Téléchargez le PDF !</a>
+  </object>
 
-  <br/>
-
-  Problème d'affichage ? <a href="/images/program.pdf">Lien direct vers le pdf</a>
 
 Index des sprints (jeudi 4, vendredi 5)
 =======================================
@@ -69,9 +68,9 @@ Heptapod: Support de Mercurial dans Gitlab
   <br/>
 
 .. container:: wrap-paragraph
-  
+
   Mercurial est un outil de gestion de version écrit en Python utilisé par Google, Mozilla et de nombreux autres. C'est un outil on ne peut plus moderne (comme vous pourrez le voir dans notre conférence). Un tel outil mérite une plateforme collaborative libre et populaire. Ça tombe bien, Gitlab est libre et populaire et on travaille à l'intégration de Mercurial dans Gitlab.
-  
+
   Si vous voulez (re)découvrir Mercurial avec une forge moderne, faires des patches en Python pour Mercurial et ses extensions ou des patches en Ruby, Go ou Javascript sur Gitlab, n'hésitez pas à passer.
 
 .. raw:: html
@@ -188,7 +187,7 @@ Prérequis et configuration nécessaire
 .. container:: wrap-paragraph
 
   Les personnes débutant avec Python et Ansible sont les bienvenues.
-  
+
   Pour participer, sont requis:
 
   - un compte GitHub
@@ -201,7 +200,7 @@ Prérequis et configuration nécessaire
     qu'une VM Linux
 
   Nous vous accompagnerons si nécessaire dans la mise en place de cet environnement de développement (si votre système d'exploitation n'est pas Windows).
-  
+
   Il est recommandé d'avoir forké le projet Ansible et d'avoir parcouru la
   documentation
   (http://docs.ansible.com/ansible/latest/intro_getting_started.html) et le
@@ -649,7 +648,7 @@ Learn BDD in Python with Behave
   My Talk is about using BDD in Python with Behave Framework; to ensure that
   your development brings the right value your the Business. We will start as a
   beginner and try to achieve the Expert level.
-  
+
 .. raw:: html
 
   <hr/>
@@ -1043,11 +1042,11 @@ Développement d'applications avec le framework Anyblok et son écosystème d'ou
 .. container:: wrap-paragraphe
 
   Présentation de l'écosystème d'outils et modules métier pour le framework Anyblok.
-  
+
   Principes généraux : modularité, découplage, qualité
   Ecosystème : Présentation rapide des outils et modules métiers existants
   Exemple : Exemple d'implémentation
-  
+
   https://pypi.org/project/AnyBlok/
   https://github.com/AnyBlok
 
@@ -1069,7 +1068,7 @@ Dites au revoir au "quick and dirty"
   Quel développeur n'a jamais été tenté d'écrire une solution quick and dirty
   afin de gagner un peu temps ? La réalité du marché faisant la dette technique
   s'accumule et il arrive un moment où il devient critique de la traiter.
-  
+
   Nous verrons ensemble comment quitter le mode "quick and dirty" pour amener un
   projet et une équipe vers l'excellence technique. Adapté à tous les niveaux.
 
@@ -1237,9 +1236,9 @@ Faire de la domotique libriste avec Python
 
   Comment faire de la domotique avec des outils libres auto-hébergés et en
   partie avec du python.
-  
+
   Avec un retour d'experience sur les outils suivants :
-  
+
     - home-assistant.io
     - graphite-api
     - micropython
@@ -1800,7 +1799,7 @@ Mask R-CNN in Lane Detection
   teams, make a small panorama of the more common types of Neural Networks
   available and explain in detail a new and very successful architecture called
   Mask R-CNN that has won recognition all around the world.
-  
+
   After this big introduction, we will dive into the resolution of the problem of
   Lane Recognition with images taken from inside cars using CuLanes dataset and
   its implementation in TensorFlow.
@@ -1809,7 +1808,7 @@ Mask R-CNN in Lane Detection
   Nevertheless, we will show that the technique is applicable to this specific
   problem and could be improved to be automatized and implemented in a
   self-driving car.
-  
+
   https://github.com/fmcalcagno/MASK_Lane_Detection
   @fmcalcagno
 
@@ -3122,7 +3121,7 @@ Pikachu, attaque Machine Learning !
   Big Data, Intelligence Artificielle, Deep Learning, autant de buzz words qui
   peuvent sembler nébuleux. Pourtant, il existe des librairies Python solildes
   et bien documentées qui rendent le Machine Learning accessibles à tous.
-  
+
   Le but de cet atelier est d'accompagner les développeurs Python dans leur
   premier projet en Data Science, de la préparation des données à
   l'apprentissage d'un modèle de Machine Learning.
