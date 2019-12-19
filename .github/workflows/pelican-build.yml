@@ -1,0 +1,24 @@
+name: Publish
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: make rsync_upload
+      env:
+        deploy_key: ${{secrets.deploy_key}}
+        known_hosts: ${{secrets.known_hosts}}
+      run: |
+        sudo apt-get install -y python3-venv
+        mkdir -p ${HOME}/.ssh
+        printf "%s\n" "$known_hosts" > ${HOME}/.ssh/known_hosts
+        printf "%s\n" "$deploy_key" > ${HOME}/.ssh/id_ed25519
+        chmod 600 ${HOME}/.ssh/id_ed25519
+        eval $(ssh-agent)
+        ssh-add
+        python3 -m pip install --user -U pip wheel setuptools
+        python3 -m pip install --user -U pelican==4.2.0
+        PATH="$HOME/.local/bin/:$PATH" make rsync_upload

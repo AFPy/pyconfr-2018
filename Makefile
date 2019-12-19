@@ -6,16 +6,16 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-AFPY_OUTPUTDIR=$(BASEDIR)/output/
-AFPY_PUBLISH_URL=pyconfr@pyconfr:pyconfr-2018/
-
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
-VIRTUALENV = virtualenv
 INSTALL_STAMP = $(VENV)/.install.stamp
+
+SSH_HOST=deb.afpy.org
+SSH_PORT=22
+SSH_USER=pyconfr
+SSH_TARGET_DIR=/var/www/pycon.fr/2018/
 
 PYTHON=$(VENV)/bin/python
 PELICAN=$(VENV)/bin/pelican
-PIP=$(VENV)/bin/pip
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -24,12 +24,12 @@ endif
 
 install: $(INSTALL_STAMP)
 $(INSTALL_STAMP): $(PYTHON) requirements.txt
-	$(VENV)/bin/pip install -r requirements.txt
+	$(PYTHON) -m pip install -r requirements.txt
 	touch $(INSTALL_STAMP)
 
 virtualenv: $(PYTHON)
 $(PYTHON):
-	$(VIRTUALENV) $(VENV)
+	/usr/bin/python3 -m venv $(VENV)
 
 html: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -52,7 +52,7 @@ regenerate:
 publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-afpy: publish
-	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL) --delete
+rsync_upload: publish
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-.PHONY: html clean serve devserver publish afpy
+.PHONY: html clean serve devserver publish rsync_upload
