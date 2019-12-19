@@ -15,10 +15,6 @@ Load and update plugins submodule::
     git submodule update --recursive
     git submodule status
 
-Install virtualenv::
-
-    (sudo) pip install virtualenv
-
 To build the site::
 
     make html
